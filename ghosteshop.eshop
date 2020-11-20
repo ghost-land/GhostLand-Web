@@ -7,14 +7,14 @@
 "author": "Ghost0159",
 "file": "ghosteshop.eshop",
 "url": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/ghosteshop.eshop",
-"sheet": ["icon.t3x", "bg.t3x"],
-"sheetURL": ["https://cdn.ghosteshop.com/script/icon.t3x", "https://cdn.ghosteshop.com/script/bg.t3x"],
+"sheet": "icon.t3x",
+"sheetURL": "https://cdn.ghosteshop.com/script/icon.t3x",
 "description": "An alternative & free eshop.\nVersion of the eshop: v9.5\n\nAuthor: Ghost Eshop Team's\nSp�cial thanks: Anonyku",
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "S�ries"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pok�mon.co", "Netflix.inc", "Sanuk Games", "PopCap Games"],
 "consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB", "Game Gear"],
 "version": 3,
-"revision": 29
+"revision": 30
 },
 "storeContent": [
 {"info": {
