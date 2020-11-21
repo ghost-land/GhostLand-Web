@@ -14,8 +14,9 @@
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pok�mon.co", "Netflix.inc", "Sanuk Games", "PopCap Games"],
 "consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB", "Game Gear"],
 "bg_index": 382,
+"bg_sheet": 0,
 "version": 3,
-"revision": 32
+"revision": 33
 },
 "storeContent": [
 {"info": {
