@@ -13,8 +13,9 @@
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "S�ries"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pok�mon.co", "Netflix.inc", "Sanuk Games", "PopCap Games"],
 "consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB", "Game Gear"],
+"bg_index": 382,
 "version": 3,
-"revision": 31
+"revision": 32
 },
 "storeContent": [
 {"info": {
@@ -3631,7 +3632,7 @@
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/o3horhutdswjv8v/Crash%27n%20the%20Boys%20Street%20Challenge%20EUR%20%2800040000000b7200%29.cia?dl=1",
 				   "output": "sdmc:/Crash'n the Boys Street Challenge.cia",
-				   "message": "T�l�chargement de votre jeux en cours..."
+				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
