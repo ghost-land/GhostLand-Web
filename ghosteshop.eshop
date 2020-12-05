@@ -14,7 +14,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 63
+"revision": 65
 },
 "storeContent": [
 {"info": {
@@ -25,6 +25,7 @@
 					"console": "3DS",
 					"size": "1,77Mb",
 					"icon_index": 234,
+					"screenshots": [{"url": "https://cdn.ghosteshop.com/Images/Ghost%20eShop%20Alternative%203DS/screenshot/Title-Screen.png","description": "Main Screen"}],
 					"description": "An alternative eShop for 3DS, New3DS, New3DSxl, 2DS, New2DS, New2DSxl. Created on June 2020, over time this one has evolved enormously, to arrive at the current version on which it is currently",
 					"last_updated": "2020-11-30 at 06:38 (UTC)"
 },
@@ -10546,11 +10547,29 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "1,57Gb",
 					"additional": "Update : 2,66Mb",
 					"icon_index": 326,
 					"description": "",
-					"last_updated": "2020-10-22 at 15:09 (UTC)"
+					"last_updated": "2020-12-04 at 21:15 (UTC)"
 },
+"New Style Boutik": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%20%28EUR%29.cia",
+				   "output": "sdmc:/New Style Boutik (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/New Style Boutik (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Style Boutik (EUR).cia",
+				   "message": "Nettoyage..."}
+],
 "New Style Boutik - Update 1.1": [
 {
 				   "type": "downloadFile",
@@ -14683,5 +14702,292 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fnaf 1.cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Naruto Shippuden 3D - The New Era",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "191,46Mb",
+		            "icon_index": 39,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Naruto%20Shippuden%203D%20-%20The%20New%20Era/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/Gameplay.png",
+		            			"description": "Gameplay"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/New-Game.png",
+		            			"description": "New Game"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/Rasengan.png",
+		            			"description": "Rasengan"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/Start.png",
+		            			"description": "Start"
+		            		}],
+		            "description": "",
+		            "last_updated": "2020-12-04 at 20:50 (UTC)"
+},
+"Naruto Shippuden 3D - The New Era": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/Naruto%20Shippuden%203D%20-%20The%20New%20Era%20%28EUR%29.cia",
+				   "output": "sdmc:/Naruto Shippuden 3D - The New Era (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Naruto Shippuden 3D - The New Era (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Naruto Shippuden 3D - The New Era (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Navy Commander",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "34,45Mb",
+		            "icon_index": 40,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-04 at 20:50 (UTC)"
+},
+"Navy Commander": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/Navy%20Commander%20%28EUR%29.cia",
+				   "output": "sdmc:/Navy Commander (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Navy Commander (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Navy Commander (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "New Art Academy",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "372,53Mb",
+		            "additional": "DLC : 94,83Mb",
+		            "icon_index": 41,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-04 at 20:50 (UTC)"
+},
+"New Art Academy": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Art%20Academy%20%28EUR%29.cia",
+				   "output": "sdmc:/New Art Academy (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Art Academy (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Art Academy (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"New Art Academy - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Art%20Academy%20-%20DLC%20%28EUR%29.cia",
+				   "output": "sdmc:/New Art Academy - DLC (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Art Academy - DLC (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Art Academy - DLC (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "New Style Boutique 2 - Fashion Forward",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "852,43Mb",
+		            "additional": "Update : 3,14Mb | DLC : 3,73Mb",
+		            "icon_index": 42,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-04 at 20:50 (UTC)"
+},
+"New Style Boutique 2 - Fashion Forward": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%202%20-%20Fashion%20Forward%20%28EUR%29.cia",
+				   "output": "sdmc:/New Style Boutique 2 - Fashion Forward (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Style Boutique 2 - Fashion Forward (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Style Boutique 2 - Fashion Forward (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"New Style Boutique 2 - Fashion Forward - Update 1.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%202%20-%20Fashion%20Forward%20-%20Update%201.1%20%28EUR%29.cia",
+				   "output": "sdmc:/New Style Boutique 2 - Fashion Forward - Update 1.1 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Style Boutique 2 - Fashion Forward - Update 1.1 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Style Boutique 2 - Fashion Forward - Update 1.1 (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"New Style Boutique 2 - Fashion Forward - DLC (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%202%20-%20Fashion%20Forward%20-%20DLC%20%28EUR%29.cia",
+				   "output": "sdmc:/New Style Boutique 2 - Fashion Forward - DLC (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Style Boutique 2 - Fashion Forward - DLC (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Style Boutique 2 - Fashion Forward - DLC (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "New Style Boutik 3 - Styling Star",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "size": "779,18Mb",
+		            "icon_index": 43,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-04 at 20:50 (UTC)"
+},
+"New Style Boutik 3 - Styling Star": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%203%20Styling%20Star%20%28EUR%29%20%28eShop%29.cia",
+				   "output": "sdmc:/New Style Boutik 3 - Styling Star (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Style Boutik 3 - Styling Star (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Style Boutik 3 - Styling Star (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Nintendo 3DS Guide Louvre",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "size": "1,53Gb",
+		            "icon_index": 44,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-04 at 20:50 (UTC)"
+},
+"Nintendo 3DS Guide Louvre": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/Nintendo%203DS%20Guide%20Louvre%20%28EUR%29.cia",
+				   "output": "sdmc:/Nintendo 3DS Guide Louvre (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Nintendo 3DS Guide Louvre (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Nintendo 3DS Guide Louvre (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Nintendogs + Cats Golden Retriver & New Friends",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "455,25Mb",
+		            "icon_index": 45,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-04 at 20:50 (UTC)"
+},
+"Nintendogs + Cats Golden Retriver & New Friends": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/Nintendogs%20%2B%20Cats%20Golden%20Retriever%20%26%20ses%20Nouveaux%20Amis%20%28EUR%29.cia",
+				   "output": "sdmc:/Nintendogs + Cats Golden Retriver & New Friends (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Nintendogs + Cats Golden Retriver & New Friends (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Nintendogs + Cats Golden Retriver & New Friends (EUR).cia",
 				   "message": "Cleaning..."
 }]}]} 
