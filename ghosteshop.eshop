@@ -14,7 +14,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 65
+"revision": 66
 },
 "storeContent": [
 {"info": {
@@ -26,10 +26,10 @@
 					"size": "1,77Mb",
 					"icon_index": 234,
 					"screenshots": 
-					[{
-						"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/boxart.png",
-						"description": "Main Screen"
-						}],
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "An alternative eShop for 3DS, New3DS, New3DSxl, 2DS, New2DS, New2DSxl. Created on June 2020, over time this one has evolved enormously, to arrive at the current version on which it is currently",
 					"last_updated": "2020-11-30 at 06:38 (UTC)"
 },
@@ -82,13 +82,13 @@
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot.png",
-		            			"description": "In Game Screenshot"
+		            			"description": "In Game | Screen 1"
 		            		},{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot2.png",
-								"description": "In Game Screenshot 2"
+		            			"description": "In Game | Screen 2"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot3.png",
-								"description": "In Game Screenshot 3"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot3.png",
+		            			"description": "In Game | Screen 3"
 		            		}],
 					"description": "Easily create your own pixel art and publish it on Miiverse or save it on the SD card for use on social networks! A pixel art is an image created pixel by pixel, as in retro games. Base your creation on an old game or create something entirely new!",
 					"last_updated": "2020-10-13 at 11:29 (UTC)"
@@ -199,20 +199,20 @@
 					"icon_index": 236,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/boxart.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/art.png",
 		            			"description": "Art"
 		            		},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/Title-Screen.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/Title-Screen.png",
 								"description": "Title Screen"
 							},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/HAL-Room.png",
-								"description": "HAL-Room"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/Level-Cutscene.png",
-								"description": "Level CutScene"
+								"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/HAL-Room.png",
+								"description": "HAL Room"
 							},{
 								"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/UFO-Room.png",
 								"description": "UFO Room"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/Level-Cutscene.png",
+								"description": "Level Cutscene"
 		            		}],
 					"description": "Delve into the land of dreams-turned-nightmares as Kirby™ flies with the stars in 3D. 3D Classics: Kirby's Adventure offers you a chance to explore the world of Dream Land in a whole new way.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -336,21 +336,21 @@
 					"icon_index": 240,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20VFD/boxart.png",
-								"description": "Cover-Art"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20VFD/screenshots/main_menu.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20Vfd/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20Vfd/screenshots/main_menu.png",
 								"description": "Main Menu"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20VFD/screenshots/in-game_menu.png",
-								"description": "In Game Menu"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20VFD/screenshots/battle.png",
-								"description": "Battle"
+								"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20Vfd/screenshots/in-game_menu.png",
+								"description": "In Game | Menu"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20VFD/screenshots/dungeon.png",
+								"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20Vfd/screenshots/dungeon.png",
 								"description": "Dungeon"
-								}],
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20Vfd/screenshots/battle.png",
+								"description": "Battle"
+		            		}],
 					"description": "The apocalypse is heralded by the arrival of seven dragons. One after another, they invaded Earth and have since begun the slaughter of the human race. The arrival of the Seven sweeps away any hope for humanity, unless you turn back time in 7th Dragon III Code: VFD.",
 					"last_updated": "2020-11-27 at 15:09 (UTC)"
 },
@@ -691,14 +691,11 @@
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/boxart.png",
 		            			"description": "Cover-Art"
 		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/art.png",
-								"description": "Art"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/open-intro.png",
+								"description": "Open Intro"
 							},{
 								"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/title-menu.png",
 								"description": "Title Menu"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/open-intro.png",
-								"description": "Open Intro"
 							},{
 								"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/gameplay-1.png",
 								"description": "GamePlay 1"
@@ -905,7 +902,7 @@
 					"icon_index": 256,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Driver%C2%AE%20Renegade%203D/art.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Driver%20Renegade%203D/boxart.png",
 		            			"description": "Cover-Art"
 		            		}],
 					"description": "",
@@ -1005,7 +1002,7 @@
 					"icon_index": 259,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Farming%20Simulator%2018/art.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Farming%20Simulator%2018/boxart.png",
 		            			"description": "Cover-Art"
 		            		}],
 					"description": "",
@@ -1040,7 +1037,7 @@
 					"icon_index": 260,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fast%20%26%20Furious%E2%84%A2%20Showdown/art.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fast%20%26%20Furious%20Showdown/art.png",
 		            			"description": "Art"
 		            		}],
 					"description": "",
@@ -1182,7 +1179,7 @@
 					"icon_index": 264,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Gabrielle%27s%20Ghostly%20Groove%203D/art.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Gabrielle%27s%20Ghostly%20Groove%203D/boxart.png",
 		            			"description": "Cover-Art"
 		            		}],
 					"description": "",
@@ -1247,17 +1244,17 @@
 					"icon_index": 266,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/HarmoKnight/boxart.png",
-								"description": "Art"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/HarmoKnight/screenshots/Main-Menu.png",
-								"description": "Main Menu"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/HarmoKnight/screenshots/Game-Interface.png",
-								"description": "Game Interface"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/HarmoKnight/art.png",
+		            			"description": "Art"
 		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/HarmoKnight/screenshots/Main-Menu.png",
+		            			"description": "Main Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/HarmoKnight/screenshots/Game-Interface.png",
+		            			"description": "Game Interface"
+							},{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/HarmoKnight/screenshots/Battle-Action.png",
-								"description": "Battle Action"
+		            			"description": "Battle Action"
 		            		}],
 					"description": "",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -1321,7 +1318,7 @@
 					"icon_index": 268,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/HEAVY%20FIRE%20THE%20CHOSEN%20FEW/art.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Heavy%20Fire%20the%20Chosen%20Few/boxart.png",
 		            			"description": "Cover-Art"
 		            		}],
 					"description": "",
@@ -1415,20 +1412,17 @@
 					"icon_index": 1,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/boxart.png",
-		            			"description": "Cover-Art"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/art.png",
+		            			"description": "Art"
 		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/splashe.png",
-								"description": "Art"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/screenshots/screen1.png",
+		            			"description": "Screen 1"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/screenshots/screen1.png",
-								"description": "Screen 1"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/screenshots/screen2.png",
+		            			"description": "Screen 2"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/screenshots/screen2.png",
-								"description": "Screen 2"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/screenshots/screen3.png",
-								"description": "Screen 3"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bloons%20TD4/screenshots/screen3.png",
+		            			"description": "Screen 3"
 		            		}],
 					"description": "Jeux de towerdefense.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -1464,17 +1458,17 @@
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20Toad%20Treasure%20Tracker/boxart.png",
 		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20Toad%20Treasure%20Tracker/screenshots/main-menu.png",
+		            			"description": "Main Menu"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20Toad%20Treasure%20Tracker/screenshots/main-menu.png",
-								"description": "Main Menu"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20Toad%20Treasure%20Tracker/screenshots/levelmenu.png",
+		            			"description": "Level Menu"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20Toad%20Treasure%20Tracker/screenshots/levelmenu.png",
-								"description": "Level Menu"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20Toad%20Treasure%20Tracker/screenshots/ingame.png",
-								"description": "In Game"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20Toad%20Treasure%20Tracker/screenshots/ingame.png",
+		            			"description": "In Game"
 		            		}],
-					"description": "Jeux vid�o de plates-formes et de puzzle.",
+					"description": "Jeux vidéo de plates-formes et de puzzle.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
 "Captain Toad: Treasure Tracker": [
@@ -1482,7 +1476,7 @@
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Captain%20Toad%20-%20Treasure%20Tracker%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
 				   "output": "sdmc:/Captain Toad Treasure Tracker.cia",
-				   "message": "T�l�chargement de votre jeux en cours..."
+				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 				   "type": "installCia",
@@ -1505,19 +1499,19 @@
 					"icon_index": 3,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/boxart.png",
-		            			"description": "Cover-Art"
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/art.png",
+		            			"description": "Art"
 		            		},{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/splashe.png",
-								"description": "Art"
+								"description": "Splash"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/screenshots/citra-qt_2017-06-04_23-18-12.png",
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/screenshots/citra-qt_2017-06-04_23-19-31.png",
 								"description": "Screen 1"
 							},{
 								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/screenshots/citra-qt_2017-06-04_23-18-53.png",
 								"description": "Screen 2"
 							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/screenshots/citra-qt_2017-06-04_23-19-31.png",
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda/screenshots/citra-qt_2017-06-04_23-18-12.png",
 								"description": "Screen 3"
 		            		}],
 					"description": "Jeux d'action-aventure.",
@@ -1551,7 +1545,7 @@
 					"icon_index": 4,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Sonic%20the%20Hedgehog/splashe.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Sonic%20the%20Hedgehog/art.png",
 		            			"description": "Art"
 		            		}],
 					"description": "Jeux vid�o de plates-formes;",
@@ -1614,10 +1608,10 @@
 					"icon_index": 6,
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Sonic%20the%20Hedgehog%202/splashe.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Sonic%20the%20Hedgehog%202/art.png",
 		            			"description": "Art"
 		            		}],
-					"description": "Jeux vid�o de plates-formes.",
+					"description": "Jeux vidéo de plates-formes.",
 					"last_updated": "2020-08-10 at 14:03 (UTC)"
 },
 "3D Sonic the Hedgehog 2": [
@@ -1763,6 +1757,23 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 11,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dr.Mario%20Miracle%20Cure/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dr.Mario%20Miracle%20Cure/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Dr.Mario%20Miracle%20Cure/screenshots/Laboratory-Mario.png",
+								"description": "Laboratory Mario"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Dr.Mario%20Miracle%20Cure/screenshots/Laboratory-Luigi.png",
+								"description": "Laboratory Luigi"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Dr.Mario%20Miracle%20Cure/screenshots/Game-Over.png",
+								"description": "Game Over"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2038,7 +2049,7 @@
 },
 {"info": {
 					"title": "Flipnote Studio",
-					"version": "USA/EUR/JPN",
+					"version": "USA, EUR, JPN",
 					"author": "",
 					"category": "DSiWares",
 					"console": "DSi",
@@ -2176,6 +2187,12 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 24,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sega%203D%20Classics%20Collection/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
+
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2234,6 +2251,23 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 26,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Luigis%20Mansion%20Dark%20Moon/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Luigis%20Mansion%20Dark%20Moon/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Luigis%20Mansion%20Dark%20Moon/screenshots/Manor-Door.png",
+								"description": "Manor Door"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Luigis%20Mansion%20Dark%20Moon/screenshots/Manor-DS-Call.png",
+								"description": "Manor DS Call"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Luigis%20Mansion%20Dark%20Moon/screenshots/Eggad-Laboratory.png",
+								"description": "Eggad Laboratory"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2264,6 +2298,23 @@
 					"console": "3DS",
 					"size": "290,74Mb",
 					"icon_index": 27,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%203D%20Land/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%203D%20Land/screenshots/Title.png",
+								"description": "Title"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%203D%20Land/screenshots/Stage-select.png",
+								"description": "Stage Select"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%203D%20Land/screenshots/Ingame.png",
+								"description": "In Game"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%203D%20Land/screenshots/Clear.png",
+								"description": "Clear"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2293,6 +2344,23 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 28,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Triple%20Deluxe/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Triple%20Deluxe/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Triple%20Deluxe/screenshots/Kirby-Fighters-Deluxe.png",
+								"description": "Kirby Fighters Deluxe"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Triple%20Deluxe/screenshots/Dedede-Drum-Drash.png",
+								"description": "Dedede Drum Drash"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Triple%20Deluxe/screenshots/Circus-Level.png",
+								"description": "Circus Level"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2323,6 +2391,23 @@
 					"console": "3DS",
 					"size": "454,60Mb",
 					"icon_index": 29,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D/screenshots/start-screen.png",
+								"description": ""
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D/screenshots/citra-qt_2017-06-03_12-26-47.png",
+								"description": "In Game"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D/screenshots/citra-qt_2017-06-03_12-25-41.png",
+								"description": "In Game | Road"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D/screenshots/citra-qt_2017-06-03_12-18-32.png",
+								"description": "In Game | Castle"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2527,6 +2612,23 @@
 					"console": "3DS",
 					"size": "630,78Mb",
 					"icon_index": 36,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda%20Majoras%20Mask/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda%20Majoras%20Mask/screenshots/Menu-Demo.png",
+								"description": "Menu"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda%20Majoras%20Mask/screenshots/Intro.png",
+								"description": "Intro"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda%20Majoras%20Mask/screenshots/Termina-Field.png",
+								"description": "Termina Field"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda%20Majoras%20Mask/screenshots/Defeating-Enemy.png",
+								"description": "Defeating Enemy"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2645,6 +2747,23 @@
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 40,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%202/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%202/screenshots/1.png",
+								"description": "Screen 1"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%202/screenshots/2.png",
+								"description": "Screen 2"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%202/screenshots/3.png",
+								"description": "Screen 3"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%202/screenshots/4.png",
+								"description": "Screen 4"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2703,6 +2822,23 @@
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 42,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%203/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%203/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%203/screenshots/Second-Controller.png",
+								"description": "Second Controller"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%203/screenshots/Giant-World.png",
+								"description": "Giant World"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%203/screenshots/Battle.png",
+								"description": "Battle"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -14284,11 +14420,6 @@
 		            "size": "69,26Mb",
 		            "icon_index": 19,
 		            "sheet_index": 1,
-		            "screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/35%20Junior%20Games/art.png",
-		            			"description": "Art"
-		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-03 at 18:19 (UTC)"
 },
@@ -14909,23 +15040,6 @@
 		            "size": "191,46Mb",
 		            "icon_index": 39,
 		            "sheet_index": 1,
-		            "screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Shippuden%203D%20-%20The%20New%20Era/boxart.png",
-		            			"description": "Cover-Art"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/Gameplay.png",
-		            			"description": "Gameplay"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/New-Game.png",
-		            			"description": "New Game"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/Rasengan.png",
-		            			"description": "Rasengan"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Shippuden%203D%20-%20The%20New%20Era/screenshots/Start.png",
-		            			"description": "Start"
-		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-04 at 20:50 (UTC)"
 },
