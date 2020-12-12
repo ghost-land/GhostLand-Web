@@ -14,7 +14,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 66
+"revision": 67
 },
 "storeContent": [
 {"info": {
@@ -2182,10 +2182,11 @@
 },
 {"info": {
 					"title": "Sega 3D Classics Collection",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "91,26Mb",
 					"icon_index": 24,
 					"screenshots": 
 		            [{
@@ -2196,21 +2197,38 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Sega 3D Classics Collection": [
+"Sega 3D Classics Collection (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/lyqtd8xhcm7t2vz/Sega%203D%20Classics%20Collection%20%28USA%29.cia?dl=1",
-				   "output": "sdmc:/Sega 3D Classics Collection.cia",
+				   "output": "sdmc:/Sega 3D Classics Collection (USA).cia",
 				   "message": "T�l�chargement de votre jeux en cours..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Sega 3D Classics Collection.cia",
+				   "file": "/Sega 3D Classics Collection (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Sega 3D Classics Collection.cia",
+				   "file": "sdmc:/Sega 3D Classics Collection (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Sega 3D Classics Collection (EUR)": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/SEGA%203D%20Classics%20Collection%20%28EUR%29.cia",
+				   "output": "sdmc:/Sega 3D Classics Collection (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Sega 3D Classics Collection (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sega 3D Classics Collection (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -2292,7 +2310,7 @@
 },
 {"info": {
 					"title": "Super Mario 3D Land",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
@@ -2318,21 +2336,38 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Super Mario 3D Land": [
+"Super Mario 3D Land (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/S/Super%20Mario%203D%20Land%20%28USA%29.cia",
-				   "output": "sdmc:/Super Mario 3D Land.cia",
+				   "output": "sdmc:/Super Mario 3D Land (USA).cia",
 				   "message": "T�l�chargement de votre jeux en cours..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Super Mario 3D Land.cia",
+				   "file": "/Super Mario 3D Land (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Super Mario 3D Land.cia",
+				   "file": "sdmc:/Super Mario 3D Land (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 3D Land (EUR) [LEGIT CIA]": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Super%20Mario%203D%20Land%20%28EUR%29%5BLegit%20cia%5D.cia",
+				   "output": "sdmc:/Super Mario 3D Land (EUR) [LEGIT CIA].cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Super Mario 3D Land (EUR) [LEGIT CIA].cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 3D Land (EUR) [LEGIT CIA].cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -2385,7 +2420,7 @@
 },
 {"info": {
 					"title": "The Legend of Zelda: Ocarina of Time 3D",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
@@ -2411,21 +2446,38 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"The Legend of Zelda: Ocarina of Time 3D": [
+"The Legend of Zelda: Ocarina of Time 3D (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time%203D%20%28USA%29.cia",
-				   "output": "sdmc:/The Legend of Zelda Ocarina of Time 3D.cia",
+				   "output": "sdmc:/The Legend of Zelda Ocarina of Time 3D (USA).cia",
 				   "message": "T�l�chargement de votre jeux en cours..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/The Legend of Zelda Ocarina of Time 3D.cia",
+				   "file": "/The Legend of Zelda Ocarina of Time 3D (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/The Legend of Zelda Ocarina of Time 3D.cia",
+				   "file": "sdmc:/The Legend of Zelda Ocarina of Time 3D (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"The Legend of Zelda: Ocarina of Time 3D (EUR)": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/The Legend of Zelda Ocarina of Time 3D (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/The Legend of Zelda Ocarina of Time 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Ocarina of Time 3D (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -2606,7 +2658,7 @@
 },
 {"info": {
 					"title": "The Legend of Zelda: Majora's Mask 3D",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
@@ -2632,21 +2684,38 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"The Legend of Zelda: Majora's Mask 3D": [
+"The Legend of Zelda: Majora's Mask 3D (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Legend%20of%20Zelda%20-%20Majora%27s%20Mask%203D%20%28USA%29.cia",
-				   "output": "sdmc:/The Legend of Zelda Majoras Mask 3D.cia",
+				   "output": "sdmc:/The Legend of Zelda Majoras Mask 3D (USA).cia",
 				   "message": "T�l�chargement de votre jeux en cours..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/The Legend of Zelda Majoras Mask 3D.cia",
+				   "file": "/The Legend of Zelda Majoras Mask 3D (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/The Legend of Zelda Majoras Mask 3D.cia",
+				   "file": "sdmc:/The Legend of Zelda Majoras Mask 3D (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"The Legend of Zelda: Majora's Mask 3D (EUR)": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/The%20Legend%20of%20Zelda%20-%20Majora%27s%20Mask%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/The Legend of Zelda Majoras Mask 3D (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/The Legend of Zelda Majoras Mask 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Majoras Mask 3D (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -2868,6 +2937,23 @@
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 43,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%20the%20Lost%20Levels/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%20the%20Lost%20Levels/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%20the%20Lost%20Levels/screenshots/Restore-Point.png",
+								"description": "Restore Point"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%20the%20Lost%20Levels/screenshots/Lvl-W3.png",
+								"description": "Lvl W3"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Mario%20Bros%20the%20Lost%20Levels/screenshots/Lost-Live.png",
+								"description": "Lost Live"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -2929,6 +3015,23 @@
 					"size": "640,25Mb",
 					"additional": "Update : 5,23Mb",
 					"icon_index": 45,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20Kart%207/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20Kart%207/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20Kart%207/screenshots/Character-Selection.png",
+								"description": "Character Selection"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20Kart%207/screenshots/Time-Trial.png",
+								"description": "Time Trial"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20Kart%207/screenshots/Grand-Prix.png",
+								"description": "Grand Prix"
+		            		}],
 					"description": "Jeux de courses de kart\navec tous les personnages de mario.",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
 },
@@ -4481,6 +4584,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 97,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/50%20Classic%20Games%203D/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -4510,6 +4618,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 98,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ace%20Combat%20Assault%20Horizon%20Legacy/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -4650,6 +4763,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 101,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Adventure%20Time%20Hey%20Ice%20King%20Why%27d%20You%20Steal%20Our%20Garbage/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -4767,6 +4885,11 @@
 					"console": "3DS",
 					"size": "147,80Mb",
 					"icon_index": 105,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Angler%E2%80%99s%20Club%20Ultimate%20Bass%20Fishing%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -4873,6 +4996,20 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 108,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20Happy%20Home%20Designer/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20Happy%20Home%20Designer/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20Happy%20Home%20Designer/screenshots/design.png",
+		            			"description": "Design"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20Happy%20Home%20Designer/screenshots/conversation.png",
+		            			"description": "Conversation"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -4920,6 +5057,20 @@
 					"console": "3DS",
 					"size": "935,27Mb",
 					"icon_index": 109,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20-%20New%20Leaf%20Update%20ver%201.5/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20-%20New%20Leaf%20Update%20ver%201.5/screenshots/welcome-amiibo-start-screen.png",
+		            			"description": "Welcome Amiibo | Start Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20-%20New%20Leaf%20Update%20ver%201.5/screenshots/continue-screen.png",
+		            			"description": "Continue Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Animal%20Crossing%20-%20New%20Leaf%20Update%20ver%201.5/screenshots/in-game.png",
+		            			"description": "In Game"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5025,6 +5176,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 112,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Art%20Academy%20%20Lessons%20for%20Everyone%21/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5071,6 +5227,20 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 113,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Asphalt%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Asphalt%203D/screenshots/in-game-screenshot.png",
+		            			"description": "In Game | 1/3"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Asphalt%203D/screenshots/in-game-screenshot-2.png",
+		            			"description": "In Game | 2/3"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Asphalt%203D/screenshots/in-game-screenshot-3.png",
+		            			"description": "In Game | 3/3"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5160,6 +5330,23 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 116,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Attack%20on%20Titan%20Humanity%20in%20Chains/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Attack%20on%20Titan%20Humanity%20in%20Chains/screenshots/title-screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Attack%20on%20Titan%20Humanity%20in%20Chains/screenshots/intro-cutscene.png",
+								"description": "Intro CutScene"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Attack%20on%20Titan%20Humanity%20in%20Chains/screenshots/tutorial.png",
+								"description": "Tutorial"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Attack%20on%20Titan%20Humanity%20in%20Chains/screenshots/first-level.png",
+								"description": "First Level"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5219,6 +5406,11 @@
 					"category": "Virtual Consoles",
 					"console": "SNES",
 					"icon_index": 118,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Breath%20of%20Fire%20II/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5248,6 +5440,11 @@
 					"category": "Virtual Consoles",
 					"console": "SNES",
 					"icon_index": 119,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Breath%20of%20Fire/art.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5277,6 +5474,20 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 120,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Batman%20Arkham%20Origins%20Blackgate/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Batman%20Arkham%20Origins%20Blackgate/screenshots/ms.png",
+		            			"description": "Main Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Batman%20Arkham%20Origins%20Blackgate/screenshots/f.png",
+		            			"description": "In Game | 1/2"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Batman%20Arkham%20Origins%20Blackgate/screenshots/twcw.png",
+		            			"description": "In Game | 2/2"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5307,6 +5518,11 @@
 					"console": "3DS",
 					"size": "64,36Mb",
 					"icon_index": 121,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Battleship/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5337,6 +5553,11 @@
 					"console": "3DS",
 					"size": "218,61Mb",
 					"icon_index": 122,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ben%2010%20Galactic%20Racing/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
@@ -5383,6 +5604,15 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 123,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Taiko%20no%20Tatsujin%20Don%20to%20Katsu%20no%20Jiku%20Daiboken/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Taiko%20no%20Tatsujin%20Don%20to%20Katsu%20no%20Jiku%20Daiboken/screenshots/Title-Screen.png",
+		            			"description": "Title Screen"
+		            		}],
+
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -5446,6 +5676,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 124,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ben%2010%20Omniverse/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -5688,6 +5923,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 131,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bit.Trip%20Saga/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -5717,6 +5957,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 132,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Blazblue%20Continuum%20Shift%20%E2%85%A1/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -5823,6 +6068,11 @@
 					"console": "3DS",
 					"size": "37,65Mb",
 					"icon_index": 135,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bowling%20Bonanza%203D/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -5852,6 +6102,23 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 136,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Brain%20Age%20Concentration%20Training/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Brain%20Age%20Concentration%20Training/screenshots/Main-Menu-Devilish-Training.png",
+								"description": "Main Menu Devilish Training"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Brain%20Age%20Concentration%20Training/screenshots/devilish-dr.png",
+								"description": "Devilish Dr."
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Brain%20Age%20Concentration%20Training/screenshots/calculations.png",
+								"description": "Calculations"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Brain%20Age%20Concentration%20Training/screenshots/klondike.png",
+								"description": "Klondike"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -6028,6 +6295,20 @@
 					"console": "3DS",
 					"size": "3,24Gb",
 					"icon_index": 142,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Default/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Default/screenshots/Title-Screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Default/screenshots/Battle.png",
+		            			"description": "Battle"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Default/screenshots/Dungeon.png",
+		            			"description": "Dungeon"
+		            		}],
 					"description": "",
 					"last_updated": "2020-11-27 at 14:03 (UTC)"
 },
@@ -6075,6 +6356,20 @@
 					"console": "3DS",
 					"size": "2,48Gb",
 					"icon_index": 143,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Second%20End%20Layer/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Second%20End%20Layer/screenshots/Worldmap.png",
+		            			"description": "World Map"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Second%20End%20Layer/screenshots/In-battle.png",
+		            			"description": "In Battle"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bravely%20Second%20End%20Layer/screenshots/In-dungeon.png",
+		            			"description": "In Dungeon"
+		            		}],
 					"description": "",
 					"last_updated": "2020-11-27 at 14:03 (UTC)"
 },
@@ -6167,6 +6462,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 145,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bust-a-Move%20Universe/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -6226,6 +6526,11 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 147,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Captain%20America%20Super%20Soldier/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -6344,6 +6649,14 @@
 					"console": "3DS",
 					"size": "431,05Mb",
 					"icon_index": 151,
+					"screenshots": 
+		            [{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Cartoon%20Network%20Punch%20Time%20Explosion/boxart.png",
+								"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cartoon%20Network%20Punch%20Time%20Explosion/art.png",
+								"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -6374,6 +6687,11 @@
 					"console": "3DS",
 					"size": "102,87Mb",
 					"icon_index": 152,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Crash%20Time%203D/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -6463,6 +6781,11 @@
 					"console": "3DS",
 					"size": "348,44Mb",
 					"icon_index": 155,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Crush%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-11-27 at 14:03 (UTC)"
 },
@@ -6538,6 +6861,35 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 157,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/boxart.png",
+								"description": "Cover-Art"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/general-menu.png",
+								"description": "General Menu"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/character-speak-in-the-match.png",
+								"description": "Character Speak in the Match"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/card-view-in-the-match.png",
+								"description": "Card View in the Match"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/book-selection.png",
+								"description": "Book Selection"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/introduction-before-the-match.png",
+								"description": "Introduction Before the Match"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/quests.png",
+								"description": "Quests"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/spell-selection-in-the-match.png",
+								"description": "Spell Selection in the Match"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Culdcept%20Revolt/screenshots/start-screen.png",
+								"description": "Start Screen"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -6567,6 +6919,20 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 158,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dai%20Gyakuten%20Saiban%20Naruhodou%20Ryuunosuke%20no%20Bouken/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dai%20Gyakuten%20Saiban%20Naruhodou%20Ryuunosuke%20no%20Bouken/screenshots/start-screen.png",
+		            			"description": "Start Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dai%20Gyakuten%20Saiban%20Naruhodou%20Ryuunosuke%20no%20Bouken/screenshots/2d-section.png",
+		            			"description": "2D Section"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dai%20Gyakuten%20Saiban%20Naruhodou%20Ryuunosuke%20no%20Bouken/screenshots/3d-trial.png",
+		            			"description": "3D Trial"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -8483,6 +8849,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "831,07Mb",
 					"icon_index": 212,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8641,29 +9008,47 @@
 },
 {"info": {
 					"title": "Tetris Ultimate",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "50,05Mb",
 					"icon_index": 217,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Tetris Ultimate": [
+"Tetris Ultimate (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/Tetris%20Ultimate%20%28USA%29.cia",
-				   "output": "sdmc:/Tetris Ultimate.cia",
+				   "output": "sdmc:/Tetris Ultimate (USA).cia",
 				   "message": "T�l�chargement de votre jeux en cours..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Tetris Ultimate.cia",
+				   "file": "/Tetris Ultimate (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Tetris Ultimate.cia",
+				   "file": "sdmc:/Tetris Ultimate (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Tetris Ultimate (EUR)": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Tetris%20Ultimate%20%28EUR%29.cia",
+				   "output": "sdmc:/Tetris Ultimate (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Tetris Ultimate (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tetris Ultimate (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -8850,6 +9235,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "193,57Mb",
 					"icon_index": 224,
 					"description": "",
 					"last_updated": "2020-09-29 at 14:03 (UTC)"
@@ -8892,15 +9278,16 @@
 },
 {"info": {
 					"title": "Super Mario Maker",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"additional": "Update : 19,22Mb",
 					"icon_index": 225,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
 },
-"Super Mario Maker": [
+"Super Mario Maker (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/S/Super%20Mario%20Maker%20%28USA%29.cia",
@@ -8915,6 +9302,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Maker (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario Maker - Update (EUR)": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Super%20Mario%20Maker%20-%20Update%20%28EUR%29.cia",
+				   "output": "sdmc:/Super Mario Maker - Update (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Super Mario Maker - Update (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Maker - Update (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -8954,6 +9358,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "1,44Gb",
+					"additional": "DEMO : 177,59Mb",
 					"icon_index": 227,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -8973,6 +9379,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Smash Bros. for Nintendo 3DS (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Smash Bros. for Nintendo 3DS (EUR)": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Super%20Smash%20Bros.%20for%20Nintendo%203DS%20%28v03%29%28EUR%29%28M8%29.3ds.cia",
+				   "output": "sdmc:/Super Smash Bros. for Nintendo 3DS (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Super Smash Bros. for Nintendo 3DS (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Smash Bros. for Nintendo 3DS (EUR).cia",
 				   "message": "Nettoyage..."}
 ],
 "Super Smash Bros. Special Demo Version (EUR)": [
@@ -9058,6 +9481,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "161,48Mb",
 					"icon_index": 230,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -9116,6 +9540,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
+					"size": "714,77Mb",
 					"icon_index": 232,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -11647,6 +12072,7 @@
 					"category": "Games",
 					"console": "3DS",
 					"size": "844,96Mb",
+					"additional": "DLC : 240,39Mb",
 					"icon_index": 350,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -11666,6 +12092,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity (EUR).cia",
+				   "message": "Nettoyage..."}
+],
+"Pokemon Mystery Dungeon - Gates to Infinity - DLC": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pokemon%20Mystery%20Dungeon%20-%20Gates%20to%20Infinity%20-%20DLC%20%28EUR%29.cia",
+				   "output": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Pokemon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -11707,6 +12150,7 @@
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,70Gb",
+					"additional": "Update : 32,18Mb",
 					"icon_index": 352,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -11726,6 +12170,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Super Mystery Dungeon (EUR).cia",
+				   "message": "Nettoyage..."}
+],
+"Pokemon Super Mystery Dungeon - Update 1.1": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pokemon%20Super%20Mystery%20Dungeon%20-%20Update%201.1%20%28EUR%29.cia",
+				   "output": "sdmc:/Pokemon Super Mystery Dungeon - Update 1.1 (EUR).cia",
+				   "message": "T�l�chargement de votre jeux en cours..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Pokemon Super Mystery Dungeon - Update 1.1 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Super Mystery Dungeon - Update 1.1 (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -12101,12 +12562,29 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "",
+					"size": "1,12Gb",
 					"additional": "Update : 1,53Mb",
 					"icon_index": 364,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
+"Shin Megami Tensei - Devil Survivor Overclocked": [
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Shin%20Megami%20Tensei%20-%20Devil%20Survivor%20Overclocked%20%28EUR%29.cia",
+				   "output": "sdmc:/Shin Megami Tensei - Devil Survivor Overclocked(EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Shin Megami Tensei - Devil Survivor Overclocked(EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shin Megami Tensei - Devil Survivor Overclocked(EUR).cia",
+				   "message": "Nettoyage..."}
+],
 "Shin Megami Tensei - Devil Survivor Overclocked - Update 1.1": [
 {
 				   "type": "downloadFile",
@@ -15297,5 +15775,1693 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendogs + Cats Golden Retriver & New Friends (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "One Piece - Unlimited Cruise SP",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "468,47Mb",
+		            "icon_index": 46,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"One Piece - Unlimited Cruise SP": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/O/One%20Piece%20Unlimited%20Cruise%20SP%20%28EUR%29.cia",
+				   "output": "sdmc:/One Piece - Unlimited Cruise SP (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/One Piece - Unlimited Cruise SP (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/One Piece - Unlimited Cruise SP (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "One Piece - Unlimited Cruise SP2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "467,76Mb",
+		            "icon_index": 47,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"One Piece - Unlimited Cruise SP2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/O/One%20Piece%20Unlimited%20Cruise%20SP2%20%28EUR%29.cia",
+				   "output": "sdmc:/One Piece - Unlimited Cruise SP2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/One Piece - Unlimited Cruise SP2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/One Piece - Unlimited Cruise SP2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Order Up",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "309,90Mb",
+		            "icon_index": 48,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Order Up": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/O/Order%20Up%20%28EUR%29.cia",
+				   "output": "sdmc:/Order Up (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Order Up (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Order Up (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Outdoors Unleashed - Africa 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "91,37Mb",
+		            "icon_index": 49,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Outdoors Unleashed - Africa 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/O/Outdoors%20Unleashed%20-%20Africa%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/Outdoors Unleashed - Africa 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Outdoors Unleashed - Africa 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Outdoors Unleashed - Africa 3D (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pazuru",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "30,84Mb",
+		            "icon_index": 50,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Pazuru": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pazuru%20%28EUR%29.cia",
+				   "output": "sdmc:/Pazuru (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pazuru (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pazuru (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Persona Q - Shadow of the Labyrinth",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,73Gb",
+		            "icon_index": 51,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Persona Q - Shadow of the Labyrinth": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Persona%20Q%20-%20Shadow%20of%20the%20Labyrinth%20%28EUR%29.cia",
+				   "output": "sdmc:/Persona Q - Shadow of the Labyrinth (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Persona Q - Shadow of the Labyrinth (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Persona Q - Shadow of the Labyrinth (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pets Paradise Resort 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "45,96Mb",
+		            "icon_index": 52,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Pets Paradise Resort 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pets%20Paradise%20Resort%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/Pets Paradise Resort 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pets Paradise Resort 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pets Paradise Resort 3D (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Phineas & Ferb - Quest for Cool Stuff",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "264,78Mb",
+		            "icon_index": 53,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Phineas & Ferb - Quest for Cool Stuff": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phineas%20%26%20Ferb%20-%20Quest%20for%20Cool%20Stuff%20%28EUR%29.cia",
+				   "output": "sdmc:/Phineas & Ferb - Quest for Cool Stuff (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Phineas & Ferb - Quest for Cool Stuff (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Phineas & Ferb - Quest for Cool Stuff (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Phonics Fun With Biff, Chip, Kipper - Vol. 3",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "407,85Mb",
+		            "icon_index": 54,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Phonics Fun With Biff, Chip, Kipper - Vol. 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%203%20%28EUR%29%28M6%29.cia",
+				   "output": "sdmc:/Phonics Fun With Biff, Chip, Kipper - Vol. 3 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Phonics Fun With Biff, Chip, Kipper - Vol. 3 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Phonics Fun With Biff, Chip, Kipper - Vol. 3 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pippi Longstocking 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "203,34Mb",
+		            "icon_index": 55,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Pippi Longstocking 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pippi%20Longstocking%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/Pippi Longstocking 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pippi Longstocking 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pippi Longstocking 3D (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon Ultra Moon",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "3,45Gb",
+		            "icon_index": 56,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Pokemon Ultra Moon": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pokemon%20Ultra%20Moon%20%28EUR%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%29.cia",
+				   "output": "sdmc:/Pokemon Ultra Moon (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Ultra Moon (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Ultra Moon (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon Y",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,68Gb",
+		            "icon_index": 57,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Pokemon Y": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pokemon%20Y%20%28EUR%29%28M7%29.cia",
+				   "output": "sdmc:/Pokemon Y (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Y (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Y (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon Saphir Alpha",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,77Gb",
+		            "icon_index": 58,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Pokemon Saphir Alpha": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pok%C3%A9mon%20Saphir%20Alpha%20%28EUR%29.cia",
+				   "output": "sdmc:/Pokemon Saphir Alpha (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Saphir Alpha (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Saphir Alpha (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Professor Layton vs. Phoenix Wright - Ace Attorney",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,61Gb",
+		            "icon_index": 59,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Professor Layton vs. Phoenix Wright - Ace Attorney": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Professor%20Layton%20vs.%20Phoenix%20Wright%20-%20Ace%20Attorney%20%28EUR%29.cia",
+				   "output": "sdmc:/Professor Layton vs. Phoenix Wright - Ace Attorney (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Professor Layton vs. Phoenix Wright - Ace Attorney (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Professor Layton vs. Phoenix Wright - Ace Attorney (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Project X Zone",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "915,89Mb",
+		            "additional": "DLC : 595,50Kb | Update : 11,24Mb",
+		            "icon_index": 60,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Project X Zone": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Project%20X%20Zone%202%20%28EUR%29.cia",
+				   "output": "sdmc:/Project X Zone (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Project X Zone (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Project X Zone (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Project X Zone - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Project%20X%20Zone%202%20-%20DLC%20%28EUR%29.cia",
+				   "output": "sdmc:/Project X Zone - DLC.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Project X Zone - DLC.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Project X Zone - DLC.cia",
+				   "message": "Cleaning..."}
+],
+"Project X Zone - Update 1.2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Project%20X%20Zone%202%20-%20Update%201.2%20%28EUR%29.cia",
+				   "output": "sdmc:/Project X Zone - Update 1.2.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Project X Zone - Update 1.2.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Project X Zone - Update 1.2.cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Puzzle Bobble Universe 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "68,14Mb",
+		            "icon_index": 61,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Puzzle Bobble Universe 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Puzzle%20Bobble%20Universe%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/Puzzle Bobble Universe 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Puzzle Bobble Universe 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Puzzle Bobble Universe 3D (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Puzzler - Brain Games",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "79,22Mb",
+		            "icon_index": 62,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Puzzler - Brain Games": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Puzzler%20-%20Brain%20Games%20%28EUR%29.cia",
+				   "output": "sdmc:/Puzzler - Brain Games (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Puzzler - Brain Games (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Puzzler - Brain Games (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Rayman and Rabbids Family Pack",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "667,72Mb",
+		            "icon_index": 63,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Rayman and Rabbids Family Pack": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Rayman%20and%20Rabbids%20Family%20Pack%20%28EUR%29.cia",
+				   "output": "sdmc:/Rayman and Rabbids Family Pack (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Rayman and Rabbids Family Pack (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Rayman and Rabbids Family Pack (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Real Heroes - FireFighter 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "783,92Mb",
+		            "additional": "Update : 122,46Mb",
+		            "icon_index": 64,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Real Heroes - FireFighter 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Real%20Heroes%20-%20Firefighter%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/Real Heroes - FireFighter 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Real Heroes - FireFighter 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Real Heroes - FireFighter 3D (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Real Heroes - FireFighter 3D - Update 1.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Real%20Heroes%20-%20FireFighter%203D%20-%20Update%201.1%20%28EUR%29.cia",
+				   "output": "sdmc:/Real Heroes - FireFighter 3D - Update 1.1 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Real Heroes - FireFighter 3D - Update 1.1 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Real Heroes - FireFighter 3D - Update 1.1 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Resident Evil - Revelations",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "3,15Gb",
+		            "icon_index": 65,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Resident Evil - Revelations": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Resident%20Evil%20-%20Revelations%20%28EUR%29.cia",
+				   "output": "sdmc:/Resident Evil - Revelations (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Resident Evil - Revelations (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Resident Evil - Revelations (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Rhythm Heaven Megamix",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "490,63Mb",
+		            "icon_index": 66,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Rhythm Heaven Megamix": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Rhythm%20Heaven%20Megamix%20%28EUR%29.cia",
+				   "output": "sdmc:/Rhythm Heaven Megamix (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Rhythm Heaven Megamix (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Rhythm Heaven Megamix (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "RollerCoaster Tycoon 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "302,46Mb",
+		            "icon_index": 67,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"RollerCoaster Tycoon 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/RollerCoaster%20Tycoon%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/RollerCoaster Tycoon 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/RollerCoaster Tycoon 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/RollerCoaster Tycoon 3D (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Samurai Warriors Chronicles",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,39Gb",
+		            "icon_index": 68,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Samurai Warriors Chronicles": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Samurai%20Warriors%20Chronicles%20%28EUR%29.cia",
+				   "output": "sdmc:/Samurai Warriors Chronicles (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Samurai Warriors Chronicles (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Samurai Warriors Chronicles (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Schlag den Raan - Das 2. Spiel",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "464,59Mb",
+		            "icon_index": 69,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Schlag den Raan - Das 2. Spiel": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Schlag%20den%20Raab%20-%20Das%202.%20Spiel%20%28EUR%29.cia",
+				   "output": "sdmc:/Schlag den Raan - Das 2. Spiel (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Schlag den Raan - Das 2. Spiel (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Schlag den Raan - Das 2. Spiel (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Secret Agent Files - Miami",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "244,68Mb",
+		            "icon_index": 70,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Secret Agent Files - Miami": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Secret%20Agent%20Files%20-%20Miami%20%28EUR%29.cia",
+				   "output": "sdmc:/Secret Agent Files - Miami (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Secret Agent Files - Miami (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Secret Agent Files - Miami (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Secret Mysteries in London",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "88,25Mb",
+		            "additional": "Update : 3,30Mb",
+		            "icon_index": 71,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Secret Mysteries in London": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Secret%20Mysteries%20in%20London%20%28EUR%29.cia",
+				   "output": "sdmc:/Secret Mysteries in London (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Secret Mysteries in London (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Secret Mysteries in London (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Secret Mysteries in London - Update 1.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Secret%20Mysteries%20in%20London%20-%20Update%201.1%20%28EUR%29.cia",
+				   "output": "sdmc:/Secret Mysteries in London - Update 1.1 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Secret Mysteries in London - Update 1.1 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Secret Mysteries in London - Update 1.1 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Shanghai Mahjong",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "11,96Mb",
+		            "icon_index": 72,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Shanghai Mahjong": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Shanghai%20Mahjong%20%28EUR%29.cia",
+				   "output": "sdmc:/Shanghai Mahjong (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Shanghai Mahjong (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shanghai Mahjong (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Shin Megami Tensei - Devil Summoner - Soul Hackers",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,81Gb",
+		            "icon_index": 73,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Shin Megami Tensei - Devil Summoner - Soul Hackers": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Shin%20Megami%20Tensei%20-%20Devil%20Summoner%20-%20Soul%20Hackers%20%28EUR%29.cia",
+				   "output": "sdmc:/Shin Megami Tensei - Devil Summoner - Soul Hackers (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Shin Megami Tensei - Devil Summoner - Soul Hackers (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shin Megami Tensei - Devil Summoner - Soul Hackers (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Spider-Man Edge of Time",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "823,56Mb",
+		            "icon_index": 74,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Spider-Man Edge of Time": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Spider-Man%20Edge%20of%20Time%20%28EUR%29.cia",
+				   "output": "sdmc:/Spider-Man Edge of Time (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Spider-Man Edge of Time (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Spider-Man Edge of Time (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Spirit Camera - The Cursed Memoir",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "761,87Mb",
+		            "icon_index": 75,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Spirit Camera - The Cursed Memoir": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Spirit%20Camera%20-%20The%20Cursed%20Memoir%20%28EUR%29.cia",
+				   "output": "sdmc:/Spirit Camera - The Cursed Memoir (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Spirit Camera - The Cursed Memoir (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Spirit Camera - The Cursed Memoir (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sponge Bob SquarePants - Planktons Robotic Revenge",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "464,42Mb",
+		            "icon_index": 76,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Sponge Bob SquarePants - Planktons Robotic Revenge": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/SpongeBob%20SquarePants%20-%20Planktons%20Robotic%20Revenge%20%28EUR%29.cia",
+				   "output": "sdmc:/Sponge Bob SquarePants - Planktons Robotic Revenge (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sponge Bob SquarePants - Planktons Robotic Revenge (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sponge Bob SquarePants - Planktons Robotic Revenge (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sports Island 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "774,48Mb",
+		            "icon_index": 77,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Sports Island 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Sports%20Island%203D%20%28EUR%29.cia",
+				   "output": "sdmc:/Sports Island 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sports Island 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sports Island 3D (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Story of Seasons",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "724,74Mb",
+		            "icon_index": 78,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Story of Seasons": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Story%20of%20Seasons%20%28EUR%29.cia",
+				   "output": "sdmc:/Story of Seasons (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Story of Seasons (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Story of Seasons (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Story of Seasons - Trio of Towns",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "643,72Mb",
+		            "additional": "Update : 4,45Mb",
+		            "icon_index": 79,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Story of Seasons - Trio of Towns": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Story%20of%20Seasons%20-%20Trio%20of%20Towns%20%28EUR%29.cia",
+				   "output": "sdmc:/Story of Seasons - Trio of Towns (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Story of Seasons - Trio of Towns (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Story of Seasons - Trio of Towns (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Story of Seasons - Trio of Towns - Update 1.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Story%20of%20Seasons%20-%20Trio%20of%20Towns%20-%20Update%201.1%20%28EUR%29.cia",
+				   "output": "sdmc:/Story of Seasons - Trio of Towns - Update 1.1 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Story of Seasons - Trio of Towns - Update 1.1 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Story of Seasons - Trio of Towns - Update 1.1 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sudoku - 7 other Complex Puzzles By Nikoli",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "47,84Mb",
+		            "icon_index": 80,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Sudoku - 7 other Complex Puzzles By Nikoli": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Sudoku%20-%207%20Other%20Complex%20Puzzles%20By%20Nikoli%20%28EUR%29.cia",
+				   "output": "sdmc:/Sudoku - 7 other Complex Puzzles By Nikoli (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sudoku - 7 other Complex Puzzles By Nikoli (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sudoku - 7 other Complex Puzzles By Nikoli (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sudoku - The Puzzle Game Collection",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "177,85Mb",
+		            "icon_index": 81,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Sudoku - The Puzzle Game Collection": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Sudoku%20-%20The%20Puzzle%20Game%20Collection%20%28EUR%29.cia",
+				   "output": "sdmc:/Sudoku - The Puzzle Game Collection (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sudoku - The Puzzle Game Collection (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sudoku - The Puzzle Game Collection (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Super Street Fighter IV",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,71Gb",
+		            "icon_index": 82,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Super Street Fighter IV": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Super%20Street%20Fighter%20IV%20%28EUR%29.cia",
+				   "output": "sdmc:/Super Street Fighter IV (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Street Fighter IV (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Street Fighter IV (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Survivor 3D - The Ultimate Adventure",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "64,59Mb",
+		            "icon_index": 83,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Survivor 3D - The Ultimate Adventure": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Survivor%203D%20-%20The%20Ultimate%20Adventure%20%28EUR%29.cia",
+				   "output": "sdmc:/Survivor 3D - The Ultimate Adventure (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Survivor 3D - The Ultimate Adventure (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Survivor 3D - The Ultimate Adventure (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Survivor Heroes",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "81,90Mb",
+		            "icon_index": 84,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Survivor Heroes": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Survivor%20Heroes%20%28EUR%29.cia",
+				   "output": "sdmc:/Survivor Heroes (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Survivor Heroes (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Survivor Heroes (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Teenage Mutant Ninja Turtles - Danger of the Ooze",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "310,91Mb",
+		            "icon_index": 85,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Teenage Mutant Ninja Turtles - Danger of the Ooze": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Teenage%20Mutant%20Ninja%20Turtles%20-%20Danger%20of%20the%20Ooze%20%28EUR%29.cia",
+				   "output": "sdmc:/Teenage Mutant Ninja Turtles - Danger of the Ooze (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Teenage Mutant Ninja Turtles - Danger of the Ooze (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Teenage Mutant Ninja Turtles - Danger of the Ooze (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Teenage Mutant Ninja Turtles - Master Splinter Training Pack",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "640,42Mb",
+		            "icon_index": 86,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Teenage Mutant Ninja Turtles - Master Splinter Training Pack": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Teenage%20Mutant%20Ninja%20Turtles%20-%20Master%20Splinters%20Training%20Pack%20%28EUR%29.cia",
+				   "output": "sdmc:/Teenage Mutant Ninja Turtles - Master Splinter Training Pack (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Teenage Mutant Ninja Turtles - Master Splinter Training Pack (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Teenage Mutant Ninja Turtles - Master Splinter Training Pack (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Tekken 3D - Prime Edition",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,42Gb",
+		            "icon_index": 87,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Tekken 3D - Prime Edition": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Tekken%203D%20-%20Prime%20Edition%20%28EUR%29%28M5%29.cia",
+				   "output": "sdmc:/Tekken 3D - Prime Edition (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tekken 3D - Prime Edition (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tekken 3D - Prime Edition (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "The Amazing Spider-Man 2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "837,47Mb",
+		            "icon_index": 88,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"The Amazing Spider-Man 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/The%20Amazing%20Spider-Man%202%20%28EUR%29.cia",
+				   "output": "sdmc:/The Amazing Spider-Man 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Amazing Spider-Man 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Amazing Spider-Man 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda - A Link Between Worlds",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "684,57Mb",
+		            "icon_index": 89,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"The Legend of Zelda - A Link Between Worlds": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/The%20Legend%20of%20Zelda-%20A%20Link%20Between%20Worlds%20%28EUR%29.cia",
+				   "output": "sdmc:/The Legend of Zelda - A Link Between Worlds (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda - A Link Between Worlds (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda - A Link Between Worlds (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Tom Clancy's Ghost Recon - Shadow Wars",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "214,23Mb",
+		            "icon_index": 90,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Tom Clancy's Ghost Recon - Shadow Wars": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Tom%20Clancy%27s%20Ghost%20Recon%20-%20Shadow%20Wars%20%28EUR%29.cia",
+				   "output": "sdmc:/Tom Clancys Ghost Recon - Shadow Wars (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tom Clancys Ghost Recon - Shadow Wars (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tom Clancys Ghost Recon - Shadow Wars (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Tom Clancy's Splinter Cell 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,68Gb",
+		            "icon_index": 91,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Tom Clancy's Splinter Cell 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Tom%20Clancy%27s%20Splinter%20Cell%203D%20%28EUR%29%28M5%29.cia",
+				   "output": "sdmc:/Tom Clancys Splinter Cell 3D (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tom Clancys Splinter Cell 3D (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tom Clancys Splinter Cell 3D (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Tomodachi Life",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "419,31Mb",
+		            "additional": "Update : 43,87Mb",
+		            "icon_index": 92,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Tomodachi Life [LEGIT CIA]": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Tomodachi%20Life%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%29%20%28Legit%20Cia%29.cia",
+				   "output": "sdmc:/Tomodachi Life (EUR)[LEGIT CIA].cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tomodachi Life (EUR)[LEGIT CIA].cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tomodachi Life (EUR)[LEGIT CIA].cia",
+				   "message": "Cleaning..."}
+],
+"Tomodachi Life - Update 2.0": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Tomodachi%20Life%20-%20Update%202.0%20%28EUR%29.cia",
+				   "output": "sdmc:/Tomodachi Life - Update 2.0 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tomodachi Life - Update 2.0 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tomodachi Life - Update 2.0 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Transformers - Dark of Moon Stealth Force Edition",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "720,63Mb",
+		            "icon_index": 93,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Transformers - Dark of Moon Stealth Force Edition": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Transformers%20-%20Dark%20of%20the%20Moon%20Stealth%20Force%20Edition%20%28EUR%29.cia",
+				   "output": "sdmc:/Transformers - Dark of Moon Stealth Force Edition (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Transformers - Dark of Moon Stealth Force Edition (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Transformers - Dark of Moon Stealth Force Edition (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Transformers - Rise of the Dark Spark",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "164,95Mb",
+		            "icon_index": 94,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Transformers - Rise of the Dark Spark": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Transformers%20-%20Rise%20of%20the%20Dark%20Spark%20%28EUR%29.cia",
+				   "output": "sdmc:/Transformers - Rise of the Dark Spark (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Transformers - Rise of the Dark Spark (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Transformers - Rise of the Dark Spark (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Wreck-It Ralph",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "211,39Mb",
+		            "icon_index": 95,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Wreck-It Ralph": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/W/Wreck-It%20Ralph%20%28EUR%29.cia",
+				   "output": "sdmc:/Wreck-It Ralph (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wreck-It Ralph (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wreck-It Ralph (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Yo-Kai Watch 3",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "3,31Gb",
+		            "icon_index": 96,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+},
+"Yo-Kai Watch 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/Y/Yo-Kai%20Watch%203%20%28EUR%29%20.cia",
+				   "output": "sdmc:/Yo-Kai Watch 3 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Yo-Kai Watch 3 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Yo-Kai Watch 3 (EUR).cia",
 				   "message": "Cleaning..."
 }]}]} 
