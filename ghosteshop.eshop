@@ -14,7 +14,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 83
+"revision": 84
 },
 "storeContent": [
 {"info": {
@@ -20542,7 +20542,18 @@
 		            "console": "3DS",
 		            "size": "81Mb",
 		            "icon_index": 101,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Barbie%20and%20Her%20Sisters%20Puppy%20Rescue/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Barbie%20and%20Her%20Sisters%20Puppy%20Rescue/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Barbie%20and%20Her%20Sisters%20Puppy%20Rescue/screenshots/gameplay.png",
+		            			"description": "GamePlay"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20573,7 +20584,12 @@
 		            "console": "3DS",
 		            "size": "56,31Mb",
 		            "icon_index": 102,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bratz%20Fashion%20Boutique/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20604,7 +20620,24 @@
 		            "console": "3DS",
 		            "size": "448,83Mb",
 		            "icon_index": 103,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/title-menu.png",
+								"description": "Title Menu"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/open-intro.png",
+								"description": "Open Intro"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/gameplay-1.png",
+								"description": "GamePlay 1"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/screenshots/gameplay-2.png",
+								"description": "GamePlay 2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20635,7 +20668,12 @@
 		            "console": "3DS",
 		            "size": "431,58Mb",
 		            "icon_index": 104,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Centipede%20Infestation/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20666,7 +20704,12 @@
 		            "console": "3DS",
 		            "size": "54,20Mb",
 		            "icon_index": 105,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Classic%20Games%20Overload%20Card%20%26%20Puzzle%20Edition/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20777,7 +20820,12 @@
 		            "console": "3DS",
 		            "size": "1,12Gb",
 		            "icon_index": 108,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Code%20of%20Princess/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20888,7 +20936,21 @@
 		            "console": "3DS",
 		            "size": "841,50Mb",
 		            "icon_index": 111,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Corpse%20Party/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Corpse%20Party/screenshots/Start.png",
+		            			"description": "Start"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Corpse%20Party/screenshots/Intro.png",
+		            			"description": "Intro"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Corpse%20Party/screenshots/School.png",
+		            			"description": "School"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20919,7 +20981,12 @@
 		            "console": "3DS",
 		            "size": "220,87Mb",
 		            "icon_index": 112,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Crash%20City%20Mayhem/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20950,7 +21017,21 @@
 		            "console": "3DS",
 		            "size": "1,34Gb",
 		            "icon_index": 113,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dead%20or%20Alive%20Dimensions/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dead%20or%20Alive%20Dimensions/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dead%20or%20Alive%20Dimensions/screenshots/character-select.png",
+		            			"description": "Character Select"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dead%20or%20Alive%20Dimensions/screenshots/fighting-gameplay.png",
+		            			"description": "Fighting GamePlay"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -20981,7 +21062,12 @@
 		            "console": "3DS",
 		            "size": "738,82Mb",
 		            "icon_index": 114,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Deca%20Sports%20Extreme/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21074,7 +21160,12 @@
 		            "console": "3DS",
 		            "size": "1,38Gb",
 		            "icon_index": 117,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Doctor%20Lautrec%20and%20the%20Forgotten%20Knights/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21136,7 +21227,21 @@
 		            "console": "3DS",
 		            "size": "1,42Gb",
 		            "icon_index": 119,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VII%20Fragments%20of%20the%20Forgotten%20Past/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VII%20Fragments%20of%20the%20Forgotten%20Past/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VII%20Fragments%20of%20the%20Forgotten%20Past/screenshots/cutscene.png",
+		            			"description": "CutScene"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VII%20Fragments%20of%20the%20Forgotten%20Past/screenshots/gameplay-town.png",
+		            			"description": "GamePlay Town"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21184,7 +21289,12 @@
 		            "console": "3DS",
 		            "size": "208,35Mb",
 		            "icon_index": 120,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dream%20Trigger%203D/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21247,7 +21357,21 @@
 		            "size": "539,06Mb",
 		            "additional": "DLC : 170,50Kb",
 		            "icon_index": 122,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Mystery%20Dungeon/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Mystery%20Dungeon/screenshots/1.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Mystery%20Dungeon/screenshots/2.png",
+		            			"description": "GamePlay 1"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Mystery%20Dungeon/screenshots/3.png",
+								"description": "GamePlay 2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21296,7 +21420,15 @@
 		            "size": "889,72Mb",
 		            "additional": "Update : 2,38Mb | DLC : 24,38Mb",
 		            "icon_index": 123,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%202%20-%20Untold%20the%20Fafnir%20Knight/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%202%20-%20Untold%20the%20Fafnir%20Knight/screenshots/-.png",
+		            			"description": "GamePlay"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21361,7 +21493,21 @@
 		            "console": "3DS",
 		            "size": "713,69Mb",
 		            "icon_index": 124,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20IV%20-%20Legends%20of%20the%20Titan/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20IV%20-%20Legends%20of%20the%20Titan/screenshots/Title-Screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20IV%20-%20Legends%20of%20the%20Titan/screenshots/Battle.png",
+		            			"description": "Battle"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20IV%20-%20Legends%20of%20the%20Titan/screenshots/Dungeon.png",
+		            			"description": "Dungeon"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21473,7 +21619,24 @@
 		            "size": "544,42Mb",
 		            "additional": "DLC : 198,73Mb",
 		            "icon_index": 127,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20V%20-%20Beyond%20the%20Myth/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20V%20-%20Beyond%20the%20Myth/screenshots/Home.png",
+								"description": "Home"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20V%20-%20Beyond%20the%20Myth/screenshots/Mapping.png",
+								"description": "Mapping"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20V%20-%20Beyond%20the%20Myth/screenshots/Combat.png",
+								"description": "Combat"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20V%20-%20Beyond%20the%20Myth/screenshots/Elites.png",
+								"description": "Elites"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21615,7 +21778,18 @@
 		            "size": "856,49Mb",
 		            "additional": "DLC : 78,31Kb",
 		            "icon_index": 131,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fantasy-life/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fantasy-life/art.png",
+		            			"description": "Art"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fantasy-life/screenshots/SlowPerformance.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21664,7 +21838,15 @@
 		            "size": "1,56Gb",
 		            "additional": "Update : 2,99Mb | DLC : 407,30Mb",
 		            "icon_index": 132,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fire%20Emblem%20Echoes%20Shadows%20of%20Valentia/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fire%20Emblem%20Echoes%20Shadows%20of%20Valentia/screenshots/crash-point.png",
+		            			"description": "Dialogue"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21791,7 +21973,12 @@
 		            "console": "3DS",
 		            "size": "90,30Mb",
 		            "icon_index": 135,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Frogger%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21853,7 +22040,12 @@
 		            "console": "3DS",
 		            "size": "61,99Mb",
 		            "icon_index": 137,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Garfield%20Kart/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21885,7 +22077,12 @@
 		            "size": "906,20Mb",
 		            "additional": "Update : 1;14Mb",
 		            "icon_index": 138,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hakuoki%20Memories%20of%20the%20Shinsengumi/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22030,7 +22227,15 @@
 		            "console": "3DS",
 		            "size": "341,29Mb",
 		            "icon_index": 141,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20A%20New%20Beginning/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20A%20New%20Beginning/screenshots/character-creation.png",
+		            			"description": "Character Creation"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22061,7 +22266,21 @@
 		            "console": "3DS",
 		            "size": "240,26Mb",
 		            "icon_index": 142,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20The%20Tale%20of%20Two%20Towns/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20The%20Tale%20of%20Two%20Towns/screenshots/home.png",
+		            			"description": "Home"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20The%20Tale%20of%20Two%20Towns/screenshots/load-game.png",
+		            			"description": "Load Game"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20The%20Tale%20of%20Two%20Towns/screenshots/shipping.png",
+		            			"description": "Shipping"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22092,7 +22311,21 @@
 		            "console": "3DS",
 		            "size": "2,18Gb",
 		            "icon_index": 143,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hatsune%20Miku%20Project%20Mirai%20DX/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hatsune%20Miku%20Project%20Mirai%20DX/screenshots/DIVA-Room.png",
+		            			"description": "DIVA Room"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hatsune%20Miku%20Project%20Mirai%20DX/screenshots/Song-Select.png",
+		            			"description": "Song Select"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hatsune%20Miku%20Project%20Mirai%20DX/screenshots/Ingame.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22123,7 +22356,15 @@
 		            "console": "3DS",
 		            "size": "464,77Mb",
 		            "icon_index": 144,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Heroes%20of%20Ruin/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Heroes%20of%20Ruin/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22154,7 +22395,21 @@
 		            "console": "3DS",
 		            "size": "403,09Mb",
 		            "icon_index": 145,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hey%20Pikmin/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hey%20Pikmin/screenshots/touch.png",
+		            			"description": "Touch"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hey%20Pikmin/screenshots/walking.png",
+		            			"description": "Walking"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hey%20Pikmin/screenshots/world.png",
+		            			"description": "World"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22185,7 +22440,12 @@
 		            "console": "3DS",
 		            "size": "522,81Mb",
 		            "icon_index": 146,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hometown%20Story/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22248,7 +22508,21 @@
 		            "size": "1,97Gb",
 		            "additional": "Update : 194,92Mb | DLC : 667,56Kb",
 		            "icon_index": 148,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hyrule%20Warriors%20Legends/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hyrule%20Warriors%20Legends/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hyrule%20Warriors%20Legends/screenshots/main-menu.png",
+		            			"description": "Main Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hyrule%20Warriors%20Legends/screenshots/cutscene.png",
+		            			"description": "CutScene"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22313,7 +22587,12 @@
 		            "console": "3DS",
 		            "size": "90,17Mb",
 		            "icon_index": 149,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Imagine%20Fashion%20Life/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22375,7 +22654,12 @@
 		            "console": "3DS",
 		            "size": "182,29Mb",
 		            "icon_index": 151,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Jaws%20Ultimate%20Predator/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22438,7 +22722,21 @@
 		            "size": "210,22Mb",
 		            "additional": "Update : 120,86Mb",
 		            "icon_index": 153,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Battle%20Royale/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Battle%20Royale/screenshots/Title-Screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Battle%20Royale/screenshots/citra-qt_2018-01-28_15-47-23.png",
+		            			"description": "Main Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Battle%20Royale/screenshots/citra-qt_2018-01-28_15-48-19.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22486,7 +22784,24 @@
 		            "console": "3DS",
 		            "size": "664,15Mb",
 		            "icon_index": 154,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Planet%20Robobot/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Planet%20Robobot/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Planet%20Robobot/screenshots/Team-Kirby-Clash.png",
+								"description": "Team Kirby Clash"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Planet%20Robobot/screenshots/Kirby-3D-Rumble.png",
+								"description": "Kirby 3D Rumble"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Planet%20Robobot/screenshots/Beach-Level.png",
+								"description": "Beach Level"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22548,7 +22863,12 @@
 		            "console": "3DS",
 		            "size": "1,76Gb",
 		            "icon_index": 156,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Little%20Battlers%20eXperience%E2%84%A2/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22579,7 +22899,12 @@
 		            "console": "3DS",
 		            "size": "415,99Mb",
 		            "icon_index": 157,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20Batman%202%E2%84%A2%20DC%20Super%20Heroes/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22610,7 +22935,21 @@
 		            "console": "3DS",
 		            "size": "735,73Mb",
 		            "icon_index": 158,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lego%20City%20Undercover%20the%20Chase%20Begins/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lego%20City%20Undercover%20the%20Chase%20Begins/screenshots/LEGOCityScreen1.png",
+		            			"description": "Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lego%20City%20Undercover%20the%20Chase%20Begins/screenshots/LEGOCityScreen2.png",
+		            			"description": "In Game | 1/2"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lego%20City%20Undercover%20the%20Chase%20Begins/screenshots/LEGOCityScreen3.png",
+		            			"description": "In Game | 2/2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22641,7 +22980,12 @@
 		            "console": "3DS",
 		            "size": "469,36Mb",
 		            "icon_index": 159,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20Harry%20Potter%E2%84%A2%20Years%205-7/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22673,7 +23017,12 @@
 		            "size": "441,87Mb",
 		            "additional": "Update : 17,75Mb | DLC : 1,91Mb",
 		            "icon_index": 160,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20Marvel%20Avengers/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22862,7 +23211,12 @@
 		            "console": "3DS",
 		            "size": "439,40Mb",
 		            "icon_index": 165,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20The%20Lord%20of%20the%20Rings%E2%84%A2/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22924,7 +23278,21 @@
 		            "console": "3DS",
 		            "size": "730,43Mb",
 		            "icon_index": 167,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Langrisser%20Reincarnation%20Tensei/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Langrisser%20Reincarnation%20Tensei/screenshots/menu.png",
+		            			"description": "Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Langrisser%20Reincarnation%20Tensei/screenshots/create-character.png",
+		            			"description": "Create Character"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Langrisser%20Reincarnation%20Tensei/screenshots/map.png",
+		            			"description": "Map"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23017,7 +23385,27 @@
 		            "console": "3DS",
 		            "size": "1,21Gb",
 		            "icon_index": 170,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lord%20of%20Magna%20Maiden%20Heaven/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lord%20of%20Magna%20Maiden%20Heaven/screenshots/gameplay.png",
+								"description": "GamePlay"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Lord%20of%20Magna%20Maiden%20Heaven/screenshots/dialogue.png",
+								"description": "Dialogue"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Lord%20of%20Magna%20Maiden%20Heaven/screenshots/cutscene.png",
+								"description": "CutScene"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Lord%20of%20Magna%20Maiden%20Heaven/screenshots/battle.png",
+								"description": "Battle"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Lord%20of%20Magna%20Maiden%20Heaven/screenshots/CG.png",
+								"description": "CG"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23141,7 +23529,24 @@
 		            "console": "3DS",
 		            "size": "546,12Mb",
 		            "icon_index": 174,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20and%20Luigi%20Superstar%20Saga%20Bowsers%20Minions/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20and%20Luigi%20Superstar%20Saga%20Bowsers%20Minions/screenshots/menu.png",
+								"description": "Menu"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20and%20Luigi%20Superstar%20Saga%20Bowsers%20Minions/screenshots/playing.png",
+								"description": "Playing"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20and%20Luigi%20Superstar%20Saga%20Bowsers%20Minions/screenshots/fighting.png",
+								"description": "Fighting"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20and%20Luigi%20Superstar%20Saga%20Bowsers%20Minions/screenshots/bowsers-minions.png",
+								"description": "Browsers Minions"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23203,7 +23608,15 @@
 		            "console": "3DS",
 		            "size": "463,70Mb",
 		            "icon_index": 176,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mega%20Man%20Legacy%20Collection/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mega%20Man%20Legacy%20Collection/screenshots/LoadingScreen.png",
+		            			"description": "Loading Screen"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23234,7 +23647,30 @@
 		            "console": "3DS",
 		            "size": "681,46Mb",
 		            "icon_index": 177,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/screenshots/main-screen.png",
+								"description": "Main Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/screenshots/laser-aim.png",
+								"description": "Laser Aim"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/screenshots/finding-monster.png",
+								"description": "Finding Monster"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/screenshots/arrive.png",
+								"description": "Arrive"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/screenshots/melee-attack.png",
+								"description": "Melee Attack"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/screenshots/shoots.png",
+								"description": "Shoots"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23266,7 +23702,21 @@
 		            "size": "1,25Gb",
 		            "additional": "Update : 55,26Mb",
 		            "icon_index": 178,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Prime%20Federation%20Force/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Prime%20Federation%20Force/screenshots/MPFFScreen1.png",
+		            			"description": "Profil Select"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Prime%20Federation%20Force/screenshots/MPFFScreen2.png",
+		            			"description": "In Game | 1/2"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Prime%20Federation%20Force/screenshots/MPFFScreen3.png",
+		            			"description": "In Game | 2/2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23345,7 +23795,21 @@
 		            "console": "3DS",
 		            "size": "857,17Mb",
 		            "icon_index": 180,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Miitopia/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Miitopia/screenshots/startscreen.png",
+		            			"description": "Start Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Miitopia/screenshots/menu.png",
+		            			"description": "Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Miitopia/screenshots/map.png",
+		            			"description": "Map"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23376,7 +23840,21 @@
 		            "console": "3DS",
 		            "size": "291,63Mb",
 		            "icon_index": 181,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mini%20Mario%20and%20Friends%20Amiibo%20Challenge/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mini%20Mario%20and%20Friends%20Amiibo%20Challenge/screenshots/Mini1.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mini%20Mario%20and%20Friends%20Amiibo%20Challenge/screenshots/Mini2.png",
+		            			"description": "In Game | 1/2"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mini%20Mario%20and%20Friends%20Amiibo%20Challenge/screenshots/Mini3.png",
+		            			"description": "In Game | 2/2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23500,7 +23978,18 @@
 		            "console": "3DS",
 		            "size": "1,74Gb",
 		            "icon_index": 185,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%203%20-%20Ultimate/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%203%20-%20Ultimate/screenshots/citra-qt_2017-07-24_22-35-04.png",
+		            			"description": "CAPCOM"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%203%20-%20Ultimate/screenshots/citra-qt_2017-07-24_22-36-42.png",
+		            			"description": "Perso"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23531,7 +24020,21 @@
 		            "console": "3DS",
 		            "size": "1,52Gb",
 		            "icon_index": 186,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%20Generations/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%20Generations/screenshots/Title-Screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%20Generations/screenshots/Ingame-Village.png",
+		            			"description": "In Game | Village"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%20Generations/screenshots/Ingame-Hunt.png",
+		            			"description": "In Game | Hunt"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23717,7 +24220,12 @@
 		            "console": "3DS",
 		            "size": "385,57Mb",
 		            "icon_index": 192,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Powerful%20Shippuden/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23748,7 +24256,24 @@
 		            "console": "3DS",
 		            "size": "177,57Mb",
 		            "icon_index": 193,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nikolis%20Pencil%20Puzzle/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nikolis%20Pencil%20Puzzle/screenshots/title-screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Nikolis%20Pencil%20Puzzle/screenshots/sudoku.png",
+								"description": "Sudoku"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Nikolis%20Pencil%20Puzzle/screenshots/shikaku.png",
+								"description": "Shikaku"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Nikolis%20Pencil%20Puzzle/screenshots/hashi.png",
+								"description": "Hashi"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23779,7 +24304,12 @@
 		            "console": "3DS",
 		            "size": "450,39Mb",
 		            "icon_index": 194,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nintendogs%20Cats%20French%20Bulldog/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23810,7 +24340,12 @@
 		            "console": "3DS",
 		            "size": "450,39Mb",
 		            "icon_index": 195,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nintendogs%20Cats%20Toy%20Poodle/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23903,7 +24438,12 @@
 		            "console": "3DS",
 		            "size": "141,80Mb",
 		            "icon_index": 198,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/PAC-MAN%20and%20the%20Ghostly%20Adventures/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24107,7 +24647,21 @@
 		            "console": "3DS",
 		            "size": "18,01Mb",
 		            "icon_index": 204,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Picross%20e4/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Picross%20e4/screenshots/Title-Screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Picross%20e4/screenshots/Puzzle-Select.png",
+		            			"description": "Puzzle Select"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Picross%20e4/screenshots/In-game.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24138,7 +24692,21 @@
 		            "console": "3DS",
 		            "size": "92,03Mb",
 		            "icon_index": 205,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pilotwings%20Resort/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pilotwings%20Resort/screenshots/pilotwings-resort-3.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pilotwings%20Resort/screenshots/pilotwings-resort-2.png",
+		            			"description": "In Game | 1/2"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pilotwings%20Resort/screenshots/pilotwings-resort-1.png",
+		            			"description": "In Game | 2/2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24231,7 +24799,12 @@
 		            "console": "3DS",
 		            "size": "320,65Mb",
 		            "icon_index": 208,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Art%20Academy/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24263,7 +24836,21 @@
 		            "size": "1,77Gb",
 		            "additional": "Update : 33,42Mb",
 		            "icon_index": 209,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Omega%20Ruby/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Omega%20Ruby/screenshots/1.png",
+		            			"description": "Towns Welcome"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Omega%20Ruby/screenshots/2.png",
+		            			"description": "Fly"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Omega%20Ruby/screenshots/3.png",
+		            			"description": "Battle"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24311,7 +24898,12 @@
 		            "console": "3DS",
 		            "size": "308,67Mb",
 		            "icon_index": 210,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pok%C3%A9mon%20Rumble%20Blast/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24342,7 +24934,21 @@
 		            "console": "3DS",
 		            "size": "950Mb",
 		            "icon_index": 211,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/screenshots/Title.png",
+		            			"description": "Title"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/screenshots/citra-qt_2017-12-22_17-00-45.png",
+		            			"description": "GamePlay | 1/2"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/screenshots/Gameplay.png",
+		            			"description": "GamePlay | 2/2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24559,7 +25165,12 @@
 		            "console": "3DS",
 		            "size": "91,14Mb",
 		            "icon_index": 218,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Puppies%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24781,7 +25392,21 @@
 		            "size": "121,33Mb",
 		            "additional": "Update : 7Mb | DLC : 119,26Mb",
 		            "icon_index": 224,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/RPG%20Maker%20Fes/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/RPG%20Maker%20Fes/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/RPG%20Maker%20Fes/screenshots/editor.png",
+		            			"description": "Editor"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/RPG%20Maker%20Fes/screenshots/in-game.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24909,7 +25534,21 @@
 		            "size": "980Mb",
 		            "additional": "DLC : 33,01Mb",
 		            "icon_index": 227,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Radiant%20Historia%20Perfect%20Chronology/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Radiant%20Historia%20Perfect%20Chronology/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Radiant%20Historia%20Perfect%20Chronology/screenshots/dialogue-overworld.png",
+		            			"description": "Dialogue Overworld"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Radiant%20Historia%20Perfect%20Chronology/screenshots/combat.png",
+		            			"description": "Combat"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24957,7 +25596,21 @@
 		            "console": "3DS",
 		            "size": "188,91Mb",
 		            "icon_index": 228,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rayman%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rayman%203D/screenshots/Screen1.png",
+		            			"description": "In Game | 1/3"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rayman%203D/screenshots/Screen2.png",
+		            			"description": "In Game | 2/3"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rayman%203D/screenshots/Screen3.png",
+		            			"description": "In Game | 3/3"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25019,7 +25672,21 @@
 		            "console": "3DS",
 		            "size": "34,19Mb",
 		            "icon_index": 230,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Regular%20Show%20Mordecai%20and%20Rigby%20in%208-Bit%20Land/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Regular%20Show%20Mordecai%20and%20Rigby%20in%208-Bit%20Land/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Regular%20Show%20Mordecai%20and%20Rigby%20in%208-Bit%20Land/screenshots/tutorial.png",
+		            			"description": "Tutorial"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Regular%20Show%20Mordecai%20and%20Rigby%20in%208-Bit%20Land/screenshots/world-select.png",
+		            			"description": "World Select"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25236,7 +25903,12 @@
 		            "console": "3DS",
 		            "size": "157,24Mb",
 		            "icon_index": 237,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/River%20City%20Tokyo%20Rumble/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25316,7 +25988,24 @@
 		            "console": "3DS",
 		            "size": "1,34Gb",
 		            "icon_index": 239,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rune%20Factory%204/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rune%20Factory%204/screenshots/citra-qt_2017-10-26_20-20-56.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Rune%20Factory%204/screenshots/citra-qt_2017-07-01_13-29-48.png",
+								"description": "In Game | 1/3"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Rune%20Factory%204/screenshots/citra-qt_2017-07-01_13-28-59.png",
+								"description": "In Game | 2/3"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Rune%20Factory%204/screenshots/citra-qt_2017-07-01_13-27-52.png",
+								"description": "In Game | 3/3"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25347,7 +26036,21 @@
 		            "console": "3DS",
 		            "size": "75,77Mb",
 		            "icon_index": 240,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rustys%20Real%20Deal%20Baseball/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rustys%20Real%20Deal%20Baseball/screenshots/Mainmenu.png",
+		            			"description": "Main Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rustys%20Real%20Deal%20Baseball/screenshots/Shop.png",
+		            			"description": "Shop"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rustys%20Real%20Deal%20Baseball/screenshots/Gameplay.png",
+		            			"description": "GamePlay"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25409,7 +26112,21 @@
 		            "console": "3DS",
 		            "size": "458,61Mb",
 		            "icon_index": 242,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Scribblenauts%20Unlimited/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Scribblenauts%20Unlimited/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Scribblenauts%20Unlimited/screenshots/write-an-object.png",
+		            			"description": "Write an Object"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Scribblenauts%20Unlimited/screenshots/city.png",
+		            			"description": "City"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25440,7 +26157,12 @@
 		            "console": "3DS",
 		            "size": "587,86Mb",
 		            "icon_index": 243,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Scribblenauts%E2%84%A2%20Unmasked%20%20A%20DC%20Comics%20Adventure/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25520,7 +26242,21 @@
 		            "console": "3DS",
 		            "size": "1,70Gb",
 		            "icon_index": 245,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Senran%20Kagura%20Burst/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Senran%20Kagura%20Burst/screenshots/main-menu.png",
+		            			"description": "Main Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Senran%20Kagura%20Burst/screenshots/dressing-room.png",
+		            			"description": "Dressing Room"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Senran%20Kagura%20Burst/screenshots/dojo.png",
+		            			"description": "Dojo"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25583,7 +26319,21 @@
 		            "size": "2,78Gb",
 		            "additional": "Update : 2,64Mb | DLC :234,56Kb",
 		            "icon_index": 247,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Devil%20Survivor%202%20Record%20Breaker/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Devil%20Survivor%202%20Record%20Breaker/screenshots/citra-qt_2018-01-27_21-48-23.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Devil%20Survivor%202%20Record%20Breaker/screenshots/citra-qt_2018-01-27_21-46-20.png",
+		            			"description": "Map"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Devil%20Survivor%202%20Record%20Breaker/screenshots/citra-qt_2018-01-27_21-45-33.png",
+		            			"description": "Dialogue"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25649,7 +26399,21 @@
 		            "size": "1,67Gb",
 		            "additional": "DLC : 414,69Kb",
 		            "icon_index": 248,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Strange%20Journey%20Redux/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Strange%20Journey%20Redux/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Strange%20Journey%20Redux/screenshots/cutscene.png",
+		            			"description": "CutScene"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Strange%20Journey%20Redux/screenshots/in-game.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25698,7 +26462,21 @@
 		            "size": "1,68Gb",
 		            "additional": "DLC : 39,40Mb",
 		            "icon_index": 249,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV%20Apocalypse/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV%20Apocalypse/screenshots/Title.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV%20Apocalypse/screenshots/Cut-Scene.png",
+		            			"description": "CutScene"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV%20Apocalypse/screenshots/in-game.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25747,7 +26525,21 @@
 		            "size": "1,75Gb",
 		            "additional": "DLC : 21,67Mb",
 		            "icon_index": 250,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV/screenshots/Title-Screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV/screenshots/Menu.png",
+		            			"description": "Main Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20IV/screenshots/In-Game.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25827,7 +26619,21 @@
 		            "size": "151,44Mb",
 		            "additional": "Update : 171,75Mb",
 		            "icon_index": 252,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shovel%20Knight%20Treasure%20Trove%20-%20Update%20ver3.2/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shovel%20Knight%20Treasure%20Trove%20-%20Update%20ver3.2/screenshots/citra-qt_2017-10-24_01-54-53.png",
+		            			"description": "In Game | 1/3"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shovel%20Knight%20Treasure%20Trove%20-%20Update%20ver3.2/screenshots/citra-qt_2017-10-24_01-55-36.png",
+		            			"description": "In Game | 2/3"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shovel%20Knight%20Treasure%20Trove%20-%20Update%20ver3.2/screenshots/citra-qt_2017-10-24_01-56-48.png",
+		            			"description": "In Game | 3/3"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25937,7 +26743,12 @@
 		            "console": "3DS",
 		            "size": "421,58Mb",
 		            "icon_index": 255,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Skylanders%20Giants%E2%84%A2/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25969,7 +26780,15 @@
 		            "size": "815,61Mb",
 		            "additional": "70,31Kb",
 		            "icon_index": 256,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20and%20All%20Stars%20Racing%20Transformed/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20and%20All%20Stars%20Racing%20Transformed/screenshots/stuck-menu.png",
+		            			"description": "Stuck Menu"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26048,7 +26867,15 @@
 		            "console": "3DS",
 		            "size": "825,08Mb",
 		            "icon_index": 258,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20Boom%20Shattered%20Crystal/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20Boom%20Shattered%20Crystal/screenshots/loading.png",
+		            			"description": "Loading"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26079,7 +26906,12 @@
 		            "console": "3DS",
 		            "size": "606,15Mb",
 		            "icon_index": 259,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20Generations/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26110,7 +26942,21 @@
 		            "console": "3DS",
 		            "size": "1,22Gb",
 		            "icon_index": 260,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20Lost%20World/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20Lost%20World/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20Lost%20World/screenshots/first-level.png",
+		            			"description": "First Level"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sonic%20Lost%20World/screenshots/level-clear.png",
+		            			"description": "Level Clear"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26203,7 +27049,12 @@
 		            "console": "3DS",
 		            "size": "169,60Mb",
 		            "icon_index": 263,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/SpongeBob%20SquigglePants/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26234,7 +27085,12 @@
 		            "console": "3DS",
 		            "size": "420,74Mb",
 		            "icon_index": 264,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Spy%20Hunter/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26265,7 +27121,24 @@
 		            "console": "3DS",
 		            "size": "575,67Mb",
 		            "icon_index": 265,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Star%20Fox%2064%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Star%20Fox%2064%203D/screenshots/citra-qt_2017-06-04_12-28-16.png",
+								"description": "In Game | 1/4"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Star%20Fox%2064%203D/screenshots/citra-qt_2017-06-04_12-28-59.png",
+								"description": "In Game | 2/4"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Star%20Fox%2064%203D/screenshots/citra-qt_2017-06-04_12-29-39.png",
+								"description": "In Game | 3/4"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Star%20Fox%2064%203D/screenshots/citra-qt_2017-06-04_12-30-39.png",
+								"description": "In Game | 4/4"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26296,7 +27169,24 @@
 		            "console": "3DS",
 		            "size": "1,43Gb",
 		            "icon_index": 266,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Stella%20Glow/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Stella%20Glow/screenshots/World-Map.png",
+								"description": "World Map"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Stella%20Glow/screenshots/Shop.png",
+								"description": "Shop"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Stella%20Glow/screenshots/History.png",
+								"description": "History"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Stella%20Glow/screenshots/Battle.png",
+								"description": "Battle"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26358,7 +27248,12 @@
 		            "console": "3DS",
 		            "size": "877,13Mb",
 		            "icon_index": 268,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sushi%20Striker%20The%20Way%20of%20Sushido/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26389,7 +27284,21 @@
 		            "console": "3DS",
 		            "size": "43,19Mb",
 		            "icon_index": 269,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%20They%20Came%20by%20Wave/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%20They%20Came%20by%20Wave/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%20They%20Came%20by%20Wave/screenshots/beginning-dialogue.png",
+		            			"description": "Beginning Dialogue"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%20They%20Came%20by%20Wave/screenshots/battle.png",
+		            			"description": "Battle"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26420,7 +27329,27 @@
 		            "console": "3DS",
 		            "size": "170,37Mb",
 		            "icon_index": 270,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%202%20Beyond%20the%20Waves/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%202%20Beyond%20the%20Waves/screenshots/title-screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%202%20Beyond%20the%20Waves/screenshots/world-map.png",
+								"description": "World Map"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%202%20Beyond%20the%20Waves/screenshots/digitown.png",
+								"description": "DigiTown"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%202%20Beyond%20the%20Waves/screenshots/battle.png",
+								"description": "Battle"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%202%20Beyond%20the%20Waves/screenshots/attacking.png",
+								"description": "Attacking"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26451,7 +27380,24 @@
 		            "console": "3DS",
 		            "size": "s215,10Mb",
 		            "icon_index": 271,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%203%20The%20Rise%20of%20Digitoll/art.png",
+		            			"description": "Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%203%20The%20Rise%20of%20Digitoll/screenshots/title-screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%203%20The%20Rise%20of%20Digitoll/screenshots/overworld.png",
+								"description": "Overworld"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%203%20The%20Rise%20of%20Digitoll/screenshots/battle.png",
+								"description": "Battle"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/The%20Denpa%20Men%203%20The%20Rise%20of%20Digitoll/screenshots/battle-attacking.png",
+								"description": "Battle Attacking"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26482,7 +27428,12 @@
 		            "console": "3DS",
 		            "size": "1,54Gb",
 		            "icon_index": 272,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Tales%20of%20the%20Abyss%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26637,7 +27588,12 @@
 		            "console": "3DS",
 		            "size": "861,98Mb",
 		            "icon_index": 277,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Legacy/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26669,7 +27625,12 @@
 		            "size": "523,89Mb",
 		            "additional": "Update : 136,64Mb",
 		            "icon_index": 278,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda%20Tri%20Force%20Heroes/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26860,7 +27821,24 @@
 		            "size": "1,64Gb",
 		            "additional": "DLC : 499,86Mb",
 		            "icon_index": 283,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ttf%20Curtain%20Call/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ttf%20Curtain%20Call/screenshots/Title.png",
+								"description": "Title"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Ttf%20Curtain%20Call/screenshots/Quest.png",
+								"description": "Quest"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Ttf%20Curtain%20Call/screenshots/Ingame.png",
+								"description": "In Game"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Ttf%20Curtain%20Call/screenshots/Clear.png",
+								"description": "Clear"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26939,7 +27917,24 @@
 		            "console": "3DS",
 		            "size": "113Mb",
 		            "icon_index": 285,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ultimate%20Nes%20Remix/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ultimate%20Nes%20Remix/screenshots/Title-Screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Ultimate%20Nes%20Remix/screenshots/Speed-Mario-Bros.png",
+								"description": "Speed Mario Bros"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Ultimate%20Nes%20Remix/screenshots/Remix-Stage-SMB3.png",
+								"description": "Remix Stage SMB3"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Ultimate%20Nes%20Remix/screenshots/Remix-Stage-Kirby.png",
+								"description": "Remix Stage Kirby"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -27002,7 +27997,21 @@
 		            "size": "1,20Gb",
 		            "additional": "Update : 13,11Mb",
 		            "icon_index": 287,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/WarioWare%20Gold/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/WarioWare%20Gold/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/WarioWare%20Gold/screenshots/selection-screen.png",
+		            			"description": "Selection Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/WarioWare%20Gold/screenshots/mini-game.png",
+		            			"description": "Mini Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -27174,7 +28183,12 @@
 		            "console": "NEW3DS",
 		            "size": "3,52Gb",
 		            "icon_index": 292,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Xenoblade%20Chronicles%203D/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -27351,7 +28365,12 @@
 		            "console": "3DS",
 		            "size": "419,17Mb",
 		            "icon_index": 296,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Yoshis%20New%20Island/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -27382,7 +28401,24 @@
 		            "console": "3DS",
 		            "size": "825,62Mb",
 		            "icon_index": 297,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Escape%20Virtue%27s%20Last%20Reward/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Escape%20Virtue%27s%20Last%20Reward/screenshots/title-screen.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Escape%20Virtue%27s%20Last%20Reward/screenshots/intro.png",
+								"description": "Intro"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Escape%20Virtue%27s%20Last%20Reward/screenshots/in-game1.png",
+								"description": "In Game | 1/2"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Escape%20Virtue%27s%20Last%20Reward/screenshots/in-game2.png",
+								"description": "In Game | 2/2"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -27413,7 +28449,21 @@
 		            "console": "3DS",
 		            "size": "1,16Gb",
 		            "icon_index": 298,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Time%20Dilemma/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Time%20Dilemma/screenshots/title-screen.png",
+		            			"description": "Title Screen"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Time%20Dilemma/screenshots/menu.png",
+		            			"description": "Menu"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Zero%20Time%20Dilemma/screenshots/in-game.png",
+		            			"description": "In Game"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
