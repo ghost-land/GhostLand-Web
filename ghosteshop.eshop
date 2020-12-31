@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 89
+"revision": 90
 },
 "storeContent": [
 {"info": {
@@ -8044,6 +8044,11 @@
 					"size": "537,82Mb",
 					"additional": "Update : 64,57Mb | DLC : 731,56Kb",
 					"icon_index": 178,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Disney%20Magical%20World/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -8268,6 +8273,11 @@
 					"console": "3DS",
 					"size": "212,20Mb",
 					"icon_index": 183,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Girls%27%20Fashion%20Shoot/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
@@ -9647,6 +9657,11 @@
 					"console": "3DS",
 					"size": "621,15Mb",
 					"icon_index": 222,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Need%20for%20Speed%20The%20Run/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
 },
@@ -11493,6 +11508,11 @@
 					"console": "3DS",
 					"size": "78,17Mb",
 					"icon_index": 304,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Madagascar%203%20%20The%20Video%20Game/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
@@ -12407,6 +12427,11 @@
 					"console": "3DS",
 					"size": "2,17Gb",
 					"icon_index": 321,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/MONSTER%20HUNTER%20XX%20%28%E6%97%A5%E6%96%87%E7%89%88%29/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
@@ -12559,6 +12584,11 @@
 					"console": "3DS",
 					"size": "84,22Mb",
 					"icon_index": 325,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/NCIS%203D%20Based%20on%20the%20TV%20Series/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
@@ -12749,31 +12779,36 @@
 ]
 },
 {"info": {
-					"title": "Nicktoons MLB 3",
+					"title": "Nicktoons MLB 3D",
 					"version": "USA",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
 					"size": "82,43Mb",
 					"icon_index": 329,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nicktoons%20MLB%203D/art.png",
+		            			"description": "Art"
+		            		}],
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Nicktoons MLB 3": [
+"Nicktoons MLB 3D": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/N/Nicktoons%20MLB%203D%20%28USA%29.cia",
-				   "output": "sdmc:/Nicktoons MLB 3 (USA).cia",
+				   "output": "sdmc:/Nicktoons MLB 3D (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Nicktoons MLB 3 (USA).cia",
+				   "file": "/Nicktoons MLB 3D (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Nicktoons MLB 3 (USA).cia",
+				   "file": "sdmc:/Nicktoons MLB 3D (USA).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -17312,7 +17347,12 @@
 		            "console": "3DS",
 		            "size": "27,24Mb",
 		            "icon_index": 24,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Luxor/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-04 at 10:17 (UTC)"
 },
@@ -17374,7 +17414,12 @@
 		            "console": "3DS",
 		            "size": "33,35Mb",
 		            "icon_index": 26,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mahjong%20Mysteries%20-%20Ancient%20Athena/art.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -23313,7 +23358,12 @@
 		            "console": "3DS",
 		            "size": "196,69Mb",
 		            "icon_index": 166,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lalaloopsy%20Carnival%20of%20Friends/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23502,7 +23552,12 @@
 		            "console": "3DS",
 		            "size": "679Mb",
 		            "icon_index": 171,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Madden%20NFL%20Football/art.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23533,7 +23588,12 @@
 		            "console": "3DS",
 		            "size": "64,31Mb",
 		            "icon_index": 172,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mahjong%203D%20Warriors%20of%20the%20Emperor/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23830,7 +23890,12 @@
 		            "console": "3DS",
 		            "size": "423,64Mb",
 		            "icon_index": 179,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Michael%20Jackson%20The%20Experience/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23982,7 +24047,12 @@
 		            "console": "3DS",
 		            "size": "43,12Mb",
 		            "icon_index": 183,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%204x4%203D/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24193,7 +24263,12 @@
 		            "console": "3DS",
 		            "size": "200,50Mb",
 		            "icon_index": 189,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Myst/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24255,7 +24330,12 @@
 		            "console": "3DS",
 		            "size": "126,50Mb",
 		            "icon_index": 191,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nano%20Assault/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24803,7 +24883,12 @@
 		            "console": "3DS",
 		            "size": "82,21Mb",
 		            "icon_index": 206,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pinball%20Hall%20of%20Fame%20The%20Williams%20Collection/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25267,7 +25352,12 @@
 		            "console": "3DS",
 		            "size": "89,81Mb",
 		            "icon_index": 219,
-		            "sheet_index": 1,
+					"sheet_index": 1,
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Purr%20Pals%20Purrfection/art.png",
+		            			"description": "Art"
+		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -28253,7 +28343,10 @@
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Xenoblade%20Chronicles%203D/boxart.png",
-		            			"description": "Cover-Art"
+								"description": "Cover-Art"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Xenoblade%20Chronicles%203D/art.png",
+								"description": "Art"
 		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
