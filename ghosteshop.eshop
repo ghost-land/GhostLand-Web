@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 90
+"revision": 92
 },
 "storeContent": [
 {"info": {
@@ -28751,5 +28751,393 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/12-Sai. Koisuru Diary (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "AKB48+Me",
+		            "version": "JPN",
+		            "author": "Kadokawa Shoten",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "836,53Mb",
+		            "icon_index": 302,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Akb48%2BMe/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
+
+		            "description": "AKB48+Me is a Japanese-exculsive Nintendo 3DS game released in 2012 where you can make your Mii a member of the AKB48 and join their performances.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"AKB48+Me": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/AKB48%2BMe%20%28JPN%29.cia",
+				   "output": "sdmc:/AKB48+Me (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/AKB48+Me (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/AKB48+Me (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Ace Combat: Assault Horizon Legacy",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "673,66Mb",
+		            "icon_index": 303,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ace%20Combat%20Assault%20Horizon%20Legacy/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
+		            "description": "Assault Horizon Legacy features standard Ace Combat gameplay, specifically that of Ace Combat 04: Shattered Skies, designed for the Nintendo 3DS's controls, while using a slightly enhanced version of Ace Combat: Joint Assault's engine.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Ace Combat 3D: Cross Rumble": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Ace%20Combat%203D%20-%20Cross%20Rumble%20%28JPN%29.cia",
+				   "output": "sdmc:/Ace Combat 3D - Cross Rumble (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ace Combat 3D - Cross Rumble (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ace Combat 3D - Cross Rumble (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Acrylic Palette: Irodori Cafe - Cheers",
+		            "version": "JPN",
+		            "author": "Klon Co.",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "83,90Mb",
+		            "icon_index": 304,
+		            "sheet_index": 1,
+		            "description": "This work is a communication game set in a fictitious cafe. Real and active idols will appear as characters in the game as they are, and you can enjoy conversations and stories with them.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Acrylic Palette: Irodori Cafe - Cheers": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Acrylic%20Palette%20-%20Irodori%20Cafe%20-%20Cheers%20%28JPN%29.cia",
+				   "output": "sdmc:/Acrylic Palette - Irodori Cafe - Cheers (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Acrylic Palette - Irodori Cafe - Cheers (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Acrylic Palette - Irodori Cafe - Cheers (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Aikatsu Stars! My Special Appeal",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "355,58Mb",
+		            "icon_index": 305,
+		            "sheet_index": 1,
+		            "description": "You can create 100,000 different characters. Includes Story Mode, Free Audition, Dressmaking, Music Video, and My Bedroom Mode for a total of 55 episodes, including 1 prologue, 6 episodes for each group, and 3 episodes for each character.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Aikatsu Stars! My Special Appeal": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Aikatsu%20Stars%21%20My%20Special%20Appeal%20%28JPN%29.cia",
+				   "output": "sdmc:/Aikatsu Stars My Special Appeal (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Aikatsu Stars My Special Appeal (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Aikatsu Stars My Special Appeal (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Aikatsu! 2-nin no My Princess",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "337,06Mb",
+		            "icon_index": 306,
+		            "sheet_index": 1,
+		            "description": "Like the last game, the game starts the player off with customizing their character. Also like the last game, there are two parts.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Aikatsu! 2-nin no My Princess": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Aikatsu%21%202-nin%20no%20My%20Princess%20%28JPN%29.cia",
+				   "output": "sdmc:/Aikatsu 2-nin no My Princess (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Aikatsu 2-nin no My Princess (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Aikatsu 2-nin no My Princess (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Aikatsu! My No.1 Stage!",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "17,07Mb",
+		            "icon_index": 307,
+		            "sheet_index": 1,
+		            "description": "A karaoke feature known as Aikara (Aikatsu! Karaoke) is added to allow players to sing along and is able to record one's voice, and the headset from the limited edition will assist this function.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Aikatsu! My No.1 Stage!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Aikatsu%21%20My%20No.1%20Stage%21%20%28JPN%29.cia",
+				   "output": "sdmc:/Aikatsu My No.1 Stage (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Aikatsu My No.1 Stage (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Aikatsu My No.1 Stage (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "All Kamen Rider: Rider Revolution",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "587,42Mb",
+		            "icon_index": 308,
+		            "sheet_index": 1,
+		            "description": "After being knocked out, Kamen Rider Ex-Aid awakens strapped down to a table in a room.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"All Kamen Rider: Rider Revolution": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/All%20Kamen%20Rider%20-%20Rider%20Revolution%20%28JPN%29.cia",
+				   "output": "sdmc:/All Kamen Rider Rider Revolution (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/All Kamen Rider Rider Revolution (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/All Kamen Rider Rider Revolution (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Anpanman to Asobo: New Aiueo Kyoushitsu",
+		            "version": "JPN",
+		            "author": "Agatsuma Entertainment",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "410,63Mb",
+		            "icon_index": 309,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Anpanman to Asobo: New Aiueo Kyoushitsu": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Anpanman%20to%20Asobo%20-%20New%20Aiueo%20Kyoushitsu%20%28JPN%29.cia",
+				   "output": "sdmc:/Anpanman to Asobo New Aiueo Kyoushitsu (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Anpanman to Asobo New Aiueo Kyoushitsu (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Anpanman to Asobo New Aiueo Kyoushitsu (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Ansatsu Kyoushitsu: Assassin Ikusei Keikaku!!",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "197,60Mb",
+		            "icon_index": 310,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Ansatsu Kyoushitsu: Assassin Ikusei Keikaku!!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Ansatsu%20Kyoushitsu%20-%20Assassin%20Ikusei%20Keikaku%21%21%20%28JPN%29.cia",
+				   "output": "sdmc:/Ansatsu Kyoushitsu Assassin Ikusei Keikaku (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ansatsu Kyoushitsu Assassin Ikusei Keikaku (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ansatsu Kyoushitsu Assassin Ikusei Keikaku (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Azure Striker Gunvolt: Striker Pack",
+		            "version": "JPN",
+		            "author": "Inti Creates",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "887,80Mb",
+		            "icon_index": 311,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Azure%20Striker%20Gunvolt%20-%20Striker%20Pack%20-%20Update%20ver%201.2/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
+		            "description": "The original critically acclaimed 2D action adventure, Azure Striker Gunvolt, is combined with its highly anticipated successor, Azure Striker Gunvolt 2, in one amazing game package.",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Armed Blue Gunvolt: Striker Pack": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Armed%20Blue%20Gunvolt%20-%20Striker%20Pack%20%28JPN%29.cia",
+				   "output": "sdmc:/Armed Blue Gunvolt Striker Pack (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Armed Blue Gunvolt Striker Pack (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Armed Blue Gunvolt Striker Pack (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Atelier Deco La Doll Collection",
+		            "version": "JPN",
+		            "author": "Starfish",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "147,20Mb",
+		            "icon_index": 312,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Atelier Deco La Doll Collection": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Atelier%20Deco%20La%20Doll%20Collection%20%28JPN%29.cia",
+				   "output": "sdmc:/Atelier Deco La Doll Collection (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Atelier Deco La Doll Collection (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Atelier Deco La Doll Collection (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Azito 3D",
+		            "version": "JPN",
+		            "author": "Hamster",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "89,25Mb",
+		            "icon_index": 313,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2020-12-30 at 01:50 (UTC)"
+},
+"Azito 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/A/Azito%203D%20%28JPN%29.cia",
+				   "output": "sdmc:/Azito 3D (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Azito 3D (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Azito 3D (JPN).cia",
 				   "message": "Cleaning..."
 }]}]} 
