@@ -7,20 +7,20 @@
 "url": "https://cdn.ghosteshop.com/script/ghosteshop.eshop",
 "sheet": ["icon.t3x", "icon_1.t3x", "icon_2.t3x"],
 "sheetURL": ["https://cdn.ghosteshop.com/script/icon.t3x", "https://cdn.ghosteshop.com/script/icon_1.t3x", "https://cdn.ghosteshop.com/script/icon_2.t3x"],
-"description": "An alternative & free eshop.\nVersion of the eshop: v12.0\n\nAuthor: Ghost Eshop Team's\nSpécial thanks: Anonyku",
+"description": "An alternative & free eshop.\nVersion of the eshop: v12.5\n\nAuthor: Ghost Eshop Team\nSpécial thanks: Anonyku",
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 92
+"revision": 95
 },
 "storeContent": [
 {"info": {
 					"title": "Ghost eShop",
-					"version": "v12.0",
-					"author": "Ghost eShop Team's",
+					"version": "v12.5",
+					"author": "Ghost eShop Team",
 					"category": "Homebrew",
 					"console": "3DS",
-					"size": "1,84Mb",
+					"size": "1,84Mo",
 					"icon_index": 234,
 					"screenshots": 
 		            [{
@@ -28,7 +28,7 @@
 		            			"description": "Cover-Art"
 		            		}],
 					"description": "An alternative eShop for 3DS, New3DS, New3DSxl, 2DS, New2DS, New2DSxl. Created on June 2020, over time this one has evolved enormously, to arrive at the current version on which it is currently",
-					"last_updated": "2020-12-19 at 08:25 (UTC)"
+					"last_updated": "2021-01-02 at 16:42 (UTC)"
 },
 "GhostEshop.cia": [
 {
@@ -66,9 +66,9 @@
 					"title": "Pixel Paint",
 					"version": "USA",
 					"author": "Sanuk Games",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "45,17Mb",
+					"size": "45,17Mo",
 					"icon_index": 271,
 					"screenshots": 
 		            [{
@@ -107,9 +107,9 @@
 					"title": "Plants vs Zombies",
 					"version": "USA, EUR",
 					"author": "PopCap Games",
-					"category": "DSiWares",
+					"category": "DSiWare",
 					"console": "DSi",
-					"size": "15,85Mb",
+					"size": "15,85Mo",
 					"icon_index": 270,
 					"description": "The goal of the game is to defend your home against a zombie invasion. Zombies must pass through the garden or through the fireplace and it is with the help of plants and mushrooms that the player can defend himself against waves of zombies.",
 					"last_updated": "2020-10-04 at 15:09 (UTC)"
@@ -154,9 +154,9 @@
 					"title": "3D Classics - Kid Icarus",
 					"version": "EUR",
 					"author": "Nintendo",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "40,78Mb",
+					"size": "40,78Mo",
 					"icon_index": 235,
 					"description": "The legend of Kid Icarus is retold in this 3D-enhanced version of the classic. Relive Pit’s first adventure in the 3D Classics: Kid Icarus game as you venture from the depths of the underworld up to the heights of the sky palace. Are you the stuff of legend?",
 				    "last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -184,9 +184,9 @@
 					"title": "3D Classics - Kirby's Adventure",
 					"version": "EUR",
 					"author": "Nintendo",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "57,27Mb",
+					"size": "57,27Mo",
 					"icon_index": 236,
 					"screenshots": 
 		            [{
@@ -231,9 +231,9 @@
 					"title": "3D Classics - TwinBee",
 					"version": "USA",
 					"author": "Konami",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "23,05Mb",
+					"size": "23,05Mo",
 					"icon_index": 237,
 					"description": "3D Classics TwinBee will put you in command of the most kawaii spaceship in arcade history, but in 3D this time! Defend Donburi Island from the bellicose hordes of King Spice! You can shoot enemy spaceships, or drop bombs on invaders on the ground.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -261,9 +261,9 @@
 					"title": "3D Galaxy Force II",
 					"version": "USA",
 					"author": "Sega",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "115,19Mb",
+					"size": "115,19Mo",
 					"icon_index": 238,
 					"description": "Save the galaxy from the Halcyon Empire! Re-mastered in 3D, Galaxy Force II 3D features drastically improved visuals and supports 16:9 wide screen and GamePad Pro. Arcade fans can now also enjoy Galaxy Force II in Arcade Cabinet mode!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -291,9 +291,9 @@
 					"title": "3D Shinobi III - Return of the Ninja Master",
 					"version": "EUR",
 					"author": "Sega",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "13,96Mb",
+					"size": "13,96Mo",
 					"icon_index": 239,
 					"description": "The Shinobi master is deadlier than ever! Joe Musashi's sworn enemies, the Neo Zeed, have returned! Controlled by Shadow Master, a formidable ninja cloned from Joe's own bloodline, the syndicate holds the city captive with its vicious crime ring. !",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -321,10 +321,10 @@
 					"title": "7th Dragon III Code: VFD",
 					"version": "USA, EUR, JPN",
 					"author": "Sega",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "1,56Gb",
-					"additional": "DLC : 242,62Kb",
+					"size": "1,56Go",
+					"additional": "DLC : 242,62Ko",
 					"icon_index": 240,
 					"screenshots": 
 		            [{
@@ -420,9 +420,9 @@
 					"title": "10-in-1 - Arcade Collection",
 					"version": "EUR, USA",
 					"author": "Gamelion",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "35,07Mb",
+					"size": "35,07Mo",
 					"icon_index": 241,
 					"description": "Bring back those retro memories! Test your skill in each of the ten games in this classic arcade collection! Battle against time and enemies to achieve the highest score in each challenge in this 10 in 1: Arcade Collection.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -467,9 +467,9 @@
 					"title": "Ambassador Certificate",
 					"version": "USA",
 					"author": "Nintendo",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "17,93Mb",
+					"size": "17,93Mo",
 					"icon_index": 242,
 					"description": "The Nintendo 3DS Ambassador Program, is a program that Nintendo launched for the Nintendo 3DS. This program was made by Nintendo in recognition of players who bought the 3DS for $249.99 before the price dropped to $169.99 on August 12, 2011.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -497,9 +497,9 @@
 					"title": "Azure Striker Gunvolt",
 					"version": "USA",
 					"author": "Inti Creates",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "327,54Mb",
+					"size": "327,54Mo",
 					"icon_index": 243,
 					"description": "Azure Striker Gunvolt is an Action and Platformer video game developed by Inti Creates and released in 2014 for Windows, Nintendo Switch and Nintendo 3DS.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -529,7 +529,7 @@
 					"author": "THQ",
 					"category": "Games",
 					"console": "3DS",
-					"size": "88,84Mb",
+					"size": "88,84Mo",
 					"icon_index": 244,
 					"description": "Barbie Groom and Glam Pups is an all-new Barbie video game, set in a fashion-oriented environment, that lets players choose a pup from one of six adorable breeds, then groom it, train it, dress it up and show it using the game's built-in economy.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -559,7 +559,7 @@
 					"author": "Nacon",
 					"category": "Games",
 					"console": "3DS",
-					"size": "88,77Mb",
+					"size": "88,77Mo",
 					"icon_index": 245,
 					"description": "Return to the world of Bella Sara and rescue the Tree of Drasilmare! The great magic tree of Drasilmare has been cursed! Only you can reverse this dire spell and save the world from Bella Sara.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -589,7 +589,7 @@
 					"author": "Kiddinx",
 					"category": "Games",
 					"console": "3DS",
-					"size": "89,47Mb",
+					"size": "89,47Mo",
 					"icon_index": 246,
 					"description": "You ride over hill and dale as Bibi or Tina through the wonderful landscape around the Martinshof. Persistent training with your horse will steadily improve your riding skills.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -617,9 +617,9 @@
 					"title": "Bird Mania 3D",
 					"version": "EUR",
 					"author": "Teyon",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "28,39Mb",
+					"size": "28,39Mo",
 					"icon_index": 247,
 					"description": "When Mojo realizes that his friends from the fold have gone to Africa, he chases them like crazy because he wants to go on vacation too! Fly faster and faster, dive, zoom, slide and collect all the bonuses.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -647,9 +647,9 @@
 					"title": "Bird Mania Christmas 3D",
 					"version": "USA",
 					"author": "Teyon",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "23,21Mb",
+					"size": "23,21Mo",
 					"icon_index": 248,
 					"description": "Christmas time is almost here and the skies are crowded with Santa's elves delivering presents across the globe. Mojo the bird is still mid-flight in his pursuit of sunny Africa so with a little Christmas spirit and Santa's hat it's time to turn up the turbo and fly full blast to Africa!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -677,9 +677,9 @@
 					"title": "Bomb Monkey",
 					"version": "USA",
 					"author": "Renegade Kid",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "7,77Mb",
+					"size": "7,77Mo",
 					"icon_index": 249,
 					"description": "With an endless supply of bloks and a steady stream of bombs, you can partake in this legendary sport anytime you have a spare moment. Young Bomb Monkeys will learn patience and strategy.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -707,9 +707,9 @@
 					"title": "Cave Story",
 					"version": "EUR",
 					"author": "NIS America",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "22,88Mb",
+					"size": "22,88Mo",
 					"icon_index": 250,
 					"description": "A young hero with amnesia discovers a hidden land and vows to protect the defenseless creatures that live there!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -739,7 +739,7 @@
 					"author": "Bigben Interactive",
 					"category": "Games",
 					"console": "3DS",
-					"size": "88,42Mb",
+					"size": "88,42Mo",
 					"icon_index": 251,
 					"screenshots": 
 		            [{
@@ -772,9 +772,9 @@
 					"title": "Colors! 3D",
 					"version": "USA",
 					"author": "Collecting Smiles",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "26,42Mb",
+					"size": "26,42Mo",
 					"icon_index": 252,
 					"description": "Colors! 3D is a simple yet robust painting application that combines ease of use with the power of painting tools. Based on modern painting techniques developed for professional drawing tablets, Colors! 3D is suitable for touchscreen devices, and is for everyone from professional artists to Sunday doodles.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -802,9 +802,9 @@
 					"title": "Crashmo",
 					"version": "USA",
 					"author": "Nintendo",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "20,36Mb",
+					"size": "20,36Mo",
 					"icon_index": 253,
 					"description": "Welcome to Crashmo! Embrace the laws of gravity, and challenge yourself with a whole new kind of action-puzzle play in this exciting sequel to the critically acclaimed Pushmo™ game. New gravity mechanics and gadgets like floating blocks, doors, and move switches await.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -834,7 +834,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"size": "2,16Gb",
+					"size": "2,16Go",
 					"icon_index": 254,
 					"screenshots": 
 		            [{
@@ -869,7 +869,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"size": "3,45Gb",
+					"size": "3,45Go",
 					"icon_index": 255,
 					"screenshots": 
 		            [{
@@ -907,7 +907,7 @@
 					"author": "Ubisoft",
 					"category": "Games",
 					"console": "3DS",
-					"size": "464,23Mb",
+					"size": "464,23Mo",
 					"icon_index": 256,
 					"screenshots": 
 		            [{
@@ -940,9 +940,9 @@
 					"title": "Edge",
 					"version": "EUR",
 					"author": "Two Tribes",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "75,12Mb",
+					"size": "75,12Mo",
 					"icon_index": 257,
 					"description": "In EDGE, the award winning retro inspired platformer, players take direct control of the cube and roll their way around the game's dozens of levels. Search for all the prisms, find the shortcuts to improve your times.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -972,7 +972,7 @@
 					"author": "Majesco Entertainment",
 					"category": "Games",
 					"console": "3DS",
-					"size": "84,70Mb",
+					"size": "84,70Mo",
 					"icon_index": 258,
 					"screenshots": 
 		            [{
@@ -1007,7 +1007,7 @@
 					"author": "Focus Home Interactive",
 					"category": "Games",
 					"console": "3DS",
-					"size": "81,52Mb",
+					"size": "81,52Mo",
 					"icon_index": 259,
 					"screenshots": 
 		            [{
@@ -1042,7 +1042,7 @@
 					"author": "Activision",
 					"category": "Games",
 					"console": "3DS",
-					"size": "386,94Mb",
+					"size": "386,94Mo",
 					"icon_index": 260,
 					"screenshots": 
 		            [{
@@ -1077,7 +1077,7 @@
 					"author": "Electronic Arts",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,53Gb",
+					"size": "1,53Go",
 					"icon_index": 261,
 					"description": "For the first time, players have a memory and show their emotions based on the context of the match. With more than 600 new emotional responses, players now respond to key moments on the pitch - dirty tackles, missed opportunities, fantastic goals - as they would in real life.",
 					"last_updated": "2020-11-29 at 15:09 (UTC)"
@@ -1122,9 +1122,9 @@
 					"title": "Fractured Soul",
 					"version": "EUR",
 					"author": "Endgame Studios",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "372,59Mb",
+					"size": "372,59Mo",
 					"icon_index": 262,
 					"description": "",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -1152,9 +1152,9 @@
 					"title": "Fun! Fun! Minigolf Touch!",
 					"version": "USA",
 					"author": "Shinen Multimedia",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "36,64Mb",
+					"size": "36,64Mo",
 					"icon_index": 263,
 					"description": "",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -1184,7 +1184,7 @@
 					"author": "Natsume",
 					"category": "Games",
 					"console": "3DS",
-					"size": "84,20Mb",
+					"size": "84,20Mo",
 					"icon_index": 264,
 					"screenshots": 
 		            [{
@@ -1217,9 +1217,9 @@
 					"title": "Gunman Clive",
 					"version": "EUR",
 					"author": "Horberg Productions",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "30,91Mb",
+					"size": "30,91Mo",
 					"icon_index": 265,
 					"description": "",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -1247,9 +1247,9 @@
 					"title": "HarmoKnight",
 					"version": "EUR",
 					"author": "Nintendo",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "263,79Mb",
+					"size": "263,79Mo",
 					"icon_index": 266,
 					"screenshots": 
 		            [{
@@ -1293,8 +1293,8 @@
 					"author": "Rising Star Games",
 					"category": "Games",
 					"console": "3DS",
-					"size": "88,95Mb",
-					"additional": "Update : 4,80Mb | DLC : 2,90Mb",
+					"size": "88,95Mo",
+					"additional": "Update : 4,80Mo | DLC : 2,90Mo",
 					"icon_index": 267,
 					"description": "",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -1358,7 +1358,7 @@
 					"author": "GSP",
 					"category": "Games",
 					"console": "3DS",
-					"size": "81,63Mb",
+					"size": "81,63Mo",
 					"icon_index": 268,
 					"screenshots": 
 		            [{
@@ -1410,7 +1410,7 @@
 					"author": "Bergsala Lightweight",
 					"category": "Games",
 					"console": "3DS",
-					"size": "87,40Mb",
+					"size": "87,40Mo",
 					"icon_index": 269,
 					"description": "",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
@@ -1435,30 +1435,30 @@
 ]
 },
 {"info": {
-					"title": "Anonymous notes chapter 1",
-					"version": "USA",
+					"title": "Anonymous Notes 1 - From The Abyss",
+					"version": "EUR",
 					"author": "Sonic Powered",
-					"category": "DSiWares",
+					"category": "DSiWare",
 					"console": "DSi",
 					"icon_index": 0,
 					"description": "Jeux de rôles dans des donjons.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Anonymous notes chapter 1": [
+"Anonymous Notes 1 - From The Abyss": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/k3ac29648jdqyqg/?dl=1",
-				   "output": "sdmc:/Anonymous notes chapter 1.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/DSiWare/EUR/A/Anonymous%20Notes%201%20-%20From%20The%20Abyss%20%28Europe%29.cia",
+				   "output": "sdmc:/Anonymous Notes 1 - From The Abyss (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Anonymous notes chapter 1.cia",
+				   "file": "/Anonymous Notes 1 - From The Abyss (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Anonymous notes chapter 1.cia",
+				   "file": "sdmc:/Anonymous Notes 1 - From The Abyss (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -1467,9 +1467,9 @@
 					"title": "Bloons TD4",
 					"version": "USA",
 					"author": "Ninja Kiwi",
-					"category": "DSiWares",
+					"category": "DSiWare",
 					"console": "DSi",
-					"size": "6,75Mb",
+					"size": "6,75Mo",
 					"icon_index": 1,
 					"screenshots": 
 		            [{
@@ -1513,7 +1513,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"size": "427,18Mb",
+					"size": "427,18Mo",
 					"icon_index": 2,
 					"screenshots": 
 		            [{
@@ -1601,8 +1601,9 @@
 					"title": "3D Sonic the Hedgehog",
 					"version": "USA",
 					"author": "Sega",
-					"category": "Games",
+					"category": "eShop",
 					"console": "3DS",
+					"size": "8,80Mo",
 					"icon_index": 4,
 					"screenshots": 
 		            [{
@@ -1615,7 +1616,7 @@
 "3D Sonic the Hedgehog": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/u0psaklhd53jyn2/3D%20Sonic%20the%20Hedgehog%20USA_kameb.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/1234567890/3D%20Sonic%20the%20Hedgehog%20%28USA%29.cia",
 				   "output": "sdmc:/3D Sonic the Hedgehog.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1635,7 +1636,7 @@
 					"title": "Poke Transfert",
 					"version": "",
 					"author": "Pokemon.co",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
 					"icon_index": 5,
 					"description": "Le Poke Transfert permet de transférer des Pokemon des jeux de la cinquième génération ainsi que ceux de la première génération et de la deuxième génération.",
@@ -1664,8 +1665,9 @@
 					"title": "3D Sonic the Hedgehog 2",
 					"version": "USA",
 					"author": "Sega",
-					"category": "Games",
+					"category": "eShop",
 					"console": "3DS",
+					"size": "35,94Mo",
 					"icon_index": 6,
 					"screenshots": 
 		            [{
@@ -1678,7 +1680,7 @@
 "3D Sonic the Hedgehog 2": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4vgvu7c69r84dv6/?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/1234567890/3D%20Sonic%20the%20Hedgehog%202%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/3D Sonic the Hedgehog 2.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1727,7 +1729,7 @@
 					"title": "Pokemon Bank",
 					"version": "EUR",
 					"author": "Pokemon.co",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
 					"icon_index": 8,
 					"description": "",
@@ -1756,9 +1758,9 @@
 					"title": "WarioWare Touched!",
 					"version": "USA",
 					"author": "Nintendo",
-					"category": "DSiWares",
+					"category": "DSiWare",
 					"console": "DSi",
-					"size": "27,71Mb",
+					"size": "27,71Mo",
 					"icon_index": 9,
 					"description": "Jeux de mini-jeux.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -1861,9 +1863,9 @@
 					"title": "Cut the Rope",
 					"version": "USA",
 					"author": "ZeptoLab",
-					"category": "DSiWares",
+					"category": "DSiWare",
 					"console": "DSi",
-					"size": "11,58Mb",
+					"size": "11,58Mo",
 					"icon_index": 12,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -1893,7 +1895,7 @@
 					"author": "ZeptoLab",
 					"category": "Games",
 					"console": "3DS",
-					"size": "208,54Mb",
+					"size": "208,54Mo",
 					"icon_index": 13,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -1922,12 +1924,12 @@
 					"version": "ALL",
 					"author": "Nintendo",
 					"category": "Vitual Consoles",
-					"console": "SNES/GBA",
+					"console": "SNES",
 					"icon_index": 14,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"The Legend of Zelda: A Link to the Past (SNES)": [
+"The Legend of Zelda: A Link to the Past": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/ALL/T/The%20Legend%20of%20Zelda%E2%84%A2%20A%20Link%20to%20the%20Past%20ALL%20%28000400000f701000%29.cia",
@@ -1942,23 +1944,6 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda A Link to the Past - SNES (ALL).cia",
-				   "message": "Cleaning..."}
-],
-"The Legend of Zelda: A Link to the Past (GBA)": [
-{
-				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20A%20Link%20to%20the%20Past%20ALL%20%28000400000f701000%29.cia",
-				   "output": "sdmc:/The Legend of Zelda A Link to the Past - GBA (ALL).cia",
-				   "message": "Downloading your current game..."
-}, 
-{
-				   "type": "installCia",
-				   "file": "/The Legend of Zelda A Link to the Past - GBA (ALL).cia",
-				   "message": "Installing your game in progress..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/The Legend of Zelda A Link to the Past - GBA (ALL).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -2112,8 +2097,9 @@
 					"title": "Flipnote Studio",
 					"version": "USA, JPN",
 					"author": "Nintendo",
-					"category": "DSiWares",
+					"category": "DSiWare",
 					"console": "DSi",
+					"size": "2,92Mo",
 					"icon_index": 20,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -2138,7 +2124,7 @@
 "Flipnote Studio (JPN)": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hwfafzfxaec9ueb/Flipnote_JPN-3ds-cia-shop.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/DSiWare/JPN/F/Flipnote%20Studio%20%28JPN%29.cia",
 				   "output": "sdmc:/Flipnote Studio (JPN).cia",
 				   "message": "Doanloading your current game..."
 }, 
@@ -2218,6 +2204,7 @@
 					"author": "Mass Media",
 					"category": "Virtual Consoles",
 					"console": "GBA",
+					"size": "4,48Mo",
 					"icon_index": 23,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -2225,7 +2212,7 @@
 "Pac-Man Collection": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/i6bemfck3cb48bc/Pac-Man%20Collection%20%28GBA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/A%20Trier/Pac-Man%20Collection%20%28GBA%29.cia",
 				   "output": "sdmc:/Pac-Man Collection.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -2247,7 +2234,7 @@
 					"author": "Sega",
 					"category": "Games",
 					"console": "3DS",
-					"size": "91,26Mb",
+					"size": "91,26Mo",
 					"icon_index": 24,
 					"screenshots": 
 		            [{
@@ -2329,7 +2316,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"size": "842,78Mb",
+					"size": "842,78Mo",
 					"icon_index": 26,
 					"screenshots": 
 		            [{
@@ -2376,7 +2363,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"size": "290,74Mb",
+					"size": "290,74Mo",
 					"icon_index": 27,
 					"screenshots": 
 		            [{
@@ -2440,7 +2427,7 @@
 					"author": "HAL Laboratory",
 					"category": "Games",
 					"console": "3DS",
-					"size": "595,09Mb",
+					"size": "595,09Mo",
 					"icon_index": 28,
 					"screenshots": 
 		            [{
@@ -2487,7 +2474,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "454,60Mb",
+					"size": "454,60Mo",
 					"icon_index": 29,
 					"screenshots": 
 		            [{
@@ -2549,8 +2536,8 @@
 					"title": "Petit Computer",
 					"version": "USA",
 					"author": "",
-					"category": "Games",
-					"console": "3DS",
+					"category": "DSiWare",
+					"console": "DSi",
 					"icon_index": 30,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -2725,8 +2712,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "630,78Mb",
-					"additional": "Update : 3,74Mb",
+					"size": "630,78Mo",
+					"additional": "Update : 3,74Mo",
 					"icon_index": 36,
 					"screenshots": 
 		            [{
@@ -2836,7 +2823,7 @@
 					"author": "",
 					"category": "Virtual Consoles",
 					"console": "NES",
-					"size": "7,04Mb",
+					"size": "7,04Mo",
 					"icon_index": 38,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -2866,7 +2853,7 @@
 					"author": "",
 					"category": "Virtual Consoles",
 					"console": "GBA",
-					"size": "5,74Mb",
+					"size": "5,74Mo",
 					"icon_index": 39,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -3061,9 +3048,9 @@
 					"title": "Mario vs Donkey Kong: Minis March Again!",
 					"version": "USA",
 					"author": "",
-					"category": "DSiWares",
+					"category": "DSiWare",
 					"console": "DSi",
-					"size": "14,06Mb",
+					"size": "14,06Mo",
 					"icon_index": 44,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3093,8 +3080,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "640,25Mb",
-					"additional": "Update : 5,23Mb",
+					"size": "640,25Mo",
+					"additional": "Update : 5,23Mo",
 					"icon_index": 45,
 					"screenshots": 
 		            [{
@@ -3190,9 +3177,9 @@
 					"title": "Netflix",
 					"version": "USA",
 					"author": "Netflix.inc",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "22,13Mb",
+					"size": "22,13Mo",
 					"icon_index": 46,
 					"description": "Applications légal permmettant de regarder des films et séries en souscrivant à une offre payante.",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3279,7 +3266,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 49,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3308,7 +3295,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Vitual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 50,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3337,7 +3324,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 51,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3366,7 +3353,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 52,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3395,7 +3382,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 53,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3424,8 +3411,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "3,90Mb",
+					"console": "Go",
+					"size": "3,90Mo",
 					"icon_index": 54,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3454,8 +3441,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "4,13Mb",
+					"console": "Go",
+					"size": "4,13Mo",
 					"icon_index": 55,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3484,8 +3471,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "3,78Mb",
+					"console": "Go",
+					"size": "3,78Mo",
 					"icon_index": 56,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3514,8 +3501,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "4,55Mb",
+					"console": "Go",
+					"size": "4,55Mo",
 					"icon_index": 57,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3544,8 +3531,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "4,52Mb",
+					"console": "Go",
+					"size": "4,52Mo",
 					"icon_index": 58,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3574,8 +3561,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "4,95Mb",
+					"console": "Go",
+					"size": "4,95Mo",
 					"icon_index": 59,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3604,8 +3591,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "4,99Mb",
+					"console": "Go",
+					"size": "4,99Mo",
 					"icon_index": 60,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3634,8 +3621,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "12,97Mb",
+					"console": "Go",
+					"size": "12,97Mo",
 					"icon_index": 61,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3664,7 +3651,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 62,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3693,8 +3680,8 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
-					"size": "4,04Mb",
+					"console": "Go",
+					"size": "4,04Mo",
 					"icon_index": 63,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3723,7 +3710,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 64,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3752,7 +3739,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 65,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3781,7 +3768,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 66,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3810,7 +3797,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 67,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3839,7 +3826,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 68,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3868,7 +3855,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 69,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3897,7 +3884,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 70,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3926,7 +3913,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 71,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3955,7 +3942,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 72,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -4398,7 +4385,7 @@
 "Donkey Kong™ Original Edition": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/x345imt7lwmjc4i/Donkey%20Kong%E2%84%A2%20Original%20Edition%20EUR%20%28000400000006f500%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/D/Donkey%20Kong%E2%84%A2%20Original%20Edition%20EUR%20%28000400000006f500%29.cia",
 				   "output": "sdmc:/Donkey Kong Original Edition.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -4681,7 +4668,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "82,19Mb",
+					"size": "82,19Mo",
 					"icon_index": 97,
 					"screenshots": 
 		            [{
@@ -4716,8 +4703,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "705,68Mb",
-					"additional": "9,50Mb",
+					"size": "705,68Mo",
+					"additional": "9,50Mo",
 					"icon_index": 98,
 					"screenshots": 
 		            [{
@@ -4786,8 +4773,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "93,20Mb",
-					"additional": "Update : 2,74Mb",
+					"size": "93,20Mo",
+					"additional": "Update : 2,74Mo",
 					"icon_index": 99,
 					"description": "",
 					"last_updated": "2020-11-12 at 14:03 (UTC)"
@@ -4851,7 +4838,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "187,47Mb",
+					"size": "187,47Mo",
 					"icon_index": 100,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -4881,7 +4868,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "71,98Mb",
+					"size": "71,98Mo",
 					"icon_index": 101,
 					"screenshots": 
 		            [{
@@ -4916,7 +4903,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "211,93Mb",
+					"size": "211,93Mo",
 					"icon_index": 102,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -4946,7 +4933,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "33,79Mb",
+					"size": "33,79Mo",
 					"icon_index": 103,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -4976,7 +4963,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "79,86Mb",
+					"size": "79,86Mo",
 					"icon_index": 104,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -5006,7 +4993,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "147,80Mb",
+					"size": "147,80Mo",
 					"icon_index": 105,
 					"screenshots": 
 		            [{
@@ -5041,7 +5028,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "165,94Mb",
+					"size": "165,94Mo",
 					"icon_index": 106,
 					"description": "",
 					"last_updated": "2020-11-27 at 14:03 (UTC)"
@@ -5088,7 +5075,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "203,50Mb",
+					"size": "203,50Mo",
 					"icon_index": 107,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -5118,8 +5105,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "473,29Mb",
-					"additional": "65,17Mb",
+					"size": "473,29Mo",
+					"additional": "65,17Mo",
 					"icon_index": 108,
 					"screenshots": 
 		            [{
@@ -5197,7 +5184,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "935,27Mb",
+					"size": "935,27Mo",
 					"icon_index": 109,
 					"screenshots": 
 		            [{
@@ -5258,7 +5245,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "41,38Mb",
+					"size": "41,38Mo",
 					"icon_index": 110,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -5288,7 +5275,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "33,20Mb",
+					"size": "33,20Mo",
 					"icon_index": 111,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -5318,8 +5305,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "371,52Mb",
-					"additional": "DLC : 94,82Mb",
+					"size": "371,52Mo",
+					"additional": "DLC : 94,82Mo",
 					"icon_index": 112,
 					"screenshots": 
 		            [{
@@ -5371,7 +5358,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "438,96Mb",
+					"size": "438,96Mo",
 					"icon_index": 113,
 					"screenshots": 
 		            [{
@@ -5432,7 +5419,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "55,84Mb",
+					"size": "55,84Mo",
 					"icon_index": 114,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -5462,7 +5449,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "23,88Mb",
+					"size": "23,88Mo",
 					"icon_index": 115,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -5492,7 +5479,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,49Gb",
+					"size": "1,49Go",
 					"icon_index": 116,
 					"screenshots": 
 		            [{
@@ -5539,7 +5526,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "83,98Mb",
+					"size": "83,98Mo",
 					"icon_index": 117,
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
@@ -5637,7 +5624,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "688,93Mb",
+					"size": "688,93Mo",
 					"icon_index": 120,
 					"screenshots": 
 		            [{
@@ -5681,7 +5668,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "64,36Mb",
+					"size": "64,36Mo",
 					"icon_index": 121,
 					"screenshots": 
 		            [{
@@ -5716,7 +5703,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "218,61Mb",
+					"size": "218,61Mo",
 					"icon_index": 122,
 					"screenshots": 
 		            [{
@@ -5840,7 +5827,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "85,45Mb",
+					"size": "85,45Mo",
 					"icon_index": 124,
 					"screenshots": 
 		            [{
@@ -5875,7 +5862,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "90,33Mb",
+					"size": "90,33Mo",
 					"icon_index": 125,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -5922,7 +5909,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "46,34Mb",
+					"size": "46,34Mo",
 					"icon_index": 126,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -5952,7 +5939,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "49,68Mb",
+					"size": "49,68Mo",
 					"icon_index": 127,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -5982,7 +5969,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "69,05Mb",
+					"size": "69,05Mo",
 					"icon_index": 128,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6012,7 +5999,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "176,96Mb",
+					"size": "176,96Mo",
 					"icon_index": 129,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6042,7 +6029,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "90,65Mb",
+					"size": "90,65Mo",
 					"icon_index": 130,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6089,7 +6076,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "289,22Mb",
+					"size": "289,22Mo",
 					"icon_index": 131,
 					"screenshots": 
 		            [{
@@ -6124,7 +6111,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,27Gb",
+					"size": "1,27Go",
 					"icon_index": 132,
 					"screenshots": 
 		            [{
@@ -6205,7 +6192,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "37,22Mb",
+					"size": "37,22Mo",
 					"icon_index": 134,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6235,7 +6222,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "37,65Mb",
+					"size": "37,65Mo",
 					"icon_index": 135,
 					"screenshots": 
 		            [{
@@ -6270,7 +6257,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "418,76Mb",
+					"size": "418,76Mo",
 					"icon_index": 136,
 					"screenshots": 
 		            [{
@@ -6317,7 +6304,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "75,30Mb",
+					"size": "75,30Mo",
 					"icon_index": 137,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6463,7 +6450,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "3,24Gb",
+					"size": "3,24Go",
 					"icon_index": 142,
 					"screenshots": 
 		            [{
@@ -6524,8 +6511,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "2,48Gb",
-					"additional": "DLC : 110,44Kb",
+					"size": "2,48Go",
+					"additional": "DLC : 110,44Ko",
 					"icon_index": 143,
 					"screenshots": 
 		            [{
@@ -6603,7 +6590,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "83,66Mb",
+					"size": "83,66Mo",
 					"icon_index": 144,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6633,7 +6620,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "68,14Mb",
+					"size": "68,14Mo",
 					"icon_index": 145,
 					"screenshots": 
 		            [{
@@ -6685,7 +6672,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "5,57Mb",
+					"size": "5,57Mo",
 					"icon_index": 146,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6715,7 +6702,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "697,95Mb",
+					"size": "697,95Mo",
 					"icon_index": 147,
 					"screenshots": 
 		            [{
@@ -6750,7 +6737,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "194,54Mb",
+					"size": "194,54Mo",
 					"icon_index": 148,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6780,7 +6767,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "140,36Mb",
+					"size": "140,36Mo",
 					"icon_index": 149,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6810,7 +6797,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "75,11Mb",
+					"size": "75,11Mo",
 					"icon_index": 150,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6840,7 +6827,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "431,05Mb",
+					"size": "431,05Mo",
 					"icon_index": 151,
 					"screenshots": 
 		            [{
@@ -6878,7 +6865,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "102,87Mb",
+					"size": "102,87Mo",
 					"icon_index": 152,
 					"screenshots": 
 		            [{
@@ -6913,7 +6900,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "44,88Mb",
+					"size": "44,88Mo",
 					"icon_index": 153,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6943,7 +6930,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "14,99Mb",
+					"size": "14,99Mo",
 					"icon_index": 154,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -6973,7 +6960,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "348,44Mb",
+					"size": "348,44Mo",
 					"icon_index": 155,
 					"screenshots": 
 		            [{
@@ -7025,7 +7012,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "82,79Mb",
+					"size": "82,79Mo",
 					"icon_index": 156,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -7055,7 +7042,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "422,72Mb",
+					"size": "422,72Mo",
 					"icon_index": 157,
 					"screenshots": 
 		            [{
@@ -7174,7 +7161,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "53,79Mb",
+					"size": "53,79Mo",
 					"icon_index": 159,
 					"screenshots": 
 		            [{
@@ -7304,9 +7291,9 @@
 					"title": "Bloody Vampire",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "27,67Mb",
+					"size": "27,67Mo",
 					"icon_index": 163,
 					"screenshots": 
 		            [{
@@ -7351,9 +7338,9 @@
 					"title": "3D OutRun",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "8,09Mb",
+					"size": "8,09Mo",
 					"icon_index": 164,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -7381,9 +7368,9 @@
 					"title": "Cubit - The Hardcore Platformer Robot",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "22,06Mb",
+					"size": "22,06Mo",
 					"icon_index": 165,
 					"screenshots": 
 		            [{
@@ -7425,9 +7412,9 @@
 					"title": "Cube Tactics",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "56,20Mb",
+					"size": "56,20Mo",
 					"icon_index": 166,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -7455,9 +7442,9 @@
 					"title": "Fairune",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "97,19Mb",
+					"size": "97,19Mo",
 					"icon_index": 167,
 					"screenshots": 
 		            [{
@@ -7502,9 +7489,9 @@
 					"title": "Mighty Gunvolt",
 					"version": "EUR, USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "8,75Mb",
+					"size": "8,75Mo",
 					"icon_index": 168,
 					"description": "",
 					"last_updated": "2020-09-29 at 14:03 (UTC)"
@@ -7765,9 +7752,9 @@
 					"title": "Demon King Box",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "148,96Mb",
+					"size": "148,96Mo",
 					"icon_index": 170,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -7797,7 +7784,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,72Gb",
+					"size": "1,72Go",
 					"icon_index": 171,
 					"screenshots": 
 		            [{
@@ -7844,7 +7831,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "604,88Mb",
+					"size": "604,88Mo",
 					"icon_index": 172,
 					"screenshots": 
 		            [{
@@ -7891,7 +7878,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "129,92Mb",
+					"size": "129,92Mo",
 					"icon_index": 173,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -7921,7 +7908,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "324,63Mb",
+					"size": "324,63Mo",
 					"icon_index": 174,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -7951,7 +7938,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "278,32Mb",
+					"size": "278,32Mo",
 					"icon_index": 175,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -7981,7 +7968,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "48,38Mb",
+					"size": "48,38Mo",
 					"icon_index": 176,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8011,7 +7998,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "856,61Mb",
+					"size": "856,61Mo",
 					"icon_index": 177,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8041,8 +8028,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "537,82Mb",
-					"additional": "Update : 64,57Mb | DLC : 731,56Kb",
+					"size": "537,82Mo",
+					"additional": "Update : 64,57Mo | DLC : 731,56Ko",
 					"icon_index": 178,
 					"screenshots": 
 		            [{
@@ -8111,8 +8098,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,50Gb",
-					"additional": "DLC : 174,56Kb",
+					"size": "1,50Go",
+					"additional": "DLC : 174,56Ko",
 					"icon_index": 179,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8176,7 +8163,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "68,07Mb",
+					"size": "68,07Mo",
 					"icon_index": 180,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8206,7 +8193,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "93,42Mb",
+					"size": "93,42Mo",
 					"icon_index": 181,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8236,7 +8223,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "317,29Mb",
+					"size": "317,29Mo",
 					"icon_index": 182,
 					"screenshots": 
 		            [{
@@ -8271,7 +8258,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "212,20Mb",
+					"size": "212,20Mo",
 					"icon_index": 183,
 					"screenshots": 
 		            [{
@@ -8306,8 +8293,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "91,27Mb",
-					"additional": "Update : 6,60Mb",
+					"size": "91,27Mo",
+					"additional": "Update : 6,60Mo",
 					"icon_index": 184,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8354,7 +8341,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "80,99Mb",
+					"size": "80,99Mo",
 					"icon_index": 185,
 					"screenshots": 
 		            [{
@@ -8389,7 +8376,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "198,85Mb",
+					"size": "198,85Mo",
 					"icon_index": 186,
 					"screenshots": 
 		            [{
@@ -8424,7 +8411,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "76,78Mb",
+					"size": "76,78Mo",
 					"icon_index": 187,
 					"screenshots": 
 		            [{
@@ -8459,8 +8446,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "NEW3DS",
-					"size": "465,86Mb",
-					"additional": "Update : 541,72Mb | DLC : 298,75Kb",
+					"size": "465,86Mo",
+					"additional": "Update : 541,72Mo | DLC : 298,75Ko",
 					"icon_index": 188,
 					"screenshots": 
 		            [{
@@ -8682,7 +8669,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "141,37Mb",
+					"size": "141,37Mo",
 					"icon_index": 194,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8741,7 +8728,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "21,42Mb",
+					"size": "21,42Mo",
 					"icon_index": 196,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -8944,7 +8931,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 203,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9002,7 +8989,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 205,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9031,7 +9018,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 206,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9089,7 +9076,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "GB",
+					"console": "Go",
 					"icon_index": 208,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9119,8 +9106,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,66Gb",
-					"additional": "Update : 368,21Mb",
+					"size": "1,66Go",
+					"additional": "Update : 368,21Mo",
 					"icon_index": 209,
 					"screenshots": 
 		            [{
@@ -9181,8 +9168,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,66Gb",
-					"additional": "Update : 369,17Mb",
+					"size": "1,66Go",
+					"additional": "Update : 369,17Mo",
 					"icon_index": 210,
 					"screenshots": 
 		            [{
@@ -9240,7 +9227,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "91,56Mb",
+					"size": "91,56Mo",
 					"icon_index": 211,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9270,7 +9257,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "831,07Mb",
+					"size": "831,07Mo",
 					"icon_index": 212,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9358,8 +9345,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "55,06Mb",
-					"additional": "Update : 25Mb",
+					"size": "55,06Mo",
+					"additional": "Update : 25Mo",
 					"icon_index": 215,
 					"screenshots": 
 		            [{
@@ -9420,7 +9407,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "152,90Mb",
+					"size": "152,90Mo",
 					"icon_index": 216,
 					"screenshots": 
 		            [{
@@ -9455,7 +9442,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "50,05Mb",
+					"size": "50,05Mo",
 					"icon_index": 217,
 					"screenshots": 
 		            [{
@@ -9516,7 +9503,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,59Gb",
+					"size": "1,59Go",
 					"icon_index": 218,
 					"screenshots": 
 		            [{
@@ -9560,7 +9547,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,42Gb",
+					"size": "1,42Go",
 					"icon_index": 219,
 					"screenshots": 
 		            [{
@@ -9595,7 +9582,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "15,04Mb",
+					"size": "15,04Mo",
 					"icon_index": 220,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -9625,7 +9612,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "16,78Mb",
+					"size": "16,78Mo",
 					"icon_index": 221,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -9655,7 +9642,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "621,15Mb",
+					"size": "621,15Mo",
 					"icon_index": 222,
 					"screenshots": 
 		            [{
@@ -9690,7 +9677,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "22,76Mb",
+					"size": "22,76Mo",
 					"icon_index": 223,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -9720,7 +9707,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "193,57Mb",
+					"size": "193,57Mo",
 					"icon_index": 224,
 					"description": "",
 					"last_updated": "2020-09-29 at 14:03 (UTC)"
@@ -9767,7 +9754,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 19,22Mb",
+					"additional": "Update : 19,22Mo",
 					"icon_index": 225,
 					"screenshots": 
 		            [{
@@ -9842,7 +9829,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "216,63Mb",
+					"size": "216,63Mo",
 					"icon_index": 226,
 					"screenshots": 
 		            [{
@@ -9889,8 +9876,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,44Gb",
-					"additional": "DEMO : 177,59Mb | Update : 328,77Mb | DLC : 3,15Mb",
+					"size": "1,44Go",
+					"additional": "DEMO : 177,59Mo | Update : 328,77Mo | DLC : 3,15Mo",
 					"icon_index": 227,
 					"screenshots": 
 		            [{
@@ -10022,7 +10009,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,55Gb",
+					"size": "1,55Go",
 					"icon_index": 228,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -10052,7 +10039,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "75,02Mb",
+					"size": "75,02Mo",
 					"icon_index": 229,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -10082,7 +10069,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "161,48Mb",
+					"size": "161,48Mo",
 					"icon_index": 230,
 					"screenshots": 
 		            [{
@@ -10117,7 +10104,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "79,51Mb",
+					"size": "79,51Mo",
 					"icon_index": 231,
 					"screenshots": 
 		            [{
@@ -10152,7 +10139,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "714,77Mb",
+					"size": "714,77Mo",
 					"icon_index": 232,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -10182,7 +10169,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "81,75Mb",
+					"size": "81,75Mo",
 					"icon_index": 233,
 					"description": "",
 					"last_updated": "2020-08-18 at 14:03 (UTC)"
@@ -10210,9 +10197,9 @@
 					"title": "Crimson Shround",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "244,87Mb",
+					"size": "244,87Mo",
 					"icon_index": 272,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -10240,9 +10227,9 @@
 					"title": "Ketzal's Corridors",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "33,66Mb",
+					"size": "33,66Mo",
 					"icon_index": 273,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -10270,9 +10257,9 @@
 					"title": "Kirby Fighters Deluxe",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "121,53Mb",
+					"size": "121,53Mo",
 					"icon_index": 274,
 					"screenshots": 
 		            [{
@@ -10316,7 +10303,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,01Gb",
+					"size": "1,01Go",
 					"icon_index": 275,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -10346,7 +10333,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "860,46Mb",
+					"size": "860,46Mo",
 					"icon_index": 276,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -10393,7 +10380,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "856,19Mb",
+					"size": "856,19Mo",
 					"icon_index": 278,
 					"screenshots": 
 		            [{
@@ -10448,8 +10435,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "NEW3DS",
-					"size": "1,82Gb",
-					"additional": "Update : 95,21Mb | DLC : 2,19Gb",
+					"size": "1,82Go",
+					"additional": "Update : 95,21Mo | DLC : 2,19Go",
 					"icon_index": 279,
 					"screenshots": 
 		            [{
@@ -10535,7 +10522,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "655,50Mb",
+					"size": "655,50Mo",
 					"icon_index": 280,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -10582,7 +10569,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "85,81Mb",
+					"size": "85,81Mo",
 					"icon_index": 281,
 					"screenshots": 
 		            [{
@@ -10617,7 +10604,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "73,09Mb",
+					"size": "73,09Mo",
 					"icon_index": 282,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -10665,7 +10652,7 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 283,
-					"size": "1,61Gb",
+					"size": "1,61Go",
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
@@ -10695,7 +10682,7 @@
 					"category": "Games",
 					"console": "3DS",
 					"icon_index": 284,
-					"size": "1,62Gb",
+					"size": "1,62Go",
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
@@ -10724,7 +10711,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "3,25Gb",
+					"size": "3,25Go",
 					"icon_index": 285,
 					"screenshots": 
 		            [{
@@ -10768,7 +10755,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "87,62Mb",
+					"size": "87,62Mo",
 					"icon_index": 286,
 					"screenshots": 
 		            [{
@@ -10804,7 +10791,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "87,66Mb",
+					"size": "87,66Mo",
 					"icon_index": 287,
 					"screenshots": 
 		            [{
@@ -10840,7 +10827,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "89,90Mb",
+					"size": "89,90Mo",
 					"icon_index": 288,
 					"screenshots": 
 		            [{
@@ -10874,7 +10861,7 @@
 					"title": "Ketzal's Corridors",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
 					"icon_index": 289,
 					"description": "",
@@ -10905,7 +10892,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,67Gb",
+					"size": "1,67Go",
 					"icon_index": 290,
 					"screenshots": 
 		            [{
@@ -10958,7 +10945,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,42Gb",
+					"size": "1,42Go",
 					"icon_index": 291,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -10988,7 +10975,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "186,70Mb",
+					"size": "186,70Mo",
 					"icon_index": 293,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11018,8 +11005,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "408,17Mb",
-					"additional": "Update : 2,82Mb",
+					"size": "408,17Mo",
+					"additional": "Update : 2,82Mo",
 					"icon_index": 294,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11083,7 +11070,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "455,41Mb",
+					"size": "455,41Mo",
 					"icon_index": 295,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11130,8 +11117,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "416,69Mb",
-					"additional": "Update : 4,41Mb",
+					"size": "416,69Mo",
+					"additional": "Update : 4,41Mo",
 					"icon_index": 296,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11178,7 +11165,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "427,13Mb",
+					"size": "427,13Mo",
 					"icon_index": 297,
 					"screenshots": 
 		            [{
@@ -11231,8 +11218,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "413,88Mb",
-					"additional": "Update : 1,61Mb",
+					"size": "413,88Mo",
+					"additional": "Update : 1,61Mo",
 					"icon_index": 298,
 					"screenshots": 
 		            [{
@@ -11302,8 +11289,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "409,44Mb",
-					"additional": "Update : 18,33Mb",
+					"size": "409,44Mo",
+					"additional": "Update : 18,33Mo",
 					"icon_index": 299,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11367,7 +11354,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "463,95Mb",
+					"size": "463,95Mo",
 					"icon_index": 300,
 					"screenshots": 
 		            [{
@@ -11400,9 +11387,9 @@
 					"title": "Liberation Maiden",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "197,76Mb",
+					"size": "197,76Mo",
 					"icon_index": 301,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11432,7 +11419,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "227,95Mb",
+					"size": "227,95Mo",
 					"icon_index": 302,
 					"screenshots": 
 		            [{
@@ -11476,7 +11463,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "28,93Mb",
+					"size": "28,93Mo",
 					"icon_index": 303,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11506,7 +11493,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "78,17Mb",
+					"size": "78,17Mo",
 					"icon_index": 304,
 					"screenshots": 
 		            [{
@@ -11541,8 +11528,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"Update": "847,94Mb",
-					"additional": "Update : 43,82Mb",
+					"Update": "847,94Mo",
+					"additional": "Update : 43,82Mo",
 					"icon_index": 305,
 					"screenshots": 
 		            [{
@@ -11640,7 +11627,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "719,84Mb",
+					"size": "719,84Mo",
 					"icon_index": 306,
 					"screenshots": 
 		            [{
@@ -11692,7 +11679,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "438,79Mb",
+					"size": "438,79Mo",
 					"icon_index": 307,
 					"screenshots": 
 		            [{
@@ -11739,7 +11726,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "784,34Mb",
+					"size": "784,34Mo",
 					"icon_index": 308,
 					"screenshots": 
 		            [{
@@ -11800,8 +11787,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "529,73Mb",
-					"additional": "DLC : 217,89Mb",
+					"size": "529,73Mo",
+					"additional": "DLC : 217,89Mo",
 					"icon_index": 309,
 					"screenshots": 
 		            [{
@@ -11870,7 +11857,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "245,88Mb",
+					"size": "245,88Mo",
 					"icon_index": 310,
 					"screenshots": 
 		            [{
@@ -11934,7 +11921,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "377,23Mb",
+					"size": "377,23Mo",
 					"icon_index": 311,
 					"screenshots": 
 		            [{
@@ -11995,7 +11982,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "262,80Mb",
+					"size": "262,80Mo",
 					"icon_index": 312,
 					"screenshots": 
 		            [{
@@ -12056,7 +12043,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "823,60Mb",
+					"size": "823,60Mo",
 					"icon_index": 313,
 					"screenshots": 
 		            [{
@@ -12108,8 +12095,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "3,01Gb",
-					"additional": "Update : 5,19Mb",
+					"size": "3,01Go",
+					"additional": "Update : 5,19Mo",
 					"icon_index": 314,
 					"screenshots": 
 		            [{
@@ -12159,9 +12146,9 @@
 					"title": "Mighty Switch Force!",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "224,58Mb",
+					"size": "224,58Mo",
 					"icon_index": 315,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12189,9 +12176,9 @@
 					"title": "Mighty Switch Force! 2",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "38,05Mb",
+					"size": "38,05Mo",
 					"icon_index": 316,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12221,7 +12208,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "86,36Mb",
+					"size": "86,36Mo",
 					"icon_index": 317,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12249,9 +12236,9 @@
 					"title": "Monster Hunter 3 Ultimate Data Transfer Program",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "12,67Mb",
+					"size": "12,67Mo",
 					"icon_index": 318,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12281,8 +12268,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "2,54Gb",
-					"additional": "Update : 45,92Mb",
+					"size": "2,54Go",
+					"additional": "Update : 45,92Mo",
 					"icon_index": 319,
 					"screenshots": 
 		            [{
@@ -12346,8 +12333,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,80Gb",
-					"additional": "DLC : 342,94Kb",
+					"size": "1,80Go",
+					"additional": "DLC : 342,94Ko",
 					"icon_index": 320,
 					"screenshots": 
 		            [{
@@ -12425,7 +12412,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "2,17Gb",
+					"size": "2,17Go",
 					"icon_index": 321,
 					"screenshots": 
 		            [{
@@ -12458,9 +12445,9 @@
 					"title": "Moon Chronicles",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "173Mb",
+					"size": "173Mo",
 					"icon_index": 322,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12488,10 +12475,10 @@
 					"title": "Mutant Mudds",
 					"version": "EUR, USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "14,04Mb",
-					"additional": "DEMO : 4,83Mb",
+					"size": "14,04Mo",
+					"additional": "DEMO : 4,83Mo",
 					"icon_index": 323,
 					"screenshots": 
 		            [{
@@ -12552,7 +12539,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "82,77Mb",
+					"size": "82,77Mo",
 					"icon_index": 324,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12582,7 +12569,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "84,22Mb",
+					"size": "84,22Mo",
 					"icon_index": 325,
 					"screenshots": 
 		            [{
@@ -12617,8 +12604,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,57Gb",
-					"additional": "Update : 2,66Mb",
+					"size": "1,57Go",
+					"additional": "Update : 2,66Mo",
 					"icon_index": 326,
 					"screenshots": 
 		            [{
@@ -12668,9 +12655,9 @@
 					"title": "New Style Boutique 3 Styling Star",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "779,18Mb",
+					"size": "779,18Mo",
 					"icon_index": 327,
 					"screenshots": 
 		            [{
@@ -12705,8 +12692,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "342,16Mb",
-					"additional": "DLC : 794,75Kb",
+					"size": "342,16Mo",
+					"additional": "DLC : 794,75Ko",
 					"icon_index": 328,
 					"screenshots": 
 		            [{
@@ -12784,7 +12771,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "82,43Mb",
+					"size": "82,43Mo",
 					"icon_index": 329,
 					"screenshots": 
 		            [{
@@ -12817,9 +12804,9 @@
 					"title": "Nintendo Letter Box",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "12,38Mb",
+					"size": "12,38Mo",
 					"icon_index": 330,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12847,9 +12834,9 @@
 					"title": "Nintendo Pocket Football Club",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "382,92Mb",
+					"size": "382,92Mo",
 					"icon_index": 331,
 					"screenshots": 
 		            [{
@@ -12882,9 +12869,9 @@
 					"title": "Nintendo Vidéo",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "4,12Mb",
+					"size": "4,12Mo",
 					"icon_index": 332,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -12914,8 +12901,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,77Gb",
-					"additional": "DLC : 37,90Mb",
+					"size": "1,77Go",
+					"additional": "DLC : 37,90Mo",
 					"icon_index": 333,
 					"screenshots": 
 		            [{
@@ -12993,7 +12980,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "407,73Mb",
+					"size": "407,73Mo",
 					"icon_index": 334,
 					"screenshots": 
 		            [{
@@ -13045,7 +13032,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "458,15Mb",
+					"size": "458,15Mo",
 					"icon_index": 335,
 					"screenshots": 
 		            [{
@@ -13097,7 +13084,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "197,99Mb",
+					"size": "197,99Mo",
 					"icon_index": 336,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -13144,7 +13131,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "197,04Mb",
+					"size": "197,04Mo",
 					"icon_index": 337,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -13191,7 +13178,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "78,68Mb",
+					"size": "78,68Mo",
 					"icon_index": 338,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -13221,7 +13208,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "90,97Mb",
+					"size": "90,97Mo",
 					"icon_index": 339,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -13251,8 +13238,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "555,62Mb",
-					"additional": "DLC : 19,98Mb",
+					"size": "555,62Mo",
+					"additional": "DLC : 19,98Mo",
 					"icon_index": 340,
 					"screenshots": 
 		            [{
@@ -13316,7 +13303,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "389,76Mb",
+					"size": "389,76Mo",
 					"icon_index": 341,
 					"screenshots": 
 		            [{
@@ -13351,7 +13338,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "418,03Mb",
+					"size": "418,03Mo",
 					"icon_index": 342,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -13379,9 +13366,9 @@
 					"title": "Photos with Mario",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "7,55Mb",
+					"size": "7,55Mo",
 					"icon_index": 343,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -13409,9 +13396,9 @@
 					"title": "Picdun 2 - Witch's Curse",
 					"version": "USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "74,15Mb",
+					"size": "74,15Mo",
 					"icon_index": 344,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -13441,7 +13428,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "893,44Mb",
+					"size": "893,44Mo",
 					"icon_index": 345,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -13471,7 +13458,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "132,49Mb",
+					"size": "132,49Mo",
 					"icon_index": 346,
 					"screenshots": 
 		            [{
@@ -13513,9 +13500,9 @@
 					"title": "Pokemon Dream Radar",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "24,87Mb",
+					"size": "24,87Mo",
 					"icon_index": 347,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -13543,9 +13530,9 @@
 					"title": "Pokemon Link - Battle!",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "48,07Mb",
+					"size": "48,07Mo",
 					"icon_index": 348,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -13575,7 +13562,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "2,98Gb",
+					"size": "2,98Go",
 					"icon_index": 349,
 					"screenshots": 
 		            [{
@@ -13619,8 +13606,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "844,96Mb",
-					"additional": "DLC : 240,39Mb",
+					"size": "844,96Mo",
+					"additional": "DLC : 240,39Mo",
 					"icon_index": 350,
 					"screenshots": 
 		            [{
@@ -13678,7 +13665,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "103,07Mb",
+					"size": "103,07Mo",
 					"icon_index": 351,
 					"screenshots": 
 		            [{
@@ -13722,8 +13709,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,70Gb",
-					"additional": "Update : 32,18Mb",
+					"size": "1,70Go",
+					"additional": "Update : 32,18Mo",
 					"icon_index": 352,
 					"screenshots": 
 		            [{
@@ -13790,7 +13777,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "3,44Gb",
+					"size": "3,44Go",
 					"icon_index": 353,
 					"screenshots": 
 		            [{
@@ -13825,8 +13812,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,68Gb",
-					"additional": "Update : 30,26Mb",
+					"size": "1,68Go",
+					"additional": "Update : 30,26Mo",
 					"icon_index": 354,
 					"screenshots": 
 		            [{
@@ -13904,7 +13891,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "914,81Mb",
+					"size": "914,81Mo",
 					"icon_index": 355,
 					"screenshots": 
 		            [{
@@ -13948,7 +13935,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "790,14Mb",
+					"size": "790,14Mo",
 					"icon_index": 356,
 					"screenshots": 
 		            [{
@@ -13990,9 +13977,9 @@
 					"title": "Pullbox",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "20,13Mb",
+					"size": "20,13Mo",
 					"icon_index": 357,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14020,9 +14007,9 @@
 					"title": "Pyramids",
 					"version": "EUR, USA",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "18,86Mb",
+					"size": "18,86Mo",
 					"icon_index": 358,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14069,7 +14056,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "589,03Mb",
+					"size": "589,03Mo",
 					"icon_index": 359,
 					"screenshots": 
 		            [{
@@ -14119,7 +14106,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,42Gb",
+					"size": "1,42Go",
 					"icon_index": 360,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14166,7 +14153,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "83,39Mb",
+					"size": "83,39Mo",
 					"icon_index": 361,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14196,8 +14183,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "288,44Mb",
-					"additional": "Update : 2,52Mb",
+					"size": "288,44Mo",
+					"additional": "Update : 2,52Mo",
 					"icon_index": 362,
 					"screenshots": 
 		            [{
@@ -14275,7 +14262,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "79,60Mb",
+					"size": "79,60Mo",
 					"icon_index": 363,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14305,8 +14292,8 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "1,12Gb",
-					"additional": "Update : 1,53Mb",
+					"size": "1,12Go",
+					"additional": "Update : 1,53Mo",
 					"icon_index": 364,
 					"screenshots": 
 		            [{
@@ -14378,7 +14365,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "385,96Mb",
+					"size": "385,96Mo",
 					"icon_index": 365,
 					"screenshots": 
 		            [{
@@ -14439,7 +14426,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "388,16Mb",
+					"size": "388,16Mo",
 					"icon_index": 366,
 					"screenshots": 
 		            [{
@@ -14500,7 +14487,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "775,71Mb",
+					"size": "775,71Mo",
 					"icon_index": 367,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14547,7 +14534,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "812,15Mb",
+					"size": "812,15Mo",
 					"icon_index": 368,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14594,7 +14581,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "916,57Mb",
+					"size": "916,57Mo",
 					"icon_index": 369,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14639,9 +14626,9 @@
 					"title": "Splash or Crash",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "24,13Mb",
+					"size": "24,13Mo",
 					"icon_index": 370,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14669,9 +14656,9 @@
 					"title": "Steamworld Dig",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "42,28Mb",
+					"size": "42,28Mo",
 					"icon_index": 371,
 					"screenshots": 
 		            [{
@@ -14707,10 +14694,10 @@
 					"title": "Steel Diver - Sub Wars",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "196,27Mb",
-					"additional": "Update : 9,72Mb",
+					"size": "196,27Mo",
+					"additional": "Update : 9,72Mo",
 					"icon_index": 372,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14757,7 +14744,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "82,53Mb",
+					"size": "82,53Mo",
 					"icon_index": 373,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14785,9 +14772,9 @@
 					"title": "VVVVVV",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "60,67Mb",
+					"size": "60,67Mo",
 					"icon_index": 374,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14817,7 +14804,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "73,28Mb",
+					"size": "73,28Mo",
 					"icon_index": 375,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14847,7 +14834,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "213,81Mb",
+					"size": "213,81Mo",
 					"icon_index": 376,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14875,9 +14862,9 @@
 					"title": "Weapon Shop de Omasse",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "121,95Mb",
+					"size": "121,95Mo",
 					"icon_index": 377,
 					"screenshots": 
 		            [{
@@ -14916,9 +14903,9 @@
 					"title": "Winter Sports 2012 - Feel the Spirit",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "210,35Mb",
+					"size": "210,35Mo",
 					"icon_index": 378,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14948,7 +14935,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "29,55Mb",
+					"size": "29,55Mo",
 					"icon_index": 379,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -14978,7 +14965,7 @@
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
-					"size": "87,23Mb",
+					"size": "87,23Mo",
 					"icon_index": 380,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -15006,9 +14993,9 @@
 					"title": "YouTube",
 					"version": "EUR",
 					"author": "",
-					"category": "Eshop",
+					"category": "eShop",
 					"console": "3DS",
-					"size": "13,11Mb",
+					"size": "13,11Mo",
 					"icon_index": 381,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -15038,7 +15025,7 @@
 		            "author": "",
 		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "43,04Mb",
+		            "size": "43,04Mo",
 					"icon_index": 383,
 					"screenshots": 
 		            [{
@@ -15073,7 +15060,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "78,75Mb",
+		            "size": "78,75Mo",
 		            "icon_index": 384,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15103,7 +15090,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "202,26Mb",
+		            "size": "202,26Mo",
 					"icon_index": 385,
 					"screenshots": 
 		            [{
@@ -15136,9 +15123,9 @@
 		            "title": "Battleminer",
 		            "version": "EUR",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "135,74Mb",
+		            "size": "135,74Mo",
 					"icon_index": 386,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15168,7 +15155,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "91,16Mb",
+		            "size": "91,16Mo",
 		            "icon_index": 387,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15198,7 +15185,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "71,85Mb",
+		            "size": "71,85Mo",
 					"icon_index": 388,
 					"screenshots": 
 		            [{
@@ -15233,7 +15220,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "211,20Mb",
+		            "size": "211,20Mo",
 		            "icon_index": 389,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15263,7 +15250,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "173,74Mb",
+		            "size": "173,74Mo",
 		            "icon_index": 390,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15293,7 +15280,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "211,94Mb",
+		            "size": "211,94Mo",
 					"icon_index": 391,
 					"screenshots": 
 		            [{
@@ -15326,9 +15313,9 @@
 		            "title": "Cube Creator 3D",
 		            "version": "EUR",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "21,33Mb",
+		            "size": "21,33Mo",
 		            "icon_index": 392,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15358,7 +15345,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "737,13Mb",
+		            "size": "737,13Mo",
 		            "icon_index": 393,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15388,8 +15375,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "632,39Mb",
-		            "additional": "Update : 73,83Mb",
+		            "size": "632,39Mo",
+		            "additional": "Update : 73,83Mo",
 					"icon_index": 394,
 					"screenshots": 
 		            [{
@@ -15450,8 +15437,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "360,63Mb",
-		            "additional": "Update : 33,41Mb | DLC : 70,21Kb",
+		            "size": "360,63Mo",
+		            "additional": "Update : 33,41Mo | DLC : 70,21Ko",
 					"icon_index": 395,
 					"screenshots": 
 		            [{
@@ -15580,7 +15567,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "178,12Mb",
+		            "size": "178,12Mo",
 		            "icon_index": 396,
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
@@ -15610,7 +15597,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "36,66Mb",
+		            "size": "36,66Mo",
 					"icon_index": 397,
 					"screenshots": 
 		            [{
@@ -15645,7 +15632,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "99,22Mb",
+		            "size": "99,22Mo",
 		            "icon_index": 398,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -15675,7 +15662,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "626,53Mb",
+		            "size": "626,53Mo",
 					"icon_index": 399,
 					"screenshots": 
 		            [{
@@ -15736,7 +15723,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "389,09Mb",
+		            "size": "389,09Mo",
 		            "icon_index": 400,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -15766,8 +15753,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,07Gb",
-		            "additional": "DLC : 121,42Mb",
+		            "size": "1,07Go",
+		            "additional": "DLC : 121,42Mo",
 					"icon_index": 401,
 					"screenshots": 
 		            [{
@@ -15819,8 +15806,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,74Gb",
-		            "additional": "DLC : 546,09Mb",
+		            "size": "1,74Go",
+		            "additional": "DLC : 546,09Mo",
 					"icon_index": 402,
 					"screenshots": 
 		            [{
@@ -15872,7 +15859,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "33,27Mb",
+		            "size": "33,27Mo",
 		            "icon_index": 403,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -15902,7 +15889,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,47Gb",
+		            "size": "1,47Go",
 					"icon_index": 404,
 					"screenshots": 
 		            [{
@@ -15937,7 +15924,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "65,26Mb",
+		            "size": "65,26Mo",
 					"icon_index": 405,
 					"screenshots": 
 		            [{
@@ -15972,7 +15959,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "54,11Mb",
+		            "size": "54,11Mo",
 					"icon_index": 406,
 					"screenshots": 
 		            [{
@@ -16007,7 +15994,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "53,84Mb",
+		            "size": "53,84Mo",
 					"icon_index": 407,
 					"screenshots": 
 		            [{
@@ -16042,7 +16029,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "215,18Mb",
+		            "size": "215,18Mo",
 		            "icon_index": 408,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -16072,7 +16059,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "75,31Mb",
+		            "size": "75,31Mo",
 					"icon_index": 409,
 					"screenshots": 
 		            [{
@@ -16107,7 +16094,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "215,29Mb",
+		            "size": "215,29Mo",
 		            "icon_index": 410,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -16137,7 +16124,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "46,11Mb",
+		            "size": "46,11Mo",
 		            "icon_index": 411,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -16167,7 +16154,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "210,08Mb",
+		            "size": "210,08Mo",
 		            "icon_index": 412,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -16197,7 +16184,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "26,98Mb",
+		            "size": "26,98Mo",
 					"icon_index": 413,
 					"screenshots": 
 		            [{
@@ -16232,7 +16219,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "87,40Mb",
+		            "size": "87,40Mo",
 		            "icon_index": 414,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -16262,7 +16249,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "58,78Mb",
+		            "size": "58,78Mo",
 					"icon_index": 415,
 					"screenshots": 
 		            [{
@@ -16297,7 +16284,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "77,86Mb",
+		            "size": "77,86Mo",
 					"icon_index": 416,
 					"screenshots": 
 		            [{
@@ -16332,7 +16319,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "166,16Mb",
+		            "size": "166,16Mo",
 		            "icon_index": 417,
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
@@ -16362,7 +16349,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "505,91Mb",
+		            "size": "505,91Mo",
 		            "icon_index": 0,
 					"sheet_index": 1,
 					"screenshots": 
@@ -16424,7 +16411,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "257,71Mb",
+		            "size": "257,71Mo",
 		            "icon_index": 1,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16455,7 +16442,7 @@
 		            "author": "CollinScripter",
 		            "category": "Homebrew",
 		            "console": "3DS",
-		            "size": "101,1Mb",
+		            "size": "101,1Mo",
 		            "icon_index": 2,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16497,9 +16484,9 @@
 		            "title": "Timberman",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "10,19Mb",
+		            "size": "10,19Mo",
 		            "icon_index": 3,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16530,7 +16517,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "710,33Mb",
+		            "size": "710,33Mo",
 		            "icon_index": 4,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16561,7 +16548,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "187,93Mb",
+		            "size": "187,93Mo",
 		            "icon_index": 5,
 					"sheet_index": 1,
 					"screenshots": 
@@ -16614,7 +16601,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "196,83Mb",
+		            "size": "196,83Mo",
 		            "icon_index": 6,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16645,7 +16632,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "512,65Mb",
+		            "size": "512,65Mo",
 		            "icon_index": 7,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16676,7 +16663,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "90,17Mb",
+		            "size": "90,17Mo",
 		            "icon_index": 8,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16707,7 +16694,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,61Gb",
+		            "size": "1,61Go",
 		            "icon_index": 9,
 					"sheet_index": 1,
 					"screenshots": 
@@ -16752,7 +16739,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,25Gb",
+		            "size": "2,25Go",
 		            "icon_index": 10,
 					"sheet_index": 1,
 					"screenshots": 
@@ -16794,7 +16781,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,87Gb",
+		            "size": "2,87Go",
 		            "icon_index": 11,
 					"sheet_index": 1,
 					"screenshots": 
@@ -16839,7 +16826,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,87Gb",
+		            "size": "2,87Go",
 		            "icon_index": 12,
 					"sheet_index": 1,
 					"screenshots": 
@@ -16875,7 +16862,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "45,02Mb",
+		            "size": "45,02Mo",
 		            "icon_index": 13,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16906,7 +16893,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "90,58Mb",
+		            "size": "90,58Mo",
 		            "icon_index": 14,
 		            "sheet_index": 1,
 		            "description": "",
@@ -16937,7 +16924,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "49,67Mb",
+		            "size": "49,67Mo",
 		            "icon_index": 15,
 					"sheet_index": 1,
 					"screenshots": 
@@ -16973,8 +16960,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "207,52Mb",
-		            "additional": "Update : 5,18Mb",
+		            "size": "207,52Mo",
+		            "additional": "Update : 5,18Mo",
 		            "icon_index": 16,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17025,7 +17012,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "90,25Mb",
+		            "size": "90,25Mo",
 		            "icon_index": 17,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17061,7 +17048,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "75,59Mb",
+		            "size": "75,59Mo",
 		            "icon_index": 18,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17097,7 +17084,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "69,26Mb",
+		            "size": "69,26Mo",
 		            "icon_index": 19,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17133,7 +17120,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "541,59Mb",
+		            "size": "541,59Mo",
 		            "icon_index": 20,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17178,8 +17165,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,12Gb",
-		            "additional": "Update : 19,83Mb | DLC : 535,38Kb",
+		            "size": "1,12Go",
+		            "additional": "Update : 19,83Mo | DLC : 535,38Ko",
 		            "icon_index": 21,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17278,7 +17265,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "41,73Mb",
+		            "size": "41,73Mo",
 		            "icon_index": 22,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17314,7 +17301,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "50,97Mb",
+		            "size": "50,97Mo",
 		            "icon_index": 23,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17343,9 +17330,9 @@
 		            "title": "Luxor",
 		            "version": "EUR",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "27,24Mb",
+		            "size": "27,24Mo",
 		            "icon_index": 24,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17379,9 +17366,9 @@
 		            "title": "Madagascar 3 - The Croods Combo Pack",
 		            "version": "EUR",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "138,37Mb",
+		            "size": "138,37Mo",
 		            "icon_index": 25,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17412,7 +17399,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "33,35Mb",
+		            "size": "33,35Mo",
 		            "icon_index": 26,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17448,7 +17435,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "251,27Mb",
+		            "size": "251,27Mo",
 		            "icon_index": 27,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17501,7 +17488,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "385,04Mb",
+		            "size": "385,04Mo",
 		            "icon_index": 28,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17532,7 +17519,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "27,68Mb",
+		            "size": "27,68Mo",
 		            "icon_index": 29,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17563,7 +17550,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "171,92Mb",
+		            "size": "171,92Mo",
 		            "icon_index": 30,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17594,7 +17581,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "36,17Mb",
+		            "size": "36,17Mo",
 		            "icon_index": 31,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17630,7 +17617,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "36,17Mb",
+		            "size": "36,17Mo",
 		            "icon_index": 32,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17659,9 +17646,9 @@
 		            "title": "My Zoo - Vet Practice 3D",
 		            "version": "EUR",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "41,37Mb",
+		            "size": "41,37Mo",
 		            "icon_index": 33,
 					"sheet_index": 1,
 		            "description": "",
@@ -17692,7 +17679,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "199,15Mb",
+		            "size": "199,15Mo",
 		            "icon_index": 34,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17728,7 +17715,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "107,06Mb",
+		            "size": "107,06Mo",
 		            "icon_index": 35,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17764,7 +17751,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "167,51Mb",
+		            "size": "167,51Mo",
 		            "icon_index": 36,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17795,7 +17782,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "176,06Mb",
+		            "size": "176,06Mo",
 		            "icon_index": 37,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17826,7 +17813,7 @@
 		            "author": "Not Mentioned",
 		            "category": "Homebrew",
 		            "console": "3DS",
-		            "size": "51,98Mb",
+		            "size": "51,98Mo",
 		            "icon_index": 38,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17857,7 +17844,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "191,46Mb",
+		            "size": "191,46Mo",
 		            "icon_index": 39,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17905,7 +17892,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "34,45Mb",
+		            "size": "34,45Mo",
 		            "icon_index": 40,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17936,8 +17923,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "372,53Mb",
-		            "additional": "DLC : 94,83Mb",
+		            "size": "372,53Mo",
+		            "additional": "DLC : 94,83Mo",
 		            "icon_index": 41,
 		            "sheet_index": 1,
 		            "description": "",
@@ -17985,8 +17972,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "852,43Mb",
-		            "additional": "Update : 3,14Mb | DLC : 3,73Mb",
+		            "size": "852,43Mo",
+		            "additional": "Update : 3,14Mo | DLC : 3,73Mo",
 		            "icon_index": 42,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18049,9 +18036,9 @@
 		            "title": "New Style Boutik 3 - Styling Star",
 		            "version": "EUR",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "779,18Mb",
+		            "size": "779,18Mo",
 		            "icon_index": 43,
 					"sheet_index": 1,
 		            "description": "",
@@ -18080,9 +18067,9 @@
 		            "title": "Nintendo 3DS Guide Louvre",
 		            "version": "EUR",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "1,53Gb",
+		            "size": "1,53Go",
 		            "icon_index": 44,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18118,7 +18105,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "455,25Mb",
+		            "size": "455,25Mo",
 		            "icon_index": 45,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18177,7 +18164,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "468,47Mb",
+		            "size": "468,47Mo",
 		            "icon_index": 46,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18208,7 +18195,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "467,76Mb",
+		            "size": "467,76Mo",
 		            "icon_index": 47,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18239,7 +18226,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "309,90Mb",
+		            "size": "309,90Mo",
 		            "icon_index": 48,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18270,7 +18257,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "91,37Mb",
+		            "size": "91,37Mo",
 		            "icon_index": 49,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18301,7 +18288,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "30,84Mb",
+		            "size": "30,84Mo",
 		            "icon_index": 50,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18332,8 +18319,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,73Gb",
-		            "additional": "301,20Mb",
+		            "size": "1,73Go",
+		            "additional": "301,20Mo",
 		            "icon_index": 51,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18412,7 +18399,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "45,96Mb",
+		            "size": "45,96Mo",
 		            "icon_index": 52,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18443,7 +18430,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "264,78Mb",
+		            "size": "264,78Mo",
 		            "icon_index": 53,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18474,7 +18461,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "407,85Mb",
+		            "size": "407,85Mo",
 		            "icon_index": 54,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18505,7 +18492,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "203,34Mb",
+		            "size": "203,34Mo",
 		            "icon_index": 55,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18536,7 +18523,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "3,45Gb",
+		            "size": "3,45Go",
 		            "icon_index": 56,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18572,8 +18559,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,68Gb",
-		            "additional": "Update : 30,26Mb",
+		            "size": "1,68Go",
+		            "additional": "Update : 30,26Mo",
  		            "icon_index": 57,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18652,8 +18639,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,77Gb",
-		            "additional": "Update : 33,42Mb",
+		            "size": "1,77Go",
+		            "additional": "Update : 33,42Mo",
 		            "icon_index": 58,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18732,7 +18719,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,61Gb",
+		            "size": "1,61Go",
 		            "icon_index": 59,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18797,8 +18784,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "915,89Mb",
-		            "additional": "DLC : 595,50Kb | Update : 11,24Mb",
+		            "size": "915,89Mo",
+		            "additional": "DLC : 595,50Ko | Update : 11,24Mo",
 		            "icon_index": 60,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18900,7 +18887,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "79,22Mb",
+		            "size": "79,22Mo",
 		            "icon_index": 62,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18936,7 +18923,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "667,72Mb",
+		            "size": "667,72Mo",
 		            "icon_index": 63,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18967,8 +18954,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "783,92Mb",
-		            "additional": "Update : 122,46Mb",
+		            "size": "783,92Mo",
+		            "additional": "Update : 122,46Mo",
 		            "icon_index": 64,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19016,8 +19003,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "3,15Gb",
-		            "additional": "Spanish mas Update : 1,71Gb",
+		            "size": "3,15Go",
+		            "additional": "Spanish mas Update : 1,71Go",
 		            "icon_index": 65,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19099,7 +19086,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "490,63Mb",
+		            "size": "490,63Mo",
 		            "icon_index": 66,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19135,7 +19122,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "302,46Mb",
+		            "size": "302,46Mo",
 		            "icon_index": 67,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19166,7 +19153,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,39Gb",
+		            "size": "1,39Go",
 		            "icon_index": 68,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19219,7 +19206,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "464,59Mb",
+		            "size": "464,59Mo",
 		            "icon_index": 69,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19250,7 +19237,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "244,68Mb",
+		            "size": "244,68Mo",
 		            "icon_index": 70,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19281,8 +19268,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "88,25Mb",
-		            "additional": "Update : 3,30Mb",
+		            "size": "88,25Mo",
+		            "additional": "Update : 3,30Mo",
 		            "icon_index": 71,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19330,7 +19317,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "11,96Mb",
+		            "size": "11,96Mo",
 		            "icon_index": 72,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19361,7 +19348,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,81Gb",
+		            "size": "1,81Go",
 		            "icon_index": 73,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19423,7 +19410,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "823,56Mb",
+		            "size": "823,56Mo",
 		            "icon_index": 74,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19454,7 +19441,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "761,87Mb",
+		            "size": "761,87Mo",
 		            "icon_index": 75,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19490,7 +19477,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "464,42Mb",
+		            "size": "464,42Mo",
 		            "icon_index": 76,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19521,7 +19508,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "774,48Mb",
+		            "size": "774,48Mo",
 		            "icon_index": 77,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19557,7 +19544,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "724,74Mb",
+		            "size": "724,74Mo",
 		            "icon_index": 78,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19605,8 +19592,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "643,72Mb",
-		            "additional": "Update : 4,45Mb",
+		            "size": "643,72Mo",
+		            "additional": "Update : 4,45Mo",
 		            "icon_index": 79,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19671,7 +19658,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "47,84Mb",
+		            "size": "47,84Mo",
 		            "icon_index": 80,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19702,7 +19689,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "177,85Mb",
+		            "size": "177,85Mo",
 		            "icon_index": 81,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19733,7 +19720,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,71Gb",
+		            "size": "1,71Go",
 		            "icon_index": 82,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19786,7 +19773,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "64,59Mb",
+		            "size": "64,59Mo",
 		            "icon_index": 83,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19817,7 +19804,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "81,90Mb",
+		            "size": "81,90Mo",
 		            "icon_index": 84,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19848,7 +19835,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "310,91Mb",
+		            "size": "310,91Mo",
 		            "icon_index": 85,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19879,7 +19866,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "640,42Mb",
+		            "size": "640,42Mo",
 		            "icon_index": 86,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19910,7 +19897,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,42Gb",
+		            "size": "1,42Go",
 		            "icon_index": 87,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19958,7 +19945,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "837,47Mb",
+		            "size": "837,47Mo",
 		            "icon_index": 88,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19989,7 +19976,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "684,57Mb",
+		            "size": "684,57Mo",
 		            "icon_index": 89,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20051,7 +20038,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "214,23Mb",
+		            "size": "214,23Mo",
 		            "icon_index": 90,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20104,7 +20091,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,68Gb",
+		            "size": "1,68Go",
 		            "icon_index": 91,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20143,8 +20130,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "419,31Mb",
-		            "additional": "Update : 43,87Mb",
+		            "size": "419,31Mo",
+		            "additional": "Update : 43,87Mo",
 		            "icon_index": 92,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20197,7 +20184,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "720,63Mb",
+		            "size": "720,63Mo",
 		            "icon_index": 93,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20228,7 +20215,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "164,95Mb",
+		            "size": "164,95Mo",
 		            "icon_index": 94,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20259,7 +20246,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "211,39Mb",
+		            "size": "211,39Mo",
 		            "icon_index": 95,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20290,8 +20277,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "3,31Gb",
-		            "additional": "Update : 970Mb",
+		            "size": "3,31Go",
+		            "additional": "Update : 970Mo",
 		            "icon_index": 96,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20365,9 +20352,9 @@
 		            "title": "Flipnote 3D",
 		            "version": "EUR, USA, JPN",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "EUR : 9,38Mb | USA : 7,31Mb | JPN : 4,45Mb",
+		            "size": "EUR : 9,38Mb | USA : 7,31Mb | JPN : 4,45Mo",
 		            "icon_index": 97,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20432,7 +20419,7 @@
 		            "author": "",
 		            "category": "DSiWare",
 		            "console": "DSi",
-		            "size": "1,85Mb",
+		            "size": "1,85Mo",
 		            "icon_index": 277,
 		            "description": "Doesn't work on 3DS",
 		            "last_updated": "2019-12-18 at 20:50 (UTC)"
@@ -20462,7 +20449,7 @@
 		            "author": "",
 		            "category": "DSiWare",
 		            "console": "DSi",
-		            "size": "1,61Mb",
+		            "size": "1,61Mo",
 		            "icon_index": 292,
 		            "description": "Doesn't work on 3DS",
 		            "last_updated": "2019-12-18 at 20:50 (UTC)"
@@ -20492,7 +20479,7 @@
 		            "author": "",
 		            "category": "DSiWare",
 		            "console": "DSi",
-		            "size": "1,09Mb",
+		            "size": "1,09Mo",
 		            "icon_index": 61,
 		            "sheet_index": 1,
 		            "description": "Doesn't work on 3DS",
@@ -20523,7 +20510,7 @@
 				   	"author": "hax0kartik",
 				   	"category": "Homebrew",
 		            "console": "3DS",
-		            "size": "41,3Kb",
+		            "size": "41,3Ko",
 		            "icon_index": 98,
 		            "sheet_index": 1,
 		            "description": "Amiibo Emulation for 3ds",
@@ -20563,7 +20550,7 @@
 				   	"author": "Masterfeizz",
 				   	"category": "Homebrew",
 		            "console": "3DS",
-		            "size": "191Mb",
+		            "size": "191Mo",
 		            "icon_index": 99,
 		            "sheet_index": 1,
 		            "description": "Halflife port for 3ds",
@@ -20620,7 +20607,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "66,97Mb",
+		            "size": "66,97Mo",
 		            "icon_index": 100,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20651,7 +20638,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "81Mb",
+		            "size": "81Mo",
 		            "icon_index": 101,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20693,7 +20680,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "56,31Mb",
+		            "size": "56,31Mo",
 		            "icon_index": 102,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20729,7 +20716,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "448,83Mb",
+		            "size": "448,83Mo",
 		            "icon_index": 103,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20777,7 +20764,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "431,58Mb",
+		            "size": "431,58Mo",
 		            "icon_index": 104,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20813,7 +20800,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "54,20Mb",
+		            "size": "54,20Mo",
 		            "icon_index": 105,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20849,7 +20836,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "57,16Mb",
+		            "size": "57,16Mo",
 		            "icon_index": 106,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20880,8 +20867,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,02Gb",
-		            "additional": "Update : 7,66Mb",
+		            "size": "1,02Go",
+		            "additional": "Update : 7,66Mo",
 		            "icon_index": 107,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20929,7 +20916,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,12Gb",
+		            "size": "1,12Go",
 		            "icon_index": 108,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20965,7 +20952,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "356,54Mb",
+		            "size": "356,54Mo",
 		            "icon_index": 109,
 		            "sheet_index": 1,
 		            "description": "",
@@ -20996,8 +20983,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,19Gb",
-		            "additional": "DLC : 375Kb",
+		            "size": "1,19Go",
+		            "additional": "DLC : 375Ko",
 		            "icon_index": 110,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21045,7 +21032,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "841,50Mb",
+		            "size": "841,50Mo",
 		            "icon_index": 111,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21090,7 +21077,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "220,87Mb",
+		            "size": "220,87Mo",
 		            "icon_index": 112,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21126,7 +21113,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,34Gb",
+		            "size": "1,34Go",
 		            "icon_index": 113,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21171,7 +21158,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "738,82Mb",
+		            "size": "738,82Mo",
 		            "icon_index": 114,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21207,7 +21194,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "133,16Mb",
+		            "size": "133,16Mo",
 		            "icon_index": 115,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21238,7 +21225,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "384,61Mb",
+		            "size": "384,61Mo",
 		            "icon_index": 116,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21269,7 +21256,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,38Gb",
+		            "size": "1,38Go",
 		            "icon_index": 117,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21305,7 +21292,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "75,94Mb",
+		            "size": "75,94Mo",
 		            "icon_index": 118,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21336,7 +21323,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,42Gb",
+		            "size": "1,42Go",
 		            "icon_index": 119,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21398,7 +21385,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "208,35Mb",
+		            "size": "208,35Mo",
 		            "icon_index": 120,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21434,7 +21421,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "331,04Mb",
+		            "size": "331,04Mo",
 		            "icon_index": 121,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21465,8 +21452,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "539,06Mb",
-		            "additional": "DLC : 170,50Kb",
+		            "size": "539,06Mo",
+		            "additional": "DLC : 170,50Ko",
 		            "icon_index": 122,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21528,8 +21515,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "889,72Mb",
-		            "additional": "Update : 2,38Mb | DLC : 24,38Mb",
+		            "size": "889,72Mo",
+		            "additional": "Update : 2,38Mo | DLC : 24,38Mo",
 		            "icon_index": 123,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21602,7 +21589,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "713,69Mb",
+		            "size": "713,69Mo",
 		            "icon_index": 124,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21647,8 +21634,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "821,83Mb",
-		            "additional": "DLC : 72,03Mb",
+		            "size": "821,83Mo",
+		            "additional": "DLC : 72,03Mo",
 		            "icon_index": 125,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21696,7 +21683,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "784,78Mb",
+		            "size": "784,78Mo",
 		            "icon_index": 126,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21727,8 +21714,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "544,42Mb",
-		            "additional": "DLC : 198,73Mb",
+		            "size": "544,42Mo",
+		            "additional": "DLC : 198,73Mo",
 		            "icon_index": 127,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21793,7 +21780,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,52Gb",
+		            "size": "1,52Go",
 		            "icon_index": 128,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21824,7 +21811,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,55Gb",
+		            "size": "1,55Go",
 		            "icon_index": 129,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21855,7 +21842,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,52Gb",
+		            "size": "1,52Go",
 		            "icon_index": 130,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21886,8 +21873,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "856,49Mb",
-		            "additional": "DLC : 78,31Kb",
+		            "size": "856,49Mo",
+		            "additional": "DLC : 78,31Ko",
 		            "icon_index": 131,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21946,8 +21933,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,56Gb",
-		            "additional": "Update : 2,99Mb | DLC : 407,30Mb",
+		            "size": "1,56Go",
+		            "additional": "Update : 2,99Mo | DLC : 407,30Mo",
 		            "icon_index": 132,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22020,7 +22007,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "848,96Mb",
+		            "size": "848,96Mo",
 		            "icon_index": 133,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22051,7 +22038,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "77,15Mb",
+		            "size": "77,15Mo",
 		            "icon_index": 134,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22082,7 +22069,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "90,30Mb",
+		            "size": "90,30Mo",
 		            "icon_index": 135,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22118,7 +22105,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "80,36Mb",
+		            "size": "80,36Mo",
 		            "icon_index": 136,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22149,7 +22136,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "61,99Mb",
+		            "size": "61,99Mo",
 		            "icon_index": 137,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22185,8 +22172,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "906,20Mb",
-		            "additional": "Update : 1;14Mb",
+		            "size": "906,20Mo",
+		            "additional": "Update : 1;14Mo",
 		            "icon_index": 138,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22239,7 +22226,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "193,53Mb",
+		            "size": "193,53Mo",
 		            "icon_index": 139,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22270,8 +22257,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "78,27Mb",
-		            "additional": "Update : 4,54Mb | DLC : 3,01Mb",
+		            "size": "78,27Mo",
+		            "additional": "Update : 4,54Mo | DLC : 3,01Mo",
 		            "icon_index": 140,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22336,7 +22323,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "341,29Mb",
+		            "size": "341,29Mo",
 		            "icon_index": 141,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22375,7 +22362,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "240,26Mb",
+		            "size": "240,26Mo",
 		            "icon_index": 142,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22420,7 +22407,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,18Gb",
+		            "size": "2,18Go",
 		            "icon_index": 143,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22465,7 +22452,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "464,77Mb",
+		            "size": "464,77Mo",
 		            "icon_index": 144,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22504,7 +22491,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "403,09Mb",
+		            "size": "403,09Mo",
 		            "icon_index": 145,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22549,7 +22536,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "522,81Mb",
+		            "size": "522,81Mo",
 		            "icon_index": 146,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22585,7 +22572,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "196,80Mb",
+		            "size": "196,80Mo",
 		            "icon_index": 147,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22616,8 +22603,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,97Gb",
-		            "additional": "Update : 194,92Mb | DLC : 667,56Kb",
+		            "size": "1,97Go",
+		            "additional": "Update : 194,92Mo | DLC : 667,56Ko",
 		            "icon_index": 148,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22696,7 +22683,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "90,17Mb",
+		            "size": "90,17Mo",
 		            "icon_index": 149,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22732,7 +22719,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "213,73Mb",
+		            "size": "213,73Mo",
 		            "icon_index": 150,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22763,7 +22750,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "182,29Mb",
+		            "size": "182,29Mo",
 		            "icon_index": 151,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22799,7 +22786,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "69,26Mb",
+		            "size": "69,26Mo",
 		            "icon_index": 152,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22830,8 +22817,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "210,22Mb",
-		            "additional": "Update : 120,86Mb",
+		            "size": "210,22Mo",
+		            "additional": "Update : 120,86Mo",
 		            "icon_index": 153,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22893,7 +22880,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "664,15Mb",
+		            "size": "664,15Mo",
 		            "icon_index": 154,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22941,7 +22928,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,42Gb",
+		            "size": "1,42Go",
 		            "icon_index": 155,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22972,7 +22959,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,76Gb",
+		            "size": "1,76Go",
 		            "icon_index": 156,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23008,7 +22995,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "415,99Mb",
+		            "size": "415,99Mo",
 		            "icon_index": 157,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23044,7 +23031,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "735,73Mb",
+		            "size": "735,73Mo",
 		            "icon_index": 158,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23089,7 +23076,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "469,36Mb",
+		            "size": "469,36Mo",
 		            "icon_index": 159,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23125,8 +23112,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "441,87Mb",
-		            "additional": "Update : 17,75Mb | DLC : 1,91Mb",
+		            "size": "441,87Mo",
+		            "additional": "Update : 17,75Mo | DLC : 1,91Mo",
 		            "icon_index": 160,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23196,7 +23183,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "449,75Mb",
+		            "size": "449,75Mo",
 		            "icon_index": 161,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23227,7 +23214,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "406,84Mb",
+		            "size": "406,84Mo",
 		            "icon_index": 162,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23258,7 +23245,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "458,03Mb",
+		            "size": "458,03Mo",
 		            "icon_index": 163,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23289,7 +23276,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "450,35Mb",
+		            "size": "450,35Mo",
 		            "icon_index": 164,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23320,7 +23307,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "439,40Mb",
+		            "size": "439,40Mo",
 		            "icon_index": 165,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23356,7 +23343,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "196,69Mb",
+		            "size": "196,69Mo",
 		            "icon_index": 166,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23392,7 +23379,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "730,43Mb",
+		            "size": "730,43Mo",
 		            "icon_index": 167,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23437,7 +23424,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "34,26Mb",
+		            "size": "34,26Mo",
 		            "icon_index": 168,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23468,7 +23455,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "75,39Mb",
+		            "size": "75,39Mo",
 		            "icon_index": 169,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23499,7 +23486,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,21Gb",
+		            "size": "1,21Go",
 		            "icon_index": 170,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23550,7 +23537,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "679Mb",
+		            "size": "679Mo",
 		            "icon_index": 171,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23586,7 +23573,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "64,31Mb",
+		            "size": "64,31Mo",
 		            "icon_index": 172,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23622,7 +23609,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "89,90Mb",
+		            "size": "89,90Mo",
 		            "icon_index": 173,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23653,7 +23640,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "546,12Mb",
+		            "size": "546,12Mo",
 		            "icon_index": 174,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23701,7 +23688,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "361,80Mb",
+		            "size": "361,80Mo",
 		            "icon_index": 175,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23732,7 +23719,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "463,70Mb",
+		            "size": "463,70Mo",
 		            "icon_index": 176,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23771,7 +23758,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "681,46Mb",
+		            "size": "681,46Mo",
 		            "icon_index": 177,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23825,8 +23812,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,25Gb",
-		            "additional": "Update : 55,26Mb",
+		            "size": "1,25Go",
+		            "additional": "Update : 55,26Mo",
 		            "icon_index": 178,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23888,7 +23875,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "423,64Mb",
+		            "size": "423,64Mo",
 		            "icon_index": 179,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23924,7 +23911,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "857,17Mb",
+		            "size": "857,17Mo",
 		            "icon_index": 180,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23969,7 +23956,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "291,63Mb",
+		            "size": "291,63Mo",
 		            "icon_index": 181,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24014,7 +24001,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "213,17Mb",
+		            "size": "213,17Mo",
 		            "icon_index": 182,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24045,7 +24032,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "43,12Mb",
+		            "size": "43,12Mo",
 		            "icon_index": 183,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24081,7 +24068,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "208,61Mb",
+		            "size": "208,61Mo",
 		            "icon_index": 184,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24112,7 +24099,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,74Gb",
+		            "size": "1,74Go",
 		            "icon_index": 185,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24154,7 +24141,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,52Gb",
+		            "size": "1,52Go",
 		            "icon_index": 186,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24199,7 +24186,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "48,10Mb",
+		            "size": "48,10Mo",
 		            "icon_index": 187,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24230,7 +24217,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "91,22Mb",
+		            "size": "91,22Mo",
 		            "icon_index": 188,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24261,7 +24248,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "200,50Mb",
+		            "size": "200,50Mo",
 		            "icon_index": 189,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24297,7 +24284,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "439,95Mb",
+		            "size": "439,95Mo",
 		            "icon_index": 190,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24328,7 +24315,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "126,50Mb",
+		            "size": "126,50Mo",
 		            "icon_index": 191,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24364,7 +24351,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "385,57Mb",
+		            "size": "385,57Mo",
 		            "icon_index": 192,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24400,7 +24387,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "177,57Mb",
+		            "size": "177,57Mo",
 		            "icon_index": 193,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24448,7 +24435,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "450,39Mb",
+		            "size": "450,39Mo",
 		            "icon_index": 194,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24484,7 +24471,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "450,39Mb",
+		            "size": "450,39Mo",
 		            "icon_index": 195,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24520,7 +24507,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "907,40Mb",
+		            "size": "907,40Mo",
 		            "icon_index": 196,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24549,9 +24536,9 @@
 		            "title": "PIX3D",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "20,51Mb",
+		            "size": "20,51Mo",
 		            "icon_index": 197,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24582,7 +24569,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "141,80Mb",
+		            "size": "141,80Mo",
 		            "icon_index": 198,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24618,7 +24605,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "68,82Mb",
+		            "size": "68,82Mo",
 		            "icon_index": 199,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24649,8 +24636,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,65Gb",
-		            "additional": "DLC : 53,86Mb",
+		            "size": "2,65Go",
+		            "additional": "DLC : 53,86Mo",
 		            "icon_index": 200,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24698,7 +24685,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "160,04Mb",
+		            "size": "160,04Mo",
 		            "icon_index": 201,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24729,7 +24716,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "160,08Mb",
+		            "size": "160,08Mo",
 		            "icon_index": 202,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24760,7 +24747,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "71,21Mb",
+		            "size": "71,21Mo",
 		            "icon_index": 203,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24789,9 +24776,9 @@
 		            "title": "Picross e4",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "18,01Mb",
+		            "size": "18,01Mo",
 		            "icon_index": 204,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24836,7 +24823,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "92,03Mb",
+		            "size": "92,03Mo",
 		            "icon_index": 205,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24881,7 +24868,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "82,21Mb",
+		            "size": "82,21Mo",
 		            "icon_index": 206,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24915,9 +24902,9 @@
 		            "title": "Pokedex 3D",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "22,24Mb",
+		            "size": "22,24Mo",
 		            "icon_index": 207,
 		            "sheet_index": 1,
 		            "description": "",
@@ -24948,7 +24935,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "320,65Mb",
+		            "size": "320,65Mo",
 		            "icon_index": 208,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24984,8 +24971,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,77Gb",
-		            "additional": "Update : 33,42Mb",
+		            "size": "1,77Go",
+		            "additional": "Update : 33,42Mo",
 		            "icon_index": 209,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25047,7 +25034,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "308,67Mb",
+		            "size": "308,67Mo",
 		            "icon_index": 210,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25083,7 +25070,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "950Mb",
+		            "size": "950Mo",
 		            "icon_index": 211,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25128,7 +25115,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "55,25Mb",
+		            "size": "55,25Mo",
 		            "icon_index": 212,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25159,7 +25146,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "205,01Mb",
+		            "size": "205,01Mo",
 		            "icon_index": 213,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25190,7 +25177,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "215,22Mb",
+		            "size": "215,22Mo",
 		            "icon_index": 214,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25221,7 +25208,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "871,11Mb",
+		            "size": "871,11Mo",
 		            "icon_index": 215,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25252,7 +25239,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "904,31Mb",
+		            "size": "904,31Mo",
 		            "icon_index": 216,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25283,7 +25270,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "878,74Mb",
+		            "size": "878,74Mo",
 		            "icon_index": 217,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25314,7 +25301,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "91,14Mb",
+		            "size": "91,14Mo",
 		            "icon_index": 218,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25350,7 +25337,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "89,81Mb",
+		            "size": "89,81Mo",
 		            "icon_index": 219,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25386,7 +25373,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "188,59Mb",
+		            "size": "188,59Mo",
 		            "icon_index": 220,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25417,8 +25404,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "897,37Mb",
-		            "additional": "Update : 73,52Mb | DLC : 318,81Kb",
+		            "size": "897,37Mo",
+		            "additional": "Update : 73,52Mo | DLC : 318,81Ko",
 		            "icon_index": 221,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25483,7 +25470,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "24,89Mb",
+		            "size": "24,89Mo",
 		            "icon_index": 222,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25514,7 +25501,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "21,33Mb",
+		            "size": "21,33Mo",
 		            "icon_index": 223,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25545,8 +25532,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "121,33Mb",
-		            "additional": "Update : 7Mb | DLC : 119,26Mb",
+		            "size": "121,33Mo",
+		            "additional": "Update : 7Mo | DLC : 119,26Mo",
 		            "icon_index": 224,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25625,7 +25612,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "348,30Mb",
+		            "size": "348,30Mo",
 		            "icon_index": 225,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25656,7 +25643,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "113,57Mb",
+		            "size": "113,57Mo",
 		            "icon_index": 226,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25687,8 +25674,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "980Mb",
-		            "additional": "DLC : 33,01Mb",
+		            "size": "980Mo",
+		            "additional": "DLC : 33,01Mo",
 		            "icon_index": 227,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25750,7 +25737,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "188,91Mb",
+		            "size": "188,91Mo",
 		            "icon_index": 228,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25795,7 +25782,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "283,70Mb",
+		            "size": "283,70Mo",
 		            "icon_index": 229,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25826,7 +25813,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "34,19Mb",
+		            "size": "34,19Mo",
 		            "icon_index": 230,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25869,9 +25856,9 @@
 		            "title": "Retro City Rampage - DX",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "15,24Mb",
+		            "size": "15,24Mo",
 		            "icon_index": 231,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25902,7 +25889,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,48Gb",
+		            "size": "1,48Go",
 		            "icon_index": 232,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25933,7 +25920,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,40Gb",
+		            "size": "1,40Go",
 		            "icon_index": 233,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25964,7 +25951,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "772,45Mb",
+		            "size": "772,45Mo",
 		            "icon_index": 234,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25995,7 +25982,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "79,81Mb",
+		            "size": "79,81Mo",
 		            "icon_index": 235,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26026,7 +26013,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "192,41Mb",
+		            "size": "192,41Mo",
 		            "icon_index": 236,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26057,7 +26044,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "157,24Mb",
+		            "size": "157,24Mo",
 		            "icon_index": 237,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26093,8 +26080,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "270,53Mb",
-		            "additional": "DLC : 186,50Kb",
+		            "size": "270,53Mo",
+		            "additional": "DLC : 186,50Ko",
   		            "icon_index": 238,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26142,7 +26129,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,34Gb",
+		            "size": "1,34Go",
 		            "icon_index": 239,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26188,9 +26175,9 @@
 		            "title": "Rustys Real Deal Baseball",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "75,77Mb",
+		            "size": "75,77Mo",
 		            "icon_index": 240,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26235,7 +26222,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "192,55Mb",
+		            "size": "192,55Mo",
 		            "icon_index": 241,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26266,7 +26253,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "458,61Mb",
+		            "size": "458,61Mo",
 		            "icon_index": 242,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26311,7 +26298,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "587,86Mb",
+		            "size": "587,86Mo",
 		            "icon_index": 243,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26347,8 +26334,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,12Gb",
-		            "additional": "DLC : 1,19Gb",
+		            "size": "2,12Go",
+		            "additional": "DLC : 1,19Go",
 		            "icon_index": 244,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26396,7 +26383,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,70Gb",
+		            "size": "1,70Go",
 		            "icon_index": 245,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26441,7 +26428,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "37,39Mb",
+		            "size": "37,39Mo",
 		            "icon_index": 246,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26472,8 +26459,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,78Gb",
-		            "additional": "Update : 2,64Mb | DLC :234,56Kb",
+		            "size": "2,78Go",
+		            "additional": "Update : 2,64Mo | DLC :234,56Ko",
 		            "icon_index": 247,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26552,8 +26539,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,67Gb",
-		            "additional": "DLC : 414,69Kb",
+		            "size": "1,67Go",
+		            "additional": "DLC : 414,69Ko",
 		            "icon_index": 248,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26615,8 +26602,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,68Gb",
-		            "additional": "DLC : 39,40Mb",
+		            "size": "1,68Go",
+		            "additional": "DLC : 39,40Mo",
 		            "icon_index": 249,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26678,8 +26665,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,75Gb",
-		            "additional": "DLC : 21,67Mb",
+		            "size": "1,75Go",
+		            "additional": "DLC : 21,67Mo",
 		            "icon_index": 250,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26741,7 +26728,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "349,67Mb",
+		            "size": "349,67Mo",
 		            "icon_index": 251,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26770,10 +26757,10 @@
 		            "title": "Shovel Knight",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "151,44Mb",
-		            "additional": "Update : 171,75Mb",
+		            "size": "151,44Mo",
+		            "additional": "Update : 171,75Mo",
 		            "icon_index": 252,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26835,7 +26822,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "9,55Mb",
+		            "size": "9,55Mo",
 		            "icon_index": 253,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26866,7 +26853,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "390,15Mb",
+		            "size": "390,15Mo",
 		            "icon_index": 254,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26897,7 +26884,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "421,58Mb",
+		            "size": "421,58Mo",
 		            "icon_index": 255,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26933,8 +26920,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "815,61Mb",
-		            "additional": "70,31Kb",
+		            "size": "815,61Mo",
+		            "additional": "70,31Ko",
 		            "icon_index": 256,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26990,7 +26977,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,62Gb",
+		            "size": "1,62Go",
 		            "icon_index": 257,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27021,7 +27008,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "825,08Mb",
+		            "size": "825,08Mo",
 		            "icon_index": 258,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27060,7 +27047,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "606,15Mb",
+		            "size": "606,15Mo",
 		            "icon_index": 259,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27096,7 +27083,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,22Gb",
+		            "size": "1,22Go",
 		            "icon_index": 260,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27139,9 +27126,9 @@
 		            "title": "SpeedX 3D Hyper Edition",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "39,43Mb",
+		            "size": "39,43Mo",
 		            "icon_index": 261,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27172,7 +27159,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "361,02Mb",
+		            "size": "361,02Mo",
 		            "icon_index": 262,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27203,7 +27190,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "169,60Mb",
+		            "size": "169,60Mo",
 		            "icon_index": 263,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27239,7 +27226,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "420,74Mb",
+		            "size": "420,74Mo",
 		            "icon_index": 264,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27275,7 +27262,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "575,67Mb",
+		            "size": "575,67Mo",
 		            "icon_index": 265,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27323,7 +27310,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,43Gb",
+		            "size": "1,43Go",
 		            "icon_index": 266,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27371,7 +27358,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "200,85Mb",
+		            "size": "200,85Mo",
 		            "icon_index": 267,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27402,7 +27389,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "877,13Mb",
+		            "size": "877,13Mo",
 		            "icon_index": 268,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27436,9 +27423,9 @@
 		            "title": "THE DENPA MEN - They Came by Wave",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "43,19Mb",
+		            "size": "43,19Mo",
 		            "icon_index": 269,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27483,7 +27470,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "170,37Mb",
+		            "size": "170,37Mo",
 		            "icon_index": 270,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27534,7 +27521,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "s215,10Mb",
+		            "size": "s215,10Mo",
 		            "icon_index": 271,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27582,7 +27569,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,54Gb",
+		            "size": "1,54Go",
 		            "icon_index": 272,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27616,9 +27603,9 @@
 		            "title": "Tappingo 2",
 		            "version": "USA",
 		            "author": "",
-		            "category": "Eshop",
+		            "category": "eShop",
 		            "console": "3DS",
-		            "size": "29,03Mb",
+		            "size": "29,03Mo",
 		            "icon_index": 273,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27649,7 +27636,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "213,03Mb",
+		            "size": "213,03Mo",
 		            "icon_index": 274,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27680,7 +27667,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "396,36Mb",
+		            "size": "396,36Mo",
 		            "icon_index": 275,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27711,7 +27698,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "182,01Mb",
+		            "size": "182,01Mo",
 		            "icon_index": 276,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27742,7 +27729,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "861,98Mb",
+		            "size": "861,98Mo",
 		            "icon_index": 277,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27778,8 +27765,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "523,89Mb",
-		            "additional": "Update : 136,64Mb",
+		            "size": "523,89Mo",
+		            "additional": "Update : 136,64Mo",
 		            "icon_index": 278,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27832,7 +27819,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "88Mb",
+		            "size": "88Mo",
 		            "icon_index": 279,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27863,7 +27850,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "90,56Mb",
+		            "size": "90,56Mo",
 		            "icon_index": 280,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27894,7 +27881,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "18,31Mb",
+		            "size": "18,31Mo",
 		            "icon_index": 281,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27925,8 +27912,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "868,48Mb",
-		            "additional": "DLC : 230,06Mb",
+		            "size": "868,48Mo",
+		            "additional": "DLC : 230,06Mo",
 		            "icon_index": 282,
 		            "sheet_index": 1,
 		            "description": "",
@@ -27974,8 +27961,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,64Gb",
-		            "additional": "DLC : 499,86Mb",
+		            "size": "1,64Go",
+		            "additional": "DLC : 499,86Mo",
 		            "icon_index": 283,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28040,7 +28027,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "18,12Mb",
+		            "size": "18,12Mo",
 		            "icon_index": 284,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28071,7 +28058,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "113Mb",
+		            "size": "113Mo",
 		            "icon_index": 285,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28119,7 +28106,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,82Gb",
+		            "size": "1,82Go",
 		            "icon_index": 286,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28150,8 +28137,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,20Gb",
-		            "additional": "Update : 13,11Mb",
+		            "size": "1,20Go",
+		            "additional": "Update : 13,11Mo",
 		            "icon_index": 287,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28213,7 +28200,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "49,48Mb",
+		            "size": "49,48Mo",
 		            "icon_index": 288,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28244,7 +28231,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "395Mb",
+		            "size": "395Mo",
 		            "icon_index": 289,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28275,7 +28262,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "187,27Mb",
+		            "size": "187,27Mo",
 		            "icon_index": 290,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28306,7 +28293,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "388Mb",
+		            "size": "388Mo",
 		            "icon_index": 291,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28337,7 +28324,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "NEW3DS",
-		            "size": "3,52Gb",
+		            "size": "3,52Go",
 		            "icon_index": 292,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28376,8 +28363,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,76Gb",
-		            "additional": "Update : 764,72Mb",
+		            "size": "1,76Go",
+		            "additional": "Update : 764,72Mo",
 		            "icon_index": 293,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28425,8 +28412,8 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,76Gb",
-		            "additional": "Update : 764,72Mb | DLC :122,44Kb",
+		            "size": "1,76Go",
+		            "additional": "Update : 764,72Mo | DLC :122,44Ko",
 		            "icon_index": 294,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28491,7 +28478,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "2,56Gb",
+		            "size": "2,56Go",
 		            "icon_index": 295,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28522,7 +28509,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "419,17Mb",
+		            "size": "419,17Mo",
 		            "icon_index": 296,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28558,7 +28545,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "825,62Mb",
+		            "size": "825,62Mo",
 		            "icon_index": 297,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28606,7 +28593,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,16Gb",
+		            "size": "1,16Go",
 		            "icon_index": 298,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28651,7 +28638,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "374,41Mb",
+		            "size": "374,41Mo",
 		            "icon_index": 299,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28699,7 +28686,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "447,79Mb",
+		            "size": "447,79Mo",
 		            "icon_index": 300,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28730,7 +28717,7 @@
 		            "author": "Happinet",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "1,61Gb",
+		            "size": "1,61Go",
 		            "icon_index": 301,
 		            "sheet_index": 1,
 		            "description": "12-Sai. Koisuru Diary is an Adventure game, developed and published by Happinet, which was released in Japan in 2016.",
@@ -28761,7 +28748,7 @@
 		            "author": "Kadokawa Shoten",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "836,53Mb",
+		            "size": "836,53Mo",
 		            "icon_index": 302,
 		            "sheet_index": 1,
 		            "screenshots": 
@@ -28798,7 +28785,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "673,66Mb",
+		            "size": "673,66Mo",
 		            "icon_index": 303,
 		            "sheet_index": 1,
 		            "screenshots": 
@@ -28834,7 +28821,7 @@
 		            "author": "Klon Co.",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "83,90Mb",
+		            "size": "83,90Mo",
 		            "icon_index": 304,
 		            "sheet_index": 1,
 		            "description": "This work is a communication game set in a fictitious cafe. Real and active idols will appear as characters in the game as they are, and you can enjoy conversations and stories with them.",
@@ -28865,7 +28852,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "355,58Mb",
+		            "size": "355,58Mo",
 		            "icon_index": 305,
 		            "sheet_index": 1,
 		            "description": "You can create 100,000 different characters. Includes Story Mode, Free Audition, Dressmaking, Music Video, and My Bedroom Mode for a total of 55 episodes, including 1 prologue, 6 episodes for each group, and 3 episodes for each character.",
@@ -28896,7 +28883,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "337,06Mb",
+		            "size": "337,06Mo",
 		            "icon_index": 306,
 		            "sheet_index": 1,
 		            "description": "Like the last game, the game starts the player off with customizing their character. Also like the last game, there are two parts.",
@@ -28927,7 +28914,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "17,07Mb",
+		            "size": "17,07Mo",
 		            "icon_index": 307,
 		            "sheet_index": 1,
 		            "description": "A karaoke feature known as Aikara (Aikatsu! Karaoke) is added to allow players to sing along and is able to record one's voice, and the headset from the limited edition will assist this function.",
@@ -28958,7 +28945,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "587,42Mb",
+		            "size": "587,42Mo",
 		            "icon_index": 308,
 		            "sheet_index": 1,
 		            "description": "After being knocked out, Kamen Rider Ex-Aid awakens strapped down to a table in a room.",
@@ -28989,7 +28976,7 @@
 		            "author": "Agatsuma Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "410,63Mb",
+		            "size": "410,63Mo",
 		            "icon_index": 309,
 		            "sheet_index": 1,
 		            "description": "",
@@ -29020,7 +29007,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "197,60Mb",
+		            "size": "197,60Mo",
 		            "icon_index": 310,
 		            "sheet_index": 1,
 		            "description": "",
@@ -29051,7 +29038,7 @@
 		            "author": "Inti Creates",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "887,80Mb",
+		            "size": "887,80Mo",
 		            "icon_index": 311,
 		            "sheet_index": 1,
 		            "screenshots": 
@@ -29087,7 +29074,7 @@
 		            "author": "Starfish",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "147,20Mb",
+		            "size": "147,20Mo",
 		            "icon_index": 312,
 		            "sheet_index": 1,
 		            "description": "",
@@ -29118,7 +29105,7 @@
 		            "author": "Hamster",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "89,25Mb",
+		            "size": "89,25Mo",
 		            "icon_index": 313,
 		            "sheet_index": 1,
 		            "description": "",
@@ -29139,5 +29126,53 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Azito 3D (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Nisekoi Manga Vol.1",
+		            "version": "French",
+		            "author": "Komi Naoshi",
+		            "category": ["Eshop", "Manga"],
+		            "console": "3DS",
+		            "size": "53,15Mo",
+		            "icon_index": 314,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nisekoi%20Manga%20Vol.1/screenshots/Main%20Screen.png",
+		            			"description": "Main Screen"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nisekoi%20Manga%20Vol.1/screenshots/Manga%20Selection.png",
+								"description": "Manga Selection"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Nisekoi%20Manga%20Vol.1/screenshots/In%20Manga-1.png",
+								"description": "In Manga | 1/2"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Nisekoi%20Manga%20Vol.1/screenshots/In%20Manga-2.png",
+								"description": "In Manga | 2/2"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Nisekoi%20Manga%20Vol.1/screenshots/View%20Pages.png",
+								"description": "View Pages"
+		            		}],
+		            "description": "Ichijou Raku est le fils d'un chef yakuza. Pour éviter une guerre avec des gangsters débarqués d'Amérique, il doit jouer le jeu et faire semblant d'aimer la fille du chef ennemi ! Mais voilà, la fille en question est Chitoge Kirisaki, qu'il ne peut pas voir en portrait !",
+		            "last_updated": "2021-01-02 at 01:50 (UTC)"
+},
+"Nisekoi Manga Vol.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Others/Manga/NisekoiMangaVol.1%20%28France%29%28eShop%29.cia",
+				   "output": "sdmc:/Nisekoi Manga Vol.1 (France)(eShop).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Nisekoi Manga Vol.1 (France)(eShop).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Nisekoi Manga Vol.1 (France)(eShop).cia",
 				   "message": "Cleaning..."
 }]}]} 
