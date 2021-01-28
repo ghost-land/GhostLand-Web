@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 95
+"revision": 100
 },
 "storeContent": [
 {"info": {
@@ -1634,7 +1634,7 @@
 },
 {"info": {
 					"title": "Poke Transfert",
-					"version": "",
+					"version": "ALL",
 					"author": "Pokemon.co",
 					"category": "eShop",
 					"console": "3DS",
@@ -1645,7 +1645,7 @@
 "Poke Transfert": [
 {
 				   "type": "downloadFile",
-				   "file": "https://archive.org/download/nintendo-3ds-eshop-complete-collection/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia.7z/0003%20-%20Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/ALL/P/Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Poke Transfert.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1700,7 +1700,7 @@
 					"title": "Mother 3",
 					"version": "English",
 					"author": "Nintendo",
-					"category": "Vitual Consoles",
+					"category": "Injects",
 					"console": "GBA",
 					"icon_index": 7,
 					"description": "Jeux vidéo de rôles (RPG)",
@@ -1709,7 +1709,7 @@
 "Mother 3": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5zea3iqe92pu0qd/Mother%203%20%28Eng.%20Translation%201.1%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Inject/USA/GBA/M/Mother%203%20%28USA%29%20%281.2Translation%29.cia",
 				   "output": "sdmc:/Mother 3.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1727,7 +1727,7 @@
 },
 {"info": {
 					"title": "Pokemon Bank",
-					"version": "EUR",
+					"version": "ALL",
 					"author": "Pokemon.co",
 					"category": "eShop",
 					"console": "3DS",
@@ -1738,18 +1738,18 @@
 "Pokemon Bank": [
 {
 				   "type": "downloadFile",
-				   "file": "https://archive.org/download/nintendo-3ds-eshop-complete-collection/0004%20-%20Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia.7z/0004%20-%20Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Pokemon Bank.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/ALL/P/Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
+				   "output": "sdmc:/Pokemon Bank (ALL).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Bank.cia",
+				   "file": "/Pokemon Bank (ALL).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Bank.cia",
+				   "file": "sdmc:/Pokemon Bank (ALL).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -1815,7 +1815,7 @@
 },
 {"info": {
 					"title": "Dr. Mario: Miracle Cure",
-					"version": "",
+					"version": "ALL",
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
@@ -1843,18 +1843,18 @@
 "Dr. Mario: Miracle Cure": [
 {
 				   "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-eshop/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.rar/0517%20-%20Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Dr Mario Miracle Cure.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/ALL/D/Dr.%20Mario%20-%20Miracle%20Cure%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
+				   "output": "sdmc:/Dr Mario Miracle Cure (ALL).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Dr Mario Miracle Cure.cia",
+				   "file": "/Dr Mario Miracle Cure (ALL).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Dr Mario Miracle Cure.cia",
+				   "file": "sdmc:/Dr Mario Miracle Cure (ALL).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -1923,7 +1923,7 @@
 					"title": "The Legend of Zelda: A Link to the Past",
 					"version": "ALL",
 					"author": "Nintendo",
-					"category": "Vitual Consoles",
+					"category": "Virtual Consoles",
 					"console": "SNES",
 					"icon_index": 14,
 					"description": "",
@@ -1950,7 +1950,7 @@
 },
 {"info": {
 					"title": "3D Movie Viewer",
-					"version": "",
+					"version": "ALL",
 					"author": "Nintendo",
 					"category": "Homebrew",
 					"console": "3DS",
@@ -1961,7 +1961,7 @@
 "3D Movie Viewer": [
 {
 				   "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-shop-archive/%5B3DS%20CIA%20SHOP%5D%203D%20MOVIE%20VIEWER.cia",
+				   "file": "https://cdn.ghosteshop.com/Homebrew/3D%20Movie%20Viewer/3D%20Movie%20Viewer.ciaALL",
 				   "output": "sdmc:/3D Movie Viewer.cia",
 				   "message": "Downloading your current game.."
 }, 
@@ -2202,7 +2202,7 @@
 					"title": "Pac-Man Collection",
 					"version": "",
 					"author": "Mass Media",
-					"category": "Virtual Consoles",
+					"category": "Injects",
 					"console": "GBA",
 					"size": "4,48Mo",
 					"icon_index": 23,
@@ -2212,7 +2212,7 @@
 "Pac-Man Collection": [
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/A%20Trier/Pac-Man%20Collection%20%28GBA%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Inject/USA/GBA/P/Pac-Man%20Collection%20%28GBA%29.cia",
 				   "output": "sdmc:/Pac-Man Collection.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -2452,7 +2452,7 @@
 "Kirby: Triple Deluxe": [
 {
 				   "type": "downloadFile",
-				   "file": "https://qrgo.page.link/ZkMLB",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/K/Kirby%20-%20Triple%20Deluxe%20%28USA%29.cia",
 				   "output": "sdmc:/Kirby Triple Deluxe.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -2545,7 +2545,7 @@
 "Petit Computer": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/axyozjq8u3cv9m1/Petit_Computer_USA.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/DSiWare/USA/P/Petit%20Computer%20%28USA%29.cia",
 				   "output": "sdmc:/Petit Computer.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -2687,10 +2687,10 @@
 					"description": "Hack for Pokemon Crystal.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokémon Prism": [
+"Pokemon Prism": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ok0dsk2m774xtu6/?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/ALL/P/Pokemon%20Prism.cia",
 				   "output": "sdmc:/Pokemon Prism.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -3106,7 +3106,7 @@
 "Mario Kart 7 - Update 1.1 (USA)": [
 {
 				   "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-shop-archive/MK7Update%20-%20USA.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mario%20Kart%207%20-%20Update%201.1%20%28USA%29.cia",
 				   "output": "sdmc:/Mario kart 7 - Updates (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -3294,7 +3294,7 @@
 					"title": "Alleyway™",
 					"version": "EUR",
 					"author": "",
-					"category": "Vitual Consoles",
+					"category": "Virtual Consoles",
 					"console": "Go",
 					"icon_index": 50,
 					"description": "",
@@ -6106,7 +6106,7 @@
 ]
 },
 {"info": {
-					"title": "BlazBlue - Continuum Shift II",
+					"title": "BlazBlue: Continuum Shift II",
 					"version": "USA, JPN",
 					"author": "",
 					"category": "Games",
@@ -6121,7 +6121,7 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"BlazBlue - Continuum Shift II (USA)": [
+"BlazBlue: Continuum Shift II (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/BlazBlue%20-%20Continuum%20Shift%20II%20%28USA%29.cia",
@@ -6138,21 +6138,21 @@
 				   "file": "sdmc:/BlazBlue - Continuum Shift II (USA).cia",
 				   "message": "Cleaning..."}
 ],
-"BlazBlue - Continuum Shift II (JPN)": [
+"Blazblue: Continuum Shift II (JPN)": [
 {
-				   "type": "downloadFile",
+		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Blazblue%20Continuum%20Shift%20II%20%28JPN%29.cia",
-				   "output": "sdmc:/BlazBlue - Continuum Shift II (JPN).cia",
+				   "output": "sdmc:/Blazblue - Continuum Shift II (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
-				   "type": "installCia",
-				   "file": "/BlazBlue - Continuum Shift II (JPN).cia",
+		           "type": "installCia",
+				   "file": "/Blazblue - Continuum Shift II (JPN).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/BlazBlue - Continuum Shift II (JPN).cia",
+				   "file": "sdmc:/Blazblue - Continuum Shift II (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -6446,7 +6446,7 @@
 },
 {"info": {
 					"title": "Bravely Default",
-					"version": "USA, EUR",
+					"version": "USA, EUR, JPN",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
@@ -6467,7 +6467,7 @@
 		            			"description": "Dungeon"
 		            		}],
 					"description": "",
-					"last_updated": "2020-11-27 at 14:03 (UTC)"
+					"last_updated": "2021-01-27 at 18:39 (UTC)"
 },
 "Bravely Default (USA)": [
 {
@@ -6501,13 +6501,30 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Default (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Bravely Default: For the Sequel (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bravely%20Default%20-%20For%20the%20Sequel%20%28JPN%29.cia",
+				   "output": "sdmc:/Bravely Default - For the Sequel (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bravely Default - For the Sequel (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bravely Default - For the Sequel (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
 					"title": "Bravely Second - End Layer",
-					"version": "USA, EUR",
+					"version": "USA, EUR, JPN",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
@@ -6580,6 +6597,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Second - End Layer (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Bravely Second: End Layer (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bravely%20Second%20-%20End%20Layer%20%28JPN%29.cia",
+				   "output": "sdmc:/Bravely Second - End Layer (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bravely Second - End Layer (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bravely Second - End Layer (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -14051,8 +14085,8 @@
 ]
 },
 {"info": {
-					"title": "Resident Evil - The Mercenaries 3D",
-					"version": "EUR",
+					"title": "Resident Evil: The Mercenaries 3D",
+					"version": "EUR, JPN",
 					"author": "",
 					"category": "Games",
 					"console": "3DS",
@@ -14081,7 +14115,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Resident Evil - The Mercenaries 3D": [
+"Resident Evil: The Mercenaries 3D (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Resident%20Evil%20-%20The%20Mercenaries%203D%20%28EUR%29.cia",
@@ -14096,6 +14130,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Resident Evil - The Mercenaries 3D (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Biohazard: The Mercenaries 3D (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Biohazard%20-%20The%20Mercenaries%203D%20%28JPN%29%20%28REV2%29.cia",
+				   "output": "sdmc:/Biohazard - The Mercenaries 3D (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Biohazard - The Mercenaries 3D (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Biohazard - The Mercenaries 3D (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -18998,8 +19049,8 @@
 ]
 },
 {"info": {
-		            "title": "Resident Evil - Revelations",
-		            "version": "EUR, USA",
+		            "title": "Resident Evil: Revelations",
+		            "version": "EUR, USA, JPN",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -19027,7 +19078,7 @@
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
-"Resident Evil - Revelations (EUR)": [
+"Resident Evil: Revelations (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Resident%20Evil%20-%20Revelations%20%28EUR%29.cia",
@@ -19044,7 +19095,7 @@
 				   "file": "sdmc:/Resident Evil - Revelations (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Resident Evil - Revelations (USA)": [
+"Resident Evil: Revelations (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/R/Resident%20Evil%20-%20Revelations%20%28USA%29.cia",
@@ -19061,7 +19112,7 @@
 				   "file": "sdmc:/Resident Evil - Revelations (USA).cia",
 				   "message": "Cleaning..."}
 ],
-"Resident Evil - Revelations - Spanish Mas Update (USA)": [
+"Resident Evil: Revelations - Spanish Mas Update (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/R/Resident%20Evil%20-%20Revelations%20espa%C3%B1ol%20mas%20update%20%28USA%29.cia",
@@ -19076,6 +19127,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Resident Evil - Revelations - Spanish Mas Update (USA).cia",
+				   "message": "Cleaning..."}
+],
+"Biohazard: Revelations (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Biohazard%20-%20Revelations%20%28JPN%29%20%28REV1%29.cia",
+				   "output": "sdmc:/Biohazard - Revelations (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Biohazard - Revelations (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Biohazard - Revelations (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -19540,7 +19608,7 @@
 },
 {"info": {
 		            "title": "Story of Seasons",
-		            "version": "EUR",
+		            "version": "EUR, JPN",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -19565,9 +19633,9 @@
 								"description": "In Game | Convo"
 		            		}],
 		            "description": "",
-		            "last_updated": "2020-12-11 at 20:50 (UTC)"
+		            "last_updated": "2021-01-27 at 18:39 (UTC)"
 },
-"Story of Seasons": [
+"Story of Seasons (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Story%20of%20Seasons%20%28EUR%29.cia",
@@ -19582,13 +19650,30 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Story of Seasons (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Bokujou Monogatari: Tsunagaru Shin Tenchi (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bokujou%20Monogatari%20-%20Tsunagaru%20Shin%20Tenchi%20%28JPN%29.cia",
+				   "output": "sdmc:/Bokujou Monogatari - Tsunagaru Shin Tenchi (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bokujou Monogatari - Tsunagaru Shin Tenchi (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bokujou Monogatari - Tsunagaru Shin Tenchi (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
-		            "title": "Story of Seasons - Trio of Towns",
-		            "version": "EUR",
+		            "title": "Story of Seasons: Trio of Towns",
+		            "version": "EUR, JPN",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -19616,7 +19701,7 @@
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
-"Story of Seasons - Trio of Towns": [
+"Story of Seasons: Trio of Towns (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Story%20of%20Seasons%20-%20Trio%20of%20Towns%20%28EUR%29.cia",
@@ -19633,7 +19718,7 @@
 				   "file": "sdmc:/Story of Seasons - Trio of Towns (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Story of Seasons - Trio of Towns - Update 1.1": [
+"Story of Seasons: Trio of Towns - Update 1.1 (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Story%20of%20Seasons%20-%20Trio%20of%20Towns%20-%20Update%201.1%20%28EUR%29.cia",
@@ -19648,6 +19733,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Story of Seasons - Trio of Towns - Update 1.1 (EUR).cia",
+				   "message": "Cleaning..."}
+],
+"Bokujou Monogatari: 3-tsu no Sato no Taisetsu na Tomodachi (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bokujou%20Monogatari%20-%203-tsu%20no%20Sato%20no%20Taisetsu%20na%20Tomodachi%20%28JPN%29.cia",
+				   "output": "sdmc:/Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -20712,7 +20814,7 @@
 },
 {"info": {
 		            "title": "Cave Story 3D",
-		            "version": "USA",
+		            "version": "USA, JPN",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -20737,9 +20839,9 @@
 								"description": "GamePlay 2"
 		            		}],
 		            "description": "",
-		            "last_updated": "2020-12-22 at 01:50 (UTC)"
+		            "last_updated": "2021-01-27 at 18:39 (UTC)"
 },
-"Cave Story 3D": [
+"Cave Story 3D (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Cave%20Story%203D%20%28USA%29.cia",
@@ -20754,6 +20856,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Cave Story 3D (USA).cia",
+				   "message": "Cleaning..."}
+],
+"Cave Story 3D (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Cave%20Story%203D%20%28JPN%29.cia",
+				   "output": "sdmc:/Cave Story 3D (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cave Story 3D (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cave Story 3D (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -20862,8 +20981,8 @@
 ]
 },
 {"info": {
-		            "title": "Code Name - S.T.E.A.M.",
-		            "version": "USA",
+		            "title": "Code Name: S.T.E.A.M.",
+		            "version": "USA, JPN",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -20872,9 +20991,9 @@
 		            "icon_index": 107,
 		            "sheet_index": 1,
 		            "description": "",
-		            "last_updated": "2020-12-22 at 01:50 (UTC)"
+		            "last_updated": "2021-01-27 at 18:39 (UTC)"
 },
-"Code Name - S.T.E.A.M.": [
+"Code Name: S.T.E.A.M. (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Code%20Name%20-%20S.T.E.A.M.%20%28USA%29.cia",
@@ -20891,7 +21010,7 @@
 				   "file": "sdmc:/Code Name - S.T.E.A.M. (USA).cia",
 				   "message": "Cleaning..."}
 ],
-"Code Name S.T.E.A.M. - Update 1.2": [
+"Code Name: S.T.E.A.M. - Update 1.2 (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Code%20Name%20S.T.E.A.M.%20-%20Update%201.2%20%28USA%29.cia",
@@ -20906,6 +21025,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Code Name S.T.E.A.M. - Update 1.2 (USA).cia",
+				   "message": "Cleaning..."}
+],
+"Code Name: S.T.E.A.M.: Lincoln VS Aliens (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Code%20Name%20-%20S.T.E.A.M.%20-%20Lincoln%20VS%20Aliens%20%28JPN%29.cia",
+				   "output": "sdmc:/Code Name - S.T.E.A.M. - Lincoln VS Aliens (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Code Name - S.T.E.A.M. - Lincoln VS Aliens (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Code Name - S.T.E.A.M. - Lincoln VS Aliens (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -22318,8 +22454,8 @@
 ]
 },
 {"info": {
-		            "title": "Harvest Moon 3D - A New Beginning",
-		            "version": "USA",
+		            "title": "Harvest Moon 3D: A New Beginning",
+		            "version": "USA, JPN",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -22335,9 +22471,9 @@
 		            			"description": "Character Creation"
 		            		}],
 		            "description": "",
-		            "last_updated": "2020-12-22 at 01:50 (UTC)"
+		            "last_updated": "2021-01-27 at 18:39 (UTC)"
 },
-"Harvest Moon 3D - A New Beginning": [
+"Harvest Moon 3D: A New Beginning (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/H/Harvest%20Moon%203D%20-%20A%20New%20Beginning%20%28USA%29.cia",
@@ -22352,6 +22488,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Harvest Moon 3D - A New Beginning (USA).cia",
+				   "message": "Cleaning..."}
+],
+"Bokujou Monogatari: Hajimari no Daichi (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bokujou%20Monogatari%20-%20Hajimari%20no%20Daichi%20%28JPN%29%20%28REV2%29.cia",
+				   "output": "sdmc:/Bokujou Monogatari - Hajimari no Daichi (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bokujou Monogatari - Hajimari no Daichi (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bokujou Monogatari - Hajimari no Daichi (JPN).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -27521,7 +27674,7 @@
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "s215,10Mo",
+		            "size": "215,10Mo",
 		            "icon_index": 271,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28821,7 +28974,7 @@
 		            "author": "Klon Co.",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "83,90Mo",
+		            "size": "840,28Mo",
 		            "icon_index": 304,
 		            "sheet_index": 1,
 		            "description": "This work is a communication game set in a fictitious cafe. Real and active idols will appear as characters in the game as they are, and you can enjoy conversations and stories with them.",
@@ -28914,7 +29067,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "size": "17,07Mo",
+		            "size": "416,32Mo",
 		            "icon_index": 307,
 		            "sheet_index": 1,
 		            "description": "A karaoke feature known as Aikara (Aikatsu! Karaoke) is added to allow players to sing along and is able to record one's voice, and the headset from the limited edition will assist this function.",
@@ -29174,5 +29327,604 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nisekoi Manga Vol.1 (France)(eShop).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Bandai Namco Games Presents J Legend Retsuden",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "44,75Mo",
+		            "icon_index": 315,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Bandai Namco Games Presents J Legend Retsuden": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bandai%20Namco%20Games%20Presents%20J%20Legend%20Retsuden%20%28JPN%29.cia",
+				   "output": "sdmc:/Bandai Namco Games Presents J Legend Retsuden (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bandai Namco Games Presents J Legend Retsuden (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bandai Namco Games Presents J Legend Retsuden (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Battleminerz",
+		            "version": "JPN",
+		            "author": "Wobbly Tooth Ltd",
+		            "category": "eShop",
+		            "console": "3DS",
+		            "size": "107Mo",
+		            "icon_index": 316,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Battleminerz": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Battleminerz%20%28JPN%29%20%28v1.0%29%20%28eShop%29.cia",
+				   "output": "sdmc:/Battleminerz (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Battleminerz (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Battleminerz (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Beast Saga: Saikyou Gekiotsu Coliseum",
+		            "version": "JPN",
+		            "author": "Nippon Columbia",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "84,59Mo",
+		            "icon_index": 317,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Beast Saga: Saikyou Gekiotsu Coliseum": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Beast%20Saga%3A%20Saikyou%20Gekiotsu%20Coliseum%20%28JPN%29.cia",
+				   "output": "sdmc:/Beast Saga: Saikyou Gekiotsu Coliseum (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Beast Saga: Saikyou Gekiotsu Coliseum (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Beast Saga: Saikyou Gekiotsu Coliseum (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Beyblade Burst God",
+		            "version": "JPN",
+		            "author": "FuRyu",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "433,75Mo",
+		            "icon_index": 318,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Beyblade Burst God": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Beyblade%20Burst%20God%20%28JPN%29.cia",
+				   "output": "sdmc:/Beyblade Burst God (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Beyblade Burst God (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Beyblade Burst God (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Bikkuri! Tobidasu! Mahou no Pen",
+		            "version": "JPN",
+		            "author": "Global A",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "89,56Mo",
+		            "icon_index": 319,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Bikkuri! Tobidasu! Mahou no Pen": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bikkuri%21%20Tobidasu%21%20Mahou%20no%20Pen%20%28JPN%29.cia",
+				   "output": "sdmc:/Bikkuri! Tobidasu! Mahou no Pen (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bikkuri! Tobidasu! Mahou no Pen (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bikkuri! Tobidasu! Mahou no Pen (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Bikkuriman Kanjuku Haoh: Sanmi Douran Sensouki",
+		            "version": "JPN",
+		            "author": "Nippon Ichi Software",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "316,60Mo",
+		            "icon_index": 320,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Bikkuriman Kanjuku Haoh: Sanmi Douran Sensouki": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bikkuriman%20Kanjuku%20Haoh%20-%20Sanmi%20Douran%20Sensouki%20%28JPN%29.cia",
+				   "output": "sdmc:/Bikkuriman Kanjuku Haoh: Sanmi Douran Sensouki (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bikkuriman Kanjuku Haoh: Sanmi Douran Sensouki (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bikkuriman Kanjuku Haoh: Sanmi Douran Sensouki (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Boku wa Koukuu Kanseikan: Airport Hero 3D - Kansai All Stars",
+		            "version": "JPN",
+		            "author": "Sonic Powered",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "100,35Mo",
+		            "icon_index": 321,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Boku wa Koukuu Kanseikan: Airport Hero 3D - Kansai All Stars": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Boku%20wa%20Koukuu%20Kanseikan%20-%20Airport%20Hero%203D%20-%20Kansai%20All%20Stars%20%28JPN%29.cia",
+				   "output": "sdmc:/Boku wa Koukuu Kanseikan - Airport Hero 3D - Kansai All Stars (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Boku wa Koukuu Kanseikan - Airport Hero 3D - Kansai All Stars (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Boku wa Koukuu Kanseikan - Airport Hero 3D - Kansai All Stars (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Boku wa Koukuu Kanseikan: Airport Hero 3D - Narita All Stars",
+		            "version": "JPN",
+		            "author": "Sonic Powered",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "91,46Mo",
+		            "icon_index": 322,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Boku wa Koukuu Kanseikan: Airport Hero 3D - Narita All Stars": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Boku%20wa%20Koukuu%20Kanseikan%20-%20Airport%20Hero%203D%20-%20Narita%20All%20Stars%20%28JPN%29.cia",
+				   "output": "sdmc:/Boku wa Koukuu Kanseikan - Airport Hero 3D - Narita All Stars (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Boku wa Koukuu Kanseikan - Airport Hero 3D - Narita All Stars (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Boku wa Koukuu Kanseikan - Airport Hero 3D - Narita All Stars (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Boku wa Koukuu Kanseikan: Airport Hero 3D - Narita with ANA",
+		            "version": "JPN",
+		            "author": "Sonic Powered",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "90,36Mo",
+		            "icon_index": 323,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Boku wa Koukuu Kanseikan: Airport Hero 3D - Narita with ANA": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Boku%20wa%20Koukuu%20Kanseikan%20-%20Airport%20Hero%203D%20-%20Narita%20with%20ANA%20%28JPN%29.cia",
+				   "output": "sdmc:/Boku wa Koukuu Kanseikan - Airport Hero 3D - Narita with ANA (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Boku wa Koukuu Kanseikan - Airport Hero 3D - Narita with ANA (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Boku wa Koukuu Kanseikan - Airport Hero 3D - Narita with ANA (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Bokujou Monogatari: Futago no Mura +",
+		            "version": "JPN",
+		            "author": "Marvelous Entertainment",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "226,27Mo",
+		            "icon_index": 324,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bokuj%C5%8D%20monogatari%20futago%20no%20mura%20%2B/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Bokujou Monogatari: Futago no Mura +": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bokujou%20Monogatari%20-%20Futago%20no%20Mura%20%2B%20%28JPN%29.cia",
+				   "output": "sdmc:/Bokujou Monogatari - Futago no Mura + (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bokujou Monogatari - Futago no Mura + (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bokujou Monogatari - Futago no Mura + (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Bonbon Ribbon: Tokimeki Coord Kirakira Dance",
+		            "version": "JPN",
+		            "author": "Rocket Company",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "181,41Mo",
+		            "icon_index": 325,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Bonbon Ribbon: Tokimeki Coord Kirakira Dance": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bonbon%20Ribbon%20-%20Tokimeki%20Coord%20Kirakira%20Dance%20%28JPN%29.cia",
+				   "output": "sdmc:/Bonbon Ribbon - Tokimeki Coord Kirakira Dance (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bonbon Ribbon - Tokimeki Coord Kirakira Dance (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bonbon Ribbon - Tokimeki Coord Kirakira Dance (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Bravely Default: Flying Fairy",
+		            "version": "JPN",
+		            "author": "Square Enix",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "1,80Go",
+		            "icon_index": 326,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Bravely Default: Flying Fairy": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Bravely%20Default%20-%20Flying%20Fairy%20%28JPN%29.cia",
+				   "output": "sdmc:/Bravely Default - Flying Fairy (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bravely Default - Flying Fairy (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bravely Default - Flying Fairy (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Cake-ya San Monogatari: Ooishii Sweets o Tsukurou!",
+		            "version": "JPN",
+		            "author": "Nippon Columbia",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "435,10Mo",
+		            "icon_index": 327,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Cake-ya San Monogatari: Ooishii Sweets o Tsukurou!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Cake-ya%20San%20Monogatari%20-%20Ooishii%20Sweets%20o%20Tsukurou%21%20%28JPN%29.cia",
+				   "output": "sdmc:/Cake-ya San Monogatari - Ooishii Sweets o Tsukurou (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cake-ya San Monogatari - Ooishii Sweets o Tsukurou (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cake-ya San Monogatari - Ooishii Sweets o Tsukurou (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Cardfight!! Vanguard Lock On Victory!!",
+		            "version": "JPN",
+		            "author": "FuRyu",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "444,64Mo",
+		            "icon_index": 328,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Cardfight!! Vanguard Lock On Victory!!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Cardfight%21%21%20Vanguard%20Lock%20On%20Victory%21%21%20%28JPN%29.cia",
+				   "output": "sdmc:/Cardfight Vanguard Lock On Victory (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cardfight Vanguard Lock On Victory (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cardfight Vanguard Lock On Victory (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Chibi ☆ Devi! 2: Mahou no Yume Ehon",
+		            "version": "JPN",
+		            "author": "Alchemist",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "84,85Mo",
+		            "icon_index": 329,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Chibi ☆ Devi! 2: Mahou no Yume Ehon": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Chibi%20%2A%20Devi%21%202%20-%20Mahou%20no%20Yume%20Ehon%20%28JPN%29.cia",
+				   "output": "sdmc:/Chibi Devi 2 - Mahou no Yume Ehon (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Chibi Devi 2 - Mahou no Yume Ehon (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Chibi Devi 2 - Mahou no Yume Ehon (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Choko Inu no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe",
+		            "version": "JPN",
+		            "author": "Nippon Columbia",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "152,96Mo",
+		            "icon_index": 330,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Choko Inu no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Choko%20Inu%20no%20Chokotto%20Fushigi%20na%20Monogatari%20-%20Chocolate%20Hime%20to%20Mahou%20no%20Recipe%20%28JPN%29.cia",
+				   "output": "sdmc:/Choko Inu no Chokotto Fushigi na Monogatari - Chocolate Hime to Mahou no Recipe (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Choko Inu no Chokotto Fushigi na Monogatari - Chocolate Hime to Mahou no Recipe (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Choko Inu no Chokotto Fushigi na Monogatari - Chocolate Hime to Mahou no Recipe (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Chou Tousouchuu Atsumare! Saikyou no Tousousha-tachi",
+		            "version": "JPN",
+		            "author": "Bandai Namco Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "273,81Mo",
+		            "icon_index": 331,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Chou Tousouchuu Atsumare! Saikyou no Tousousha-tachi": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Chou%20Tousouchuu%20Atsumare%21%20Saikyou%20no%20Tousousha-tachi%20%28JPN%29.cia",
+				   "output": "sdmc:/Chou Tousouchuu Atsumare - Saikyou no Tousousha-tachi (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Chou Tousouchuu Atsumare - Saikyou no Tousousha-tachi (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Chou Tousouchuu Atsumare - Saikyou no Tousousha-tachi (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Choujin Ultra Baseball Action Card Battle",
+		            "version": "JPN",
+		            "author": "Culture Brain",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "30,75Mo",
+		            "icon_index": 332,
+		            "sheet_index": 1,
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Choujin Ultra Baseball Action Card Battle": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Choujin%20Ultra%20Baseball%20Action%20Card%20Battle%20%28JPN%29.cia",
+				   "output": "sdmc:/Choujin Ultra Baseball Action Card Battle (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Choujin Ultra Baseball Action Card Battle (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Choujin Ultra Baseball Action Card Battle (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Chousoku Henkei Gyrozetter: Albatross no Tsubasa",
+		            "version": "JPN",
+		            "author": "Square Enix",
+		            "category": "Games",
+		            "console": "3DS",
+		            "size": "906,49Mo",
+		            "icon_index": 333,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ch%C5%8Dsoku%20henkei%20jairozett%C4%81%20arubarosu%20no%20tsubasa/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
+		            "description": "",
+		            "last_updated": "2021-01-27 at 21:57 (UTC)"
+},
+"Chousoku Henkei Gyrozetter: Albatross no Tsubasa": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/C/Chousoku%20Henkei%20Gyrozetter%20-%20Albatross%20no%20Tsubasa%20%28JPN%29.cia",
+				   "output": "sdmc:/Chousoku Henkei Gyrozetter - Albatross no Tsubasa (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Chousoku Henkei Gyrozetter - Albatross no Tsubasa (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Chousoku Henkei Gyrozetter - Albatross no Tsubasa (JPN).cia",
 				   "message": "Cleaning..."
 }]}]} 
