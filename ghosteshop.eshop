@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 100
+"revision": 102
 },
 "storeContent": [
 {"info": {
@@ -23,10 +23,7 @@
 					"size": "1,84Mo",
 					"icon_index": 234,
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/boxart.png",
-		            			"description": "Cover-Art"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/boxart.png","description": "Cover-Art"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/01-Checking%20Update.png","description": "Checking Update"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/02-Main%20Menu.png","description": "Main Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/03-Multi%20Version.png","description": "Multi Version"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/04-Availible%20Downloads.png","description": "Available Downloads"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/05-Search%20%26%20Filters.png","description": "Search & Filters"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/06-Search%20Title.png","description": "Search Title"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/07-Search%20Author.png","description": "Search Author"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/08-Search%20Category.png","description": "Search Category | 1/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/09-Search%20Category.png","description": "Search Category | 2/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/10-Search%20Console.png","description": "Search Console"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/11-Mark%20Menu.png","description": "Mark Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/12-Mark%20Game.png","description": "Mark Game"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/13-Filter%20Mark.png","description": "Filter Mark"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/14-Sorting%20Menu.png","description": "Sorting Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/15-Sorting%20Title%20Ascending.png","description": "Sorting Title Ascending"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/16-Sorting%20Last%20Update%20Descending.png","description": "Sorting Last Update Descending"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/17-Grid%20Vue.png","description": "Grid Vue"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/17-List%20Vue.png","description": "List Vue"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/18-Settings%20Menu.png","description": "Settings Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/19-Choose%20Language.png","description": "Choose Language"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/20-Select%20eShop.png","description": "Select eShop"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/21-Recommended%20eShop.png","description": "Recommended eShop"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/22-Auto-Update%20Settings.png","description": "Auto-Update Settings"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/23-GUI%20Settings.png","description": "GUI Settings"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/24-eShop%20BG.png","description": "eShop BG"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/25-Custom%20Font.png","description": "Custom Font"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/26-Directory%20Settings.png","description": "Directory Settings"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/27-Select%20Directory.png","description": "Select Directory"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/28-Credits.png","description": "Credits"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/29-Screen%20Icon.png","description": "Screen icon"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/30-View%20Screen%201.png","description": "View Screen | 1/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/30-View%20Screen%202.png","description": "View Screen | 2/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/31-Screen%20Boxart.png","description": "Screen Boxart"}],
 					"description": "An alternative eShop for 3DS, New3DS, New3DSxl, 2DS, New2DS, New2DSxl. Created on June 2020, over time this one has evolved enormously, to arrive at the current version on which it is currently",
 					"last_updated": "2021-01-02 at 16:42 (UTC)"
 },
@@ -2471,7 +2468,7 @@
 {"info": {
 					"title": "The Legend of Zelda: Ocarina of Time 3D",
 					"version": "USA, EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "454,60Mo",
@@ -2535,7 +2532,7 @@
 {"info": {
 					"title": "Petit Computer",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "DSiWare",
 					"console": "DSi",
 					"icon_index": 30,
@@ -2564,7 +2561,7 @@
 {"info": {
 					"title": "Pokemon Crystal Version",
 					"version": "ALL",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "",
 					"icon_index": 31,
@@ -2593,7 +2590,7 @@
 {"info": {
 					"title": "Crash Bandicoot 2: N-Tranced",
 					"version": "",
-					"author": "",
+					"author": "Vivendi Games",
 					"category": "Virtual Consoles",
 					"console": "GBA",
 					"icon_index": 32,
@@ -2622,7 +2619,7 @@
 {"info": {
 					"title": "Crash Bandicoot: The Huge Adventure",
 					"version": "",
-					"author": "",
+					"author": "Universal Interactive",
 					"category": "Virtual Consoles",
 					"console": "GBA",
 					"icon_index": 33,
@@ -2651,7 +2648,7 @@
 {"info": {
 					"title": "Crash Nitro Kart",
 					"version": "",
-					"author": "",
+					"author": "Universal Interactive",
 					"category": "Virtual Consoles",
 					"console": "GBA",
 					"icon_index": 34,
@@ -2680,7 +2677,7 @@
 {"info": {
 					"title": "Pokemon Prism",
 					"version": "Free",
-					"author": "",
+					"author": "rijon",
 					"category": "Homebrew",
 					"console": "",
 					"icon_index": 35,
@@ -2709,7 +2706,7 @@
 {"info": {
 					"title": "The Legend of Zelda: Majora's Mask 3D",
 					"version": "USA, EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "630,78Mo",
@@ -2791,7 +2788,7 @@
 {"info": {
 					"title": "Super Mario Advance 4 - Super Mario Bros. 3",
 					"version": "",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "",
 					"icon_index": 37,
@@ -2820,7 +2817,7 @@
 {"info": {
 					"title": "Wrecking Crew",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"size": "7,04Mo",
@@ -2850,7 +2847,7 @@
 {"info": {
 					"title": "Mario Kart: Super Circuit",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GBA",
 					"size": "5,74Mo",
@@ -2880,7 +2877,7 @@
 {"info": {
 					"title": "Super Mario Bros. 2",
 					"version": "",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 40,
@@ -2926,7 +2923,7 @@
 {"info": {
 					"title": "Super Mario Advance - Super Mario Bros. 2",
 					"version": "",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GBA",
 					"icon_index": 41,
@@ -2955,7 +2952,7 @@
 {"info": {
 					"title": "Super Mario Bros. 3",
 					"version": "",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 42,
@@ -3001,7 +2998,7 @@
 {"info": {
 					"title": "Super Mario Bros.: The Lost Levels",
 					"version": "",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 43,
@@ -3047,7 +3044,7 @@
 {"info": {
 					"title": "Mario vs Donkey Kong: Minis March Again!",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "DSiWare",
 					"console": "DSi",
 					"size": "14,06Mo",
@@ -3077,7 +3074,7 @@
 {"info": {
 					"title": "Mario Kart 7",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "640,25Mo",
@@ -3176,7 +3173,7 @@
 {"info": {
 					"title": "Netflix",
 					"version": "USA",
-					"author": "Netflix.inc",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "22,13Mo",
@@ -3206,7 +3203,7 @@
 {"info": {
 					"title": "Super Mario Bros. Deluxe",
 					"version": "",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GBC",
 					"icon_index": 47,
@@ -3235,7 +3232,7 @@
 {"info": {
 					"title": "Sonic 3 Complete",
 					"version": "",
-					"author": "",
+					"author": "Sega",
 					"category": "Virtual Consoles",
 					"console": "Genesis/MD",
 					"icon_index": 48,
@@ -3264,9 +3261,9 @@
 {"info": {
 					"title": "Adventure Island",
 					"version": "EUR",
-					"author": "",
+					"author": "Hudson Soft",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 49,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3293,9 +3290,9 @@
 {"info": {
 					"title": "Alleyway™",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 50,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3322,9 +3319,9 @@
 {"info": {
 					"title": "Bionic Commando™",
 					"version": "EUR",
-					"author": "",
+					"author": "Capcom",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 51,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3351,9 +3348,9 @@
 {"info": {
 					"title": "Balloon Kid™",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 52,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3380,9 +3377,9 @@
 {"info": {
 					"title": "Baseball",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 53,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3409,9 +3406,9 @@
 {"info": {
 					"title": "Burger Time DELUXE",
 					"version": "EUR",
-					"author": "",
+					"author": "Data East",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "3,90Mo",
 					"icon_index": 54,
 					"description": "",
@@ -3439,9 +3436,9 @@
 {"info": {
 					"title": "Catrap",
 					"version": "EUR",
-					"author": "",
+					"author": "Asmik",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "4,13Mo",
 					"icon_index": 55,
 					"description": "",
@@ -3469,9 +3466,9 @@
 {"info": {
 					"title": "Castlevania The Adventure",
 					"version": "EUR",
-					"author": "",
+					"author": "Konami",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "3,78Mo",
 					"icon_index": 56,
 					"description": "",
@@ -3499,9 +3496,9 @@
 {"info": {
 					"title": "Donkey Kong Land™ 2",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "4,55Mo",
 					"icon_index": 57,
 					"description": "",
@@ -3529,9 +3526,9 @@
 {"info": {
 					"title": "Donkey Kong Land™ III",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "4,52Mo",
 					"icon_index": 58,
 					"description": "",
@@ -3559,9 +3556,9 @@
 {"info": {
 					"title": "Donkey Kong™",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "4,95Mo",
 					"icon_index": 59,
 					"description": "",
@@ -3589,9 +3586,9 @@
 {"info": {
 					"title": "Donkey Kong™ Land",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "4,99Mo",
 					"icon_index": 60,
 					"description": "",
@@ -3619,9 +3616,9 @@
 {"info": {
 					"title": "Double Dragon",
 					"version": "EUR",
-					"author": "",
+					"author": "Technos",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "12,97Mo",
 					"icon_index": 61,
 					"description": "",
@@ -3649,9 +3646,9 @@
 {"info": {
 					"title": "Dr. Mario™",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 62,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3678,9 +3675,9 @@
 {"info": {
 					"title": "Fortified Zone",
 					"version": "EUR",
-					"author": "",
+					"author": "Jaleco",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"size": "4,04Mo",
 					"icon_index": 63,
 					"description": "",
@@ -3708,9 +3705,9 @@
 {"info": {
 					"title": "Gargoyle's Quest",
 					"version": "EUR",
-					"author": "",
+					"author": "Capcom",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 64,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3739,7 +3736,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 65,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3768,7 +3765,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 66,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3797,7 +3794,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 67,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3826,7 +3823,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 68,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3855,7 +3852,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 69,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3884,7 +3881,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 70,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3913,7 +3910,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 71,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -3942,7 +3939,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 72,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
@@ -8965,7 +8962,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 203,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9023,7 +9020,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 205,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9052,7 +9049,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 206,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -9110,7 +9107,7 @@
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
-					"console": "Go",
+					"console": "GB",
 					"icon_index": 208,
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -29926,5 +29923,41 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Chousoku Henkei Gyrozetter - Albatross no Tsubasa (JPN).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "F-ZERO™",
+		            "version": "ALL",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "4,88Mo",
+		            "icon_index": 334,
+		            "sheet_index": 1,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/F-Zero/art.png",
+		            			"description": "Art"
+		            		}],
+		            "description": "F-Zero (エ フ ゼ ロ, efuzero?) Is a futuristic racing video game. The game offers players to control very fast futuristic vehicles and use their bonuses in order to complete the race as quickly as possible.",
+		            "last_updated": "2021-01-29 at 14:50 (UTC)"
+},
+"F-ZERO™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/ALL/F/F-ZERO%E2%84%A2%20ALL%20%28000400000f701900%29.cia",
+				   "output": "sdmc:/F-ZERO (ALL).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/F-ZERO (ALL).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/F-ZERO (ALL).cia",
 				   "message": "Cleaning..."
 }]}]} 
