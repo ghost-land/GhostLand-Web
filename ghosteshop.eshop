@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 116
+"revision": 117
 },
 "storeContent": [
 {"info": {
@@ -2131,8 +2131,8 @@
 ]
 },
 {"info": {
-					"title": "Super Mario Advance 3 - Yoshi's Island",
-					"version": "",
+					"title": "Yoshis Island - Super Mario Advance 3",
+					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GBA",
@@ -2140,21 +2140,21 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Super Mario Advance 3 - Yoshi's Island": [
+"Yoshis Island - Super Mario Advance 3": [
 {
 				   "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/qn9wcfhr3swbdks/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island.cia?dl=1",
-				   "output": "sdmc:/Super Mario Advance 3 - Yoshis Island.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mario%20Advance%203%20EUR%20%280004000000075400%29.cia",
+				   "output": "sdmc:/Yoshis Island - Super Mario Advance 3 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Super Mario Advance 3 - Yoshis Island.cia",
+				   "file": "/Yoshis Island - Super Mario Advance 3 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Super Mario Advance 3 - Yoshis Island.cia",
+				   "file": "sdmc:/Yoshis Island - Super Mario Advance 3 (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -4601,7 +4601,7 @@
 ]
 },
 {"info": {
-					"title": "Ghost'n Goblins™",
+					"title": "Ghosts'n Goblins™",
 					"version": "EUR",
 					"author": "",
 					"category": "Virtual Consoles",
@@ -4610,21 +4610,21 @@
 					"description": "",
 					"last_updated": "2020-08-12 at 14:03 (UTC)"
 },
-"Ghost'n Goblins™": [
+"Ghosts'n Goblins™": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/G/GHOSTS%27N%20GOBLINS%E2%84%A2%20EUR%20%280004000000099600%29.cia",
-				   "output": "sdmc:/Ghost'n Goblins - NES - EUR.cia",
+				   "output": "sdmc:/Ghostsn Goblins (EUR).cia",
 				   "message": "Downloading your request game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Ghost'n Goblins - NES - EUR.cia",
+				   "file": "/Ghostsn Goblins (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Ghost'n Goblins - NES - EUR.cia",
+				   "file": "sdmc:/Ghostsn Goblins (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -4851,7 +4851,7 @@
 ]
 },
 {"info": {
-					"title": "Adventure Time - Explore the Dungeon Because I Don't Know",
+					"title": "Adventure Time: Explore the Dungeon Because I DONT KNOW!",
 					"version": "USA, EUR",
 					"author": "D3 Publisher",
 					"category": "Games",
@@ -4862,7 +4862,7 @@
 					"description": "",
 					"last_updated": "2020-11-12 at 14:03 (UTC)"
 },
-"Adventure Time - Explore the Dungeon... - Update 1.1 (USA)": [
+"Adventure Time: Explore the Dungeon Because I DONT KNOW! - Update 1.1 (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20-%20Update%201.1%20%28USA%29.cia",
@@ -4879,7 +4879,7 @@
 				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
 				   "message": "Cleaning..."}
 ],
-"Adventure Time - Explore the Dungeon... - Update 1.1 (EUR)": [
+"Adventure Time: Explore the Dungeon Because I DONT KNOW! - Update 1.1 (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20DON%27T%20KNOW%21%20-%20Update%201.1%20%28EUR%29.cia",
@@ -4896,7 +4896,7 @@
 				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Adventure Time - Explore the Dungeon Because I Don't Know (USA)": [
+"Adventure Time: Explore the Dungeon Because I DONT KNOW! (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20%28USA%29.cia",
@@ -8873,17 +8873,17 @@
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/ALL/E/EarthBound%E2%84%A2%20ALL%20%28000400000f701600%29.cia",
-				   "output": "sdmc:/EarthBound - EUR.cia",
+				   "output": "sdmc:/EarthBound (ALL).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/EarthBound - EUR.cia",
+				   "file": "/EarthBound (ALL).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/EarthBound - EUR.cia",
+				   "file": "sdmc:/EarthBound (ALL).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -35683,5 +35683,2919 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of the Mystical Ninja (ALL).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Baldur's Gate: Dark Alliance",
+		            "version": "EUR",
+		            "author": "DSI Games",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "8,50Mo",
+		            "icon_index": 53,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Baldur's Gate: Dark Alliance": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/B/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Baldur's Gate - Dark Alliance (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Baldur's Gate - Dark Alliance (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Baldur's Gate - Dark Alliance (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Banjo-Pilot",
+		            "version": "EUR",
+		            "author": "THQ",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "16,49Mo",
+		            "icon_index": 54,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Banjo-Pilot": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/B/Banjo-Pilot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Banjo-Pilot (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Banjo-Pilot (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Banjo-Pilot (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Beyblade G-Revolution",
+		            "version": "EUR",
+		            "author": "Atari",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "4,49Mo",
+		            "icon_index": 55,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Beyblade G-Revolution": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/B/Beyblade%20G-Revolution%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Beyblade G-Revolution (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Beyblade G-Revolution (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Beyblade G-Revolution (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Blaster Master Enemy Below",
+		            "version": "EUR",
+		            "author": "Sunsoft",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "5,32Mo",
+		            "icon_index": 56,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Blaster Master Enemy Below": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/B/Blaster%20Master%20Enemy%20Below%20EUR%20%280004000000061d00%29.cia",
+				   "output": "sdmc:/Blaster Master Enemy Below (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Blaster Master Enemy Below (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Blaster Master Enemy Below (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Castlevania: Aria of Sorrow",
+		            "version": "EUR",
+		            "author": "Konami",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "8,48Mo",
+		            "icon_index": 57,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Castlevania: Aria of Sorrow": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/C/Castlevania%20-%20Aria%20of%20Sorrow%20%28Europe%29%20%28En%2CFr%2CDe%29.cia",
+				   "output": "sdmc:/Castlevania - Aria of Sorrow (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Castlevania - Aria of Sorrow (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Castlevania - Aria of Sorrow (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong Jr.™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,52Mo",
+		            "icon_index": 58,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Donkey Kong Jr.™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/D/Donkey%20Kong%20Jr.%E2%84%A2%20EUR%20%280004000000070100%29.cia",
+				   "output": "sdmc:/Donkey Kong Jr. (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Jr. (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Jr. (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Dr. Robotnik's Mean Bean Machine™",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,71Mo",
+		            "icon_index": 59,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Dr. Robotnik's Mean Bean Machine™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/D/Dr.%20Robotnik%27s%20Mean%20Bean%20Machine%E2%84%A2%20EUR%20%28000400000009b800%29.cia",
+				   "output": "sdmc:/Dr. Robotnik's Mean Bean Machine (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dr. Robotnik's Mean Bean Machine (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dr. Robotnik's Mean Bean Machine (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Dragon Crystal™",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,75Mo",
+		            "icon_index": 60,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Dragon Crystal™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/D/Dragon%20Crystal%E2%84%A2%20EUR%20%280004000000088800%29.cia",
+				   "output": "sdmc:/Dragon Crystal (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dragon Crystal (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dragon Crystal (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "F-Zero: GP Legend",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "16,50Mo",
+		            "icon_index": 61,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"F-Zero: GP Legend": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/F/F-Zero%20-%20GP%20Legend%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/F-Zero - GP Legend (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/F-Zero - GP Legend (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/F-Zero - GP Legend (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Final Fantasy IV Advance",
+		            "version": "EUR",
+		            "author": "Square",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "8,48Mo",
+		            "icon_index": 62,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Final Fantasy IV Advance": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/F/Final%20Fantasy%20IV%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Final Fantasy IV Advance (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Final Fantasy IV Advance (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Final Fantasy IV Advance (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Final Fantasy V Advance",
+		            "version": "EUR",
+		            "author": "Square Co.:",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "16,48Mo",
+		            "icon_index": 63,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Final Fantasy V Advance": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/F/Final%20Fantasy%20V%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Final Fantasy V Advance (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Final Fantasy V Advance (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Final Fantasy V Advance (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Final Fight 2™",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "5,72Mo",
+		            "icon_index": 64,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Final Fight 2™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/F/Final%20Fight%202%E2%84%A2%20EUR%20%28000400000f704c00%29.cia",
+				   "output": "sdmc:/Final Fight 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Final Fight 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Final Fight 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Final Fight 3™",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "7,63Mo",
+		            "icon_index": 65,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Final Fight 3™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/F/Final%20Fight%203%E2%84%A2%20EUR%20%28000400000f704e00%29.cia",
+				   "output": "sdmc:/Final Fight 3 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Final Fight 3 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Final Fight 3 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "G-LOC™ Air Battle",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,46Mo",
+		            "icon_index": 66,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"G-LOC™ Air Battle": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/G/G-LOC%E2%84%A2%20Air%20Battle%20EUR%20%28000400000009b900%29.cia",
+				   "output": "sdmc:/G-LOC Air Battle (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/G-LOC Air Battle (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/G-LOC Air Battle (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Game &; Watch™ Gallery 2",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "5,17Mo",
+		            "icon_index": 67,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Game &; Watch™ Gallery 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/G/Game%20%26amp%3B%20Watch%E2%84%A2%20Gallery%202%20EUR%20%280004000000082c00%29.cia",
+				   "output": "sdmc:/Game & Watch Gallery 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Game & Watch Gallery 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Game & Watch Gallery 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Game &; Watch™ Gallery 3",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "5,22Mo",
+		            "icon_index": 68,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Game &; Watch™ Gallery 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/G/Game%20%26amp%3B%20Watch%E2%84%A2%20Gallery%203%20EUR%20%28000400000010ff00%29.cia",
+				   "output": "sdmc:/Game & Watch Gallery 3 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Game & Watch Gallery 3 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Game & Watch Gallery 3 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Gunstar Future Heroes",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "8,50Mo",
+		            "icon_index": 69,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Gunstar Future Heroes": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/G/Gunstar%20Future%20Heroes%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Gunstar Future Heroes (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gunstar Future Heroes (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gunstar Future Heroes (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby's Dream Course™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "5,90Mo",
+		            "icon_index": 70,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Kirby's Dream Course™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/K/Kirby%27s%20Dream%20Course%E2%84%A2%20EUR%20%28000400000f703b00%29.cia",
+				   "output": "sdmc:/Kirbys Dream Course (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirbys Dream Course (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirbys Dream Course (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby & The AMAZING MIRROR",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "18,13Mo",
+		            "icon_index": 71,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Kirby & The AMAZING MIRROR": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/K/Kirby%E2%84%A2%20%26amp%3B%20The%20AMAZING%20MIRROR%20EUR%20%280004000000075d00%29.cia",
+				   "output": "sdmc:/Kirby and The AMAZING MIRROR (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirby and The AMAZING MIRROR (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirby and The AMAZING MIRROR (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Kurukuru Kururin",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "4,50Mo",
+		            "icon_index": 72,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Kurukuru Kururin": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/K/Kurukuru%20Kururin%20%28Europe%29.cia",
+				   "output": "sdmc:/Kurukuru Kururin (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kurukuru Kururin (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kurukuru Kururin (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Legend of the River King™ 2",
+		            "version": "EUR",
+		            "author": "Natsume",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "5,26Mo",
+		            "icon_index": 73,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Legend of the River King™ 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/L/Legend%20of%20the%20River%20King%E2%84%A2%202%20EUR%20%280004000000110600%29.cia",
+				   "output": "sdmc:/Legend of the River King 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Legend of the River King 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Legend of the River King 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Legend of the River King™",
+		            "version": "EUR",
+		            "author": "Natsume",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "5,65Mo",
+		            "icon_index": 74,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Legend of the River King™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/L/Legend%20of%20the%20River%20King%E2%84%A2%20EUR%20%280004000000099e00%29.cia",
+				   "output": "sdmc:/Legend of the River King (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Legend of the River King (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Legend of the River King (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ 2 (NES)",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,96Mo",
+		            "icon_index": 75,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/MEGA%20MAN%E2%84%A2%202%20EUR%20%280004000000099a00%29.cia",
+				   "output": "sdmc:/Mega Man 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "MEGA MAN™",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,64Mo",
+		            "icon_index": 76,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/MEGA%20MAN%E2%84%A2%20EUR%20%280004000000094500%29.cia",
+				   "output": "sdmc:/Mega Man (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mighty Bomb Jack™",
+		            "version": "EUR",
+		            "author": "Tecmo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,68Mo",
+		            "icon_index": 77,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mighty Bomb Jack™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/MIGHTY%20BOMB%20JACK%E2%84%A2%20EUR%20%280004000000094100%29.cia",
+				   "output": "sdmc:/Mighty Bomb Jack (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mighty Bomb Jack (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mighty Bomb Jack (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mystical Ninja starring Goemon",
+		            "version": "EUR",
+		            "author": "Konami",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,30Mo",
+		            "icon_index": 78,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mystical Ninja starring Goemon": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/MYSTICAL%20NINJA%20starring%20GOEMON%20EUR%20%28000400000007e500%29.cia",
+				   "output": "sdmc:/Mystical Ninja starring Goemon (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mystical Ninja starring Goemon (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mystical Ninja starring Goemon (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Bros.™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "12,34Mo",
+		            "icon_index": 79,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mario Bros.™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mario%20Bros.%E2%84%A2%20EUR%20%2800040000000bd100%29.cia",
+				   "output": "sdmc:/Mario Bros. (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Bros. (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Bros. (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Golf™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "6,67Mo",
+		            "icon_index": 80,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mario Golf™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mario%20Golf%E2%84%A2%20EUR%20%280004000000093d00%29.cia",
+				   "output": "sdmc:/Mario Golf (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Golf (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Golf (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mario vs. Donkey Kong™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "17,67Mo",
+		            "icon_index": 81,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mario vs. Donkey Kong™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mario%20vs.%20Donkey%20Kong%E2%84%A2%20EUR%20%280004000000076800%29.cia",
+				   "output": "sdmc:/Mario vs. Donkey Kong (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario vs. Donkey Kong (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario vs. Donkey Kong (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Tennis™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "6,58Mo",
+		            "icon_index": 82,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mario Tennis™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mario%20Tennis%E2%84%A2%20EUR%20%2800040000000d3e00%29.cia",
+				   "output": "sdmc:/Mario Tennis (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Tennis (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Tennis (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mario's Picross™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,54Mo",
+		            "icon_index": 83,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mario's Picross™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mario%27s%20Picross%E2%84%A2%20EUR%20%280004000000042200%29.cia",
+				   "output": "sdmc:/Marios Picross (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Marios Picross (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Marios Picross (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ 2 (GB)",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,12Mo",
+		            "icon_index": 84,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%202%20EUR%20%2800040000000ef300%29.cia",
+				   "output": "sdmc:/Mega Man 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ 3",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "7,33Mo",
+		            "icon_index": 85,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%203%20EUR%20%2800040000000a0e00%29.cia",
+				   "output": "sdmc:/Mega Man 3 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man 3 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man 3 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ 4",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "7,53Mo",
+		            "icon_index": 86,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ 4": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%204%20EUR%20%2800040000000a1200%29.cia",
+				   "output": "sdmc:/Mega Man 4 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man 4 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man 4 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ 5",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "7,53Mo",
+		            "icon_index": 87,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ 5": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%205%20EUR%20%2800040000000a1400%29.cia",
+				   "output": "sdmc:/Mega Man 5 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man 5 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man 5 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ 6",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "7,46Mo",
+		            "icon_index": 88,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ 6": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%206%20EUR%20%2800040000000a1700%29.cia",
+				   "output": "sdmc:/Mega Man 6 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man 6 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man 6 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ Dr. Wily's Revenge",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,56Mo",
+		            "icon_index": 89,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ Dr. Wily's Revenge": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%20Dr.%20Wily%27s%20Revenge%20EUR%20%28000400000004f200%29.cia",
+				   "output": "sdmc:/Mega Man Dr. Wilys Revenge (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man Dr. Wilys Revenge (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man Dr. Wilys Revenge (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ X2",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "6,38Mo",
+		            "icon_index": 90,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ X2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%20X2%20EUR%20%28000400000f703300%29.cia",
+				   "output": "sdmc:/Mega Man X2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man X2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man X2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ X3",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "7,07Mo",
+		            "icon_index": 91,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ X3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%20X3%20EUR%20%28000400000f704a00%29.cia",
+				   "output": "sdmc:/Mega Man X3 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man X3 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man X3 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ Xtreme 2",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "5,43Mo",
+		            "icon_index": 92,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ Xtreme 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%20Xtreme%202%20EUR%20%2800040000000f0100%29.cia",
+				   "output": "sdmc:/Mega Man Xtreme 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man Xtreme 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man Xtreme 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mega Man™ Xtreme",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "5,10Mo",
+		            "icon_index": 93,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mega Man™ Xtreme": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mega%20Man%E2%84%A2%20Xtreme%20EUR%20%2800040000000f0400%29.cia",
+				   "output": "sdmc:/Mega Man Xtreme (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mega Man Xtreme (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mega Man Xtreme (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Metroid™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "4,94Mo",
+		            "icon_index": 94,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Metroid™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Metroid%E2%84%A2%20EUR%20%28000400000006ef00%29.cia",
+				   "output": "sdmc:/Metroid (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Metroid (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Metroid (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Metroid™ Fusion",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "10Mo",
+		            "icon_index": 95,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Metroid™ Fusion": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Metroid%E2%84%A2%20Fusion%20EUR%20%280004000000075700%29.cia",
+				   "output": "sdmc:/Metroid Fusion (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Metroid Fusion (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Metroid Fusion (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Metroid™ II - Return of Samus",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,96Mo",
+		            "icon_index": 96,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Metroid™ II - Return of Samus": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Metroid%E2%84%A2%20II%20-%20Return%20of%20Samus%20EUR%20%280004000000050500%29.cia",
+				   "output": "sdmc:/Metroid II - Return of Samus (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Metroid II - Return of Samus (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Metroid II - Return of Samus (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mighty Final Fight",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,89Mo",
+		            "icon_index": 97,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mighty Final Fight": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mighty%20Final%20Fight%20EUR%20%2800040000000f8700%29.cia",
+				   "output": "sdmc:/Mighty Final Fight (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mighty Final Fight (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mighty Final Fight (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Milon's Secret Castle",
+		            "version": "EUR",
+		            "author": "Hudson Soft",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,90Mo",
+		            "icon_index": 98,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Milon's Secret Castle": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Milon%C2%B4s%20Secret%20Castle%20EUR%20%2800040000000b3300%29.cia",
+				   "output": "sdmc:/Milons Secret Castle (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Milons Secret Castle (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Milons Secret Castle (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Mole Mania",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,54Mo",
+		            "icon_index": 99,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Mole Mania": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Mole%20Mania%20EUR%20%280004000000093900%29.cia",
+				   "output": "sdmc:/Mole Mania (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mole Mania (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mole Mania (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Monopoly",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,50Mo",
+		            "icon_index": 100,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Monopoly": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Monopoly%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.cia",
+				   "output": "sdmc:/Monopoly (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Monopoly (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Monopoly (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Moto Racer Advance",
+		            "version": "EUR",
+		            "author": "Ubisoft",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "4,48Mo",
+		            "icon_index": 101,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Moto Racer Advance": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/M/Motoracer%20Advance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Moto Racer Advance (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Moto Racer Advance (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Moto Racer Advance (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "NES Open Tournament Golf",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "7,35Mo",
+		            "icon_index": 102,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"NES Open Tournament Golf": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/N/NES%20Open%20Tournament%20Golf%20EUR%20%28000400000006fb00%29.cia",
+				   "output": "sdmc:/NES Open Tournament Golf (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/NES Open Tournament Golf (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/NES Open Tournament Golf (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Ninja Gaiden®",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "6,88Mo",
+		            "icon_index": 103,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Ninja Gaiden®": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/N/NINJA%20GAIDEN%C2%AE%20EUR%20%280004000000094800%29.cia",
+				   "output": "sdmc:/Ninja Gaiden (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ninja Gaiden (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ninja Gaiden (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Ninja Gaiden III The Ancient Ship of Doom",
+		            "version": "EUR",
+		            "author": "Tecmo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,87Mo",
+		            "icon_index": 104,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Ninja Gaiden III The Ancient Ship of Doom": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/N/Ninja%20Gaiden%20III%20The%20Ancient%20Ship%20of%20Doom%20EUR%20%2800040000000a6c00%29.cia",
+				   "output": "sdmc:/Ninja Gaiden III The Ancient Ship of Doom (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ninja Gaiden III The Ancient Ship of Doom (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ninja Gaiden III The Ancient Ship of Doom (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Ninja Gaiden II™ The Dark Sword of Chaos",
+		            "version": "EUR",
+		            "author": "Tecmo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,96Mo",
+		            "icon_index": 105,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Ninja Gaiden II™ The Dark Sword of Chaos": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/N/Ninja%20Gaiden%20II%E2%84%A2%20The%20Dark%20Sword%20of%20Chaos%20EUR%20%2800040000000a4900%29.cia",
+				   "output": "sdmc:/Ninja Gaiden II The Dark Sword of Chaos (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ninja Gaiden II The Dark Sword of Chaos (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ninja Gaiden II The Dark Sword of Chaos (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pinball Revenge of the Gator",
+		            "version": "EUR",
+		            "author": "HAL Laboratory",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "3,84Mo",
+		            "icon_index": 106,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Pinball Revenge of the Gator": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/P/Pinball%20Revenge%20of%20the%20Gator%20EUR%20%2800040000000b2800%29.cia",
+				   "output": "sdmc:/Pinball Revenge of the Gator (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pinball Revenge of the Gator (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pinball Revenge of the Gator (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon™ Puzzle Challenge",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "6,39Mo",
+		            "icon_index": 107,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Pokemon™ Puzzle Challenge": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/P/Pok%C3%A9mon%E2%84%A2%20Puzzle%20Challenge%20EUR%20%280004000000119e00%29.cia",
+				   "output": "sdmc:/Pokemon Puzzle Challenge (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Puzzle Challenge (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Puzzle Challenge (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Pokemon™ Trading Card Game",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "6,53Mo",
+		            "icon_index": 108,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Pokemon™ Trading Card Game": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/P/Pok%C3%A9mon%E2%84%A2%20Trading%20Card%20Game%20EUR%20%28000400000011a100%29.cia",
+				   "output": "sdmc:/Pokemon Trading Card Game (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pokemon Trading Card Game (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pokemon Trading Card Game (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Prince of Persia",
+		            "version": "EUR",
+		            "author": "Brøderbund",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "4,81Mo",
+		            "icon_index": 109,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Prince of Persia": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/P/Prince%20of%20Persia%20EUR%20%280004000000069b00%29.cia",
+				   "output": "sdmc:/Prince of Persia (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Prince of Persia (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Prince of Persia (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Punch-Out!!™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "4,93Mo",
+		            "icon_index": 110,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Punch-Out!!™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/P/Punch-Out%21%21%E2%84%A2%20EUR%20%28000400000006ec00%29.cia",
+				   "output": "sdmc:/Punch-Out (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Punch-Out (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Punch-Out (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "QIX",
+		            "version": "EUR",
+		            "author": "Taito",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "3,83Mo",
+		            "icon_index": 111,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"QIX": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/Q/QIX%20EUR%20%280004000000041600%29.cia",
+				   "output": "sdmc:/QIX (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/QIX (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/QIX (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Radar Mission™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,56Mo",
+		            "icon_index": 112,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Radar Mission™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/R/Radar%20Mission%E2%84%A2%20EUR%20%280004000000043000%29.cia",
+				   "output": "sdmc:/Radar Mission (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Radar Mission (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Radar Mission (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Rayman®",
+		            "version": "EUR",
+		            "author": "Ubisoft",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "7,68Mo",
+		            "icon_index": 113,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Rayman®": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/R/Rayman%C2%AE%20EUR%20%280004000000083700%29.cia",
+				   "output": "sdmc:/Rayman (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Rayman (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Rayman (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Renegade",
+		            "version": "EUR",
+		            "author": "Taito",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,65Mo",
+		            "icon_index": 114,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Renegade": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/R/Renegade%20EUR%20%2800040000000caf00%29.cia",
+				   "output": "sdmc:/Renegade (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Renegade (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Renegade (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "S.C.A.T.™",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "12,80Mo",
+		            "icon_index": 115,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"S.C.A.T.™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/S.C.A.T.%E2%84%A2%20EUR%20%28000400000011b000%29.cia",
+				   "output": "sdmc:/S.C.A.T. (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/S.C.A.T. (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/S.C.A.T. (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Shadow of the Ninja™",
+		            "version": "EUR",
+		            "author": "Natsume",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "12,83Mo",
+		            "icon_index": 116,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Shadow of the Ninja™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Shadow%20of%20the%20Ninja%E2%84%A2%20EUR%20%28000400000011ae00%29.cia",
+				   "output": "sdmc:/Shadow of the Ninja (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Shadow of the Ninja (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shadow of the Ninja (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Shantae™",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "8,37Mo",
+		            "icon_index": 117,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Shantae™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Shantae%E2%84%A2%20EUR%20%2800040000000be600%29.cia",
+				   "output": "sdmc:/Shantae (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Shantae (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shantae (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Shining Force™ The Sword of Hajya",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,87Mo",
+		            "icon_index": 118,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Shining Force™ The Sword of Hajya": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Shining%20Force%E2%84%A2%20The%20Sword%20of%20Hajya%20EUR%20%28000400000009bb00%29.cia",
+				   "output": "sdmc:/Shining Force The Sword of Hajya (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Shining Force The Sword of Hajya (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shining Force The Sword of Hajya (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Shinobi™",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "5,77Mo",
+		            "icon_index": 119,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Shinobi™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Shinobi%E2%84%A2%20EUR%20%280004000000088600%29.cia",
+				   "output": "sdmc:/Shinobi (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Shinobi (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shinobi (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Side Pocket",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,26Mo",
+		            "icon_index": 120,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Side Pocket": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Side%20Pocket%20EUR%20%280004000000050e00%29.cia",
+				   "output": "sdmc:/Side Pocket (EURs).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Side Pocket (EURs).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Side Pocket (EURs).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic Advance 3",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "GBA",
+		            "size": "16,50Mo",
+		            "icon_index": 121,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Sonic Advance 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Sonic%20Advance%203%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Sonic Advance 3 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic Advance 3 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic Advance 3 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic Blast™",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,65Mo",
+		            "icon_index": 122,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Sonic Blast™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Sonic%20Blast%E2%84%A2%20EUR%20%280004000000096b00%29.cia",
+				   "output": "sdmc:/Sonic Blast (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic Blast (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic Blast (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic Drift 2",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,97Mo",
+		            "icon_index": 123,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Sonic Drift 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Sonic%20Drift%202%20EUR%20%280004000000088500%29.cia",
+				   "output": "sdmc:/Sonic Drift 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic Drift 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic Drift 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic Labyrinth™",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,47Mo",
+		            "icon_index": 124,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Sonic Labyrinth™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Sonic%20Labyrinth%E2%84%A2%20EUR%20%280004000000096900%29.cia",
+				   "output": "sdmc:/Sonic Labyrinth (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic Labyrinth (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic Labyrinth (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic the Hedgehog 2",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,50Mo",
+		            "icon_index": 125,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Sonic the Hedgehog 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Sonic%20the%20Hedgehog%202%20EUR%20%2800040000000bbb00%29.cia",
+				   "output": "sdmc:/Sonic the Hedgehog 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic the Hedgehog 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic the Hedgehog 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic the Hedgehog™",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,45Mo",
+		            "icon_index": 126,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Sonic the Hedgehog™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Sonic%20the%20Hedgehog%E2%84%A2%20EUR%20%2800040000000bba00%29.cia",
+				   "output": "sdmc:/Sonic the Hedgehog (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic the Hedgehog (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic the Hedgehog (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Sonic the Hedgehog™ Triple Trouble",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "6,09Mo",
+		            "icon_index": 127,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Sonic the Hedgehog™ Triple Trouble": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Sonic%20the%20Hedgehog%E2%84%A2%20Triple%20Trouble%20EUR%20%280004000000088700%29.cia",
+				   "output": "sdmc:/Sonic the Hedgehog Triple Trouble (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Sonic the Hedgehog Triple Trouble (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Sonic the Hedgehog Triple Trouble (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Street Fighter 2010 The Final Fight",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "6,79Mo",
+		            "icon_index": 128,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Street Fighter 2010 The Final Fight": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Street%20Fighter%202010%20The%20Final%20Fight%20EUR%20%2800040000000ff400%29.cia",
+				   "output": "sdmc:/Street Fighter 2010 The Final Fight (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Street Fighter 2010 The Final Fight (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Street Fighter 2010 The Final Fight (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Street Fighter™ Alpha 2",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "17,15Mo",
+		            "icon_index": 129,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Street Fighter™ Alpha 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Street%20Fighter%E2%84%A2%20Alpha%202%20EUR%20%28000400000f704300%29.cia",
+				   "output": "sdmc:/Street Fighter Alpha 2 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Street Fighter Alpha 2 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Street Fighter Alpha 2 (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Street Fighter™ II Turbo Hyper Fighting",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "7,93Mo",
+		            "icon_index": 130,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Street Fighter™ II Turbo Hyper Fighting": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Street%20Fighter%E2%84%A2%20II%20Turbo%20Hyper%20Fighting%20EUR%20%28000400000f704100%29.cia",
+				   "output": "sdmc:/Street Fighter II Turbo Hyper Fighting (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Street Fighter II Turbo Hyper Fighting (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Street Fighter II Turbo Hyper Fighting (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Street Gangs",
+		            "version": "EUR",
+		            "author": "Technos Japan",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "13,47Mo",
+		            "icon_index": 131,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Street Gangs": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Street%20Gangs%20EUR%20%2800040000000a4400%29.cia",
+				   "output": "sdmc:/Street Gangs (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Street Gangs (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Street Gangs (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Summer Carnival '92 Recca",
+		            "version": "EUR",
+		            "author": "Naxat Soft",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "7,07Mo",
+		            "icon_index": 132,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Summer Carnival '92 Recca": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Summer%20Carnival%20%2792%20RECCA%20EUR%20%2800040000000d0200%29.cia",
+				   "output": "sdmc:/Summer Carnival 92 Recca (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Summer Carnival 92 Recca (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Summer Carnival 92 Recca (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Super C",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "13,38Mo",
+		            "icon_index": 133,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Super C": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Super%20C%20EUR%20%28000400000009e300%29.cia",
+				   "output": "sdmc:/Super C (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super C (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super C (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario World™",
+		            "version": "ALL",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "5,26Mo",
+		            "icon_index": 134,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Super Mario World™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/ALL/S/Super%20Mario%20World%E2%84%A2%20ALL%20%28000400000f700e00%29.cia",
+				   "output": "sdmc:/Super Mario World (ALL).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario World (ALL).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario World (ALL).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Land™ 2: 6 Golden Coins™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,80Mo",
+		            "icon_index": 135,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Super Mario Land™ 2: 6 Golden Coins™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Super%20Mario%20Land%E2%84%A2%202%206%20Golden%20Coins%E2%84%A2%20EUR%20%280004000000041c00%29.cia",
+				   "output": "sdmc:/Super Mario Land 2 - 6 Golden Coins (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Land 2 - 6 Golden Coins (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Land 2 - 6 Golden Coins (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Land™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "4,46Mo",
+		            "icon_index": 136,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Super Mario Land™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Super%20Mario%20Land%E2%84%A2%20EUR%20%280004000000040a00%29.cia",
+				   "output": "sdmc:/Super Mario Land (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Land (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Land (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Super Street Fighter™ II The New Challengers",
+		            "version": "EUR",
+		            "author": "Capcom",
+		            "category": "Virtual Consoles",
+		            "console": "SNES",
+		            "size": "10,41Mo",
+		            "icon_index": 137,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Super Street Fighter™ II The New Challengers": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/S/Super%20Street%20Fighter%E2%84%A2%E2%85%A1%20The%20New%20Challengers%20EUR%20%28000400000f703100%29.cia",
+				   "output": "sdmc:/Super Street Fighter II The New Challengers (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Street Fighter II The New Challengers (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Street Fighter II The New Challengers (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Tetris™",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "3,78Mo",
+		            "icon_index": 138,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Tetris™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/TETRIS%C2%AE%20EUR%20%28000400000007e800%29.cia",
+				   "output": "sdmc:/Tetris (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tetris (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tetris (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Tails Adventure™",
+		            "version": "EUR",
+		            "author": "Sega",
+		            "category": "Virtual Consoles",
+		            "console": "Game Gear",
+		            "size": "5,83Mo",
+		            "icon_index": 139,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Tails Adventure™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/Tails%20Adventure%E2%84%A2%20EUR%20%2800040000000dcb00%29.cia",
+				   "output": "sdmc:/Tails Adventure (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tails Adventure (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tails Adventure (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Tennis",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "NES",
+		            "size": "4,05Mo",
+		            "icon_index": 140,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Tennis": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/Tennis%20EUR%20%280004000000041300%29.cia",
+				   "output": "sdmc:/Tennis (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Tennis (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Tennis (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda™ Link's Awakening DX™ (0004000000042600)",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "4,27Mo",
+		            "icon_index": 141,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"The Legend of Zelda™ Link's Awakening DX™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Link%27s%20Awakening%20DX%E2%84%A2%20EUR%20%280004000000042600%29.cia",
+				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda™ Link's Awakening DX™ (0004000000042800)",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "4,26Mo",
+		            "icon_index": 142,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"The Legend of Zelda™ Link's Awakening DX™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Link%27s%20Awakening%20DX%E2%84%A2%20EUR%20%280004000000042800%29.cia",
+				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda™ Link's Awakening DX™ (0004000000042a00)",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "",
+		            "size": "5,33Mo",
+		            "icon_index": 143,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"The Legend of Zelda™ Link's Awakening DX™": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Link%27s%20Awakening%20DX%E2%84%A2%20EUR%20%280004000000042a00%29.cia",
+				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda™ Oracle of Ages",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "7,91Mo",
+		            "icon_index": 144,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"The Legend of Zelda™ Oracle of Ages": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Oracle%20of%20Ages%20EUR%20%280004000000059000%29.cia",
+				   "output": "sdmc:/The Legend of Zelda Oracle of Ages (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda Oracle of Ages (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Oracle of Ages (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "The Legend of Zelda™ Oracle of Seasons",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GBC",
+		            "size": "7,96Mo",
+		            "icon_index": 145,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"The Legend of Zelda™ Oracle of Seasons": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Oracle%20of%20Seasons%20EUR%20%280004000000058d00%29.cia",
+				   "output": "sdmc:/The Legend of Zelda Oracle of Seasons (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Legend of Zelda Oracle of Seasons (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Legend of Zelda Oracle of Seasons (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Wario Land II",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Virtual Consoles",
+		            "console": "GB",
+		            "size": "6,15Mo",
+		            "icon_index": 146,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-07 at 12:35 (UTC)"
+},
+"Wario Land II": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/W/Wario%20Land%20II%20EUR%20%28000400000007d900%29.cia",
+				   "output": "sdmc:/Wario Land II (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Wario Land II (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Wario Land II (EUR).cia",
 				   "message": "Cleaning..."
 }]}]} 
