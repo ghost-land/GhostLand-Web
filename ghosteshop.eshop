@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 117
+"revision": 118
 },
 "storeContent": [
 {"info": {
@@ -30388,7 +30388,7 @@
 "Nisekoi Manga Vol.1": [
 {
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Others/Manga/NisekoiMangaVol.1%20%28France%29%28eShop%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Others/Manga/France/NisekoiMangaVol.1%20%28France%29%28eShop%29.cia",
 				   "output": "sdmc:/Nisekoi Manga Vol.1 (France)(eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32714,7 +32714,7 @@
 "Le Professeur Layton Manga Vol.1": [
 {
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Others/Manga/Le%20Professeur%20Layton%20-%20Manga%20Vol.1%20%28France%29%28eShop%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Others/Manga/France/Le%20Professeur%20Layton%20-%20Manga%20Vol.1%20%28France%29%28eShop%29.cia",
 				   "output": "sdmc:/Le Professeur Layton Manga Vol.1 (French).cia",
 				   "message": "Downloading your current game..."
 }, 
