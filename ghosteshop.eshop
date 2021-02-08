@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 118
+"revision": 121
 },
 "storeContent": [
 {"info": {
@@ -1505,6 +1505,7 @@
 					"author": "Sonic Powered",
 					"category": "DSiWare",
 					"console": "DSi",
+					"size": "5,78Mo",
 					"icon_index": 0,
 					"description": "Jeux de rôles dans des donjons.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -3936,7 +3937,7 @@
 {"info": {
 					"title": "Kirby's Dream Land™ 2",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GB",
 					"icon_index": 69,
@@ -3965,7 +3966,7 @@
 {"info": {
 					"title": "Kirby's Dream Land™",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GB",
 					"icon_index": 70,
@@ -3994,7 +3995,7 @@
 {"info": {
 					"title": "Kirby's Pinball Land",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GB",
 					"icon_index": 71,
@@ -4023,7 +4024,7 @@
 {"info": {
 					"title": "Kirby's Star Stacker",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GB",
 					"icon_index": 72,
@@ -4052,7 +4053,7 @@
 {"info": {
 					"title": "Adventure Island II",
 					"version": "EUR",
-					"author": "",
+					"author": "Hudson Soft",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 73,
@@ -4081,7 +4082,7 @@
 {"info": {
 					"title": "Adventures of Lolo™",
 					"version": "EUR",
-					"author": "",
+					"author": "HAL Laboratory",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 74,
@@ -4110,7 +4111,7 @@
 {"info": {
 					"title": "Balloon Fight™",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 75,
@@ -4139,7 +4140,7 @@
 {"info": {
 					"title": "Blaster Master™",
 					"version": "EUR",
-					"author": "",
+					"author": "Sunsoft",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 76,
@@ -4166,16 +4167,16 @@
 ]
 },
 {"info": {
-					"title": "Castlevania II - Simon's Quest",
+					"title": "Castlevania II: Simon's Quest",
 					"version": "EUR",
-					"author": "",
+					"author": "Konami",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 77,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
 },
-"Castlevania II - Simon's Quest": [
+"Castlevania II: Simon's Quest": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/C/Castlevania%20%E2%85%A1%20Simon%27s%20Quest%20EUR%20%2800040000000bdc00%29.cia",
@@ -4195,30 +4196,30 @@
 ]
 },
 {"info": {
-					"title": "Castlevania III Dracula's Curse",
+					"title": "Castlevania III: Dracula's Curse",
 					"version": "EUR",
-					"author": "",
+					"author": "Konami",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 78,
 					"description": "",
 					"last_updated": "2020-08-11 at 14:03 (UTC)"
 },
-"Castlevania III Dracula's Curse": [
+"Castlevania III: Dracula's Curse": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/Virtual%20console/EUR/C/Castlevania%20III%20Dracula%27s%20Curse%20EUR%20%2800040000000b2b00%29.cia",
-				   "output": "sdmc:/Castlevania III Dracula's Curse.cia",
+				   "output": "sdmc:/Castlevania III - Dracula's Curse.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Castlevania III Dracula's Curse.cia",
+				   "file": "/Castlevania III - Dracula's Curse.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Castlevania III Dracula's Curse.cia",
+				   "file": "sdmc:/Castlevania III - Dracula's Curse.cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -4255,7 +4256,7 @@
 {"info": {
 					"title": "City Connection™",
 					"version": "EUR",
-					"author": "",
+					"author": "Jaleco",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 80,
@@ -4284,7 +4285,7 @@
 {"info": {
 					"title": "Clu Clu Land",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 81,
@@ -12221,9 +12222,9 @@
 ]
 },
 {"info": {
-					"title": "Mario Party - Star Rush",
+					"title": "Mario Party: Star Rush",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "377,23Mo",
@@ -12245,7 +12246,7 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Mario Party - Star Rush (EUR)": [
+"Mario Party: Star Rush (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Party%20-%20Star%20Rush%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia",
@@ -12262,7 +12263,7 @@
 				   "file": "sdmc:/Mario Party - Star Rush (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Mario Party - Star Rush (USA)": [
+"Mario Party: Star Rush (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mario%20Party%20-%20Star%20Rush%20%28USA%29.cia",
@@ -12282,9 +12283,9 @@
 ]
 },
 {"info": {
-					"title": "Mario Party - The Top 100",
+					"title": "Mario Party: The Top 100",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "262,80Mo",
@@ -12306,7 +12307,7 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Mario Party - The Top 100 (EUR)": [
+"Mario Party: The Top 100 (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Party%20-%20The%20Top%20100%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
@@ -12323,7 +12324,7 @@
 				   "file": "sdmc:/Mario Party - The Top 100 (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Mario Party - The Top 100 (USA)": [
+"Mario Party: The Top 100 (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mario%20Party%20-%20The%20Top%20100%20%28USA%29.cia",
@@ -12345,7 +12346,7 @@
 {"info": {
 					"title": "Mario Sports Superstars",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "823,60Mo",
@@ -12395,9 +12396,9 @@
 ]
 },
 {"info": {
-					"title": "Metal Gear Solid - Snake Eater 3D",
+					"title": "Metal Gear Solid: Snake Eater 3D",
 					"version": "USA",
-					"author": "",
+					"author": "Konami",
 					"category": "Games",
 					"console": "3DS",
 					"size": "3,01Go",
@@ -12411,7 +12412,7 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Metal Gear Solid - Snake Eater 3D": [
+"Metal Gear Solid: Snake Eater 3D": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Metal%20Gear%20Solid%20-%20Snake%20Eater%203D%20%28USA%29.cia",
@@ -12428,7 +12429,7 @@
 				   "file": "sdmc:/Metal Gear Solid - Snake Eater 3D (USA).cia",
 				   "message": "Cleaning..."}
 ],
-"Metal Gear Solid - Snake Eater 3D - Update 1.1": [
+"Metal Gear Solid: Snake Eater 3D - Update 1.1": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Metal%20Gear%20Solid%20-%20Snake%20Eater%203D%20-%201.1%20Update%20%28USA%29.cia",
@@ -12450,7 +12451,7 @@
 {"info": {
 					"title": "Mighty Switch Force!",
 					"version": "USA",
-					"author": "",
+					"author": "WayForward",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "224,58Mo",
@@ -12480,7 +12481,7 @@
 {"info": {
 					"title": "Mighty Switch Force! 2",
 					"version": "USA",
-					"author": "",
+					"author": "WayForward",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "38,05Mo",
@@ -12508,9 +12509,9 @@
 ]
 },
 {"info": {
-					"title": "Monster High - Skultimate Roller Maze",
+					"title": "Monster High: Skultimate Roller Maze",
 					"version": "USA",
-					"author": "",
+					"author": "Little Orbit",
 					"category": "Games",
 					"console": "3DS",
 					"size": "86,36Mo",
@@ -12518,7 +12519,7 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Monster High - Skultimate Roller Maze": [
+"Monster High: Skultimate Roller Maze": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28USA%29.cia",
@@ -12570,7 +12571,7 @@
 {"info": {
 					"title": "Monster Hunter 4 Ultimate",
 					"version": "USA",
-					"author": "",
+					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
 					"size": "2,54Go",
@@ -12635,7 +12636,7 @@
 {"info": {
 					"title": "Monster Hunter Stories",
 					"version": "EUR, USA, JPN",
-					"author": "",
+					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,80Go",
@@ -12731,7 +12732,7 @@
 {"info": {
 		            "title": "Monster Hunter XX: Double Cross",
 		            "version": "JPN",
-					"author": "",
+					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
 					"size": "2,17Go",
@@ -12784,7 +12785,7 @@
 {"info": {
 					"title": "Moon Chronicles",
 					"version": "USA",
-					"author": "",
+					"author": "Renegade Kid",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "173Mo",
@@ -12814,7 +12815,7 @@
 {"info": {
 					"title": "Mutant Mudds",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Renegade Kid",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "14,04Mo",
@@ -12854,7 +12855,7 @@
 				   "file": "sdmc:/Mutant Mudds (EUR)(DEMO).cia",
 				   "message": "Cleaning..."}
 ],
-"Mutant Mudds - Games (USA)": [
+"Mutant Mudds (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mutant%20Mudds%20%28USA%29%20%28eShop%29.cia",
@@ -12876,7 +12877,7 @@
 {"info": {
 					"title": "My Pet Puppy 3D",
 					"version": "USA",
-					"author": "",
+					"author": "505 Games",
 					"category": "Games",
 					"console": "3DS",
 					"size": "82,77Mo",
@@ -12906,7 +12907,7 @@
 {"info": {
 					"title": "NCIS 3D",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "3DS",
 					"size": "84,22Mo",
@@ -12939,9 +12940,9 @@
 ]
 },
 {"info": {
-					"title": "New Style Boutik",
+					"title": "New Style Boutique",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,57Go",
@@ -12955,46 +12956,46 @@
 					"description": "",
 					"last_updated": "2020-12-04 at 21:15 (UTC)"
 },
-"New Style Boutik": [
+"New Style Boutique": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%20%28EUR%29.cia",
-				   "output": "sdmc:/New Style Boutik (EUR).cia",
+				   "output": "sdmc:/New Style Boutique (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/New Style Boutik (EUR).cia",
+				   "file": "/New Style Boutique (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/New Style Boutik (EUR).cia",
+				   "file": "sdmc:/New Style Boutique (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"New Style Boutik - Update 1.1": [
+"New Style Boutique - Update 1.1": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%20-%20Update%201.1%20%28EUR%29.cia",
-				   "output": "sdmc:/New Style Boutik - Update 1.1 (EUR).cia",
+				   "output": "sdmc:/New Style Boutique - Update 1.1 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/New Style Boutik - Update 1.1 (EUR).cia",
+				   "file": "/New Style Boutique - Update 1.1 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/New Style Boutik - Update 1.1 (EUR).cia",
+				   "file": "sdmc:/New Style Boutique - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
-					"title": "New Style Boutique 3 Styling Star",
+					"title": "Nintendo presents: New Style Boutique 3: Styling Star",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "779,18Mo",
@@ -13007,21 +13008,21 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"New Style Boutique 3 Styling Star": [
+"Nintendo presents: New Style Boutique 3: Styling Star": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%203%20Styling%20Star%20%28EUR%29%20%28eShop%29.cia",
-				   "output": "sdmc:/New Style Boutique 3 Styling Star (EUR).cia",
+				   "output": "sdmc:/Nintendo presents - New Style Boutique 3 - Styling Star (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/New Style Boutique 3 Styling Star (EUR).cia",
+				   "file": "/Nintendo presents - New Style Boutique 3 - Styling Star (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/New Style Boutique 3 Styling Star (EUR).cia",
+				   "file": "sdmc:/Nintendo presents - New Style Boutique 3 - Styling Star (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -13029,7 +13030,7 @@
 {"info": {
 					"title": "New Super Mario Bros. 2",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "342,16Mo",
@@ -13108,7 +13109,7 @@
 {"info": {
 					"title": "Nicktoons MLB 3D",
 					"version": "USA",
-					"author": "",
+					"author": "2K Games",
 					"category": "Games",
 					"console": "3DS",
 					"size": "82,43Mo",
@@ -13143,7 +13144,7 @@
 {"info": {
 					"title": "Nintendo Letter Box",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "12,38Mo",
@@ -13173,7 +13174,7 @@
 {"info": {
 					"title": "Nintendo Pocket Football Club",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "382,92Mo",
@@ -13206,9 +13207,9 @@
 ]
 },
 {"info": {
-					"title": "Nintendo Vidéo",
+					"title": "Nintendo Video",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "4,12Mo",
@@ -13216,7 +13217,7 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Nintendo Vidéo": [
+"Nintendo Video": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/N/Nintendo%20Video%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia",
@@ -13236,9 +13237,9 @@
 ]
 },
 {"info": {
-					"title": "One Piece - Unlimited World Red",
+					"title": "One Piece: Unlimited World Red",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Namco Bandai Games",
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,77Go",
@@ -13261,7 +13262,7 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"One Piece - Unlimited World Red (EUR)": [
+"One Piece: Unlimited World Red (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/O/One%20Piece%20-%20Unlimited%20World%20Red%20%28EUR%29%28M5%29.cia",
@@ -13278,7 +13279,7 @@
 				   "file": "sdmc:/One Piece - Unlimited World Red (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"One Piece - Unlimited World Red (USA)": [
+"One Piece: Unlimited World Red (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/O/One%20Piece%20-%20Unlimited%20World%20Red%20%28USA%29.cia",
@@ -13295,7 +13296,7 @@
 				   "file": "sdmc:/One Piece - Unlimited World Red (USA).cia",
 				   "message": "Cleaning..."}
 ],
-"One Piece - Unlimited World Red - DLC (USA)": [
+"One Piece: Unlimited World Red - DLC (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/O/One%20Piece%20-%20Unlimited%20World%20Red%20-%20DLC%20%28USA%29.cia",
@@ -13317,7 +13318,7 @@
 {"info": {
 					"title": "Pac-Man & Galaga Dimensions",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Namco Bandai Games",
 					"category": "Games",
 					"console": "3DS",
 					"size": "407,73Mo",
@@ -13367,9 +13368,9 @@
 ]
 },
 {"info": {
-					"title": "Pac-Man & the Ghostly Adventures 2",
+					"title": "Pac-Man and the Ghostly Adventures 2",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Bandai Namco Games",
 					"category": "Games",
 					"console": "3DS",
 					"size": "458,15Mo",
@@ -13382,38 +13383,38 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Pac-Man & the Ghostly Adventures 2 (EUR)": [
+"Pac-Man and the Ghostly Adventures 2 (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pac-Man%20and%20the%20Ghostly%20Adventures%202%20%28EUR%29%28M5%29.cia",
-				   "output": "sdmc:/Pac-Man & the Ghostly Adventures 2 (EUR).cia",
+				   "output": "sdmc:/Pac-Man and the Ghostly Adventures 2 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pac-Man & the Ghostly Adventures 2 (EUR).cia",
+				   "file": "/Pac-Man and the Ghostly Adventures 2 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pac-Man & the Ghostly Adventures 2 (EUR).cia",
+				   "file": "sdmc:/Pac-Man and the Ghostly Adventures 2 (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Pac-Man & the Ghostly Adventures 2 (USA)": [
+"Pac-Man and the Ghostly Adventures 2 (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/P/Pac-Man%20and%20the%20Ghostly%20Adventures%202%20%28USA%29.cia",
-				   "output": "sdmc:/Pac-Man & the Ghostly Adventures 2 (USA).cia",
+				   "output": "sdmc:/Pac-Man and the Ghostly Adventures 2 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pac-Man & the Ghostly Adventures 2 (USA).cia",
+				   "file": "/Pac-Man and the Ghostly Adventures 2 (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pac-Man & the Ghostly Adventures 2 (USA).cia",
+				   "file": "sdmc:/Pac-Man and the Ghostly Adventures 2 (USA).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -13421,7 +13422,7 @@
 {"info": {
 					"title": "Pac-Man Party 3D",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Namco",
 					"category": "Games",
 					"console": "3DS",
 					"size": "197,99Mo",
@@ -13466,9 +13467,9 @@
 ]
 },
 {"info": {
-					"title": "Peanuts Movie - Snoopy's Grand Adventure, The",
+					"title": "The Peanuts Movie: Snoopy's Grand Adventure",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "3DS",
 					"size": "197,04Mo",
@@ -13476,38 +13477,38 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Peanuts Movie - Snoopy's Grand Adventure, The (EUR)": [
+"The Peanuts Movie: Snoopy's Grand Adventure (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Peanuts%20Movie%20-%20Snoopy%27s%20Grand%20Adventure%2C%20The%20%28EUR%29%28M7%29.cia",
-				   "output": "sdmc:/Peanuts Movie - Snoopy's Grand Adventure, The (EUR).cia",
+				   "output": "sdmc:/The Peanuts Movie - Snoopys Grand Adventure (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Peanuts Movie - Snoopy's Grand Adventure, The (EUR).cia",
+				   "file": "/The Peanuts Movie - Snoopys Grand Adventure (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Peanuts Movie - Snoopy's Grand Adventure, The (EUR).cia",
+				   "file": "sdmc:/The Peanuts Movie - Snoopys Grand Adventure (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Peanuts Movie - Snoopy's Grand Adventure, The (USA)": [
+"The Peanuts Movie: Snoopy's Grand Adventure (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Peanuts%20Movie%20-%20Snoopys%20Grand%20Adventure%20%28USA%29.cia",
-				   "output": "sdmc:/Peanuts Movie - Snoopy's Grand Adventure, The (USA).cia",
+				   "output": "sdmc:/The Peanuts Movie - Snoopys Grand Adventure (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Peanuts Movie - Snoopy's Grand Adventure, The (USA).cia",
+				   "file": "/The Peanuts Movie - Snoopys Grand Adventure (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Peanuts Movie - Snoopy's Grand Adventure, The (USA).cia",
+				   "file": "sdmc:/The Peanuts Movie - Snoopys Grand Adventure (USA).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -13515,7 +13516,7 @@
 {"info": {
 					"title": "Penguins of Madagascar",
 					"version": "EUR",
-					"author": "",
+					"author": "Little Orbit",
 					"category": "Games",
 					"console": "3DS",
 					"size": "78,68Mo",
@@ -13545,7 +13546,7 @@
 {"info": {
 					"title": "Pet Zombies",
 					"version": "USA",
-					"author": "",
+					"author": "Majesco Entertainment",
 					"category": "Games",
 					"console": "3DS",
 					"size": "90,97Mo",
@@ -13573,9 +13574,9 @@
 ]
 },
 {"info": {
-					"title": "Phoenix Wright Ace Attorney: Dual Destinies",
+					"title": "Phoenix Wright Ace Attorney - Dual Destinies",
 					"version": "EUR, JPN",
-					"author": "",
+					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
 					"size": "555,62Mo",
@@ -13601,7 +13602,7 @@
 					"description": "",
 					"last_updated": "2021-02-02 at 15:09 (UTC)"
 },
-"Phoenix Wright Ace Attorney: Dual Destinies (EUR)": [
+"Phoenix Wright Ace Attorney - Dual Destinies (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20%28EUR%29.cia",
@@ -13618,7 +13619,7 @@
 				   "file": "sdmc:/Phoenix Wright Ace Attorney - Dual Destinies (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Phoenix Wright Ace Attorney: Dual Destinies - DLC (EUR)": [
+"Phoenix Wright Ace Attorney - Dual Destinies - DLC (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20-%20DLC%20%28EUR%29.cia",
@@ -13655,9 +13656,9 @@
 ]
 },
 {"info": {
-					"title": "Phonics Fun With Biff, Chip & Kipper - Vol. 1",
+					"title": "Phonics Fun with Biff, Chip & Kipper Vol. 1",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "389,76Mo",
@@ -13670,29 +13671,29 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Phonics Fun With Biff, Chip & Kipper - Vol. 1": [
+"Phonics Fun with Biff, Chip & Kipper Vol. 1": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%201%20%28EUR%29%28M6%29.cia",
-				   "output": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 1 (EUR).cia",
+				   "output": "sdmc:/Phonics Fun with Biff, Chip & Kipper Vol. 1 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Phonics Fun With Biff, Chip & Kipper - Vol. 1 (EUR).cia",
+				   "file": "/Phonics Fun with Biff, Chip & Kipper Vol. 1 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 1 (EUR).cia",
+				   "file": "sdmc:/Phonics Fun with Biff, Chip & Kipper Vol. 1 (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
-					"title": "Phonics Fun With Biff, Chip & Kipper - Vol. 2",
+					"title": "Phonics Fun with Biff, Chip & Kipper Vol. 2",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "418,03Mo",
@@ -13700,21 +13701,21 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Phonics Fun With Biff, Chip & Kipper - Vol. 2": [
+"Phonics Fun with Biff, Chip & Kipper Vol. 2": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%202%20%28EUR%29%28M6%29.cia",
-				   "output": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 2 (EUR).cia",
+				   "output": "sdmc:/Phonics Fun with Biff, Chip & Kipper Vol. 2 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Phonics Fun With Biff, Chip & Kipper - Vol. 2 (EUR).cia",
+				   "file": "/Phonics Fun with Biff, Chip & Kipper Vol. 2 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 2 (EUR).cia",
+				   "file": "sdmc:/Phonics Fun with Biff, Chip & Kipper Vol. 2 (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -13722,7 +13723,7 @@
 {"info": {
 					"title": "Photos with Mario",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "7,55Mo",
@@ -13750,9 +13751,9 @@
 ]
 },
 {"info": {
-					"title": "Picdun 2 - Witch's Curse",
+					"title": "Picdun 2: Witch's Curse",
 					"version": "USA",
-					"author": "",
+					"author": "INTENSE",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "74,15Mo",
@@ -13760,7 +13761,7 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Picdun 2 - Witch's Curse": [
+"Picdun 2: Witch's Curse": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/P/Picdun%202%20-%20Witch%27s%20Curse%20%28USA%29%20%28eShop%29.cia",
@@ -13782,7 +13783,7 @@
 {"info": {
 					"title": "Disney Infinity",
 					"version": "EUR, JPN",
-					"author": "",
+					"author": "Disney Interactive",
 					"category": "Games",
 					"console": "3DS",
 					"size": "893,44Mo",
@@ -13827,9 +13828,9 @@
 ]
 },
 {"info": {
-					"title": "Picross 3D - Round 2",
+					"title": "Picross 3D: Round 2",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "132,49Mo",
@@ -13851,7 +13852,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Picross 3D - Round 2": [
+"Picross 3D: Round 2": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Picross%203D%20-%20Round%202%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
@@ -13873,7 +13874,7 @@
 {"info": {
 					"title": "Pokemon Dream Radar",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "24,87Mo",
@@ -13901,9 +13902,9 @@
 ]
 },
 {"info": {
-					"title": "Pokemon Link - Battle!",
+					"title": "Pokemon Link: Battle!",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "48,07Mo",
@@ -13911,7 +13912,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Link - Battle!": [
+"Pokemon Link: Battle!": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pokemon%20Link%20-%20Battle%21%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
@@ -13933,7 +13934,7 @@
 {"info": {
 					"title": "Pokemon Moon",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "2,98Go",
@@ -13975,9 +13976,9 @@
 ]
 },
 {"info": {
-					"title": "Pokemon Mystery Dungeon - Gates to Infinity",
+					"title": "Pokemon Mystery Dungeon: Gates to Infinity",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "844,96Mo",
@@ -13997,7 +13998,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Mystery Dungeon - Gates to Infinity": [
+"Pokemon Mystery Dungeon: Gates to Infinity": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pokemon%20Mystery%20Dungeon%20-%20Gates%20to%20Infinity%20%28EUR%29%28M5%29.cia",
@@ -14014,7 +14015,7 @@
 				   "file": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Pokemon Mystery Dungeon - Gates to Infinity - DLC": [
+"Pokemon Mystery Dungeon: Gates to Infinity - DLC": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pokemon%20Mystery%20Dungeon%20-%20Gates%20to%20Infinity%20-%20DLC%20%28EUR%29.cia",
@@ -14036,7 +14037,7 @@
 {"info": {
 					"title": "Pokemon Rumble World",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "103,07Mo",
@@ -14080,7 +14081,7 @@
 {"info": {
 					"title": "Pokemon Super Mystery Dungeon",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,70Go",
@@ -14148,7 +14149,7 @@
 {"info": {
 					"title": "Pokemon Ultra Sun",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "3,44Go",
@@ -14183,7 +14184,7 @@
 {"info": {
 					"title": "Pokemon X",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,68Go",
@@ -14260,9 +14261,9 @@
 ]
 },
 {"info": {
-					"title": "Professeur Layton & L'heritage des Aslantes",
-					"version": "EUR",
-					"author": "",
+					"title": "Professor Layton and the Azran Legacy",
+					"version": "FR",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "914,81Mo",
@@ -14284,7 +14285,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Professeur Layton & L'heritage des Aslantes": [
+"Professeur Layton et L'Heritage des Aslantes": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Professeur%20Layton%20et%20L%27heritage%20des%20Aslantes%20%28EUR%29.cia",
@@ -14304,9 +14305,9 @@
 ]
 },
 {"info": {
-					"title": "Professeur Layton & le Masque des Miracles",
+					"title": "Professor Layton and the Miracle Mask",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
 					"size": "790,14Mo",
@@ -14328,7 +14329,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Professeur Layton & le Masque des Miracles": [
+"Professeur Layton et le Masque des Miracles": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Professeur%20Layton%20et%20le%20Masque%20des%20Miracles%20%28EUR%29.cia",
@@ -14348,9 +14349,9 @@
 ]
 },
 {"info": {
-					"title": "Pullbox",
+					"title": "Pullblox",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "20,13Mo",
@@ -14358,21 +14359,21 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pullbox": [
+"Pullblox": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pullblox%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Pullbox (EUR).cia",
+				   "output": "sdmc:/Pullblox (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pullbox (EUR).cia",
+				   "file": "/Pullblox (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pullbox (EUR).cia",
+				   "file": "sdmc:/Pullblox (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -14380,7 +14381,7 @@
 {"info": {
 					"title": "Pyramids",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Enjoy Gaming",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "18,86Mo",
@@ -14388,21 +14389,21 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pyramids - Proto (EUR)": [
+"Pyramids (PROTOTYPE DEMO)(EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pyramids%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Proto%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Pyramids - Proto (EUR).cia",
+				   "output": "sdmc:/Pyramids (PROTOTYPE DEMO)(EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pyramids - Proto (EUR).cia",
+				   "file": "/Pyramids (PROTOTYPE DEMO)(EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pyramids - Proto (EUR).cia",
+				   "file": "sdmc:/Pyramids (PROTOTYPE DEMO)(EUR).cia",
 				   "message": "Cleaning..."}
 ],
 "Pyramids (USA)": [
@@ -14427,7 +14428,7 @@
 {"info": {
 					"title": "Resident Evil: The Mercenaries 3D",
 					"version": "EUR, JPN",
-					"author": "",
+					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
 					"size": "589,03Mo",
@@ -14492,9 +14493,9 @@
 ]
 },
 {"info": {
-					"title": "Rodea - The Sky Soldier",
+					"title": "Rodea the Sky Soldier",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "NIS America",
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,42Go",
@@ -14502,38 +14503,38 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Rodea - The Sky Soldier (EUR)": [
+"Rodea the Sky Soldier (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Rodea%20-%20The%20Sky%20Soldier%20%28EUR%29%28M4%29.cia",
-				   "output": "sdmc:/Rodea - The Sky Soldier (EUR).cia",
+				   "output": "sdmc:/Rodea the Sky Soldier (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Rodea - The Sky Soldier (EUR).cia",
+				   "file": "/Rodea the Sky Soldier (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Rodea - The Sky Soldier (EUR).cia",
+				   "file": "sdmc:/Rodea the Sky Soldier (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Rodea - The Sky Soldier (USA)": [
+"Rodea the Sky Soldier (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/R/Rodea%20the%20Sky%20Soldier%20%28USA%29.cia",
-				   "output": "sdmc:/Rodea - The Sky Soldier (USA).cia",
+				   "output": "sdmc:/Rodea the Sky Soldier (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Rodea - The Sky Soldier (USA).cia",
+				   "file": "/Rodea the Sky Soldier (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Rodea - The Sky Soldier (USA).cia",
+				   "file": "sdmc:/Rodea the Sky Soldier (USA).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -14541,7 +14542,7 @@
 {"info": {
 					"title": "Secret of the Titanic",
 					"version": "EUR",
-					"author": "",
+					"author": "GSP",
 					"category": "Games",
 					"console": "3DS",
 					"size": "83,39Mo",
@@ -14571,7 +14572,7 @@
 {"info": {
 					"title": "Shantae and the Pirate's Curse",
 					"version": "EUR",
-					"author": "",
+					"author": "Rising Star Games",
 					"category": "Games",
 					"console": "3DS",
 					"size": "288,44Mo",
@@ -14631,9 +14632,9 @@
 ]
 },
 {"info": {
-					"title": "Sherlock Holmes - The Mystery of the Frozen City",
+					"title": "Sherlock Holmes: The Mystery of the Frozen City",
 					"version": "EUR",
-					"author": "",
+					"author": "Focus Home Interactive",
 					"category": "Games",
 					"console": "3DS",
 					"size": "79,60Mo",
@@ -14641,7 +14642,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Sherlock Holmes - The Mystery of the Frozen City": [
+"Sherlock Holmes: The Mystery of the Frozen City": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Sherlock%20Holmes%20-%20The%20Mystery%20of%20the%20Frozen%20City%20%28EUR%29.cia",
@@ -14663,7 +14664,7 @@
 {"info": {
 					"title": "Shin Megami Tensei: Devil Survivor Overclocked",
 					"version": "EUR, USA, JPN",
-					"author": "",
+					"author": "Atlus",
 					"category": "Games",
 					"console": "3DS",
 					"size": "1,12Go",
@@ -14751,9 +14752,9 @@
 ]
 },
 {"info": {
-					"title": "Sims 3, The",
+					"title": "The Sims 3",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Electronic Arts",
 					"category": "Games",
 					"console": "3DS",
 					"size": "385,96Mo",
@@ -14775,46 +14776,46 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Sims 3, The (EUR)": [
+"The Sims 3 (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Sims%203%2C%20The%20%28EUR%29%28M6%29.cia",
-				   "output": "sdmc:/Sims 3, The (EUR).cia",
+				   "output": "sdmc:/The Sims 3 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Sims 3, The (EUR).cia",
+				   "file": "/The Sims 3 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Sims 3, The (EUR).cia",
+				   "file": "sdmc:/The Sims 3 (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Sims 3, The (USA)": [
+"The Sims 3 (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Sims%203%20%28USA%29.cia",
-				   "output": "sdmc:/Sims 3, The (USA).cia",
+				   "output": "sdmc:/The Sims 3 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Sims 3, The (USA).cia",
+				   "file": "/The Sims 3 (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Sims 3, The (USA).cia",
+				   "file": "sdmc:/The Sims 3 (USA).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
-					"title": "Sims 3 - Pets, The",
+					"title": "The Sims 3: Pets",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Electronic Arts",
 					"category": "Games",
 					"console": "3DS",
 					"size": "388,16Mo",
@@ -14836,38 +14837,38 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Sims 3 - Pets, The (EUR)": [
+"The Sims 3: Pets (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Sims%203%20-%20Pets%2C%20The%20%28EUR%29%28M6%29.cia",
-				   "output": "sdmc:/Sims 3 - Pets, The (EUR).cia",
+				   "output": "sdmc:/The Sims 3: Pets (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Sims 3 - Pets, The (EUR).cia",
+				   "file": "/The Sims 3: Pets (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Sims 3 - Pets, The (EUR).cia",
+				   "file": "sdmc:/The Sims 3: Pets (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Sims 3 - Pets, The (USA)": [
+"The Sims 3: Pets (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Sims%203%20-%20Pets%20%28USA%29.cia",
-				   "output": "sdmc:/Sims 3 - Pets, The (USA).cia",
+				   "output": "sdmc:/The Sims 3: Pets (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Sims 3 - Pets, The (USA).cia",
+				   "file": "/The Sims 3: Pets (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Sims 3 - Pets, The (USA).cia",
+				   "file": "sdmc:/The Sims 3: Pets (USA).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -14875,7 +14876,7 @@
 {"info": {
 					"title": "Skylanders SuperChargers Racing",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "3DS",
 					"size": "775,71Mo",
@@ -14920,9 +14921,9 @@
 ]
 },
 {"info": {
-					"title": "Skylanders Swap-Force",
+					"title": "Skylanders Swap Force",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "3DS",
 					"size": "812,15Mo",
@@ -14930,38 +14931,38 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Skylanders Swap-Force (EUR)": [
+"Skylanders Swap Force (EUR)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Skylanders%20Swap-Force%20%28EUR%29%28M10%29.cia",
-				   "output": "sdmc:/Skylanders Swap-Force (EUR).cia",
+				   "output": "sdmc:/Skylanders Swap Force (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Skylanders Swap-Force (EUR).cia",
+				   "file": "/Skylanders Swap Force (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Skylanders Swap-Force (EUR).cia",
+				   "file": "sdmc:/Skylanders Swap Force (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Skylanders Swap-Force (USA)": [
+"Skylanders Swap Force (USA)": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/S/Skylanders%20-%20Swap%20Force%20%28USA%29.cia",
-				   "output": "sdmc:/Skylanders Swap-Force (USA).cia",
+				   "output": "sdmc:/Skylanders Swap Force (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Skylanders Swap-Force (USA).cia",
+				   "file": "/Skylanders Swap Force (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Skylanders Swap-Force (USA).cia",
+				   "file": "sdmc:/Skylanders Swap Force (USA).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -14969,7 +14970,7 @@
 {"info": {
 					"title": "Skylanders Trap Team",
 					"version": "EUR, USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "3DS",
 					"size": "916,57Mo",
@@ -15016,7 +15017,7 @@
 {"info": {
 					"title": "Splash or Crash",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "24,13Mo",
@@ -15046,7 +15047,7 @@
 {"info": {
 					"title": "Steamworld Dig",
 					"version": "EUR",
-					"author": "",
+					"author": "Image & Form",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "42,28Mo",
@@ -15082,9 +15083,9 @@
 ]
 },
 {"info": {
-					"title": "Steel Diver - Sub Wars",
+					"title": "Steel Diver: Sub Wars",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "196,27Mo",
@@ -15093,7 +15094,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Steel Diver - Sub Wars": [
+"Steel Diver: Sub Wars": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Steel%20Diver%20-%20Sub%20Wars%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
@@ -15110,7 +15111,7 @@
 				   "file": "sdmc:/Steel Diver - Sub Wars (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Steel Diver - Sub Wars - Update 1.1": [
+"Steel Diver: Sub Wars - Update 1.1": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/S/Steel%20Diver%20-%20Update%201.1%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
@@ -15132,7 +15133,7 @@
 {"info": {
 					"title": "Teenage Mutant Ninja Turtles",
 					"version": "EUR",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "3DS",
 					"size": "82,53Mo",
@@ -15162,7 +15163,7 @@
 {"info": {
 					"title": "VVVVVV",
 					"version": "EUR",
-					"author": "",
+					"author": "Nicalis",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "60,67Mo",
@@ -15190,9 +15191,9 @@
 ]
 },
 {"info": {
-					"title": "Viking Invasion 2 - Tower Defence",
+					"title": "Viking Invasion 2: Tower Defense",
 					"version": "EUR",
-					"author": "",
+					"author": "Big Ben Interactive",
 					"category": "Games",
 					"console": "3DS",
 					"size": "73,28Mo",
@@ -15200,21 +15201,21 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Viking Invasion 2 - Tower Defence": [
+"Viking Invasion 2: Tower Defense": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/V/Viking%20Invasion%202%20-%20Tower%20Defence%20%28EUR%29.cia",
-				   "output": "sdmc:/Viking Invasion 2 - Tower Defence (EUR).cia",
+				   "output": "sdmc:/Viking Invasion 2 - Tower Defense (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Viking Invasion 2 - Tower Defence (EUR).cia",
+				   "file": "/Viking Invasion 2 - Tower Defense (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Viking Invasion 2 - Tower Defence (EUR).cia",
+				   "file": "sdmc:/Viking Invasion 2 - Tower Defense (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -15252,7 +15253,7 @@
 {"info": {
 					"title": "Weapon Shop de Omasse",
 					"version": "EUR",
-					"author": "",
+					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "121,95Mo",
@@ -15291,17 +15292,17 @@
 ]
 },
 {"info": {
-					"title": "Winter Sports 2012 - Feel the Spirit",
+					"title": "Winter Sports 2012: Feel the Spirit",
 					"version": "EUR",
-					"author": "",
-					"category": "eShop",
+					"author": "DTP Entertainment",
+					"category": "Games",
 					"console": "3DS",
 					"size": "210,35Mo",
 					"icon_index": 378,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Winter Sports 2012 - Feel the Spirit": [
+"Winter Sports 2012: Feel the Spirit": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/W/Winter%20Sports%202012%20-%20Feel%20the%20Spirit%20%28EUR%29.cia",
@@ -15351,9 +15352,9 @@
 ]
 },
 {"info": {
-					"title": "Yakari - The Mystery of Four Seasons",
+					"title": "Yakari: The Mystery of Four Seasons",
 					"version": "EUR",
-					"author": "",
+					"author": "Teyon",
 					"category": "Games",
 					"console": "3DS",
 					"size": "87,23Mo",
@@ -15361,7 +15362,7 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Yakari - The Mystery of Four Seasons": [
+"Yakari: The Mystery of Four Seasons": [
 {
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/Y/Yakari%20-%20The%20Mystery%20of%20Four%20Seasons%20%28EUR%29.cia",
@@ -15383,7 +15384,7 @@
 {"info": {
 					"title": "YouTube",
 					"version": "EUR",
-					"author": "",
+					"author": "Google",
 					"category": "eShop",
 					"console": "3DS",
 					"size": "13,11Mo",
@@ -15413,7 +15414,7 @@
 {"info": {
 		            "title": "3D MahJongg",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "S.A.D. GmbH",
 		            "category": "eShop",
 		            "console": "3DS",
 		            "size": "43,04Mo",
@@ -15448,7 +15449,7 @@
 {"info": {
 		            "title": "Animal Hospital",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Bigben Interactive",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "78,75Mo",
@@ -15476,9 +15477,9 @@
 ]
 },
 {"info": {
-		            "title": "Around the World with Hello Kity and Friends",
+		            "title": "Around the World with Hello Kitty & Friends",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Rising Star Games",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "202,26Mo",
@@ -15491,21 +15492,21 @@
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
-"Around the World with Hello Kity and Friends": [
+"Around the World with Hello Kitty & Friends": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Around%20the%20World%20with%20Hello%20Kitty%20and%20Friends%20%28EUR%29.cia",
-				   "output": "sdmc:/Around the World with Hello Kity and Friends (EUR).cia",
+				   "output": "sdmc:/Around the World with Hello Kitty & Friends (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Around the World with Hello Kity and Friends (EUR).cia",
+				   "file": "/Around the World with Hello Kitty & Friends (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Around the World with Hello Kity and Friends (EUR).cia",
+				   "file": "sdmc:/Around the World with Hello Kitty & Friends (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -15513,7 +15514,7 @@
 {"info": {
 		            "title": "Battleminer",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Wobbly Tooth",
 		            "category": "eShop",
 		            "console": "3DS",
 		            "size": "135,74Mo",
@@ -15541,9 +15542,9 @@
 ]
 },
 {"info": {
-		            "title": "Bella Sara - The Magical Horses Adventures",
+		            "title": "Bella Sara: The Magical Horse Adventures",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "BigBen Interactive",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "91,16Mo",
@@ -15551,7 +15552,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
-"Bella Sara - The Magical Horses Adventures": [
+"Bella Sara: The Magical Horse Adventures": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Bella%20Sara%20-%20The%20Magical%20Horse%20Adventures%20%28EUR%29.cia",
@@ -15571,9 +15572,9 @@
 ]
 },
 {"info": {
-		            "title": "Chevrolet Camaro Wild - Rild 3D",
+		            "title": "Chevrolet Camaro: Wild Ride 3D",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Enjoy Gaming",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "71,85Mo",
@@ -15586,29 +15587,29 @@
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
-"Chevrolet Camaro Wild - Rild 3D": [
+"Chevrolet Camaro: Wild Ride 3D": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Chevrolet%20Camaro%20Wild%20-%20Ride%203D%20%28EUR%29.cia",
-				   "output": "sdmc:/Chevrolet Camaro Wild - Rild 3D.cia",
+				   "output": "sdmc:/Chevrolet Camaro - Wild Ride 3D (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Chevrolet Camaro Wild - Rild 3D.cia",
+				   "file": "/Chevrolet Camaro - Wild Ride 3D (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Chevrolet Camaro Wild - Rild 3D.cia",
+				   "file": "sdmc:/Chevrolet Camaro - Wild Ride 3D (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
-		            "title": "Cooking Mama 5 - Bon Appetit",
+		            "title": "Cooking Mama 5: Bon Appetit",
 		            "version": "EUR, JPN",
-		            "author": "",
+		            "author": "Majesco Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "211,20Mo",
@@ -15616,7 +15617,7 @@
 		            "description": "",
 		            "last_updated": "2021-02-02 at 10:19 (UTC)"
 },
-"Cooking Mama 5 - Bon Appetit (EUR)": [
+"Cooking Mama 5: Bon Appetit (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cooking%20Mama%20-%20Bon%20Appetit%20%28EUR%29.cia",
@@ -15653,9 +15654,9 @@
 ]
 },
 {"info": {
-		            "title": "Cooking Mama - Sweet Shop",
+		            "title": "Cooking Mama: Sweet Shop",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Rising Star Games",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "173,74Mo",
@@ -15663,7 +15664,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
-"Cooking Mama - Sweet Shop": [
+"Cooking Mama: Sweet Shop": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cooking%20Mama%20-%20Sweet%20Shop%20%28EUR%29.cia",
@@ -15683,9 +15684,9 @@
 ]
 },
 {"info": {
-		            "title": "Cooking Mama 4 - Kitchen Magic",
+		            "title": "Cooking Mama 4: Kitchen Magic",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Majesco Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "211,94Mo",
@@ -15698,7 +15699,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
-"Cooking Mama 4 - Kitchen Magic": [
+"Cooking Mama 4: Kitchen Magic": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cooking%20Mama%204%20%28EUR%29.cia",
@@ -15720,7 +15721,7 @@
 {"info": {
 		            "title": "Cube Creator 3D",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Arc System Works",
 		            "category": "eShop",
 		            "console": "3DS",
 		            "size": "21,33Mo",
@@ -15748,9 +15749,9 @@
 ]
 },
 {"info": {
-		            "title": "Dr. Kawashimas Devilish Brain Training - Can You Stay Focused",
+		            "title": "Dr. Kawashimas Devilish Brain Training: Can You Stay Focused? ",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "737,13Mo",
@@ -15758,7 +15759,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
-"Dr. Kawashimas Devilish Brain Training - Can You Stay Focused": [
+"Dr. Kawashimas Devilish Brain Training: Can You Stay Focused? ": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Dr.%20Kawashimas%20Devilish%20Brain%20Training%20-%20Can%20You%20Stay%20Focused%20%28EUR%29.cia",
@@ -15778,9 +15779,9 @@
 ]
 },
 {"info": {
-		            "title": "Dragon Ball Fusions",
+		            "title": "Dragon Ball: Fusions",
 		            "version": "EUR, JPN",
-		            "author": "",
+		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "632,39Mo",
@@ -15803,38 +15804,38 @@
 		            "description": "",
 		            "last_updated": "2021-02-02 at 10:19 (UTC)"
 },
-"Dragon Ball Fusions (EUR)": [
+"Dragon Ball: Fusions (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Dragon%20Ball%20Fusions%20%28EUR%29.cia",
-				   "output": "sdmc:/Dragon Ball Fusions (EUR).cia",
+				   "output": "sdmc:/Dragon Ball - Fusions (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Dragon Ball Fusions (EUR).cia",
+				   "file": "/Dragon Ball - Fusions (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Dragon Ball Fusions (EUR).cia",
+				   "file": "sdmc:/Dragon Ball - Fusions (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Dragon Ball Fusions - Update 2.2.0 (EUR)": [
+"Dragon Ball: Fusions - Update 2.2.0 (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Dragon%20Ball%20Fusions%20-%20Update%202.2.0%20%28EUR%29.cia",
-				   "output": "sdmc:/Dragon Ball Fusions - DLC (EUR).cia",
+				   "output": "sdmc:/Dragon Ball - Fusions - DLC (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Dragon Ball Fusions - DLC (EUR).cia",
+				   "file": "/Dragon Ball - Fusions - DLC (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Dragon Ball Fusions - DLC (EUR).cia",
+				   "file": "sdmc:/Dragon Ball - Fusions - DLC (EUR).cia",
 				   "message": "Cleaning..."}
 ],
 "Dragon Ball: Fusions (JPN)": [
@@ -15857,9 +15858,9 @@
 ]
 },
 {"info": {
-		            "title": "Dragon Ball Z - Extreme Butoden",
+		            "title": "Dragon Ball Z: Extreme Butoden",
 		            "version": "EUR, USA, JPN",
-		            "author": "",
+		            "author": "Bandai Namco Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "360,63Mo",
@@ -15882,7 +15883,7 @@
 		            "description": "",
 		            "last_updated": "2021-02-02 at 10:19 (UTC)"
 },
-"Dragon Ball Z - Extreme Butoden (EUR)": [
+"Dragon Ball Z: Extreme Butoden (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Dragon%20Ball%20Z%20-%20Extreme%20Butoden%20%28EUR%29.cia",
@@ -15899,7 +15900,7 @@
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Dragon Ball Z - Extreme Butoden (USA)": [
+"Dragon Ball Z: Extreme Butoden (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Dragon%20Ball%20Z%20-%20Extreme%20Butoden%20%28USA%29.cia",
@@ -15933,7 +15934,7 @@
 				   "file": "sdmc:/Dragon Ball Z - Chou Kyuukyoku Butouden (JPN).cia",
 				   "message": "Cleaning..."}
 ],
-"Dragon Ball Z - Extreme Butoden - Update 1.1 (EUR)": [
+"Dragon Ball Z: Extreme Butoden - Update 1.1 (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Dragon%20Ball%20Z%20-%20Extreme%20Butoden%20-%20Update%201.1%20%28EUR%29.cia",
@@ -15950,7 +15951,7 @@
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Dragon Ball Z - Extreme Butoden - Update (USA)": [
+"Dragon Ball Z: Extreme Butoden - Update (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Dragon%20Ball%20Z%20Extreme%20Butoden%20-%20Update%20%28USA%29.cia",
@@ -15984,7 +15985,7 @@
 				   "file": "sdmc:/Dragon Ball Z - Chou Kyuukyoku Butouden - Update 1.6 (JPN).cia",
 				   "message": "Cleaning..."}
 ],
-"Dragon Ball Z - Extreme Butoden - DLC (EUR)": [
+"Dragon Ball Z: Extreme Butoden - DLC (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Dragon%20Ball%20Z%20-%20Extreme%20Butoden%20-%20DLC%20%28EUR%29.cia",
@@ -16001,7 +16002,7 @@
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden - DLC (EUR).cia",
 				   "message": "Cleaning..."}
 ],
-"Dragon Ball Z - Extreme Butoden - DLC (USA)": [
+"Dragon Ball Z: Extreme Butoden - DLC (USA)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Dragon%20Ball%20Z%20Extreme%20Butoden%20-%20DLC%20%28USA%29.cia",
@@ -16040,7 +16041,7 @@
 {"info": {
 		            "title": "DualPenSports",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Namco",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "178,12Mo",
@@ -16070,7 +16071,7 @@
 {"info": {
 		            "title": "Farming Simulator 2012 3D",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Rondomedia",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "36,66Mo",
@@ -16105,7 +16106,7 @@
 {"info": {
 		            "title": "Farmscapes",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Denda Games",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "99,22Mo",
@@ -16135,7 +16136,7 @@
 {"info": {
 		            "title": "Final Fantasy Explorers™",
 		            "version": "EUR, USA, JPN",
-		            "author": "",
+		            "author": "Square Enix",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "626,53Mo",
@@ -16211,9 +16212,9 @@
 ]
 },
 {"info": {
-		            "title": "Finding Nemo - Escape to the Big Blue - Special Edition",
+		            "title": "Finding Nemo: Escape to the Big Blue - Special Edition",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Disney Interactive Studios",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "389,09Mo",
@@ -16221,7 +16222,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Finding Nemo - Escape to the Big Blue - Special Edition": [
+"Finding Nemo: Escape to the Big Blue - Special Edition": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/F/Finding%20Nemo%20-%20Escape%20to%20the%20Big%20Blue%20-%20Special%20Edition%20%28EUR%29.cia",
@@ -16243,7 +16244,7 @@
 {"info": {
 		            "title": "Fire Emblem: Awakening",
 		            "version": "EUR, JPN",
-		            "author": "",
+		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "1,07Go",
@@ -16313,7 +16314,7 @@
 {"info": {
 		            "title": "Fire Emblem Fates: Special Edition",
 		            "version": "EUR, JPN",
-		            "author": "",
+		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "1,74Go",
@@ -16381,9 +16382,9 @@
 ]
 },
 {"info": {
-		            "title": "Fireman Sam - To the Rescue",
+		            "title": "Fireman Sam: To the Rescue",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "GSP / Emme",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "33,27Mo",
@@ -16391,7 +16392,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Fireman Sam - To the Rescue": [
+"Fireman Sam: To the Rescue": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/F/Fireman%20Sam%20-%20To%20the%20Rescue%20%28EUR%29.cia",
@@ -16413,7 +16414,7 @@
 {"info": {
 		            "title": "Fossil Fighters: Frontier",
 		            "version": "EUR, JPN",
-		            "author": "",
+		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "1,47Go",
@@ -16465,7 +16466,7 @@
 {"info": {
 		            "title": "Funfair Party Games",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "GSP",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "65,26Mo",
@@ -16500,7 +16501,7 @@
 {"info": {
 		            "title": "Games Festival 1",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Bigben Interactive",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "54,11Mo",
@@ -16535,7 +16536,7 @@
 {"info": {
 		            "title": "Games Festival 2",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Bigben Interactive",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "53,84Mo",
@@ -16570,7 +16571,7 @@
 {"info": {
 		            "title": "Gardening Mama 2: Forest Friends",
 		            "version": "EUR, JPN",
-		            "author": "",
+		            "author": "Majesco Games",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "215,18Mo",
@@ -16578,7 +16579,7 @@
 		            "description": "",
 		            "last_updated": "2021-02-02 at 10:19 (UTC)"
 },
-"Gardening Mama - Forest Friends (EUR)": [
+"Gardening Mama: Forest Friends (EUR)": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/G/Gardening%20Mama%20-%20Forest%20Friends%20%28EUR%29.cia",
@@ -16617,7 +16618,7 @@
 {"info": {
 		            "title": "Gardenscapes",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Playrix Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "75,31Mo",
@@ -16652,7 +16653,7 @@
 {"info": {
 		            "title": "Hello Kitty & Friends: Rock n World Tour",
 		            "version": "EUR, JPN",
-		            "author": "",
+		            "author": "Bergsala Lightweight",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "215,29Mo",
@@ -16697,9 +16698,9 @@
 ]
 },
 {"info": {
-		            "title": "Hello Kitty & Sanrio Friends 3D Racing",
+		            "title": "Hello Kitty and Sanrio Friends 3D Racing",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "BigBen Interactive",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "46,11Mo",
@@ -16707,21 +16708,21 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Hello Kitty & Sanrio Friends 3D Racing": [
+"Hello Kitty and Sanrio Friends 3D Racing": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Hello%20Kitty%20%26%20Sanrio%20Friends%203D%20Racing%20%28EUR%29.cia",
-				   "output": "sdmc:/Hello Kitty & Sanrio Friends 3D Racing (EUR).cia",
+				   "output": "sdmc:/Hello Kitty and Sanrio Friends 3D Racing (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Hello Kitty & Sanrio Friends 3D Racing (EUR).cia",
+				   "file": "/Hello Kitty and Sanrio Friends 3D Racing (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Hello Kitty & Sanrio Friends 3D Racing (EUR).cia",
+				   "file": "sdmc:/Hello Kitty and Sanrio Friends 3D Racing (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
@@ -16729,7 +16730,7 @@
 {"info": {
 		            "title": "Hello Kitty Happy Happy Family",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "BigBen Interactive",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "210,08Mo",
@@ -16757,9 +16758,9 @@
 ]
 },
 {"info": {
-		            "title": "Hello Kitty Picnic with Sanrio Charachters",
+		            "title": "Hello Kitty Picnic with Sanrio Characters",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Majesco Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "26,98Mo",
@@ -16772,29 +16773,29 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Hello Kitty Picnic with Sanrio Charachters": [
+"Hello Kitty Picnic with Sanrio Characters": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Hello%20Kitty%20Picnic%20with%20Sanrio%20Characters%20%28EUR%29.cia",
-				   "output": "sdmc:/Hello Kitty Picnic with Sanrio Charachters (EUR).cia",
+				   "output": "sdmc:/Hello Kitty Picnic with Sanrio Characters (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Hello Kitty Picnic with Sanrio Charachters (EUR).cia",
+				   "file": "/Hello Kitty Picnic with Sanrio Characters (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Hello Kitty Picnic with Sanrio Charachters (EUR).cia",
+				   "file": "sdmc:/Hello Kitty Picnic with Sanrio Characters (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
-		            "title": "Hello Kitty and the Apron of Magic - Rythm Cooking",
+		            "title": "Hello Kitty And The Apron Of Magic: Rhythm Cooking",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Bergsala Lightweight",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "87,40Mo",
@@ -16802,29 +16803,29 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Hello Kitty and the Apron of Magic - Rythm Cooking": [
+"Hello Kitty And The Apron Of Magic: Rhythm Cooking": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Hello%20Kitty%20and%20the%20Apron%20of%20Magic%20-%20Rhythm%20Cooking%20%28EUR%29.cia",
-				   "output": "sdmc:/Hello Kitty and the Apron of Magic - Rythm Cooking (EUR).cia",
+				   "output": "sdmc:/Hello Kitty And The Apron Of Magic - Rhythm Cooking (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Hello Kitty and the Apron of Magic - Rythm Cooking (EUR).cia",
+				   "file": "/Hello Kitty And The Apron Of Magic - Rhythm Cooking (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Hello Kitty and the Apron of Magic - Rythm Cooking (EUR).cia",
+				   "file": "sdmc:/Hello Kitty And The Apron Of Magic - Rhythm Cooking (EUR).cia",
 				   "message": "Cleaning..."
 }
 ]
 },
 {"info": {
-		            "title": "Hidden Expedition - Titanic",
+		            "title": "Hidden Expedition: Titanic",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "MSL",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "58,78Mo",
@@ -16837,7 +16838,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Hidden Expedition - Titanic": [
+"Hidden Expedition: Titanic": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Hidden%20Expedition%20-%20Titanic%20%28EUR%29.cia",
@@ -16857,9 +16858,9 @@
 ]
 },
 {"info": {
-		            "title": "Hollywood Fame - Hidden Object Adventure",
+		            "title": "Hollywood Fame: Hidden Object Adventure",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Bigben Interactive",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "77,86Mo",
@@ -16872,7 +16873,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Hollywood Fame - Hidden Object Adventure": [
+"Hollywood Fame: Hidden Object Adventure": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Hollywood%20Fame%20-%20Hidden%20Object%20Adventure%20%28EUR%29.cia",
@@ -16892,9 +16893,9 @@
 ]
 },
 {"info": {
-		            "title": "Horrid Henry - The Good The Bad & the Bugly",
+		            "title": "Horrid Henry: The Good, The Bad & The Bugly",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Asylum Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
 		            "size": "166,16Mo",
@@ -16902,7 +16903,7 @@
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
-"Horrid Henry - The Good The Bad & the Bugly": [
+"Horrid Henry: The Good, The Bad & The Bugly": [
 {
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Horrid%20Henry%20-%20The%20Good%20The%20Bad%20and%20The%20Bugly%20%28EUR%29.cia",
@@ -38597,5 +38598,36 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Wario Land II (EUR).cia",
+				   "message": "Cleaning..."
+}
+]
+},
+{"info": {
+		            "title": "Angry Video Game Nerd Adventures",
+		            "version": "USA",
+		            "author": "ScrewAttack Games",
+		            "category": "eShop",
+		            "console": "3DS",
+		            "size": "26Mo",
+		            "icon_index": 147,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-02-08 at 05:50 (UTC)"
+},
+"Angry Video Game Nerd Adventures": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Angry%20Video%20Game%20Nerd%20Adventures%20%28USA%29.cia",
+				   "output": "sdmc:/Angry Video Game Nerd Adventures (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Angry Video Game Nerd Adventures (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Angry Video Game Nerd Adventures (USA).cia",
 				   "message": "Cleaning..."
 }]}]} 
