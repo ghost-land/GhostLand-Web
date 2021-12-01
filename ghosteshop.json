@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 137
+"revision": 139
 },
 "storeContent": [
 {"info": {
@@ -5078,7 +5078,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "2,69 MiB"},
 "Adventure Time: Explore the Dungeon Because I DONT KNOW! - Update 1.1 (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5095,7 +5095,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "2,74 MiB"},
 "Adventure Time: Explore the Dungeon Because I DONT KNOW! (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5112,7 +5112,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "91,02 MiB"}
 },
 {"info": {
 					"title": "Adventure Time - Finn & Jake Investigations",
@@ -5325,7 +5325,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Angry Birds Star Wars (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "165 MiB"},
 "Angry Birds Star Wars (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5342,7 +5342,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Angry Birds Star Wars (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "165 MiB"}
 },
 {"info": {
 					"title": "Angry Birds Trilogy",
@@ -5415,7 +5415,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "65,1 MiB"},
 "Animal Crossing: Happy Home Designer (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5432,7 +5432,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Animal Crossing - Happy Home Designer (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "473 MiB"},
 "Doubutsu no Mori: Happy Home Designer (JPN)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5449,7 +5449,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Doubutsu no Mori - Happy Home Designer (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "464 MiB"}
 },
 {"info": {
 					"title": "Animal Crossing: New Leaf - Welcome Amiibo",
@@ -5492,7 +5492,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "890 MiB"},
 "Animal Crossing: New Leaf - Welcome Amiibo (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5509,7 +5509,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "935 MiB"}
 },
 {"info": {
 					"title": "Arcade Classics 3D",
@@ -5602,7 +5602,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Art Academy - Lessons for Everyone - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "94,8 MiB"},
 "Art Academy: Lessons for Everyone (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5619,7 +5619,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Art Academy - Lessons for Everyone (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "371 MiB"},
 "Shin Egokoro Kyoushitsu (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -5636,7 +5636,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shin Egokoro Kyoushitsu (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "369 MiB"}
 },
 {"info": {
 					"title": "Asphalt 3D",
@@ -5679,7 +5679,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Asphalt 3D (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "438 MiB"},
 "Asphalt 3D: Nitro Racing (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -5696,7 +5696,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Asphalt 3D - Nitro Racing (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "438 MiB"}
 },
 {"info": {
 					"title": "Asterix: The Mansions Of The Gods",
@@ -5862,7 +5862,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Breath of Fire II (SNES/ALL).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,35 MiB"}
 },
 {"info": {
 					"title": "Breath of Fire™",
@@ -5895,7 +5895,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Breath of Fire (SNES/ALL).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,60 MiB"}
 },
 {"info": {
 					"title": "Batman: Arkham Origins Blackgate",
@@ -6006,7 +6006,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ben 10 - Galactic Racing (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "218 MiB"},
 "Ben 10: Galactic Racing (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6023,7 +6023,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ben 10 - Galactic Racing (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "218 MiB"}
 },
 {"info": {
 					"title": "Taiko no Tatsujin: Don to Katsu no Jikuu Daibouken",
@@ -6060,7 +6060,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "411 MiB"},
 "Taiko no Tatsujin: Don to Katsu no Jikuu Daibouken - Update 1.2": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6077,7 +6077,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,66 MiB"},
 "Taiko no Tatsujin: Don to Katsu no Jikuu Daibouken - DLC": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6094,7 +6094,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "304 MiB"}
 },
 {"info": {
 					"title": "Ben 10: Omniverse",
@@ -6157,7 +6157,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ben 10 - Omniverse 2 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "80,5 MiB"},
 "Ben 10: Omniverse 2 (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6174,7 +6174,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ben 10 - Omniverse 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "90,3 MiB"}
 },
 {"info": {
 					"title": "Best of Arcade Games",
@@ -6319,7 +6319,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Big Hero 6 - Battle in the Bay (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "90,1 MiB"},
 "Disney Big Hero 6: Battle in the Bay (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6336,7 +6336,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Big Hero 6 - Battle in the Bay (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "90,3 MiB"},
 "Disney Baymax: Heroes Battle (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -6353,7 +6353,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Baymax - Heroes Battle (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "84,3 MiB"}
 },
 {"info": {
 					"title": "Bit.Trip Saga",
@@ -36004,7 +36004,7 @@
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
-		            "console": "GBA",
+		            "console": "NES",
 		            "sizes": "12,34Mo",
 		            "icon_index": 79,
 		            "sheet_index": 2,
@@ -38869,4 +38869,62 @@
 				   "file": "sdmc:/StreetPass Mii Plaza - Update (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "82,22 MiB"}
+},
+{"info": {
+		            "title": "Uno",
+		            "version": "USA",
+		            "author": "Gameloft",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 172,
+		            "sheet_index": 2,
+		            "description": "On the whole, UNO fares far better on DSi than the Wii - the interface works nicely, the online player is smooth and enjoyable and you have the added benefit of pick-up-and-play whenever you like.",
+		            "last_updated": "2021-11-28 at 01:00 (UTC)"
+},
+"Uno": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/U/Uno%20%28USA%29.cia",
+				   "output": "sdmc:/Uno (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Uno (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Uno (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "7,97 MiB"}
+},
+{"info": {
+		            "title": "Zelda Four Swords - Anniversary Edition",
+		            "version": "USA",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 173,
+		            "sheet_index": 2,
+		            "description": "Four Swords was released in March 2003 as a bonus game mode added to the remake of A Link to the Past on Game Boy Advance.",
+		            "last_updated": "2021-11-28 at 01:00 (UTC)"
+},
+"Zelda Four Swords - Anniversary Edition": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/Z/Zelda%20Four%20Swords%20-%20Anniversary%20Edition%20%28USA%29.cia",
+				   "output": "sdmc:/Zelda Four Swords - Anniversary Edition (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Zelda Four Swords - Anniversary Edition (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Zelda Four Swords - Anniversary Edition (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "13,84 MiB"}
 }]}

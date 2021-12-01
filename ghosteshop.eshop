@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 134
+"revision": 139
 },
 "storeContent": [
 {"info": {
@@ -1730,7 +1730,7 @@
 "Mother 3": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/USA/GBA/M/Mother%203%20%28USA%29%20%281.2Translation%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/Game%20Boy%20Advance/USA/M/Mother%203%20%28USA%29%20%281.2Translation%29.cia",
 				   "output": "sdmc:/Mother 3.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1743,7 +1743,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mother 3.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "32,4 MiB"}
 },
 {"info": {
 					"title": "Pokemon Bank",
@@ -1771,7 +1771,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Bank (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "29,1 MiB"}
 },
 {"info": {
 					"title": "WarioWare Touched!",
@@ -1828,7 +1828,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Zelda II The Adventure of Link (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,35 MiB"}
 },
 {"info": {
 					"title": "Dr. Mario: Miracle Cure",
@@ -1873,7 +1873,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dr Mario Miracle Cure (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "61,1 MiB"}
 },
 {"info": {
 					"title": "Cut the Rope",
@@ -1988,7 +1988,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/3D Movie Viewer.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "865 KiB"}
 },
 {"info": {
 					"title": "Sonic X",
@@ -2016,11 +2016,11 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic X.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "32,5 MiB"}
 },
 {"info": {
 					"title": "Classic NES Series: Donkey Kong",
-					"version": "",
+					"version": "USA",
 					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "GBA",
@@ -2072,10 +2072,10 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirby Nightmare in Dream Land (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "16,4 MiB"}
 },
 {"info": {
-					"title": "Yoshis Island - Super Mario Advance 3",
+					"title": "Mario Advance 3",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Virtual Consoles",
@@ -2084,23 +2084,23 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Yoshis Island - Super Mario Advance 3": {
+"Mario Advance 3": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/EUR/M/Mario%20Advance%203%20EUR%20%280004000000075400%29.cia",
-				   "output": "sdmc:/Yoshis Island - Super Mario Advance 3 (EUR).cia",
+				   "output": "sdmc:/Mario Advance 3 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Yoshis Island - Super Mario Advance 3 (EUR).cia",
+				   "file": "/Mario Advance 3 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Yoshis Island - Super Mario Advance 3 (EUR).cia",
+				   "file": "sdmc:/Mario Advance 3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,60 MiB"}
 },
 {"info": {
 					"title": "Flipnote Studio",
@@ -2129,7 +2129,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Flipnote Studio (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "2,92 MiB"},
 "Flipnote Studio (JPN)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -2146,10 +2146,10 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Flipnote Studio (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "2,77 MiB"}
 },
 {"info": {
-					"title": "Pac-Man",
+					"title": "Pac-Man [000400000009a100]",
 					"version": "EUR",
 					"author": "Namco",
 					"category": "Virtual Consoles",
@@ -2158,23 +2158,23 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pac-Man": {
+"Pac-Man [000400000009a100]": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/EUR/P/PAC-MAN%E2%84%A2%20EUR%20%28000400000009a100%29.cia",
-				   "output": "sdmc:/Pac-Man (EUR).cia",
+				   "output": "sdmc:/Pac-Man (EUR) [000400000009a100].cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pac-Man (EUR).cia",
+				   "file": "/Pac-Man (EUR) [000400000009a100].cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pac-Man (EUR).cia",
+				   "file": "sdmc:/Pac-Man (EUR) [000400000009a100].cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,66 MiB"}
 },
 {"info": {
 					"title": "Super Mario Advance 2 - Super Mario World",
@@ -2206,7 +2206,7 @@
 },
 {"info": {
 					"title": "Pac-Man Collection",
-					"version": "",
+					"version": "USA",
 					"author": "Mass Media",
 					"category": "Injects",
 					"console": "GBA",
@@ -2218,7 +2218,7 @@
 "Pac-Man Collection": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/USA/GBA/P/Pac-Man%20Collection%20%28GBA%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/Game%20Boy%20Advance/USA/P/Pac-Man%20Collection%20%28USA%29%28GBA%29.cia",
 				   "output": "sdmc:/Pac-Man Collection.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -2266,7 +2266,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sega 3D Classics Collection (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "91,2 MiB"},
 "Sega 3D Classics Collection (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -2283,7 +2283,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sega 3D Classics Collection (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "87,5 MiB"}
 },
 {"info": {
 					"title": "Super Mario Bros.",
@@ -2311,7 +2311,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Bros.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,86 MiB"}
 },
 {"info": {
 					"title": "Luigi's Mansion 2: Dark Moon",
@@ -2403,7 +2403,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 3D Land (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "290 MiB"},
 "Super Mario 3D Land (EUR) [LEGIT CIA]": {
 	"script": [{
 				   "type": "downloadFile",
@@ -2420,7 +2420,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 3D Land (EUR) [LEGIT CIA].cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "290 MiB"}
 },
 {"info": {
 					"title": "Kirby Triple Deluxe",
@@ -2466,7 +2466,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirby Triple Deluxe (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "595 MiB"},
 "Hoshi no Kirby: Triple Deluxe (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -2483,7 +2483,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hoshi no Kirby - Triple Deluxe (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "588 MiB"}
 },
 {"info": {
 					"title": "The Legend of Zelda: Ocarina of Time 3D",
@@ -2529,7 +2529,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Ocarina of Time 3D (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "454 MiB"},
 "The Legend of Zelda: Ocarina of Time 3D (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -2546,7 +2546,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Ocarina of Time 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "460 MiB"}
 },
 {"info": {
 					"title": "Petit Computer",
@@ -2574,7 +2574,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Petit Computer.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,52 MiB"}
 },
 {"info": {
 					"title": "Pokemon Crystal Version",
@@ -2602,7 +2602,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Crystal Version - USA.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "11,1 MiB"}
 },
 {"info": {
 					"title": "Crash Bandicoot 2: N-Tranced",
@@ -2630,7 +2630,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crash Bandicoot 2 N-Tranced.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,50 MiB"}
 },
 {"info": {
 					"title": "Crash Bandicoot: The Huge Adventure",
@@ -2658,7 +2658,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crash Bandicoot The Huge Adventure.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,48 MiB"}
 },
 {"info": {
 					"title": "Crash Nitro Kart",
@@ -2686,7 +2686,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crash Nitro Kart.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,49 MiB"}
 },
 {"info": {
 					"title": "Pokemon Prism",
@@ -2714,7 +2714,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Prism.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,05 MiB"}
 },
 {"info": {
 					"title": "The Legend of Zelda: Majora's Mask 3D",
@@ -2761,7 +2761,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Majoras Mask 3D (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "630 MiB"},
 "The Legend of Zelda: Majora's Mask 3D - Update 1.1 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -2778,7 +2778,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Majoras Mask 3D - Update 1.1 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,74 MiB"},
 "The Legend of Zelda: Majora's Mask 3D (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -2795,7 +2795,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Majoras Mask 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "644 MiB"}
 },
 {"info": {
 					"title": "Super Mario Advance 4 - Super Mario Bros. 3",
@@ -2885,7 +2885,7 @@
 },
 {"info": {
 					"title": "Super Mario Bros. 2",
-					"version": "",
+					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
@@ -2926,7 +2926,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Bros. 2.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,18 MiB"}
 },
 {"info": {
 					"title": "Super Mario Advance - Super Mario Bros. 2",
@@ -2958,7 +2958,7 @@
 },
 {"info": {
 					"title": "Super Mario Bros. 3",
-					"version": "",
+					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Virtual Consoles",
 					"console": "NES",
@@ -2999,7 +2999,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Bros 3.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "13,9 MiB"}
 },
 {"info": {
 					"title": "Super Mario Bros.: The Lost Levels",
@@ -3044,7 +3044,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Bros The Lost Levels.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,78 MiB"}
 },
 {"info": {
 					"title": "Mario vs Donkey Kong: Minis March Again!",
@@ -3120,7 +3120,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario kart 7 - Updates (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "5,22 MiB"},
 "Mario Kart 7 - Update 1.1 (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -3137,7 +3137,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario kart 7 - Updates (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "5,22 MiB"},
 "Mario Kart 7 (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -3154,7 +3154,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario kart 7 (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "640 MiB"},
 "Mario Kart 7 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -3171,7 +3171,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario kart 7 (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "634 MiB"}
 },
 {"info": {
 					"title": "Netflix",
@@ -3215,7 +3215,7 @@
 "Super Mario Bros. Deluxe": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-shop-archive/%5B3DS%20CIA%20SHOP%5D%20SMB%20Deluxe%20%28Europe%2C%20GBC%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/Game%20Boy%20Color/Europe/S/Super%20Mario%20Bros.%20Deluxe%20%28Europe%2C%20GBC%29.cia",
 				   "output": "sdmc:/Super Mario Bros. Deluxe.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -3228,11 +3228,11 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Bros. Deluxe.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,12 MiB"}
 },
 {"info": {
 					"title": "Sonic 3 Complete",
-					"version": "",
+					"version": "USA",
 					"author": "Sega",
 					"category": "Virtual Consoles",
 					"console": "Genesis/MD",
@@ -3243,7 +3243,7 @@
 "Sonic 3 Complete": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/USA/GENESIS/S/Sonic%203%20Complete%20-%20Sonic%203%20Sprites%20%28USA%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/Genesis/USA/S/Sonic%203%20Complete%20-%20Sonic%203%20Sprites%20%28USA%29.cia",
 				   "output": "sdmc:/Sonic 3 Complete.cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -3256,7 +3256,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic 3 Complete.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,11 MiB"}
 },
 {"info": {
 					"title": "Adventure Island",
@@ -3285,7 +3285,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventure Island (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "4,11 MiB"},
 "Adventure Island (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3302,7 +3302,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventure Island (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,36 MiB"}
 },
 {"info": {
 					"title": "Alleyway™",
@@ -3331,7 +3331,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Alleyway (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,79 MiB"},
 "Alleyway™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3348,7 +3348,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Alleyway (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,20 MiB"}
 },
 {"info": {
 					"title": "Bionic Commando™",
@@ -3376,7 +3376,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bionic Commando (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "4,66 MiB"},
 "Bionic Commando™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3393,7 +3393,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bionic Commando (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,66 MiB"}
 },
 {"info": {
 					"title": "Balloon Kid™",
@@ -3422,7 +3422,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Balloon Kid (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,73 MiB"},
 "Balloon Kid™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3439,7 +3439,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Balloon Kid (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,20 MiB"}
 },
 {"info": {
 					"title": "Baseball",
@@ -3468,7 +3468,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Baseball (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "4,68 MiB"},
 "Baseball (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3485,7 +3485,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Baseball (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,49 MiB"}
 },
 {"info": {
 					"title": "Burger Time Deluxe™",
@@ -3514,7 +3514,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Burger Time Deluxe (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,89 MiB"},
 "Burger Time Deluxe™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3531,7 +3531,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Burger Time Deluxe (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,29 MiB"}
 },
 {"info": {
 					"title": "Catrap",
@@ -3560,7 +3560,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Catrap (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "4,12 MiB"},
 "Catrap (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3577,7 +3577,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Catrap (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,36 MiB"}
 },
 {"info": {
 					"title": "Castlevania The Adventure",
@@ -3606,7 +3606,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania The Adventure (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,78 MiB"},
 "Castlevania The Adventure (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -3623,7 +3623,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania The Adventure (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,16 MiB"}
 },
 {"info": {
 					"title": "Donkey Kong Land™ 2",
@@ -3796,7 +3796,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dr Mario.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,90 MiB"}
 },
 {"info": {
 					"title": "Fortified Zone",
@@ -3853,7 +3853,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gargoyles Quest.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,17 MiB"}
 },
 {"info": {
 					"title": "Game &; Watch™ Gallery",
@@ -3881,7 +3881,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Game and Watch Gallery.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,63 MiB"}
 },
 {"info": {
 					"title": "Golf",
@@ -3909,7 +3909,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Golf.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,65 MiB"}
 },
 {"info": {
 					"title": "Kid Icarus™ Of Myths And Monsters",
@@ -3937,7 +3937,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kid Icarus Of Myths And Monsters.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,85 MiB"}
 },
 {"info": {
 					"title": "Kirby's Block Ball™",
@@ -3965,7 +3965,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirbys Block Ball.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,84 MiB"}
 },
 {"info": {
 					"title": "Kirby's Dream Land™ 2",
@@ -3993,7 +3993,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirbys Dream Land 2.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,71 MiB"}
 },
 {"info": {
 					"title": "Kirby's Dream Land™",
@@ -4021,7 +4021,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirbys Dream Land.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,28 MiB"}
 },
 {"info": {
 					"title": "Kirby's Pinball Land",
@@ -4049,7 +4049,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirbys Pinball Land.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,67 MiB"}
 },
 {"info": {
 					"title": "Kirby's Star Stacker",
@@ -4077,7 +4077,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirby's Star Stacker.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,38 MiB"}
 },
 {"info": {
 					"title": "Adventure Island II",
@@ -4106,7 +4106,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventure Island II (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "6,82 MiB"},
 "Adventure Island II (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4123,7 +4123,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventure Island II (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,25 MiB"}
 },
 {"info": {
 					"title": "Adventures of Lolo™",
@@ -4151,7 +4151,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventures of Lolo (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "6,73 MiB"},
 "Adventures of Lolo™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4168,7 +4168,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Adventures of Lolo (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,11 MiB"}
 },
 {"info": {
 					"title": "Balloon Fight™",
@@ -4197,7 +4197,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Balloon Fight (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "12,7 MiB"},
 "Balloon Fight™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4214,7 +4214,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Balloon Fight (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12 MiB"}
 },
 {"info": {
 					"title": "Blaster Master™",
@@ -4243,7 +4243,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Blaster Master (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,24 MiB"},
 "Blaster Master™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4260,7 +4260,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Blaster Master (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,29 MiB"}
 },
 {"info": {
 					"title": "Castlevania II: Simon's Quest",
@@ -4289,7 +4289,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania II - Simons Quest (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "6,98 MiB"},
 "Castlevania II: Simon's Quest (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4306,7 +4306,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania II - Simons Quest (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,34 MiB"}
 },
 {"info": {
 					"title": "Castlevania III: Dracula's Curse",
@@ -4335,7 +4335,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania III - Draculas Curse (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,16 MiB"},
 "Castlevania III: Dracula's Curse (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4352,7 +4352,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania III - Draculas Curse (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,52 MiB"}
 },
 {"info": {
 					"title": "Castlevania®",
@@ -4381,7 +4381,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "6,94 MiB"},
 "Castlevania® (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4398,7 +4398,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,34 MiB"}
 },
 {"info": {
 					"title": "City Connection™",
@@ -4427,7 +4427,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/City Connection (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "6,75 MiB"},
 "City Connection™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4444,7 +4444,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/City Connection (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,03 MiB"}
 },
 {"info": {
 					"title": "Clu Clu Land™",
@@ -4473,7 +4473,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Clu Clu Land (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "12,4 MiB"},
 "Clu Clu Land™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4490,12 +4490,12 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Clu Clu Land (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "11,7 MiB"}
 },
 {"info": {
 					"title": "Crash'n the Boys Street Challenge",
 					"version": "EUR, USA",
-					"author": "Technōs Japan",
+					"author": "Technos Japan",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 82,
@@ -4518,7 +4518,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crash'n the Boys Street Challenge (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "13,5 MiB"},
 "Crash'n the Boys Street Challenge (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4563,7 +4563,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Devil World.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,4 MiB"}
 },
 {"info": {
 					"title": "Dig Dug™",
@@ -4592,7 +4592,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dig Dug (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "6,72 MiB"},
 "Dig Dug™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -4609,7 +4609,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dig Dug (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,18 MiB"}
 },
 {"info": {
 					"title": "Donkey Kong™ 3",
@@ -4637,7 +4637,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Donkey Kong 3.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,56 MiB"}
 },
 {"info": {
 					"title": "Donkey Kong™",
@@ -4665,7 +4665,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Donkey Kong.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,94 MiB"}
 },
 {"info": {
 					"title": "Donkey Kong™ Original Edition",
@@ -4693,12 +4693,12 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Donkey Kong Original Edition.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,53 MiB"}
 },
 {"info": {
 					"title": "Double Dragon - NES",
 					"version": "EUR",
-					"author": "Technōs Japan",
+					"author": "Technos Japan",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 88,
@@ -4721,12 +4721,12 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Double Dragon - NES.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,9 MiB"}
 },
 {"info": {
 					"title": "Double Dragon II: The Revenge",
 					"version": "EUR",
-					"author": "Technōs Japan",
+					"author": "Technos Japan",
 					"category": "Virtual Consoles",
 					"console": "NES",
 					"icon_index": 89,
@@ -4749,7 +4749,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Double Dragon II - The Revenge - NES/EUR.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,9 MiB"}
 },
 {"info": {
 					"title": "Galaga™",
@@ -4777,7 +4777,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Galaga - NES - EUR.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,51 MiB"}
 },
 {"info": {
 					"title": "Gargoyle's Quest II The Demon Darkness",
@@ -4805,7 +4805,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gargoyle's Quest II The Demon Darkness - NES - EUR.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,97 MiB"}
 },
 {"info": {
 					"title": "Ghosts'n Goblins™",
@@ -4833,7 +4833,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ghostsn Goblins (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,65 MiB"}
 },
 {"info": {
 					"title": "Gradius",
@@ -4861,7 +4861,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gradius - NES - EUR.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,47 MiB"}
 },
 {"info": {
 					"title": "Ice Climber™",
@@ -4889,7 +4889,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ice Climber - NES - EUR.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,8 MiB"}
 },
 {"info": {
 					"title": "Life Force",
@@ -4917,7 +4917,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Life Force - NES - EUR.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,6 MiB"}
 },
 {"info": {
 					"title": "Mario & Yoshi™",
@@ -4945,7 +4945,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario and Yoshi-NES-EUR.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "13,2 MiB"}
 },
 {"info": {
 					"title": "50 Classic Games 3D",
@@ -5014,7 +5014,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ace Combat Assault Horizon Legacy - Update (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "9,50 MiB"},
 "Ace Combat Assault Horizon Legacy+ (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5031,7 +5031,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ace Combat Assault Horizon Legacy (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "705 MiB"},
 "Ace Combat 3D - Cross Rumble+ (JPN)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -5048,7 +5048,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ace Combat3D - Cross Rumble+ (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "705 MiB"}
 },
 {"info": {
 					"title": "Adventure Time: Explore the Dungeon Because I DONT KNOW!",
@@ -17004,7 +17004,7 @@
 },
 {"info": {
 		            "title": "Halo Revamped 3DS",
-		            "version": "",
+		            "version": "ALL",
 		            "author": "CollinScripter",
 		            "category": "Homebrew",
 		            "console": "3DS",
@@ -36004,7 +36004,7 @@
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
-		            "console": "GBA",
+		            "console": "NES",
 		            "sizes": "12,34Mo",
 		            "icon_index": 79,
 		            "sheet_index": 2,
@@ -37860,7 +37860,7 @@
 					"size": ""}
 },
 {"info": {
-		            "title": "The Legend of Zelda™ Link's Awakening DX™ (0004000000042600)",
+	            	"title": "The Legend of Zelda™ Link's Awakening DX™ [0004000000042600]",
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
@@ -37871,26 +37871,26 @@
 		            "description": "",
 		            "last_updated": "2021-02-07 at 12:35 (UTC)"
 },
-"The Legend of Zelda™ Link's Awakening DX™": {
+"The Legend of Zelda™ Link's Awakening DX™ [0004000000042600]": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Link%27s%20Awakening%20DX%E2%84%A2%20EUR%20%280004000000042600%29.cia",
-				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042600].cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "file": "/The Legend of Zelda Links Awakening DX (EUR) [0004000000042600].cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042600].cia",
 				   "message": "Cleaning..."}],
 					"size": ""}
 },
 {"info": {
-		            "title": "The Legend of Zelda™ Link's Awakening DX™ (0004000000042800)",
+		            "title": "The Legend of Zelda™ Link's Awakening DX™ [0004000000042800]",
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
@@ -37901,26 +37901,26 @@
 		            "description": "",
 		            "last_updated": "2021-02-07 at 12:35 (UTC)"
 },
-"The Legend of Zelda™ Link's Awakening DX™": {
+"The Legend of Zelda™ Link's Awakening DX™ [0004000000042800]": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Link%27s%20Awakening%20DX%E2%84%A2%20EUR%20%280004000000042800%29.cia",
-				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042800].cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "file": "/The Legend of Zelda Links Awakening DX (EUR) [0004000000042800].cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042800].cia",
 				   "message": "Cleaning..."}],
 					"size": ""}
 },
 {"info": {
-		            "title": "The Legend of Zelda™ Link's Awakening DX™ (0004000000042a00)",
+		            "title": "The Legend of Zelda™ Link's Awakening DX™ [0004000000042a00]",
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
@@ -37931,21 +37931,21 @@
 		            "description": "",
 		            "last_updated": "2021-02-07 at 12:35 (UTC)"
 },
-"The Legend of Zelda™ Link's Awakening DX™": {
+"The Legend of Zelda™ Link's Awakening DX™ [0004000000042a00]": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/EUR/T/The%20Legend%20of%20Zelda%E2%84%A2%20Link%27s%20Awakening%20DX%E2%84%A2%20EUR%20%280004000000042a00%29.cia",
-				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "output": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042a00].cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "file": "/The Legend of Zelda Links Awakening DX (EUR) [0004000000042a00].cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR).cia",
+				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042a00].cia",
 				   "message": "Cleaning..."}],
 					"size": ""}
 },
@@ -38158,4 +38158,773 @@
 				   "file": "sdmc:/Yume Nikki (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "176,49 MiB"}
+},
+{"info": {
+		            "title": "1001 BlockBusters",
+		            "version": "EUR",
+		            "author": "Selectsoft",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 151,
+		            "sheet_index": 2,
+		            "description": "You thought you had done the trick with brick-breaking games? You're wrong!\n1,001 levels, 4 worlds: Ancient Greece, Middle Ages, Candy World and Magic Forest",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"1001 BlockBusters": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/1001%20Blockbusters%20%28Europe%29.cia",
+				   "output": "sdmc:/1001 Blockbusters (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/1001 Blockbusters (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/1001 Blockbusters (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,80 MiB"}
+},
+{"info": {
+		            "title": "1001 Crystal Mazes Collection",
+		            "version": "EUR",
+		            "author": "Teyon",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 152,
+		            "sheet_index": 2,
+		            "description": "1001 Crystal Mazes Collection is a jewel logic game in which a player pushes colorful crystals around a maze to their target destinations.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"1001 Crystal Mazes Collection": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/1001%20Crystal%20Mazes%20Collection%20%28Europe%29.cia",
+				   "output": "sdmc:/1001 Crystal Mazes Collection (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/1001 Crystal Mazes Collection (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/1001 Crystal Mazes Collection (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "10,82 MiB"}
+},
+{"info": {
+		            "title": "101 Pinball World",
+		            "version": "EUR",
+		            "author": "Selectsoft",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 153,
+		            "sheet_index": 2,
+		            "description": "Get ready to take on this furious, bouncy pinball game! Complete specific objectives to earn crazy bonuses, sending your ball through pipes, ramps and mind-boggling obstacles.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"101 Pinball World": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/101%20Pinball%20World%20%28Europe%29.cia",
+				   "output": "sdmc:/101 Pinball World (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/101 Pinball World (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/101 Pinball World (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "9,72 MiB"}
+},
+{"info": {
+		            "title": "16 Shot! Shooting Watch",
+		            "version": "EUR",
+		            "author": "HUDSON SOFT",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 154,
+		            "sheet_index": 2,
+		            "description": "Fun and challenging in ten seconds! In the golden age of the 8-bit, Takahashi 'Master Higgins' Meijin made a splash by maintaining a rate of 16 presses per second.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"16 Shot! Shooting Watch": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/16%20Shot%21%20Shooting%20Watch%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/16 Shot Shooting Watch (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/16 Shot Shooting Watch (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/16 Shot Shooting Watch (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "2,09 MiB"}
+},
+{"info": {
+		            "title": "18th Gate",
+		            "version": "EUR",
+		            "author": "CIRCLE Entertainment",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 155,
+		            "sheet_index": 2,
+		            "description": "18th Gate is not a game for the easily bored. It's a fairly basic strategy RPG that has you edging through.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"18th Gate": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/18th%20Gate%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/18th Gate (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/18th Gate (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/18th Gate (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "9,54 MiB"}
+},
+{"info": {
+		            "title": "2-in-1 Solitaire",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 156,
+		            "sheet_index": 2,
+		            "description": "You've got Spider and Klondike versions of the card game, and they both have two initial difficulty settings to choose from, so once you've made your selections on both screens you're on your way to Solitaire heaven.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"2-in-1 Solitaire": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/2-in-1%20Solitaire%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/2-in-1 Solitaire (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/2-in-1 Solitaire (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/2-in-1 Solitaire (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "779,25 KiB"}
+},
+{"info": {
+		            "title": "21: Blackjack",
+		            "version": "EUR",
+		            "author": "Digital Leisure Inc",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 157,
+		            "sheet_index": 2,
+		            "description": "You begin 21: Blackjack with 1000 dollars and can place bets against the house in amounts as low as one dollar and as high as 500.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"21: Blackjack": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/21%20-%20Blackjack%20%28Europe%29.cia",
+				   "output": "sdmc:/21 - Blackjack (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/21 - Blackjack (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/21 - Blackjack (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,36 MiB"}
+},
+{"info": {
+		            "title": "24/7 Solitaire",
+		            "version": "EUR",
+		            "author": "GameOn",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 158,
+		            "sheet_index": 2,
+		            "description": "Solitaire is solitaire, so there's not much of a difference from any of the other titles in the regular game mode.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"24/7 Solitaire": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/24-7%20Solitaire%20%28Europe%29.cia",
+				   "output": "sdmc:/24-7 Solitaire (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/24-7 Solitaire (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/24-7 Solitaire (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "2,71 MiB"}
+},
+{"info": {
+		            "title": "2Puzzle It: Fantasy",
+		            "version": "EUR",
+		            "author": "Neuland Multimedia",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 159,
+		            "sheet_index": 2,
+		            "description": "This captivating game combines puzzle and fantasy worlds and is sure to get your brain working! Three game modes will make your life difficult, especially the Move mode.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"2Puzzle It: Fantasy": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/2Puzzle%20It%20-%20Fantasy%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/2Puzzle It - Fantasy (Europe) (En,Fr,De,Es,It).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/2Puzzle It - Fantasy (Europe) (En,Fr,De,Es,It).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/2Puzzle It - Fantasy (Europe) (En,Fr,De,Es,It).cia",
+				   "message": "Cleaning..."}],
+				   "size": "11,62 MiB"}
+},
+{"info": {
+		            "title": "3 Heroes - Crystal Soul",
+		            "version": "EUR",
+		            "author": "Circle Entertainment",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 160,
+		            "sheet_index": 2,
+		            "description": "3 Heroes - Crystal Soul is certainly not a bad game, but its repetitive nature and somewhat sluggish pacing make it feel more like work than play.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"3 Heroes - Crystal Soul": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/3%20Heroes%20-%20Crystal%20Soul%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/3 Heroes - Crystal Soul (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3 Heroes - Crystal Soul (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3 Heroes - Crystal Soul (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "11,57 MiB"}
+},
+{"info": {
+		            "title": "3D Space Tank",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 161,
+		            "sheet_index": 2,
+		            "description": "The first 3D game on a handheld console, X will be considered by Famitsu magazine as one of the 4 most important games on Game Boy.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"3D Space Tank": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/3D%20Space%20Tank%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/3D Space Tank (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Space Tank (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Space Tank (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "15,77 MiB"}
+},
+{"info": {
+		            "title": "3D Twist & Match",
+		            "version": "EUR",
+		            "author": "Sanuk Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 162,
+		            "sheet_index": 2,
+		            "description": "The game has three different game modes. In Classic Mode, players are continually given objects to match with their silhouettes while a timer is constantly draining...",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"3D Twist & Match": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/3D%20Twist%20_%20Match%20%28Europe%29.cia",
+				   "output": "sdmc:/3D Twist & Match (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Twist & Match (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Twist & Match (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,84 MiB"}
+},
+{"info": {
+		            "title": "4 Elements",
+		            "version": "EUR",
+		            "author": "Joindots",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 163,
+		            "sheet_index": 2,
+		            "description": "You will have to solve puzzle grids by forming chains of jewels as long as possible in order to restore the magic of the four elements.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"4 Elements": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/4%20Elements%20%28EUR%29.cia",
+				   "output": "sdmc:/4 Elements (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/4 Elements (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/4 Elements (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "79,63 MiB"}
+},
+{"info": {
+		            "title": "4 Travellers: Play French",
+		            "version": "EUR",
+		            "author": "Agenius Interactive",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 164,
+		            "sheet_index": 2,
+		            "description": "Challenge your family and friends in a new digital board game while learning your first words in a new language together.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"4 Travellers: Play French": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/4%20Travellers%20-%20Play%20French%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.cia",
+				   "output": "sdmc:/4 Travellers - Play French (Europe) (En,De,Es,It,Nl,Sv,No,Da,Fi).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/4 Travellers - Play French (Europe) (En,De,Es,It,Nl,Sv,No,Da,Fi).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/4 Travellers - Play French (Europe) (En,De,Es,It,Nl,Sv,No,Da,Fi).cia",
+				   "message": "Cleaning..."}],
+				   "size": "13,33 MiB"}
+},
+{"info": {
+		            "title": "4 Travellers: Play Spanish",
+		            "version": "EUR",
+		            "author": "Agenius Interactive",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 165,
+		            "sheet_index": 2,
+		            "description": "Challenge your family and friends in a new digital board game while learning your first words in a new language together.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"4 Travellers: Play Spanish": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/4%20Travellers%20-%20Play%20Spanish%20%28Europe%29.cia",
+				   "output": "sdmc:/4 Travellers - Play Spanish (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/4 Travellers - Play Spanish (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/4 Travellers - Play Spanish (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "12,18 MiB"}
+},
+{"info": {
+		            "title": "505 Tangram",
+		            "version": "EUR",
+		            "author": "Cosmigo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 166,
+		            "sheet_index": 2,
+		            "description": "Solve the 505 puzzles of the different groups and become a tangram master! Many challenges await you!",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"505 Tangram": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/505%20Tangram%20%28Europe%29.cia",
+				   "output": "sdmc:/505 Tangram (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/505 Tangram (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/505 Tangram (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "3,40 MiB"}
+},
+{"info": {
+		            "title": "90's Pool",
+		            "version": "EUR",
+		            "author": "Cinemax",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 167,
+		            "sheet_index": 2,
+		            "description": "90's Pool is completely average in every way. It has a few control related quirks that certainly rub us the wrong way.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"90's Pool": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/90_s%20Pool%20%28Europe%29.cia",
+				   "output": "sdmc:/90_s Pool (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/90_s Pool (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/90_s Pool (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,24 MiB"}
+},
+{"info": {
+		            "title": "99Bullets",
+		            "version": "EUR",
+		            "author": "EnjoyUp Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 168,
+		            "sheet_index": 2,
+		            "description": "99Bullets is a fun arcade-style shooting game where losing a bullet is losing a life and losing a life is losing a bullet.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"99Bullets": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/99Bullets%20%28Europe%29.cia",
+				   "output": "sdmc:/99Bullets (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/99Bullets (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/99Bullets (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,93 MiB"}
+},
+{"info": {
+		            "title": "99Moves",
+		            "version": "EUR",
+		            "author": "EnjoyUp Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 169,
+		            "sheet_index": 2,
+		            "description": "99Moves, a retro arcade game, where you have to survive with only 99 moves.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"99Moves": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/99Moves%20%28Europe%29.cia",
+				   "output": "sdmc:/99Moves (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/99Moves (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/99Moves (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,07 MiB"}
+},
+{"info": {
+		            "title": "99Seconds",
+		            "version": "EUR",
+		            "author": "EnjoyUp Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 170,
+		            "sheet_index": 2,
+		            "description": "99Seconds is a fun video game with a retro aesthetic, where you can alter time to avoid a multitude of dangers.",
+		            "last_updated": "2021-11-08 at 00:00 (UTC)"
+},
+"99Seconds": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/1234567890/99Seconds%20%28Europe%29.cia",
+				   "output": "sdmc:/99Seconds (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/99Seconds (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/99Seconds (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,80 MiB"}
+},
+{"info": {
+		            "title": "StreetPass Mii Plaza",
+		            "version": "EUR, USA, KOR",
+		            "author": "Nintendo",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 171,
+		            "sheet_index": 2,
+		            "description": "Place Mii StreetPass is a Nintendo 3DS program that uses the StreetPass features of the console. Mii's from different users can meet each other.",
+		            "last_updated": "2021-11-28 at 00:00 (UTC)"
+},
+"StreetPass Mii Plaza - DLC (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Others/StreetPass%20Mii%20Plaza/StreetPass%20Mii%20Plaza%20-%20DLC%20%28EUR%29.cia",
+				   "output": "sdmc:/StreetPass Mii Plaza - DLC (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/StreetPass Mii Plaza - DLC (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/StreetPass Mii Plaza - DLC (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "370,83 MiB"},
+"StreetPass Mii Plaza - DLC (JPN)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Others/StreetPass%20Mii%20Plaza/StreetPass%20Mii%20Plaza%20-%20DLC%20%28JPN%29.cia",
+				   "output": "sdmc:/StreetPass Mii Plaza - DLC (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/StreetPass Mii Plaza - DLC (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/StreetPass Mii Plaza - DLC (JPN).cia",
+				   "message": "Cleaning..."}],
+				   "size": "370,27 MiB"},
+"StreetPass Mii Plaza - DLC (KOR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Others/StreetPass%20Mii%20Plaza/StreetPass%20Mii%20Plaza%20-%20DLC%20%28KOR%29.cia",
+				   "output": "sdmc:/StreetPass Mii Plaza - DLC (KOR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/StreetPass Mii Plaza - DLC (KOR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/StreetPass Mii Plaza - DLC (KOR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "137,92 MiB"},
+"StreetPass Mii Plaza - DLC (USA)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Others/StreetPass%20Mii%20Plaza/StreetPass%20Mii%20Plaza%20-%20DLC%20%28USA%29.cia",
+				   "output": "sdmc:/StreetPass Mii Plaza - DLC (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/StreetPass Mii Plaza - DLC (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/StreetPass Mii Plaza - DLC (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "370,21 MiB"},
+"StreetPass Mii Plaza - Update (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Others/StreetPass%20Mii%20Plaza/StreetPass%20Mii%20Plaza%20-%20Updates%20%28EUR%29.cia",
+				   "output": "sdmc:/StreetPass Mii Plaza - Update (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/StreetPass Mii Plaza - Update (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/StreetPass Mii Plaza - Update (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "94,93 MiB"},
+"StreetPass Mii Plaza - Update (KOR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Others/StreetPass%20Mii%20Plaza/StreetPass%20Mii%20Plaza%20-%20Updates%20%28KOR%29.cia",
+				   "output": "sdmc:/StreetPass Mii Plaza - Update (KOR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/StreetPass Mii Plaza - Update (KOR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/StreetPass Mii Plaza - Update (KOR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "39,69 MiB"},
+"StreetPass Mii Plaza - Update (USA)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Others/StreetPass%20Mii%20Plaza/StreetPass%20Mii%20Plaza%20-%20Updates%20%28USA%29.cia",
+				   "output": "sdmc:/StreetPass Mii Plaza - Update (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/StreetPass Mii Plaza - Update (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/StreetPass Mii Plaza - Update (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "82,22 MiB"}
+},
+{"info": {
+		            "title": "Uno",
+		            "version": "USA",
+		            "author": "Gameloft",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 172,
+		            "sheet_index": 2,
+		            "description": "On the whole, UNO fares far better on DSi than the Wii - the interface works nicely, the online player is smooth and enjoyable and you have the added benefit of pick-up-and-play whenever you like.",
+		            "last_updated": "2021-11-28 at 01:00 (UTC)"
+},
+"Uno": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/U/Uno%20%28USA%29.cia",
+				   "output": "sdmc:/Uno (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Uno (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Uno (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "7,97 MiB"}
+},
+{"info": {
+		            "title": "Zelda Four Swords - Anniversary Edition",
+		            "version": "USA",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 173,
+		            "sheet_index": 2,
+		            "description": "Four Swords was released in March 2003 as a bonus game mode added to the remake of A Link to the Past on Game Boy Advance.",
+		            "last_updated": "2021-11-28 at 01:00 (UTC)"
+},
+"Zelda Four Swords - Anniversary Edition": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/Z/Zelda%20Four%20Swords%20-%20Anniversary%20Edition%20%28USA%29.cia",
+				   "output": "sdmc:/Zelda Four Swords - Anniversary Edition (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Zelda Four Swords - Anniversary Edition (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Zelda Four Swords - Anniversary Edition (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "13,84 MiB"}
 }]}
