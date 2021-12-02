@@ -4535,7 +4535,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crash n the Boys Street Challenge (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,5 MiB"}
 },
 {"info": {
 					"title": "Devil World",
@@ -6421,7 +6421,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/BlazBlue - Continuum Shift II (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,26 GiB"},
 "Blazblue: Continuum Shift II (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -6438,7 +6438,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Blazblue - Continuum Shift II (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "868 MiB"}
 },
 {"info": {
 					"title": "Boku no Hero Academia: Battle For All",
@@ -6466,7 +6466,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Boku no Hero Academia - Battle For All (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "342 MiB"}
 },
 {"info": {
 					"title": "Boulder Dash-XL 3D",
@@ -6632,7 +6632,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Columns (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "5,44 MiB"},
 "Columns™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -6649,7 +6649,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Columns (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,19 MiB"}
 },
 {"info": {
 					"title": "Contra III The Alien Wars",
@@ -6677,7 +6677,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Contra III The Alien Wars (SNES/ALL).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,53 MiB"}
 },
 {"info": {
 					"title": "Crystal Warriors",
@@ -21576,7 +21576,7 @@
 "Code Name: S.T.E.A.M.: Lincoln VS Aliens (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/C/Code%20Name%3A%20S.T.E.A.M.%20-%20Lincoln%20VS%20Aliens%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/C/Code%20Name%20-%20S.T.E.A.M.%20-%20Lincoln%20VS%20Aliens%20%28JPN%29.cia",
 				   "output": "sdmc:/Code Name - S.T.E.A.M. - Lincoln VS Aliens (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -30152,7 +30152,7 @@
 "Beast Saga: Saikyou Gekiotsu Coliseum": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/B/Beast%20Saga%3A%20Saikyou%20Gekiotsu%20Coliseum%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/B/Beast%20Saga%20-%20Saikyou%20Gekiotsu%20Coliseum%20%28JPN%29.cia",
 				   "output": "sdmc:/Beast Saga - Saikyou Gekiotsu Coliseum (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -30517,7 +30517,7 @@
 "Chibi ☆ Devi! 2: Mahou no Yume Ehon": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/C/Chibi%20%2A%20Devi%21%202%20-%20Mahou%20no%20Yume%20Ehon%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/C/Chibi%20-%20Devi%21%202%20-%20Mahou%20no%20Yume%20Ehon%20%28JPN%29.cia",
 				   "output": "sdmc:/Chibi Devi 2 - Mahou no Yume Ehon (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -30814,7 +30814,7 @@
 "Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/C/Crayon%20Shin-Chan%20-%20Uchuu%20de%20Achoo%21%3F%20Yuujou%20no%20Oba-Karate%21%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/C/Crayon%20Shin-Chan%20-%20Uchuu%20de%20Achoo%21%20Yuujou%20no%20Oba-Karate%21%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Crayon Shin-Chan - Uchuu de Achoo Yuujou no Oba-Karate (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
