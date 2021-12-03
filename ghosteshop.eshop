@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 139
+"revision": 140
 },
 "storeContent": [
 {"info": {
@@ -6705,7 +6705,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crystal Warriors (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "6,06 MiB"},
 "Crystal Warriors (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -6722,7 +6722,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crystal Warriors (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,66 MiB"}
 },
 {"info": {
 					"title": "Defenders of Oasis™",
@@ -6750,7 +6750,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Defenders of Oasis (Game Gear/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,20 MiB"}
 },
 {"info": {
 					"title": "Bravely Default",
@@ -6793,7 +6793,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Default (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,23 GiB"},
 "Bravely Default (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6810,7 +6810,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Default (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,23 GiB"},
 "Bravely Default: For the Sequel (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -6827,7 +6827,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Default - For the Sequel (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,23 GiB"}
 },
 {"info": {
 					"title": "Bravely Second: End Layer",
@@ -6871,7 +6871,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Second - End Layer (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "2,48 GiB"},
 "Bravely Second: End Layer - DLC (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6888,7 +6888,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Second - End Layer - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "110 KiB"},
 "Bravely Second: End Layer (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -6905,7 +6905,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Second - End Layer (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "2,48 GiB"},
 "Bravely Second: End Layer (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -6922,7 +6922,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bravely Second - End Layer (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,77 GiB"}
 },
 {"info": {
 					"title": "Brunswick Pro Bowling",
@@ -6985,7 +6985,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Bust-a-Move Universe (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "59,5 MiB"},
 "Puzzle Bobble Universe 3D (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7002,7 +7002,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Puzzle Bobble Universe 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "68,1 MiB"}
 },
 {"info": {
 					"title": "Candy Match 3",
@@ -7315,7 +7315,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crush3D (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "348 MiB"},
 "Crush3D (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7332,7 +7332,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Crush3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "348 MiB"}
 },
 {"info": {
 					"title": "Cubic Ninja",
@@ -7361,7 +7361,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Cubic Ninja (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "82,7 MiB"},
 "Cubic Ninja (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -7378,7 +7378,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Cubic Ninja (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "82,4 MiB"}
 },
 {"info": {
 					"title": "Culdcept Revolt",
@@ -7478,7 +7478,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken.cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "659 MiB"},
 "Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken - Patch English": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7495,7 +7495,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken - Patch English.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "31,9 MiB"}
 },
 {"info": {
 					"title": "Deer Drive Legends",
@@ -7562,7 +7562,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Donkey Kong Country 3 Dixie Kong's Double Trouble (SNES/ALL).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,55 MiB"}
 },
 {"info": {
 					"title": "Donkey Kong Country™ 2 Diddy's Kong Quest™",
@@ -7595,7 +7595,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Donkey Kong Country 2 Diddy's Kong Quest (SNES/ALL).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,53 MiB"}
 },
 {"info": {
 					"title": "Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb",
@@ -7623,7 +7623,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Chibi Dragon to Fushigi na Orb (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "205 MiB"}
 },
 {"info": {
 					"title": "Bloody Vampire",
@@ -7845,7 +7845,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mighty Gunvolt (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "8,74 MiB"},
 "Mighty Gunvolt (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7862,7 +7862,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mighty Gunvolt (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "10,1 MiB"}
 },
 {"info": {
 					"title": "Super Mario 64",
@@ -7891,7 +7891,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (400PX AA LUIGIHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,46 MiB"},
 "Super Mario 64 (400PX AA MARIOHD)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7908,7 +7908,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (400PX AA MARIOHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,47 MiB"},
 "Super Mario 64 (400PX AA VANILLA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7925,7 +7925,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (400PX AA VANILLA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,37 MiB"},
 "Super Mario 64 (400PX NOAA LUIGIHD)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7942,7 +7942,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (400PX NOAA LUIGIHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,46 MiB"},
 "Super Mario 64 (400PX NOAA MARIOHD)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7959,7 +7959,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (400PX NOAA MARIOHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,47 MiB"},
 "Super Mario 64 (400PX NOAA VANILLA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7976,7 +7976,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (400PX NOAA VANILLA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,37 MiB"},
 "Super Mario 64 (800PX AA LUIGIHD)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -7993,7 +7993,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (800PX AA LUIGIHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,46 MiB"},
 "Super Mario 64 (800PX AA MARIOHD)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8010,7 +8010,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (800PX AA MARIOHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,47 MiB"},
 "Super Mario 64 (800PX AA VANILLA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8027,7 +8027,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (800PX AA VANILLA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,37 MiB"},
 "Super Mario 64 (800PX NOAA LUIGIHD)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8044,7 +8044,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (800PX NOAA LUIGIHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,46 MiB"},
 "Super Mario 64 (800PX NOAA MARIOHD)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8061,7 +8061,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (800PX NOAA MARIOHD).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "7,47 MiB"},
 "Super Mario 64 (800PX NOAA VANILLA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8078,7 +8078,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario 64 (800PX NOAA VANILLA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,37 MiB"}
 },
 {"info": {
 					"title": "Demon King Box",
@@ -8257,7 +8257,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Art Academy (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "324 MiB"},
 "Disney Art Academy (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -8274,7 +8274,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Art Academy (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "323 MiB"}
 },
 {"info": {
 					"title": "Disney Epic Mickey: The Power of Illusion",
@@ -8303,7 +8303,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Epic Mickey - The Power of Illusion (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "278 MiB"},
 "Disney Epic Mickey: Mickey no Fushigi na Bouken (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -8320,7 +8320,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Epic Mickey - Mickey no Fushigi na Bouken (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "282 MiB"}
 },
 {"info": {
 					"title": "Disney Frozen: Olafs Quest",
@@ -8349,7 +8349,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Frozen - Olafs Quest.cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "48,3 MiB"},
 "Disney Anna to Yuki no Joou: Olaf no Okurimono (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -8366,7 +8366,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Anna to Yuki no Joou - Olaf no Okurimono (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "46,9 MiB"}
 },
 {"info": {
 					"title": "Disney Infinity - Toy Box Challenge",
@@ -8412,59 +8412,76 @@
 		            			"description": "Cover-Art"
 		            		}],
 					"description": "",
-					"last_updated": "2021-02-02 at 14:03 (UTC)"
+					"last_updated": "2021-12-03 at 07:45 (UTC)"
 },
 "Disney Magical World - DLC (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/D/Disney%20Magical%20World%20-%20DLC%20%28USA%29.cia",
-				   "output": "sdmc:/Disney Magical World - DLC.cia",
+				   "output": "sdmc:/Disney Magical World - DLC (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Disney Magical World - DLC.cia",
+				   "file": "/Disney Magical World - DLC (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Disney Magical World - DLC.cia",
+				   "file": "sdmc:/Disney Magical World - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "731 KiB"},
+"Disney Magical World (USA)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/D/Disney%20Magical%20World%20%28USA%29.cia",
+				   "output": "sdmc:/Disney Magical World (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Disney Magical World (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Magical World (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "500 MiB"},
 "Disney Magical World - Update 1.1 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/D/Disney%20Magical%20World%20-%20Update%201.1%20%28USA%29.cia",
-				   "output": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "output": "sdmc:/Disney Magical World - Update 1.1 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Disney Magical World - Update 1.1.cia",
+				   "file": "/Disney Magical World - Update 1.1 (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "file": "sdmc:/Disney Magical World - Update 1.1 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "64,5 MiB"},
 "Disney Magical World (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/D/Disney%20Magical%20World%20%28EUR%29%28M5%29.cia",
-				   "output": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "output": "sdmc:/Disney Magical World - Update 1.1 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Disney Magical World - Update 1.1.cia",
+				   "file": "/Disney Magical World - Update 1.1 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "file": "sdmc:/Disney Magical World - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "537 MiB"},
 "Disney Magic Castle: My Happy Life (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -8481,7 +8498,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Magic Castle - My Happy Life (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "425 MiB"}
 },
 {"info": {
 					"title": "Disney Magical World 2",
