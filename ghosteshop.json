@@ -1,7 +1,7 @@
 {
 "storeInfo":
  {
-"title": "Ghost Eshop Alternative",
+"title": "Ghost eShop Alternative",
 "author": "Ghost eShop Team",
 "file": "ghosteshop.unistore",
 "url": "https://cdn.ghosteshop.com/script/ghosteshop.unistore",
@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 140
+"revision": 142
 },
 "storeContent": [
 {"info": {
@@ -1462,17 +1462,17 @@
 					"size": "92,9 MiB"}
 },
 {"info": {
-					"title": "Anonymous Notes 1 - From The Abyss",
+					"title": "Anonymous Notes Chapter 1 - From The Abyss",
 					"version": "EUR",
-					"author": "Sonic Powered",
+					"author": "Sonic Powered Co.",
 					"category": "DSiWare",
 					"console": "DSi",
 					"sizes": "5,78Mo",
 					"icon_index": 0,
-					"description": "Jeux de rôles dans des donjons.",
-					"last_updated": "2020-08-09 at 14:03 (UTC)"
+					"description": "Discover an exhilarating RPG set inside an infinitely extending dungeon. Sweep away the monsters wriggling in many places and defeat the strong boss monster lurking in the deepest part of the dungeon.",
+					"last_updated": "2021-12-04 at 14:03 (UTC)"
 },
-"Anonymous Notes 1 - From The Abyss": {
+"Anonymous Notes Chapter 1 - From The Abyss": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Anonymous%20Notes%201%20-%20From%20The%20Abyss%20%28Europe%29.cia",
@@ -8528,7 +8528,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Magical World 2 - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "174 KiB"},
 "Disney Magical World 2 (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8545,7 +8545,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Magical World 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,49 GiB"},
 "Disney Magical World 2 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8562,7 +8562,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Magical World 2 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,30 GiB"},
 "Disney Magic Castle: My Happy Life 2 (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -8579,7 +8579,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Disney Magic Castle - My Happy Life 2 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "908 MiB"}
 },
 {"info": {
 					"title": "Duck Dynasty",
@@ -8892,7 +8892,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Minecraft - New Nintendo 3DS Edition - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "298 KiB"},
 "Minecraft: New Nintendo 3DS Edition - Update 1.9 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8909,7 +8909,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Minecraft - New Nintendo 3DS Edition - Update 1.9 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "541 MiB"},
 "Minecraft: New Nintendo 3DS Edition (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8926,7 +8926,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Minecraft - New Nintendo 3DS Edition (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "466 MiB"},
 "Minecraft: New Nintendo 3DS Edition - Update 1.9.19 (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8943,7 +8943,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Minecraft - New Nintendo 3DS Edition - Update 1.9.19 (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "542 MiB"},
 "Minecraft: New Nintendo 3DS Edition (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -8960,7 +8960,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Minecraft - New Nintendo 3DS Edition (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "467 MiB"}
 },
 {"info": {
 					"title": "Pokemon GS Chronicles",
@@ -8988,7 +8988,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon GS Chronicles.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "32,5 MiB"}
 },
 {"info": {
 					"title": "Pokemon Orange Islands",
@@ -8997,7 +8997,7 @@
 					"category": "Homebrew",
 					"console": "GBA",
 					"icon_index": 190,
-					"description": "Pok�mon Fire Red hack",
+					"description": "Pokemon Fire Red hack",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
 "Pokemon Orange Islands": {
@@ -9016,7 +9016,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Orange Islands.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "16,4 MiB"}
 },
 {"info": {
 					"title": "Pokemon Red Chapter",
@@ -9044,7 +9044,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Red Chapter.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "64,5 MiB"}
 },
 {"info": {
 					"title": "EarthBound™",
@@ -9077,7 +9077,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/EarthBound (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,70 MiB"}
 },
 {"info": {
 					"title": "Lufia® The Legend Returns",
@@ -9105,7 +9105,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Lufia The Legend Returns.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,07 MiB"}
 },
 {"info": {
 					"title": "Disney Planes: Fire & Rescue",
@@ -9162,7 +9162,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kunio-kun Nekketsu Complete - Famicom-Hen (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "65,7 MiB"}
 },
 {"info": {
 					"title": "escapeVektor",
@@ -9219,7 +9219,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Xtreme Sports (GBC/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,30 MiB"}
 },
 {"info": {
 					"title": "Wrecking Crew",
@@ -9247,7 +9247,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Wrecking Crew.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,04 MiB"}
 },
 {"info": {
 					"title": "WarioWare, Inc™ Minigame Mania",
@@ -9275,7 +9275,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/WarioWare, Inc Minigame Mania (GBA/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,29 MiB"}
 },
 {"info": {
 					"title": "Wario's Woods",
@@ -9303,7 +9303,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Wario's Woods (SNES/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "14 MiB"}
 },
 {"info": {
 					"title": "Wario Land™ 4",
@@ -9331,7 +9331,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Wario Land 4 (GBA/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,45 MiB"}
 },
 {"info": {
 					"title": "Wario Land™ 3",
@@ -9359,7 +9359,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Wario Land 3 (GBC/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,55 MiB"}
 },
 {"info": {
 					"title": "Wario Land: Super Mario Land 3",
@@ -9387,7 +9387,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Wario Land Super Mario Land 3 (GB/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,84 MiB"}
 },
 {"info": {
 					"title": "Vampire Master of Darkness",
@@ -9415,7 +9415,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Vampire Master of Darkness.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,56 MiB"}
 },
 {"info": {
 					"title": "Tumble Pop",
@@ -9443,7 +9443,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Tumble Pop (GB/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,24 MiB"}
 },
 {"info": {
 					"title": "Trip World™",
@@ -9471,7 +9471,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Trip World.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,93 MiB"}
 },
 {"info": {
 					"title": "Toki Tori",
@@ -9499,7 +9499,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Toki Tori (GBC/EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,02 MiB"}
 },
 {"info": {
 					"title": "The Sword of Hope II",
@@ -38944,4 +38944,990 @@
 				   "file": "sdmc:/Zelda Four Swords - Anniversary Edition (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "13,84 MiB"}
+},
+{"info": {
+		            "title": "Aahh! Spot the Difference",
+		            "version": "EUR",
+		            "author": "Gamelion Studios",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 174,
+		            "sheet_index": 2,
+		            "description": "Demonstrate your skills of observation in this engaging 'Spot the Difference' game! Complete 40 challenging levels in 4 unique scenarios by spotting the differences between the upper and lower screen.",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Aahh! Spot the Difference": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Aahh%21%20Spot%20the%20difference%20%28Europe%29.cia",
+				   "output": "sdmc:/Aahh! Spot the difference (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Aahh! Spot the difference (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Aahh! Spot the difference (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,49 MiB"}
+},
+{"info": {
+		            "title": "Abyss",
+		            "version": "EUR",
+		            "author": "EnjoyUp Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 175,
+		            "sheet_index": 2,
+		            "description": "As the charmingly named deep-sea submarine “Nep2no”, you'll float through close-quartered underwater stages, avoiding the walls and collecting six glowing “Gaia stones” before heading to the exit.",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Abyss": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Abyss%20%28Europe%29.cia",
+				   "output": "sdmc:/Abyss (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Abyss (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Abyss (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,61 MiB"}
+},
+{"info": {
+		            "title": "Academy: Checkers",
+		            "version": "EUR",
+		            "author": "Gamelion Studios",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 176,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Academy: Checkers": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Academy%20-%20Checkers%20%28Europe%29.cia",
+				   "output": "sdmc:/Academy - Checkers (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Academy - Checkers (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Academy - Checkers (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,24 MiB"}
+},
+{"info": {
+		            "title": "Academy: Chess Puzzles",
+		            "version": "EUR",
+		            "author": "Gamelion Studios",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 177,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Academy: Chess Puzzles": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Academy%20-%20Chess%20Puzzles%20%28Europe%29.cia",
+				   "output": "sdmc:/Academy - Chess Puzzles (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Academy - Chess Puzzles (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Academy - Chess Puzzles (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,93 MiB"}
+},
+{"info": {
+		            "title": "Academy: Tic-Tac-Toe Noughts & Crosses",
+		            "version": "EUR",
+		            "author": "Gamelion Studios",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 178,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Academy: Tic-Tac-Toe Noughts & Crosses": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Academy%20-%20Tic-Tac-Toe%20Noughts%20_%20Crosses%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Academy - Tic-Tac-Toe Noughts _ Crosses (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Academy - Tic-Tac-Toe Noughts _ Crosses (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Academy - Tic-Tac-Toe Noughts _ Crosses (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "3,52 MiB"}
+},
+{"info": {
+		            "title": "Ace Mathician",
+		            "version": "EUR",
+		            "author": "CIRCLE Entertainment",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 179,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Ace Mathician": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Ace%20Mathician%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Ace Mathician (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ace Mathician (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ace Mathician (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,45 MiB"}
+},
+{"info": {
+		            "title": "Advanced Circuits",
+		            "version": "EUR",
+		            "author": "BiP Media",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 180,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Advanced Circuits": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Advanced%20Circuits%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Advanced Circuits (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Advanced Circuits (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Advanced Circuits (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,78 MiB"}
+},
+{"info": {
+		            "title": "Adventure in Vegas: Slot Machine",
+		            "version": "EUR",
+		            "author": "Gamelion Studios",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 181,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Adventure in Vegas: Slot Machine": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Adventure%20in%20Vegas%20-%20Slot%20Machine%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Adventure in Vegas - Slot Machine (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Adventure in Vegas - Slot Machine (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Adventure in Vegas - Slot Machine (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "9,95 MiB"}
+},
+{"info": {
+		            "title": "Afterzoom",
+		            "version": "EUR",
+		            "author": "Abylight Studios",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 182,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Afterzoom": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Afterzoom%20%28Europe%29.cia",
+				   "output": "sdmc:/Afterzoom (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Afterzoom (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Afterzoom (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "9,63 MiB"}
+},
+{"info": {
+		            "title": "Ah! Heaven",
+		            "version": "EUR",
+		            "author": "CIRCLE Entertainment",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 183,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Ah! Heaven": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Ah%21%20Heaven%20%28Europe%29.cia",
+				   "output": "sdmc:/Ah! Heaven (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ah! Heaven (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ah! Heaven (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,44 MiB"}
+},
+{"info": {
+		            "title": "AiRace",
+		            "version": "EUR",
+		            "author": "QubicGames",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 184,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"AiRace": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/AiRace%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/AiRace (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/AiRace (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/AiRace (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "11,78 MiB"}
+},
+{"info": {
+		            "title": "AiRace: Tunnel",
+		            "version": "EUR",
+		            "author": "QubicGames",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 185,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"AiRace: Tunnel": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/AiRace%20-%20Tunnel%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/AiRace - Tunnel (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/AiRace - Tunnel (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/AiRace - Tunnel (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,91 MiB"}
+},
+{"info": {
+		            "title": "Airport Mania: First Flight",
+		            "version": "EUR",
+		            "author": "Lemon Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 186,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Airport Mania: First Flight": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Airport%20Mania%20-%20First%20Flight%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Airport Mania - First Flight (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Airport Mania - First Flight (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Airport Mania - First Flight (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,79 MiB"}
+},
+{"info": {
+		            "title": "Airport Mania: Non-Stop Flights",
+		            "version": "EUR",
+		            "author": "Lemon Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 187,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Airport Mania: Non-Stop Flights": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Airport%20Mania%20-%20Non-Stop%20Flights%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Airport Mania - Non-Stop Flights (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Airport Mania - Non-Stop Flights (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Airport Mania - Non-Stop Flights (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,77 MiB"}
+},
+{"info": {
+		            "title": "Alien Puzzle Adventure",
+		            "version": "EUR",
+		            "author": "Mastertronic",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 188,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Alien Puzzle Adventure": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Alien%20Puzzle%20Adventure%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Alien Puzzle Adventure (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Alien Puzzle Adventure (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Alien Puzzle Adventure (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "10,87 MiB"}
+},
+{"info": {
+		            "title": "AlphaBounce",
+		            "version": "EUR",
+		            "author": "Mad Monkey Studio",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 189,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"AlphaBounce": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/AlphaBounce%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/AlphaBounce (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/AlphaBounce (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/AlphaBounce (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "7,69 MiB"}
+},
+{"info": {
+		            "title": "Alt-Play: Jason Rohrer Anthology",
+		            "version": "EUR",
+		            "author": "Sabarasa",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 190,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Alt-Play: Jason Rohrer Anthology": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Alt-Play%20-%20Jason%20Rohrer%20Anthology%20%28Europe%29.cia",
+				   "output": "sdmc:/Alt-Play - Jason Rohrer Anthology (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Alt-Play - Jason Rohrer Anthology (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Alt-Play - Jason Rohrer Anthology (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,57 MiB"}
+},
+{"info": {
+		            "title": "Anonymous Notes Chapter 2 - From The Abyss",
+		            "version": "EUR",
+		            "author": "Sonic Powered Co.",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 191,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Anonymous Notes Chapter 2 - From The Abyss": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Anonymous%20Notes%202%20-%20From%20The%20Abyss%20%28Europe%29.cia",
+				   "output": "sdmc:/Anonymous Notes 2 - From The Abyss (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Anonymous Notes 2 - From The Abyss (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Anonymous Notes 2 - From The Abyss (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,61 MiB"}
+},
+{"info": {
+		            "title": "Antipole",
+		            "version": "EUR",
+		            "author": "Saturnine Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 192,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Antipole": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Antipole%20%28Europe%29.cia",
+				   "output": "sdmc:/Antipole (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Antipole (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Antipole (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "10,55 MiB"}
+},
+{"info": {
+		            "title": "The Aquarium of Luck",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 193,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"The Aquarium of Luck": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Aquarium%20of%20Luck%2C%20The%20%28Europe%29.cia",
+				   "output": "sdmc:/Aquarium of Luck, The (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Aquarium of Luck, The (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Aquarium of Luck, The (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "7,30 MiB"}
+},
+{"info": {
+		            "title": "Armageddon Operation Dragon",
+		            "version": "EUR",
+		            "author": "EnjoyUp Games",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 194,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Armageddon Operation Dragon": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Armageddon%20Operation%20Dragon%20%28Europe%29.cia",
+				   "output": "sdmc:/Armageddon Operation Dragon (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Armageddon Operation Dragon (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Armageddon Operation Dragon (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "8,96 MiB"}
+},
+{"info": {
+		            "title": "Army Defender",
+		            "version": "EUR",
+		            "author": "Mindscape",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 195,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Army Defender": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Army%20Defender%20%28Europe%29.cia",
+				   "output": "sdmc:/Army Defender (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Army Defender (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Army Defender (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,70 MiB"}
+},
+{"info": {
+		            "title": "Art Academy: First Semester",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 196,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Academy: First Semester": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Academy%20-%20First%20Semester%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Art Academy - First Semester (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Academy - First Semester (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Academy - First Semester (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "13,46 MiB"}
+},
+{"info": {
+		            "title": "Art Academy: Second Semester",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 197,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Academy: Second Semester": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Academy%20-%20Second%20Semester%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Art Academy - Second Semester (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Academy - Second Semester (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Academy - Second Semester (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "14,74 MiB"}
+},
+{"info": {
+		            "title": "Art Style: AQUITE",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 198,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Style: AQUITE": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Style%20-%20AQUITE%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Art Style - AQUITE (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Style - AQUITE (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Style - AQUITE (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "11,43 MiB"}
+},
+{"info": {
+		            "title": "Art Style: BOXLIFE",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 199,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Style: BOXLIFE": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Style%20-%20BOXLIFE%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Art Style - BOXLIFE (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Style - BOXLIFE (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Style - BOXLIFE (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "8,64 MiB"}
+},
+{"info": {
+		            "title": "Art Style: CODE",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 200,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Style: CODE": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Style%20-%20CODE%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Art Style - CODE (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Style - CODE (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Style - CODE (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "12,26 MiB"}
+},
+{"info": {
+		            "title": "Art Style: INTERSECT",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 201,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Style: INTERSECT": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Style%20-%20INTERSECT%20%28Europe%2C%20Australia%29%20%28Rev%201%29.cia",
+				   "output": "sdmc:/Art Style - INTERSECT (Europe, Australia) (Rev 1).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Style - INTERSECT (Europe, Australia) (Rev 1).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Style - INTERSECT (Europe, Australia) (Rev 1).cia",
+				   "message": "Cleaning..."}],
+				   "size": "11,52 MiB"}
+},
+{"info": {
+		            "title": "Art Style: KUBOS",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 202,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Style: KUBOS": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Style%20-%20KUBOS%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Art Style - KUBOS (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Style - KUBOS (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Style - KUBOS (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "7,35 MiB"}
+},
+{"info": {
+		            "title": "Art Style: PiCOPiCT",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 203,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art Style: PiCOPiCT": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20Style%20-%20PiCOPiCT%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Art Style - PiCOPiCT (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art Style - PiCOPiCT (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art Style - PiCOPiCT (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,56 MiB"}
+},
+{"info": {
+		            "title": "Art of Ink",
+		            "version": "EUR",
+		            "author": "Sabarasa",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 204,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Art of Ink": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Art%20of%20Ink%20%28Europe%29.cia",
+				   "output": "sdmc:/Art of Ink (Europe).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Art of Ink (Europe).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Art of Ink (Europe).cia",
+				   "message": "Cleaning..."}],
+				   "size": "11,69 MiB"}
+},
+{"info": {
+		            "title": "Artillery: Knights vs. Orcs",
+		            "version": "EUR",
+		            "author": "KRITZELKRATZ 3000 GmbH",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 205,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Artillery: Knights vs. Orcs": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Artillery%20-%20Knights%20vs.%20Orcs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Artillery - Knights vs. Orcs (Europe) (En,Fr,De,Es,It).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Artillery - Knights vs. Orcs (Europe) (En,Fr,De,Es,It).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Artillery - Knights vs. Orcs (Europe) (En,Fr,De,Es,It).cia",
+				   "message": "Cleaning..."}],
+				   "size": "7,28 MiB"}
+},
+{"info": {
+		            "title": "Asphalt 4: Elite Racing",
+		            "version": "EUR",
+		            "author": "Gameloft",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 206,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Asphalt 4: Elite Racing": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Asphalt%204%20-%20Elite%20Racing%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Asphalt 4 - Elite Racing (Europe, Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Asphalt 4 - Elite Racing (Europe, Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Asphalt 4 - Elite Racing (Europe, Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "13,79 MiB"}
+},
+{"info": {
+		            "title": "Aura-Aura Climber",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "DSiWare",
+		            "console": "DSi",
+		            "icon_index": 207,
+		            "sheet_index": 2,
+		            "description": "",
+		            "last_updated": "2021-12-04 at 14:00 (UTC)"
+},
+"Aura-Aura Climber": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/A/Aura-Aura%20Climber%20%28Europe%2C%20Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
+				   "output": "sdmc:/Aura-Aura Climber (Europe, Australia) (En,Fr,De,Es,It).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Aura-Aura Climber (Europe, Australia) (En,Fr,De,Es,It).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Aura-Aura Climber (Europe, Australia) (En,Fr,De,Es,It).cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,73 MiB"}
 }]}
