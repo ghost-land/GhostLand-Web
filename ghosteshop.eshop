@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 144
+"revision": 145
 },
 "storeContent": [
 {"info": {
@@ -9601,7 +9601,7 @@
 					"author": "Re-Logic",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 25Mo",
+					"additional": "Update",
 					"icon_index": 215,
 					"screenshots": 
 		            [{
@@ -10007,7 +10007,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 19,22Mo",
+					"additional": "Update",
 					"icon_index": 225,
 					"screenshots": 
 		            [{
@@ -10126,7 +10126,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "DEMO : 177,59Mo | Update : 328,77Mo | DLC : 3,15Mo",
+					"additional": "DEMO, Update & DLC",
 					"icon_index": 227,
 					"screenshots": 
 		            [{
@@ -10676,7 +10676,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "NEW3DS",
-					"additional": "Update : 95,21Mo | DLC : 2,19Go",
+					"additional": "Update & DLC",
 					"icon_index": 279,
 					"screenshots": 
 		            [{
@@ -11236,7 +11236,7 @@
 					"author": "Warner Bros. Games",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 2,82Mo",
+					"additional": "Update",
 					"icon_index": 294,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11344,7 +11344,7 @@
 					"author": "Warner Bros. Games",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 4,41Mo",
+					"additional": "Update",
 					"icon_index": 296,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11441,7 +11441,7 @@
 					"author": "Warner Bros. Games",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 1,61Mo",
+					"additional": "Update",
 					"icon_index": 298,
 					"screenshots": 
 		            [{
@@ -11510,7 +11510,7 @@
 					"author": "Warner Bros. Games",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 18,33Mo",
+					"additional": "Update",
 					"icon_index": 299,
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
@@ -11737,8 +11737,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"Update": "847,94Mo",
-					"additional": "Update : 43,82Mo",
+					"additional": "Update",
 					"icon_index": 305,
 					"screenshots": 
 		            [{
@@ -11989,7 +11988,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "DLC : 217,89Mo",
+					"additional": "DLC",
 					"icon_index": 309,
 					"screenshots": 
 		            [{
@@ -12287,7 +12286,7 @@
 					"author": "Konami",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 5,19Mo",
+					"additional": "Update",
 					"icon_index": 314,
 					"screenshots": 
 		            [{
@@ -12450,7 +12449,7 @@
 					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 45,92Mo",
+					"additional": "Update",
 					"icon_index": 319,
 					"screenshots": 
 		            [{
@@ -12513,7 +12512,7 @@
 					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "DLC : 342,94Ko",
+					"additional": "DLC",
 					"icon_index": 320,
 					"screenshots": 
 		            [{
@@ -12607,7 +12606,7 @@
 					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 36,28Mo",
+					"additional": "Update",
 					"icon_index": 321,
 					"screenshots": 
 		            [{
@@ -12686,7 +12685,7 @@
 					"author": "Renegade Kid",
 					"category": "eShop",
 					"console": "3DS",
-					"additional": "DEMO : 4,83Mo",
+					"additional": "DEMO",
 					"icon_index": 323,
 					"screenshots": 
 		            [{
@@ -12807,7 +12806,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 2,66Mo",
+					"additional": "Update",
 					"icon_index": 326,
 					"screenshots": 
 		            [{
@@ -12891,7 +12890,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "DLC : 794,75Ko",
+					"additional": "DLC",
 					"icon_index": 328,
 					"screenshots": 
 		            [{
@@ -13090,7 +13089,7 @@
 					"author": "Namco Bandai Games",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "DLC : 37,90Mo",
+					"additional": "DLC",
 					"icon_index": 333,
 					"screenshots": 
 		            [{
@@ -13413,7 +13412,7 @@
 					"author": "Capcom",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "DLC : 19,98Mo",
+					"additional": "DLC",
 					"icon_index": 340,
 					"screenshots": 
 		            [{
@@ -13795,7 +13794,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "DLC : 240,39Mo",
+					"additional": "DLC",
 					"icon_index": 350,
 					"screenshots": 
 		            [{
@@ -13894,7 +13893,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 32,18Mo",
+					"additional": "Update",
 					"icon_index": 352,
 					"screenshots": 
 		            [{
@@ -13993,7 +13992,7 @@
 					"author": "Nintendo",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 30,26Mo",
+					"additional": "Update",
 					"icon_index": 354,
 					"screenshots": 
 		            [{
@@ -14365,7 +14364,7 @@
 					"author": "Rising Star Games",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 2,52Mo",
+					"additional": "Update",
 					"icon_index": 362,
 					"screenshots": 
 		            [{
@@ -14453,7 +14452,7 @@
 					"author": "Atlus",
 					"category": "Games",
 					"console": "3DS",
-					"additional": "Update : 1,53Mo",
+					"additional": "Update",
 					"icon_index": 364,
 					"screenshots": 
 		            [{
@@ -14858,7 +14857,7 @@
 					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
-					"additional": "Update : 9,72Mo",
+					"additional": "Update",
 					"icon_index": 372,
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
@@ -15512,7 +15511,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 73,83Mo",
+		            "additional": "Update",
 					"icon_index": 394,
 					"screenshots": 
 		            [{
@@ -15589,7 +15588,7 @@
 		            "author": "Bandai Namco Entertainment",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 33,41Mo | DLC : 70,21Ko",
+		            "additional": "Update & DLC",
 					"icon_index": 395,
 					"screenshots": 
 		            [{
@@ -15961,7 +15960,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 121,42Mo",
+		            "additional": "DLC",
 					"icon_index": 401,
 					"screenshots": 
 		            [{
@@ -16029,7 +16028,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 546,09Mo",
+		            "additional": "DLC",
 					"icon_index": 402,
 					"screenshots": 
 		            [{
@@ -17238,7 +17237,7 @@
 		            "author": "MSL",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 5,18Mo",
+		            "additional": "Update",
 		            "icon_index": 16,
 					"sheet_index": 1,
 					"screenshots": 
@@ -17435,7 +17434,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 19,83Mo | DLC : 535,38Ko",
+		            "additional": "Update & DLC",
 		            "icon_index": 21,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18170,7 +18169,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 94,83Mo",
+		            "additional": "DLC",
 		            "icon_index": 41,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18217,7 +18216,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 3,14Mo | DLC : 3,73Mo",
+		            "additional": "Update & DLC",
 		            "icon_index": 42,
 		            "sheet_index": 1,
 		            "description": "",
@@ -18580,7 +18579,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "301,20Mo",
+		            "additional": "DLC",
 		            "icon_index": 51,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18808,7 +18807,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 30,26Mo",
+		            "additional": "Update",
  		            "icon_index": 57,
 					"sheet_index": 1,
 					"screenshots": 
@@ -18886,7 +18885,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 33,42Mo",
+		            "additional": "Update",
 		            "icon_index": 58,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19027,7 +19026,7 @@
 		            "author": "Namco Bandai Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 595,50Ko | Update : 11,24Mo",
+		            "additional": "DLC & Update",
 		            "icon_index": 60,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19191,7 +19190,7 @@
 		            "author": "Rondomedia",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 122,46Mo",
+		            "additional": "Update",
 		            "icon_index": 64,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19238,7 +19237,7 @@
 		            "author": "Capcom",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Spanish mas Update : 1,71Go",
+		            "additional": "Spanish mas Update",
 		            "icon_index": 65,
 					"sheet_index": 1,
 					"screenshots": 
@@ -19508,7 +19507,7 @@
 		            "author": "MSL",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 3,30Mo",
+		            "additional": "Update",
 		            "icon_index": 71,
 		            "sheet_index": 1,
 		            "description": "",
@@ -19850,7 +19849,7 @@
 		            "author": "XSEED Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 4,45Mo",
+		            "additional": "Update",
 		            "icon_index": 79,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20379,7 +20378,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 43,87Mo",
+		            "additional": "Update",
 		            "icon_index": 92,
 					"sheet_index": 1,
 					"screenshots": 
@@ -20535,7 +20534,7 @@
 		            "author": "Level 5",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 970Mo",
+		            "additional": "Update",
 		            "icon_index": 96,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21148,7 +21147,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 7,66Mo",
+		            "additional": "Update",
 		            "icon_index": 107,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21292,7 +21291,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 375Ko",
+		            "additional": "DLC",
 		            "icon_index": 110,
 		            "sheet_index": 1,
 		            "description": "",
@@ -21788,7 +21787,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 170,50Ko",
+		            "additional": "DLC",
 		            "icon_index": 122,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21849,7 +21848,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 2,38Mo | DLC : 24,38Mo",
+		            "additional": "Update & DLC",
 		            "icon_index": 123,
 					"sheet_index": 1,
 					"screenshots": 
@@ -21964,7 +21963,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 72,03Mo",
+		            "additional": "DLC",
 		            "icon_index": 125,
 		            "sheet_index": 1,
 		            "description": "",
@@ -22040,7 +22039,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 198,73Mo",
+		            "additional": "DLC",
 		            "icon_index": 127,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22191,7 +22190,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 78,31Ko",
+		            "additional": "DLC",
 		            "icon_index": 131,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22266,7 +22265,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 2,99Mo | DLC : 407,30Mo",
+		            "additional": "Update & DLC",
 		            "icon_index": 132,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22544,7 +22543,7 @@
 		            "author": "Aksys Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 1;14Mo",
+		            "additional": "Update",
 		            "icon_index": 138,
 					"sheet_index": 1,
 					"screenshots": 
@@ -22642,7 +22641,7 @@
 		            "author": "Natsume",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 4,54Mo | DLC : 3,01Mo",
+		            "additional": "Update & DLC",
 		            "icon_index": 140,
 		            "sheet_index": 1,
 		            "description": "",
@@ -23040,7 +23039,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 194,92Mo | DLC : 667,56Ko",
+		            "additional": "Update & DLC",
 		            "icon_index": 148,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23312,7 +23311,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 120,86Mo",
+		            "additional": "Update",
 		            "icon_index": 153,
 					"sheet_index": 1,
 					"screenshots": 
@@ -23644,7 +23643,7 @@
 		            "author": "Warner Bros. Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 17,75Mo | DLC : 1,91Mo",
+		            "additional": "Update & DLC",
 		            "icon_index": 160,
 					"sheet_index": 1,
 					"screenshots": 
@@ -24308,7 +24307,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 55,26Mo",
+		            "additional": "Update",
 		            "icon_index": 178,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25173,7 +25172,7 @@
 		            "author": "Sega",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 53,86Mo",
+		            "additional": "DLC",
 		            "icon_index": 200,
 		            "sheet_index": 1,
 		            "description": "",
@@ -25490,7 +25489,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 33,42Mo",
+		            "additional": "Update",
 		            "icon_index": 209,
 					"sheet_index": 1,
 					"screenshots": 
@@ -25899,7 +25898,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 73,52Mo | DLC : 318,81Ko",
+		            "additional": "Update & DLC",
 		            "icon_index": 221,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26021,7 +26020,7 @@
 		            "author": "NIS America",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 7Mo | DLC : 119,26Mo",
+		            "additional": "Update & DLC",
 		            "icon_index": 224,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26157,7 +26156,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-					"additional": "DLC : 33,01Mo",
+					"additional": "DLC",
 		            "icon_index": 227,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26541,7 +26540,7 @@
 		            "author": "Nighthawk Interactive",
 		            "category": "Games",
 		            "console": "NEW3DS",
-		            "additional": "DLC : 186,50Ko",
+		            "additional": "DLC",
   		            "icon_index": 238,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26783,7 +26782,7 @@
 		            "author": "XSEED Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 1,19Go",
+		            "additional": "DLC",
 		            "icon_index": 244,
 		            "sheet_index": 1,
 		            "description": "",
@@ -26902,7 +26901,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 2,64Mo | DLC :234,56Ko",
+		            "additional": "Update & DLC",
 		            "icon_index": 247,
 					"sheet_index": 1,
 					"screenshots": 
@@ -26980,7 +26979,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 414,69Ko",
+		            "additional": "DLC",
 		            "icon_index": 248,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27041,7 +27040,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 39,40Mo",
+		            "additional": "DLC",
 		            "icon_index": 249,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27102,7 +27101,7 @@
 		            "author": "Atlus",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 21,67Mo",
+		            "additional": "DLC",
 		            "icon_index": 250,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27192,7 +27191,7 @@
 		            "author": "Yacht Club Games",
 		            "category": "eShop",
 		            "console": "3DS",
-		            "additional": "Update : 171,75Mo",
+		            "additional": "Update",
 		            "icon_index": 252,
 					"sheet_index": 1,
 					"screenshots": 
@@ -27345,7 +27344,7 @@
 		            "author": "SEGA",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "70,31Ko",
+		            "additional": "DLC",
 		            "icon_index": 256,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28146,7 +28145,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 136,64Mo",
+		            "additional": "Update",
 		            "icon_index": 278,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28285,7 +28284,7 @@
 		            "author": "Square Enix",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 230,06Mo",
+		            "additional": "DLC",
 		            "icon_index": 282,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28332,7 +28331,7 @@
 		            "author": "Square Enix",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "DLC : 499,86Mo",
+		            "additional": "DLC",
 		            "icon_index": 283,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28500,7 +28499,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 13,11Mo",
+		            "additional": "Update",
 		            "icon_index": 287,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28714,7 +28713,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 764,72Mo",
+		            "additional": "Update",
 		            "icon_index": 293,
 		            "sheet_index": 1,
 		            "description": "",
@@ -28761,7 +28760,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 764,72Mo | DLC :122,44Ko",
+		            "additional": "Update & DLC",
 		            "icon_index": 294,
 		            "sheet_index": 1,
 		            "description": "",
@@ -30915,7 +30914,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 39,02Mo | DLC : 210,62Ko",
+		            "additional": "Update & DLC",
 		            "icon_index": 363,
 		            "sheet_index": 1,
 		            "description": "",
@@ -30979,7 +30978,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 40,79Mo | DLC : 230,69Ko",
+		            "additional": "Update & DLC",
 		            "icon_index": 364,
 		            "sheet_index": 1,
 		            "description": "",
@@ -31043,7 +31042,7 @@
 		            "author": "Square Enix",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 6,06Mo",
+		            "additional": "Update",
 		            "icon_index": 365,
 		            "sheet_index": 1,
 		            "description": "",
@@ -31119,7 +31118,7 @@
 		            "author": "Square Enix",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 4,48Mo",
+		            "additional": "Update",
 		            "icon_index": 367,
 		            "sheet_index": 1,
 		            "description": "",
@@ -31224,7 +31223,7 @@
 		            "author": "Tecmo Koei",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 2,86Mo",
+		            "additional": "Update",
 		            "icon_index": 370,
 		            "sheet_index": 1,
 		            "description": "",
@@ -33388,7 +33387,7 @@
 		            "author": "SEGA",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 2,38Mo",
+		            "additional": "Update",
 		            "icon_index": 24,
 		            "sheet_index": 2,
 		            "description": "",
@@ -33493,7 +33492,7 @@
 		            "author": "SEGA",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 11,40Mb",
+		            "additional": "Update",
 		            "icon_index": 27,
 		            "sheet_index": 2,
 		            "description": "",
@@ -33540,7 +33539,7 @@
 		            "author": "Spike Chunsoft",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 453,04Mo",
+		            "additional": "Update",
 		            "icon_index": 28,
 		            "sheet_index": 2,
 		            "description": "",
@@ -33616,7 +33615,7 @@
 		            "author": "Spike Chunsoft",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 8,12Mo",
+		            "additional": "Update",
 		            "icon_index": 30,
 		            "sheet_index": 2,
 		            "description": "",
@@ -33663,7 +33662,7 @@
 		            "author": "Nippon Columbia",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 31,27Mo",
+		            "additional": "Update",
 		            "icon_index": 31,
 		            "sheet_index": 2,
 		            "description": "",
@@ -33710,7 +33709,7 @@
 		            "author": "Bandai Namco Games",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 25,76Mo | 5 DLC (1 DLC = 120Mo)",
+		            "additional": "Update & DLC",
 		            "icon_index": 32,
 		            "sheet_index": 2,
 		            "description": "",
@@ -33842,7 +33841,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update : 204,48Mo",
+		            "additional": "Update",
 		            "icon_index": 33,
 		            "sheet_index": 2,
 		            "description": "",
@@ -34005,7 +34004,7 @@
 		            "author": "Kyusetzu",
 		            "category": "Homebrew",
 		            "console": "3DS",
-		            "additional": "Update : 14,73Mo",
+		            "additional": "Update",
 		            "icon_index": 38,
 		            "sheet_index": 2,
 		            "description": "",
