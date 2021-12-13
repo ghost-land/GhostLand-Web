@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 145
+"revision": 146
 },
 "storeContent": [
 {"info": {
@@ -1409,7 +1409,7 @@
 "Hello Kitty to Mahou no Apron: Rhythm Cooking (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hello%20Kitty%20to%20Mahou%20no%20Apron%3A%20Rhythm%20Cooking%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hello%20Kitty%20to%20Mahou%20no%20Apron%20-%20Rhythm%20Cooking%20%28JPN%29.cia",
 				   "output": "sdmc:/Hello Kitty to Mahou no Apron - Rhythm Cooking (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -2418,7 +2418,7 @@
 "Hoshi no Kirby: Triple Deluxe (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoshi%20no%20Kirby%3A%20Triple%20Deluxe%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoshi%20no%20Kirby%20-%20Triple%20Deluxe%20%28JPN%29.cia",
 				   "output": "sdmc:/Hoshi no Kirby - Triple Deluxe (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -5343,7 +5343,7 @@
 "Doubutsu no Mori: Happy Home Designer (JPN)": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/D/Doubutsu%20no%20Mori%3A%20Happy%20Home%20Designer%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/D/Doubutsu%20no%20Mori%20-%20Happy%20Home%20Designer%20%28JPN%29.cia",
 				   "output": "sdmc:/Doubutsu no Mori - Happy Home Designer (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -10978,7 +10978,7 @@
 "Inazuma Eleven Go 2: Chrono Stone - Neppuu (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%202%3A%20Chrono%20Stone%20-%20Neppuu%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%202%20-%20Chrono%20Stone%20-%20Neppuu%20%28JPN%29.cia",
 				   "output": "sdmc:/Inazuma Eleven Go 2 - Chrono Stone - Neppuu (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -16007,7 +16007,7 @@
 "Fire Emblem: Kakusei (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%3A%20Kakusei%20%28JPN%29%20%28REV1%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20-%20Kakusei%20%28JPN%29%20%28REV1%29.cia",
 				   "output": "sdmc:/Fire Emblem - Kakusei (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -16075,7 +16075,7 @@
 "Fire Emblem if: Special Edition (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20if%3A%20Special%20Edition%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20if%20-%20Special%20Edition%20%28JPN%29.cia",
 				   "output": "sdmc:/Fire Emblem if - Special Edition (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -16153,7 +16153,7 @@
 "KasekiHorider: MugenGear (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/KasekiHorider%3A%20MugenGear%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/KasekiHorider%20-%20MugenGear%20%28JPN%29.cia",
 				   "output": "sdmc:/KasekiHorider - MugenGear (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -16297,7 +16297,7 @@
 "Gardening Mama: Mama to Mori no Nakama Tachi (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gardening%20Mama%3A%20Mama%20to%20Mori%20no%20Nakama%20Tachi%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gardening%20Mama%20-%20Mama%20to%20Mori%20no%20Nakama%20Tachi%20%28JPN%29.cia",
 				   "output": "sdmc:/Gardening Mama - Mama to Mori no Nakama Tachi (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -16375,7 +16375,7 @@
 "Hello Kitty to Sanrio Characters: World Rock Tour (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hello%20Kitty%20to%20Sanrio%20Characters%3A%20World%20Rock%20Tour%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hello%20Kitty%20to%20Sanrio%20Characters%20-%20World%20Rock%20Tour%20%28JPN%29.cia",
 				   "output": "sdmc:/Hello Kitty to Sanrio Characters - World Rock Tour (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -17013,7 +17013,7 @@
 "Inazuma Eleven Go 2: Chrono Stone - Raimei (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%202%3A%20Chrono%20Stone%20-%20Raimei%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%202%20-%20Chrono%20Stone%20-%20Raimei%20%28JPN%29.cia",
 				   "output": "sdmc:/Inazuma Eleven Go 2 - Chrono Stone - Raimei (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -17073,7 +17073,7 @@
 "Inazuma Eleven Go: Shine (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%3A%20Shine%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%20-%20Shine%20%28JPN%29.cia",
 				   "output": "sdmc:/Inazuma Eleven Go - Shine (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -17124,7 +17124,7 @@
 "Inazuma Eleven Go: Dark (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%3A%20Dark%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%20-%20Dark%20%28JPN%29.cia",
 				   "output": "sdmc:/Inazuma Eleven Go - Dark (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -18119,7 +18119,7 @@
 "Naruto Shippuden: Shinobi Rittai Emaki! Saikyou Ninkai Kessen!! (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Naruto%20Shippuden%3A%20Shinobi%20Rittai%20Emaki%21%20Saikyou%20Ninkai%20Kessen%21%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Naruto%20Shippuden%20-%20Shinobi%20Rittai%20Emaki%21%20Saikyou%20Ninkai%20Kessen%21%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Naruto Shippuden - Shinobi Rittai Emaki Saikyou Ninkai Kessen (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -18276,7 +18276,7 @@
 "Girls Mode 3: Kirakira ☆ Code (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20Mode%203%3A%20Kirakira%20%2A%20Code%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20Mode%203%20-%20Kirakira%20%E2%98%86%20Code%20%28JPN%29.cia",
 				   "output": "sdmc:/Girls Mode 3 - Kirakira Code (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -18322,7 +18322,7 @@
 "Girls Mode 4: Star Stylist (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20Mode%204%3A%20Star%20Stylist%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20Mode%204%20-%20Star%20Stylist%20%28JPN%29.cia",
 				   "output": "sdmc:/Girls Mode 4 - Star Stylist (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -20426,7 +20426,7 @@
 "Tomodachi Collection: Shin Seikatsu (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/T/Tomodachi%20Collection%3A%20Shin%20Seikatsu%20%28JPN%29%20%28REV2%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/T/Tomodachi%20Collection%20-%20Shin%20Seikatsu%20%28JPN%29%20%28REV2%29.cia",
 				   "output": "sdmc:/Tomodachi Collection - Shin Seikatsu (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -22333,7 +22333,7 @@
 "Fire Emblem Echoes: Mou Hitori no Eiyuu Ou (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20Echoes%3A%20Mou%20Hitori%20no%20Eiyuu%20Ou%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20Echoes%20-%20Mou%20Hitori%20no%20Eiyuu%20Ou%20%28JPN%29.cia",
 				   "output": "sdmc:/Fire Emblem Echoes - Mou Hitori no Eiyuu Ou (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -22488,7 +22488,7 @@
 "Happy ☆ Animal Bokujou (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Happy%20%2A%20Animal%20Bokujou%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Happy%20%E2%98%86%20Animal%20Bokujou%20%28JPN%29.cia",
 				   "output": "sdmc:/Happy Animal Bokujou (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -22841,7 +22841,7 @@
 "Hatsune Miku: Project Mirai Deluxe (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hatsune%20Miku%3A%20Project%20Mirai%20Deluxe%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hatsune%20Miku%20-%20Project%20Mirai%20Deluxe%20%28JPN%29.cia",
 				   "output": "sdmc:/Hatsune Miku - Project Mirai Deluxe (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -23227,7 +23227,7 @@
 "Girls Fashion 3D: Mezase! Top Stylist (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20Fashion%203D%3A%20Mezase%21%20Top%20Stylist%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20Fashion%203D%20-%20Mezase%21%20Top%20Stylist%20%28JPN%29.cia",
 				   "output": "sdmc:/Girls Fashion 3D - Mezase Top Stylist (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -23414,7 +23414,7 @@
 "Hoshi no Kirby: Robobo Planet (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoshi%20no%20Kirby%3A%20Robobo%20Planet%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoshi%20no%20Kirby%20-%20Robobo%20Planet%20%28JPN%29.cia",
 				   "output": "sdmc:/Hoshi no Kirby - Robobo Planet (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -23588,7 +23588,7 @@
 "LEGO City Undercover: The Chase Begins (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/L/LEGO%20City%20Undercover%3A%20The%20Chase%20Begins%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/L/LEGO%20City%20Undercover%20-%20The%20Chase%20Begins%20%28JPN%29.cia",
 				   "output": "sdmc:/LEGO City Undercover - The Chase Begins (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -24979,7 +24979,7 @@
 "Nintendogs + Cats: French Bulldog & New Friends (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Nintendogs%20%2B%20Cats%3A%20French%20Bulldog%20%26%20New%20Friends%20%28JPN%29%20%28REV2%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Nintendogs%20%2B%20Cats%20-%20French%20Bulldog%20%26%20New%20Friends%20%28JPN%29%20%28REV2%29.cia",
 				   "output": "sdmc:/Nintendogs + Cats - French Bulldog & New Friends (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -25030,7 +25030,7 @@
 "Nintendogs + Cats: Toy Poodle & New Friends (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Nintendogs%20%2B%20Cats%3A%20Toy%20Poodle%20%26%20New%20Friends%20%28JPN%29%20%28REV2%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Nintendogs%20%2B%20Cats%20-%20Toy%20Poodle%20%26%20New%20Friends%20%28JPN%29%20%28REV2%29.cia",
 				   "output": "sdmc:/Nintendogs + Cats - Toy Poodle & New Friends (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31365,7 +31365,7 @@
 "Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/E/Elminage%20Gothic%203D%20Remix%3A%20Ulm%20Zakir%20to%20Yami%20no%20Gishiki%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/E/Elminage%20Gothic%203D%20Remix%20-%20Ulm%20Zakir%20to%20Yami%20no%20Gishiki%20%28JPN%29.cia",
 				   "output": "sdmc:/Elminage Gothic 3D Remix - Ulm Zakir to Yami no Gishiki (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31394,7 +31394,7 @@
 "Elminage Ibun: Ame no Mihashira Kai": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/E/Elminage%20Ibun%3A%20Ame%20no%20Mihashira%20Kai%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/E/Elminage%20Ibun%20-%20Ame%20no%20Mihashira%20Kai%20%28JPN%29.cia",
 				   "output": "sdmc:/Elminage Ibun - Ame no Mihashira Kai (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31510,7 +31510,7 @@
 "Farming Simulator 14: Pocket Nouen 2": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Farming%20Simulator%2014%3A%20Pocket%20Nouen%202%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Farming%20Simulator%2014%20-%20Pocket%20Nouen%202%20%28JPN%29.cia",
 				   "output": "sdmc:/Farming Simulator 14 - Pocket Nouen 2 (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31539,7 +31539,7 @@
 "Farming Simulator 3D: Pocket Nouen": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Farming%20Simulator%203D%3A%20Pocket%20Nouen%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Farming%20Simulator%203D%20-%20Pocket%20Nouen%20%28JPN%29.cia",
 				   "output": "sdmc:/Farming Simulator 3D - Pocket Nouen (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31568,7 +31568,7 @@
 "Fate/Kaleid Liner: Prisma ☆ Illya": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fate_Kaleid%20Liner%3A%20Prisma%20%2A%20Illya%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fate_Kaleid%20Liner%20-%20Prisma%20%E2%98%86%20Illya%20%28JPN%29.cia",
 				   "output": "sdmc:/Fate_Kaleid Liner - Prisma Illya (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31597,7 +31597,7 @@
 "Fire Emblem If: Byakuya Oukoku": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20If%3A%20Byakuya%20Oukoku%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20If%20-%20Byakuya%20Oukoku%20%28JPN%29.cia",
 				   "output": "sdmc:/Fire Emblem If - Byakuya Oukoku (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31626,7 +31626,7 @@
 "Fire Emblem if: Anya Oukoku": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20if%3A%20Anya%20Oukoku%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Fire%20Emblem%20if%20-%20Anya%20Oukoku%20%28JPN%29.cia",
 				   "output": "sdmc:/Fire Emblem if - Anya Oukoku (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31684,7 +31684,7 @@
 "Future Card Buddy Fight: Yuujou no Jounetsu Fight!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Future%20Card%20Buddy%20Fight%3A%20Yuujou%20no%20Jounetsu%20Fight%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/F/Future%20Card%20Buddy%20Fight%20-%20Yuujou%20no%20Jounetsu%20Fight%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Future Card Buddy Fight - Yuujou no Jounetsu Fight (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31829,7 +31829,7 @@
 "Game Center CX: 3-Choume no Arino": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Game%20Center%20CX%3A%203-Choume%20no%20Arino%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Game%20Center%20CX%20-%203-Choume%20no%20Arino%20%28JPN%29.cia",
 				   "output": "sdmc:/Game Center CX - 3-Choume no Arino (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31858,7 +31858,7 @@
 "Girls RPG: Cinderellife": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20RPG%3A%20Cinderellife%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Girls%20RPG%20-%20Cinderellife%20%28JPN%29.cia",
 				   "output": "sdmc:/Girls RPG - Cinderellife (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31916,7 +31916,7 @@
 "Gon: BakuBakuBakuBaku Adventure": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gon%3A%20BakuBakuBakuBaku%20Adventure%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gon%20-%20BakuBakuBakuBaku%20Adventure%20%28JPN%29.cia",
 				   "output": "sdmc:/Gon - BakuBakuBakuBaku Adventure (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31945,7 +31945,7 @@
 "Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gotouchi%20Tetsudou%3A%20Gotouchi%20Chara%20to%20Nihon%20Zenkoku%20no%20Tabi%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gotouchi%20Tetsudou%20-%20Gotouchi%20Chara%20to%20Nihon%20Zenkoku%20no%20Tabi%20%28JPN%29.cia",
 				   "output": "sdmc:/Gotouchi Tetsudou - Gotouchi Chara to Nihon Zenkoku no Tabi (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -31974,7 +31974,7 @@
 "Gudetama: Hanjuku de Tanomuwa": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gudetama%3A%20Hanjuku%20de%20Tanomuwa%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gudetama%20-%20Hanjuku%20de%20Tanomuwa%20%28JPN%29.cia",
 				   "output": "sdmc:/Gudetama - Hanjuku de Tanomuwa (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32003,7 +32003,7 @@
 "Gudetama: Okawari Ikagassuka": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gudetama%3A%20Okawari%20Ikagassuka%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gudetama%20-%20Okawari%20Ikagassuka%20%28JPN%29.cia",
 				   "output": "sdmc:/Gudetama - Okawari Ikagassuka (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32090,7 +32090,7 @@
 "Gundam: The 3D Battle": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gundam%3A%20The%203D%20Battle%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gundam%20-%20The%203D%20Battle%20%28JPN%29.cia",
 				   "output": "sdmc:/Gundam - The 3D Battle (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32148,7 +32148,7 @@
 "Gyakuten Saiban 123: Naruhodo Selection": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gyakuten%20Saiban%20123%3A%20Naruhodo%20Selection%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/G/Gyakuten%20Saiban%20123%20-%20Naruhodo%20Selection%20%28JPN%29.cia",
 				   "output": "sdmc:/Gyakuten Saiban 123 - Naruhodo Selection (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32322,7 +32322,7 @@
 "Hamatora: Look at Smoking World": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hamatora%3A%20Look%20at%20Smoking%20World%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hamatora%20-%20Look%20at%20Smoking%20World%20%28JPN%29.cia",
 				   "output": "sdmc:/Hamatora - Look at Smoking World (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32380,7 +32380,7 @@
 "Happiness Charge PreCure! Kawa-Run ☆ Collection": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Happiness%20Charge%20PreCure%21%20Kawa-Run%20%2A%20Collection%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Happiness%20Charge%20PreCure%21%20Kawa-Run%20%E2%98%86%20Collection%20%28JPN%29.cia",
 				   "output": "sdmc:/Happiness Charge PreCure Kawa-Run Collection (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32409,7 +32409,7 @@
 "Hatsune Miku and Future Stars: Project Mirai": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hatsune%20Miku%20and%20Future%20Stars%3A%20Project%20Mirai%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hatsune%20Miku%20and%20Future%20Stars%20-%20Project%20Mirai%20%28JPN%29.cia",
 				   "output": "sdmc:/Hatsune Miku and Future Stars - Project Mirai (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32438,7 +32438,7 @@
 "Hatsune Miku: Project Mirai 2": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hatsune%20Miku%3A%20Project%20Mirai%202%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hatsune%20Miku%20-%20Project%20Mirai%202%20%28JPN%29.cia",
 				   "output": "sdmc:/Hatsune Miku - Project Mirai 2 (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32612,7 +32612,7 @@
 "Hime Girl Paradise: Mechikawa! Agemori Sensation!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hime%20Girl%20Paradise%3A%20Mechikawa%21%20Agemori%20Sensation%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hime%20Girl%20Paradise%20-%20Mechikawa%21%20Agemori%20Sensation%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Hime Girl Paradise - Mechikawa Agemori Sensation (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32641,7 +32641,7 @@
 "HoppeChan: Punitto Shibotte Daibouken!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/HoppeChan%3A%20Punitto%20Shibotte%20Daibouken%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/HoppeChan%20-%20Punitto%20Shibotte%20Daibouken%21%20%28JPN%29.cia",
 				   "output": "sdmc:/HoppeChan - Punitto Shibotte Daibouken (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32670,7 +32670,7 @@
 "Hoppechan: Minna de Odekake! Wakuwaku Hoppe Land!!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoppechan%3A%20Minna%20de%20Odekake%21%20Wakuwaku%20Hoppe%20Land%21%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoppechan%20-%20Minna%20de%20Odekake%21%20Wakuwaku%20Hoppe%20Land%21%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Hoppechan - Minna de Odekake Wakuwaku Hoppe Land (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32699,7 +32699,7 @@
 "Hoppechan: Tsukutte! Asonde! Punipuni Town!!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoppechan%3A%20Tsukutte%21%20Asonde%21%20Punipuni%20Town%21%21%20%28JPN%29%20%28REV1%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/H/Hoppechan%20-%20Tsukutte%21%20Asonde%21%20Punipuni%20Town%21%21%20%28JPN%29%20%28REV1%29.cia",
 				   "output": "sdmc:/Hoppechan - Tsukutte Asonde Punipuni Town (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32757,7 +32757,7 @@
 "Idol Time PriPara: Yume All-Star Live!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Idol%20Time%20PriPara%3A%20Yume%20All-Star%20Live%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Idol%20Time%20PriPara%20-%20Yume%20All-Star%20Live%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Idol Time PriPara - Yume All-Star Live (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32815,7 +32815,7 @@
 "Inazuma Eleven Go: Galaxy Big Bang": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%3A%20Galaxy%20Big%20Bang%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%20-%20Galaxy%20Big%20Bang%20%28JPN%29.cia",
 				   "output": "sdmc:/Inazuma Eleven Go - Galaxy Big Bang (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32844,7 +32844,7 @@
 "Inazuma Eleven Go: Galaxy Supernova": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%3A%20Galaxy%20Supernova%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/I/Inazuma%20Eleven%20Go%20-%20Galaxy%20Supernova%20%28JPN%29.cia",
 				   "output": "sdmc:/Inazuma Eleven Go - Galaxy Supernova (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32902,7 +32902,7 @@
 "JS Girl: Doki Doki Model Challenge": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/JS%20Girl%3A%20Doki%20Doki%20Model%20Challenge%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/JS%20Girl%20-%20Doki%20Doki%20Model%20Challenge%20%28JPN%29.cia",
 				   "output": "sdmc:/JS Girl - Doki Doki Model Challenge (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32960,7 +32960,7 @@
 "Jewel Pet: Cafe de Mahou no Cooking!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jewel%20Pet%3A%20Cafe%20de%20Mahou%20no%20Cooking%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jewel%20Pet%20-%20Cafe%20de%20Mahou%20no%20Cooking%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Jewel Pet - Cafe de Mahou no Cooking (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -32989,7 +32989,7 @@
 "Jewel Pet: Mahou de Oshare ni Dance ☆ Deco!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jewel%20Pet%3A%20Mahou%20de%20Oshare%20ni%20Dance%20%2A%20Deco%21%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jewel%20Pet%20-%20Mahou%20de%20Oshare%20ni%20Dance%20%E2%98%86%20Deco%21%20%28JPN%29.cia",
 				   "output": "sdmc:/Jewel Pet - Mahou de Oshare ni Dance Deco (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33018,7 +33018,7 @@
 "Jewel Pet: Mahou no Rhythm de Ieie!": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jewel%20Pet%3A%20Mahou%20no%20Rhythm%20de%20Ieie%21%20%28JPN%29%20%28REV1%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jewel%20Pet%20-%20Mahou%20no%20Rhythm%20de%20Ieie%21%20%28JPN%29%20%28REV1%29.cia",
 				   "output": "sdmc:/Jewel Pet - Mahou no Rhythm de Ieie (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33076,7 +33076,7 @@
 "Jikkyou Powerful Pro Yakyuu Heroes: Jisedai World Hobby Fair 17 Winter Tokubetsu Taikenban": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jikkyou%20Powerful%20Pro%20Yakyuu%20Heroes%3A%20Jisedai%20World%20Hobby%20Fair%2017%20Winter%20Tokubetsu%20Taikenban%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jikkyou%20Powerful%20Pro%20Yakyuu%20Heroes%20-%20Jisedai%20World%20Hobby%20Fair%2017%20Winter%20Tokubetsu%20Taikenban%20%28JPN%29.cia",
 				   "output": "sdmc:/Jikkyou Powerful Pro Yakyuu Heroes - Jisedai World Hobby Fair 17 Winter Tokubetsu Taikenban (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33105,7 +33105,7 @@
 "Jukugo: Sokubiki Jiten": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jukugo%3A%20Sokubiki%20Jiten%20%28JPN%29%20%28REV1%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/J/Jukugo%20-%20Sokubiki%20Jiten%20%28JPN%29%20%28REV1%29.cia",
 				   "output": "sdmc:/Jukugo - Sokubiki Jiten (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33134,7 +33134,7 @@
 "Kaite Oboeru: DoraGana": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kaite%20Oboeru%3A%20DoraGana%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kaite%20Oboeru%20-%20DoraGana%20%28JPN%29.cia",
 				   "output": "sdmc:/Kaite Oboeru - DoraGana (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33163,7 +33163,7 @@
 "Kaitou Joker: Toki o Koeru Kaitou to Ushinawareta Houseki": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kaitou%20Joker%3A%20Toki%20o%20Koeru%20Kaitou%20to%20Ushinawareta%20Houseki%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kaitou%20Joker%20-%20Toki%20o%20Koeru%20Kaitou%20to%20Ushinawareta%20Houseki%20%28JPN%29.cia",
 				   "output": "sdmc:/Kaitou Joker - Toki o Koeru Kaitou to Ushinawareta Houseki (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33192,7 +33192,7 @@
 "Kamen Rider: Travelers Senki": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kamen%20Rider%3A%20Travelers%20Senki%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kamen%20Rider%20-%20Travelers%20Senki%20%28JPN%29.cia",
 				   "output": "sdmc:/Kamen Rider - Travelers Senki (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33221,7 +33221,7 @@
 "Kamiwaza Wanda: Kirakira Ichibangai Kikiippatsu": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kamiwaza%20Wanda%3A%20Kirakira%20Ichibangai%20Kikiippatsu%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/K/Kamiwaza%20Wanda%20-%20Kirakira%20Ichibangai%20Kikiippatsu%20%28JPN%29.cia",
 				   "output": "sdmc:/Kamiwaza Wanda - Kirakira Ichibangai Kikiippatsu (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33337,7 +33337,7 @@
 "Nintendogs + Cats: Shiba & New Friends": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Nintendogs%20%2B%20Cats%3A%20Shiba%20%26%20New%20Friends%20%28JPN%29%20%28REV2%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/Nintendogs%20%2B%20Cats%20-%20Shiba%20%26%20New%20Friends%20%28JPN%29%20%28REV2%29.cia",
 				   "output": "sdmc:/Nintendogs + Cats - Shiba & New Friends (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -33954,7 +33954,7 @@
 "Yo-kai Watch 3: Sukiyaki": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/Y/Yo-kai%20Watch%203%3A%20Sukiyaki%20%28JPN%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/Y/Yo-kai%20Watch%203%20-%20Sukiyaki%20%28JPN%29.cia",
 				   "output": "sdmc:/Yo-kai Watch 3 - Sukiyaki (JPN).cia",
 				   "message": "Downloading your current game..."
 }, 
