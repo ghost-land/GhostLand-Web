@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 146
+"revision": 147
 },
 "storeContent": [
 {"info": {
@@ -14768,7 +14768,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Skylanders Trap Team (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "916 MiB"},
 "Skylanders Trap Team (USA)": {
 	"script": [{
 				   "type": "downloadFile",
@@ -14785,7 +14785,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Skylanders Trap Team (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "715 MiB"}
 },
 {"info": {
 					"title": "Splash or Crash",
@@ -15369,7 +15369,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Cooking Mama 5 - Bon Appetit (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "211 MiB"},
 "Cooking Mama 5 (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15386,7 +15386,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Cooking Mama 5 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "207 MiB"}
 },
 {"info": {
 		            "title": "Cooking Mama: Sweet Shop",
@@ -15546,7 +15546,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball - Fusions (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "632 MiB"},
 "Dragon Ball: Fusions - Update 2.2.0 (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15563,7 +15563,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball - Fusions - DLC (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "73,8 MiB"},
 "Dragon Ball: Fusions (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15580,7 +15580,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball - Fusions (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "613 MiB"}
 },
 {"info": {
 		            "title": "Dragon Ball Z: Extreme Butoden",
@@ -15623,7 +15623,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "360 MiB"},
 "Dragon Ball Z: Extreme Butoden (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15640,7 +15640,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "359 MiB"},
 "Dragon Ball Z: Chou Kyuukyoku Butouden (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15657,7 +15657,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Chou Kyuukyoku Butouden (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "310 MiB"},
 "Dragon Ball Z: Extreme Butoden - Update 1.1 (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15674,7 +15674,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "33,4 MiB"},
 "Dragon Ball Z: Extreme Butoden - Update (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15691,7 +15691,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden - Update (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "32,2 MiB"},
 "Dragon Ball Z: Chou Kyuukyoku Butouden - Update 1.6 (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15708,7 +15708,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Chou Kyuukyoku Butouden - Update 1.6 (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "116 MiB"},
 "Dragon Ball Z: Extreme Butoden - DLC (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15725,7 +15725,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden - DLC (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "70,3 KiB"},
 "Dragon Ball Z: Extreme Butoden - DLC (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15742,7 +15742,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Extreme Butoden - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "70,3 KiB"},
 "Dragon Ball Z: Chou Kyuukyoku Butouden - DLC (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15759,7 +15759,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Ball Z - Chou Kyuukyoku Butouden - DLC (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "70,3 KiB"}
 },
 {"info": {
 		            "title": "DualPenSports",
@@ -15890,7 +15890,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fantasy Explorers (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "626 MiB"},
 "Final Fantasy Explorers™ (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15907,7 +15907,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fantasy Explorers (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "626 MiB"},
 "Final Fantasy Explorers (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -15924,7 +15924,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fantasy Explorers (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "542 MiB"}
 },
 {"info": {
 		            "title": "Finding Nemo: Escape to the Big Blue - Special Edition",
@@ -15986,7 +15986,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fire Emblem Awakening (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,07 GiB"},
 "Fire Emblem: Awakening - DLC (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16003,7 +16003,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fire Emblem Awakening - DLC (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "121 MiB"},
 "Fire Emblem: Kakusei (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16020,7 +16020,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fire Emblem - Kakusei (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,19 GiB"}
 },
 {"info": {
 		            "title": "Fire Emblem Fates: Special Edition",
@@ -16054,7 +16054,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fire Emblem - Fates Special Edition (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,74 GiB"},
 "Fire Emblem Fates: Special Edition - DLC (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16071,7 +16071,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fire Emblem - Fates Special Edition - DLC (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "546 MiB"},
 "Fire Emblem if: Special Edition (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16088,7 +16088,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fire Emblem if - Special Edition (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,69 GiB"}
 },
 {"info": {
 		            "title": "Fireman Sam: To the Rescue",
@@ -16149,7 +16149,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fossil Fighters - Frontier (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,46 GiB"},
 "KasekiHorider: MugenGear (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16166,7 +16166,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/KasekiHorider - MugenGear (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,31 GiB"}
 },
 {"info": {
 		            "title": "Funfair Party Games",
@@ -16293,7 +16293,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gardening Mama - Forest Friends (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "215 MiB"},
 "Gardening Mama: Mama to Mori no Nakama Tachi (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16310,7 +16310,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gardening Mama - Mama to Mori no Nakama Tachi (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "211 MiB"}
 },
 {"info": {
 		            "title": "Gardenscapes",
@@ -16371,7 +16371,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hello Kitty & Friends - Rock n World Tour (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "215 MiB"},
 "Hello Kitty to Sanrio Characters: World Rock Tour (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16388,7 +16388,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hello Kitty to Sanrio Characters - World Rock Tour (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "184 MiB"}
 },
 {"info": {
 		            "title": "Hello Kitty and Sanrio Friends 3D Racing",
@@ -16571,7 +16571,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hollywood Fame - Hidden Object Adventure (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "77,8 MiB"}
 },
 {"info": {
 		            "title": "Horrid Henry: The Good, The Bad & The Bugly",
@@ -16599,7 +16599,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Horrid Henry - The Good The Bad & the Bugly (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "166 MiB"}
 },
 {"info": {
 		            "title": "Mario & Luigi: Paper Jam Bros",
@@ -16642,7 +16642,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario & Luigi - Paper Jam Bros (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "505 MiB"},
 "Mario & Luigi: Paper Jam Bros (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16659,7 +16659,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario & Luigi - Paper Jam Bros (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "429 MiB"}
 },
 {"info": {
 		            "title": "100% Pascal Sensei: Kanpeki Paint Bombers",
@@ -16688,7 +16688,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/100% Pascal Sensei: Kanpeki Paint Bombers (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "257 MiB"}
 },
 {"info": {
 		            "title": "Halo Revamped 3DS",
@@ -16730,7 +16730,7 @@
 				   "input": "",
 				   "output": "/3ds/",
 				   "message": "Extracting the important files..."}],
-					"size": ""}
+					"size": "100,49 MiB"}
 },
 {"info": {
 		            "title": "Timberman",
@@ -16759,7 +16759,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Timberman (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "10,1 MiB"}
 },
 {"info": {
 		            "title": "Ice Age 4: Continental Drift - Arctic Games",
@@ -16788,7 +16788,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ice Age 4 - Continental Drift - Arctic Games (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "710 MiB"}
 },
 {"info": {
 		            "title": "Imagine Babyz",
@@ -16822,7 +16822,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Imagine Babies 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "187 MiB"},
 "Imagine Babyz (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -16839,7 +16839,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Imagine Babyz (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "187 MiB"}
 },
 {"info": {
 		            "title": "Imagine Champion Rider 3D",
@@ -16868,7 +16868,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Imagine Champion Rider 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "196 MiB"}
 },
 {"info": {
 		            "title": "Imagine Collection",
@@ -16897,7 +16897,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Imagine Collection (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "512 MiB"}
 },
 {"info": {
 		            "title": "Imagine Fashion World 3D",
@@ -16926,7 +16926,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Imagine Fashion World 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "90,1 MiB"}
 },
 {"info": {
 		            "title": "Inazuma Eleven 3: Lightning Bolt",
@@ -16969,7 +16969,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven 3 - Lightning Bolt (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,61 GiB"}
 },
 {"info": {
 		            "title": "Inazuma Eleven GO: Chrono Stones - Thunderflash",
@@ -17009,7 +17009,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven GO - Chrono Stones - Thunderflash (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,25 GiB"},
 "Inazuma Eleven Go 2: Chrono Stone - Raimei (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17026,7 +17026,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven Go 2 - Chrono Stone - Raimei (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "2,40 GiB"}
 },
 {"info": {
 		            "title": "Inazuma Eleven GO: Light",
@@ -17069,7 +17069,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven GO - Light (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "2,87 GiB"},
 "Inazuma Eleven Go: Shine (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17086,7 +17086,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven Go - Shine (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,52 GiB"}
 },
 {"info": {
 		            "title": "Inazuma Eleven GO: Shadow",
@@ -17120,7 +17120,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven GO - Shadow (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "2,87 GiB"},
 "Inazuma Eleven Go: Dark (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17137,7 +17137,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven Go - Dark (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,52 GiB"}
 },
 {"info": {
 		            "title": "Jewel Link Double Pack: Safari Quest & Atlantic Quest",
@@ -17166,7 +17166,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Link Double Pack - Safari Quest and Atlantic Quest (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "45 MiB"}
 },
 {"info": {
 		            "title": "Jewel Link: Legends of Atlantis 3D",
@@ -17195,7 +17195,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Link - Legends of Atlantis 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "90,5 MiB"}
 },
 {"info": {
 		            "title": "Jewel Match 3",
@@ -17229,7 +17229,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Match 3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "49,6 MiB"}
 },
 {"info": {
 		            "title": "Jewel Quest 6: The Sapphire Dragon",
@@ -17264,7 +17264,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Quest 6 - The Sapphire Dragon (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "207 MiB"},
 "Jewel Quest 6: The Sapphire Dragon (Update 1.1)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17281,7 +17281,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Quest 6 - The Sapphire Dragon (Update 1.1) (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,17 MiB"}
 },
 {"info": {
 		            "title": "Jewel Quest IV: Heritage",
@@ -17315,7 +17315,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Quest IV - Heritage (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "90,2 MiB"}
 },
 {"info": {
 		            "title": "Jewel Quest Mysteries 3: The Seventh Gate",
@@ -17349,7 +17349,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Quest Mysteries 3 - The Seventh Gate (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "75,5 MiB"}
 },
 {"info": {
 		            "title": "Junior Games 3D",
@@ -17383,7 +17383,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Junior Games 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "69,2 MiB"}
 },
 {"info": {
 		            "title": "Kingdom Hearts 3D: Dream Drop Distance",
@@ -17426,7 +17426,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kingdom Hearts 3D - Dream Drop Distance (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "541 MiB"}
 },
 {"info": {
 		            "title": "Layton's Mystery Journey: Katrielle and the Millionaires Conspiracy",
@@ -17473,7 +17473,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Laytons Mystery Journey - Katrielle and the Millionaires Conspiracy (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,12 GiB"},
 "Layton's Mystery Journey: Katrielle and the Millionaires Conspiracy (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17490,7 +17490,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Laytons Mystery Journey - Katrielle and the Millionaires Conspiracy (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "891 MiB"},
 "Layton's Mystery Journey: Katrielle and the Millionaires Conspiracy - Update 1.2 (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17507,7 +17507,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Laytons Mystery Journey - Katrielle and the Millionaires Conspiracy - Update 1.2 (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "19,8 MiB"},
 "Layton's Mystery Journey: Katrielle and the Millionaires Conspiracy - DLC (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17524,7 +17524,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Laytons Mystery Journey - Katrielle and the Millionaires Conspiracy - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "535 KiB"}
 },
 {"info": {
 		            "title": "Lucky Luke & The Daltons",
@@ -17558,7 +17558,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Lucky Luke and The Daltons (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "41,7 MiB"}
 },
 {"info": {
 		            "title": "Luv Me Buddies Wonderland",
@@ -17587,7 +17587,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Luv Me Buddies Wonderland (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "50,9 MiB"}
 },
 {"info": {
 		            "title": "Luxor",
@@ -17621,7 +17621,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Luxor (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "27,2 MiB"}
 },
 {"info": {
 		            "title": "Madagascar 3: Europes Most Wanted & The Croods: Prehistoric Party! Combo Pack",
@@ -17650,7 +17650,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Madagascar 3 - Europes Most Wanted & The Croods - Prehistoric Party Combo Pack (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "138 MiB"}
 },
 {"info": {
 		            "title": "Mahjong Mysteries: Ancient Athena 3D",
@@ -17684,7 +17684,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mahjong Mysteries - Ancient Athena 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "33,3 MiB"}
 },
 {"info": {
 		            "title": "Mario Tennis Open",
@@ -17718,7 +17718,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario Tennis Open (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "251 MiB"},
 "Mario Tennis - Open (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -17735,7 +17735,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario Tennis - Open (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "251 MiB"}
 },
 {"info": {
 		            "title": "Mi Osito y Yo",
@@ -17764,7 +17764,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mi Osito y Yo (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "385 MiB"}
 },
 {"info": {
 		            "title": "Mike the Knight and the Great Gallop",
@@ -17793,7 +17793,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mike the Knight and the Great Gallop (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "27,6 MiB"}
 },
 {"info": {
 		            "title": "Monster High: New Ghoul in School",
@@ -17822,7 +17822,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Monster High - New Ghoul in School (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "171 MiB"}
 },
 {"info": {
 		            "title": "My Exotic Farm",
@@ -17856,7 +17856,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/My Exotic Farm (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "36,1 MiB"}
 },
 {"info": {
 		            "title": "My Farm 3D",
@@ -17885,7 +17885,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/My Farm 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "36,1 MiB"}
 },
 {"info": {
 		            "title": "My Zoo: Vet Practice 3D",
@@ -17914,7 +17914,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/My Zoo - Vet Practice 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "41,3 MiB"}
 },
 {"info": {
 		            "title": "Mystery Case Files: Dire Grove",
@@ -17948,7 +17948,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mystery Case Files - Dire Grove (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "199 MiB"}
 },
 {"info": {
 		            "title": "Mystery Case Files: Ravenhearst",
@@ -17982,7 +17982,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mystery Case Files - Ravenhearst (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "107 MiB"}
 },
 {"info": {
 		            "title": "Mystery Case Files: Return to Ravenhearst",
@@ -18011,7 +18011,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mystery Case Files - Return to Ravenhearst (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "167 MiB"}
 },
 {"info": {
 		            "title": "Mystery Murders: Jack the Ripper",
@@ -18040,7 +18040,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mystery Murders - Jack the Ripper (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "176 MiB"}
 },
 {"info": {
 		            "title": "Fnaf 1",
@@ -18069,7 +18069,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Fnaf 1.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "51,9 MiB"}
 },
 {"info": {
 		            "title": "Naruto Shippuden 3D: The New Era",
@@ -18115,7 +18115,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Naruto Shippuden 3D - The New Era (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "191 MiB"},
 "Naruto Shippuden: Shinobi Rittai Emaki! Saikyou Ninkai Kessen!! (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18132,7 +18132,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Naruto Shippuden - Shinobi Rittai Emaki Saikyou Ninkai Kessen (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "174 MiB"}
 },
 {"info": {
 		            "title": "Navy Commander",
@@ -18161,7 +18161,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Navy Commander (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "34,4 MiB"}
 },
 {"info": {
 		            "title": "New Art Academy",
@@ -18191,7 +18191,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/New Art Academy (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "372 MiB"},
 "New Art Academy - DLC": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18208,7 +18208,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/New Art Academy - DLC (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "94,8 MiB"}
 },
 {"info": {
 		            "title": "Style Savvy: Fashion Forward",
@@ -18238,7 +18238,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendo Presents - New Style Boutique 2 - Fashion Forward (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "852 MiB"},
 "Nintendo Presents: New Style Boutique 2: Fashion Forward - Update 1.1 (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18255,7 +18255,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendo Presents - New Style Boutique 2 - Fashion Forward - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,13 MiB"},
 "Nintendo Presents: New Style Boutique 2: Fashion Forward - DLC (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18272,7 +18272,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendo Presents - New Style Boutique 2 - Fashion Forward - DLC (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "3,72 MiB"},
 "Girls Mode 3: Kirakira ☆ Code (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18289,7 +18289,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Girls Mode 3 - Kirakira Code (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "790 MiB"}
 },
 {"info": {
 		            "title": "Nintendo presents: New Style Boutique 3: Styling Star",
@@ -18318,7 +18318,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/New Style Boutik 3 - Styling Star (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "779 MiB"},
 "Girls Mode 4: Star Stylist (JPN)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18335,7 +18335,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Girls Mode 4 - Star Stylist (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "726 MiB"}
 },
 {"info": {
 		            "title": "Nintendo 3DS Guide Louvre",
@@ -18369,7 +18369,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendo 3DS Guide Louvre (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,53 GiB"}
 },
 {"info": {
 		            "title": "Nintendogs + Cats: Golden Retriever & New Friends",
@@ -18409,7 +18409,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendogs + Cats - Golden Retriever and New Friends (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "455 MiB"},
 "Nintendogs + Cats: Golden Retriever & New Friends (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18426,7 +18426,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendogs + Cats - Golden Retriever and New Friends (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "451 MiB"}
 },
 {"info": {
 		            "title": "One Piece: Unlimited Cruise SP",
@@ -18455,7 +18455,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/One Piece - Unlimited Cruise SP (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "468 MiB"}
 },
 {"info": {
 		            "title": "One Piece: Unlimited Cruise SP 2",
@@ -18484,7 +18484,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/One Piece - Unlimited Cruise SP2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "467 MiB"}
 },
 {"info": {
 		            "title": "Order Up!!",
@@ -18513,7 +18513,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Order Up (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "309 MiB"}
 },
 {"info": {
 		            "title": "Outdoors Unleashed: Africa 3D",
@@ -18542,7 +18542,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Outdoors Unleashed - Africa 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "91,3 MiB"}
 },
 {"info": {
 		            "title": "Pazuru",
@@ -18571,7 +18571,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pazuru (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "30,8 MiB"}
 },
 {"info": {
 		            "title": "Persona Q: Shadow of the Labyrinth",
@@ -18615,7 +18615,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Persona Q - Shadow of the Labyrinth (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,73 GiB"},
 "Persona Q: Shadow of the Labyrinth (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18632,7 +18632,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Persona Q - Shadow of the Labyrinth (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,73 GiB"},
 "Persona Q: Shadow of the Labyrinth - DLC (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18649,7 +18649,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Persona Q - Shadow of the Labyrinth - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "301 MiB"}
 },
 {"info": {
 		            "title": "Pets Paradise Resort 3D",
@@ -18678,7 +18678,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pets Paradise Resort 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "45,9 MiB"}
 },
 {"info": {
 		            "title": "Phineas & Ferb: Quest for Cool Stuff",
@@ -18707,7 +18707,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Phineas & Ferb - Quest for Cool Stuff (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "264 MiB"}
 },
 {"info": {
 		            "title": "Phonics Fun with Biff, Chip & Kipper Vol. 3",
@@ -18736,7 +18736,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Phonics Fun with Biff Chip and Kipper Vol 3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "407 MiB"}
 },
 {"info": {
 		            "title": "Pippi Longstocking 3D",
@@ -18765,7 +18765,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pippi Longstocking 3D (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "203 MiB"}
 },
 {"info": {
 		            "title": "Pokemon Ultra Moon",
@@ -18799,7 +18799,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Ultra Moon (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,45 GiB"}
 },
 {"info": {
 		            "title": "Pokemon Y",
@@ -18843,7 +18843,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Y (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,68 GiB"},
 "Pokemon Y (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18860,7 +18860,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Y (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,68 GiB"},
 "Pokemon Y - Update 1.5 (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18877,7 +18877,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Y - Update 1.5 (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "30,2 MiB"}
 },
 {"info": {
 		            "title": "Pokemon Alpha Sapphire",
@@ -18921,7 +18921,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Alpha Sapphire (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,76 GiB"},
 "Pokemon Alpha Sapphire (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18938,7 +18938,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Alpha Sapphire (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,77 GiB"},
 "Pokemon Alpha Sapphire - Update 1.4 (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -18955,7 +18955,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Alpha Sapphire - Update 1.4 (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "33,4 MiB"}
 },
 {"info": {
 		            "title": "Professor Layton vs. Phoenix Wright: Ace Attorney",
@@ -19001,7 +19001,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Professor Layton vs. Phoenix Wright - Ace Attorney (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,61 GiB"},
 "Professor Layton vs. Phoenix Wright: Ace Attorney (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -19018,108 +19018,71 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Professor Layton vs. Phoenix Wright - Ace Attorney (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,36 GiB"}
 },
 {"info": {
-		            "title": "Project X Zone",
-		            "version": "EUR, USA",
+		            "title": "Project X Zone 2",
+		            "version": "EUR",
 		            "author": "Namco Bandai Games",
 		            "category": "Games",
 		            "console": "3DS",
 		            "additional": "DLC & Update",
 		            "icon_index": 60,
 					"sheet_index": 1,
-					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/boxart.png",
-		            			"description": "Cover-Art"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Main-Menu.png",
-								"description": "Main Menu"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Stage-Map.png",
-								"description": "Stage Map"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Cutscene.png",
-								"description": "Cut Scene"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Intermission.png",
-								"description": "Intermission"
-							},{
-								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Battle.png",
-								"description": "Battle"
-		            		}],
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
-"Project X Zone (EUR)": {
+"Project X Zone 2 (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Project%20X%20Zone%202%20%28EUR%29.cia",
-				   "output": "sdmc:/Project X Zone (EUR).cia",
+				   "output": "sdmc:/Project X Zone 2 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Project X Zone (EUR).cia",
+				   "file": "/Project X Zone 2 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Project X Zone (EUR).cia",
+				   "file": "sdmc:/Project X Zone 2 (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": ""},
-"Project X Zone - DLC (EUR)": {
+"Project X Zone 2 - DLC (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Project%20X%20Zone%202%20-%20DLC%20%28EUR%29.cia",
-				   "output": "sdmc:/Project X Zone - DLC.cia",
+				   "output": "sdmc:/Project X Zone 2 - DLC.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Project X Zone - DLC.cia",
+				   "file": "/Project X Zone 2 - DLC.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Project X Zone - DLC.cia",
+				   "file": "sdmc:/Project X Zone 2 - DLC.cia",
 				   "message": "Cleaning..."}],
 				   "size": ""},
-"Project X Zone - Update 1.2 (EUR)": {
+"Project X Zone 2 - Update 1.2 (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Project%20X%20Zone%202%20-%20Update%201.2%20%28EUR%29.cia",
-				   "output": "sdmc:/Project X Zone - Update 1.2.cia",
+				   "output": "sdmc:/Project X Zone 2 - Update 1.2.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Project X Zone - Update 1.2.cia",
+				   "file": "/Project X Zone 2 - Update 1.2.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Project X Zone - Update 1.2.cia",
+				   "file": "sdmc:/Project X Zone 2 - Update 1.2.cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
-"Project X Zone (USA)": {
-	"script": [{
-		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Project%20X%20Zone%20%28USA%29.cia",
-				   "output": "sdmc:/Project X Zone (USA).cia",
-				   "message": "Downloading your current game..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Project X Zone (USA).cia",
-				   "message": "Installing your game in progress..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Project X Zone (USA).cia",
-				   "message": "Cleaning..."}],
-					"size": ""}
+				   "size": ""}
 },
 {"info": {
 		            "title": "Puzzler Brain Games",
@@ -39064,4 +39027,53 @@
 				   "file": "sdmc:/Aura-Aura Climber (Europe, Australia) (En,Fr,De,Es,It).cia",
 				   "message": "Cleaning..."}],
 				   "size": "5,73 MiB"}
+},
+{"info": {
+		            "title": "Project X Zone",
+		            "version": "USA",
+		            "author": "Namco Bandai Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 208,
+		            "sheet_index": 2,
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/boxart.png",
+		            			"description": "Cover-Art"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Main-Menu.png",
+								"description": "Main Menu"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Stage-Map.png",
+								"description": "Stage Map"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Cutscene.png",
+								"description": "Cut Scene"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Intermission.png",
+								"description": "Intermission"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/3ds/Project%20X%20Zone/screenshots/Battle.png",
+								"description": "Battle"
+		            		}],
+		            "description": "",
+		            "last_updated": "2021-12-14 at 00:00 (UTC)"
+},
+"Project X Zone": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Project%20X%20Zone%20%28USA%29.cia",
+				   "output": "sdmc:/Project X Zone (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Project X Zone (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Project X Zone (USA).cia",
+				   "message": "Cleaning..."}],
+					"size": "465 MiB"}
 }]}
