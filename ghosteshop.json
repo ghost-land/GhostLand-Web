@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 148
+"revision": 149
 },
 "storeContent": [
 {"info": {
@@ -98,7 +98,7 @@
 					"size": "45,17 MiB"}
 },
 {"info": {
-					"title": "Plants vs Zombies",
+					"title": "Plants vs. Zombies",
 					"version": "USA, EUR",
 					"author": "PopCap Games",
 					"category": "DSiWare",
@@ -107,40 +107,40 @@
 					"description": "The goal of the game is to defend your home against a zombie invasion. Zombies must pass through the garden or through the fireplace and it is with the help of plants and mushrooms that the player can defend himself against waves of zombies.",
 					"last_updated": "2020-10-04 at 15:09 (UTC)"
 },
-"Plants vs Zombies (USA)": {
+"Plants vs. Zombies (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/P/Plants%20vs.%20Zombies%20%28USA%29.cia",
-				   "output": "sdmc:/Plantes vs Zombies (USA).cia",
+				   "output": "sdmc:/Plantes vs. Zombies (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Plantes vs Zombies (USA).cia",
+				   "file": "/Plantes vs. Zombies (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Plantes vs Zombies (USA).cia",
+				   "file": "sdmc:/Plantes vs. Zombies (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "15,00 MiB"},
-"Plants vs Zombies (EUR)": {
+"Plants vs. Zombies (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/P/Plants%20vs.%20Zombies%20%28Europe%2C%20Australia%29.cia",
-				   "output": "sdmc:/Plantes vs Zombies (EUR).cia",
+				   "output": "sdmc:/Plantes vs. Zombies (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Plantes vs Zombies (EUR).cia",
+				   "file": "/Plantes vs. Zombies (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Plantes vs Zombies (EUR).cia",
+				   "file": "sdmc:/Plantes vs. Zombies (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": "15,80 MiB"}
+					"size": "15,85 MiB"}
 },
 {"info": {
 					"title": "3D Classics - Kid Icarus",
@@ -1732,32 +1732,49 @@
 					"size": "29,1 MiB"}
 },
 {"info": {
-					"title": "WarioWare Touched!",
-					"version": "USA",
+					"title": "WarioWare: Touched!",
+					"version": "USA,EUR",
 					"author": "Nintendo",
 					"category": "DSiWare",
 					"console": "DSi",
 					"icon_index": 9,
-					"description": "Jeux de mini-jeux.",
-					"last_updated": "2020-08-09 at 14:03 (UTC)"
+					"description": "",
+					"last_updated": "2022-05-15 at 14:03 (UTC)"
 },
-"WarioWare Touched!": {
+"WarioWare: Touched! (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/W/WarioWare%20-%20Touched%21%20DL%20%28USA%2C%20Australia%29%20%283DS%20Only%29.cia",
-				   "output": "sdmc:/WarioWare Touched.cia",
+				   "output": "sdmc:/WarioWare - Touched (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/WarioWare Touched.cia",
+				   "file": "/WarioWare - Touched (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/WarioWare Touched.cia",
+				   "file": "sdmc:/WarioWare - Touched (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": "27,71 MiB"}
+					"size": "27,71 MiB"},
+"WarioWare: Touched! DL (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/W/WarioWare%20-%20Touched%21%20DL%20%28Europe%29%20%283DS%20Only%29.cia",
+				   "output": "sdmc:/WarioWare - Touched DL (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/WarioWare - Touched DL (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/WarioWare - Touched DL (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "29,09 MiB"}
 },
 {"info": {
 					"title": "Zelda II: The Adventure of Link",
@@ -2497,7 +2514,7 @@
 },
 {"info": {
 					"title": "Petit Computer",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Nintendo",
 					"category": "DSiWare",
 					"console": "DSi",
@@ -2505,23 +2522,40 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Petit Computer": {
+"Petit Computer (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/P/Petit%20Computer%20%28USA%29.cia",
-				   "output": "sdmc:/Petit Computer.cia",
+				   "output": "sdmc:/Petit Computer (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Petit Computer.cia",
+				   "file": "/Petit Computer (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Petit Computer.cia",
+				   "file": "sdmc:/Petit Computer (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": "4,52 MiB"}
+					"size": "4,52 MiB"},
+"Petit Computer (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/P/Petit%20Computer%20%28Europe%29.cia",
+				   "output": "sdmc:/Petit Computer (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Petit Computer (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Petit Computer (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,24 MiB"}
 },
 {"info": {
 					"title": "Pokemon Crystal Version",
@@ -2992,15 +3026,15 @@
 },
 {"info": {
 					"title": "Mario vs Donkey Kong: Minis March Again!",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Nintendo",
 					"category": "DSiWare",
 					"console": "DSi",
 					"icon_index": 44,
 					"description": "",
-					"last_updated": "2020-08-11 at 14:03 (UTC)"
+					"last_updated": "2022-05-15 at 14:03 (UTC)"
 },
-"Mario vs Donkey Kong: Minis March Again!": {
+"Mario vs Donkey Kong: Minis March Again! (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/M/Mario%20vs.%20Donkey%20Kong%20-%20Minis%20March%20Again%21%20%28USA%29.cia",
@@ -3016,7 +3050,24 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario vs Donkey Kong Minis March Again (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": "14,06 MiB"}
+					"size": "14,06 MiB"},
+"Mario vs. Donkey Kong: Minis March Again! (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/M/Mario%20vs.%20Donkey%20Kong%20-%20Minis%20March%20Again%21%20%28Europe%2C%20Australia%29.cia",
+				   "output": "sdmc:/Mario vs. Donkey Kong - Minis March Again (EUR)(Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario vs. Donkey Kong - Minis March Again (EUR)(Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario vs. Donkey Kong - Minis March Again (EUR)(Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "15,28 MiB"}
 },
 {"info": {
 					"title": "Mario Kart 7",
