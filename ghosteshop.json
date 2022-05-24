@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 150
+"revision": 151
 },
 "storeContent": [
 {"info": {
@@ -38054,7 +38054,7 @@
 },
 {"info": {
 		            "title": "Uno",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "Gameloft",
 		            "category": "DSiWare",
 		            "console": "DSi",
@@ -38063,7 +38063,7 @@
 		            "description": "On the whole, UNO fares far better on DSi than the Wii - the interface works nicely, the online player is smooth and enjoyable and you have the added benefit of pick-up-and-play whenever you like.",
 		            "last_updated": "2021-11-28 at 01:00 (UTC)"
 },
-"Uno": {
+"Uno (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/USA/U/Uno%20%28USA%29.cia",
@@ -38079,7 +38079,24 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Uno (USA).cia",
 				   "message": "Cleaning..."}],
-				   "size": "7,97 MiB"}
+				   "size": "7,97 MiB"},
+"Uno (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/U/Uno%20%28Europe%2C%20Australia%29%20%28Rev%201%29.cia",
+				   "output": "sdmc:/Uno (EUR)(Australia).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Uno (EUR)(Australia).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Uno (EUR)(Australia).cia",
+				   "message": "Cleaning..."}],
+				   "size": "8,04 MiB"}
 },
 {"info": {
 		            "title": "The Legend of Zelda: Four Swords Anniversary Edition",
@@ -45858,35 +45875,6 @@
 				   "file": "sdmc:/Treasure Hunter X (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": "3,13 MiB"}
-},
-{"info": {
-		            "title": "Uno",
-		            "version": "EUR",
-		            "author": "Gameloft",
-		            "category": "DSiWare",
-		            "console": "DSi",
-		            "icon_index": 18,
-		            "sheet_index": 3,
-		            "description": "",
-		            "last_updated": "2022-05-20 at 00:00 (UTC)"
-},
-"Uno": {
-	"script": [{
-		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/DSiWare/EUR/U/Uno%20%28Europe%2C%20Australia%29%20%28Rev%201%29.cia",
-				   "output": "sdmc:/Uno (EUR)(Australia).cia",
-				   "message": "Downloading your current game..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Uno (EUR)(Australia).cia",
-				   "message": "Installing your game in progress..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Uno (EUR)(Australia).cia",
-				   "message": "Cleaning..."}],
-				   "size": "8,04 MiB"}
 },
 {"info": {
 		            "title": "Viking Invasion",
