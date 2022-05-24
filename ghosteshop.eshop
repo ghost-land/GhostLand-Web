@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 151
+"revision": 152
 },
 "storeContent": [
 {"info": {
@@ -22715,7 +22715,7 @@
 "Harvest Moon 3D: The Lost Valley - DLC": {
 	"script": [{
 		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/H/Harvest%20Moon%203D%20%20-%20The%20Lost%20Valley%20-%20DLC%20%28USA%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/H/Harvest%20Moon%203D%20-%20The%20Lost%20Valley%20-%20DLC%20%28USA%29.cia",
 				   "output": "sdmc:/Harvest Moon 3D - The Lost Valley - DLC (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -22728,7 +22728,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Harvest Moon 3D - The Lost Valley - DLC (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": "3,00 MiB"}
+					"size": "3,01 MiB"}
 },
 {"info": {
 		            "title": "Harvest Moon 3D: A New Beginning",
@@ -28707,6 +28707,7 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "NEW3DS",
+		            "additional": "Update",
 		            "icon_index": 292,
 					"sheet_index": 1,
 					"screenshots": 
@@ -28718,7 +28719,7 @@
 								"description": "Art"
 		            		}],
 		            "description": "",
-		            "last_updated": "2020-12-22 at 01:50 (UTC)"
+		            "last_updated": "2022-05-24 at 01:50 (UTC)"
 },
 "Xenoblade Chronicles 3D": {
 	"script": [{
@@ -28736,7 +28737,24 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Xenoblade Chronicles 3D (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": "3,51 GiB"}
+					"size": "3,51 GiB"},
+"Xenoblade Chronicles 3D - Update 1.0": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/X/Xenoblade%20Chronicles%203D%20-%20Update%201.0%20%28USA%29.cia",
+				   "output": "sdmc:/Xenoblade Chronicles 3D - Update 1.0 (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Xenoblade Chronicles 3D - Update 1.0 (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Xenoblade Chronicles 3D - Update 1.0 (USA).cia",
+				   "message": "Cleaning..."}],
+					"size": "3,92 MiB"}
 },
 {"info": {
 		            "title": "Yo-Kai Watch 2: Bony Spirits",
@@ -28744,11 +28762,11 @@
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
-		            "additional": "Update",
+		            "additional": "Update & DLC",
 		            "icon_index": 293,
 		            "sheet_index": 1,
 		            "description": "",
-		            "last_updated": "2020-12-22 at 01:50 (UTC)"
+		            "last_updated": "2022-05-24 at 01:50 (UTC)"
 },
 "Yo-Kai Watch 2: Bony Spirits": {
 	"script": [{
@@ -28783,7 +28801,24 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Yo-Kai Watch 2 - Bony Spirits - Update 2.0 (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": "764,0 MiB"}
+					"size": "764,0 MiB"},
+"Yo-Kai Watch 2: Bony Spirits - DLC": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/Y/Yo-Kai%20Watch%202%20-%20Bony%20Spirits%20-%20DLC%20%28USA%29.cia",
+				   "output": "sdmc:/Yo-Kai Watch 2 - Bony Spirits - DLC (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Yo-Kai Watch 2 - Bony Spirits - DLC (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Yo-Kai Watch 2 - Bony Spirits - DLC (USA).cia",
+				   "message": "Cleaning..."}],
+					"size": "122,44 KiB"}
 },
 {"info": {
 		            "title": "Yo-Kai Watch 2: Fleshy Souls",
