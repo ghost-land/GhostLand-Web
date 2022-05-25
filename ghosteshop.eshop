@@ -46200,4 +46200,33 @@
 				   "file": "sdmc:/Zoonies - Escape from Makatu (EUR)(Australia).cia",
 				   "message": "Cleaning..."}],
 				   "size": "9,69 MiB"}
+},
+{"info": {
+		            "title": "Knuckle's Chaotix",
+		            "version": "World",
+		            "author": "Sega",
+		            "category": "Injects",
+		            "console": "32x",
+		            "icon_index": 29,
+		            "sheet_index": 3,
+		            "description": "Knuckles's Chaotix is a side-scrolling platform game similar to earlier entries in the Sonic series. Unlike other Sonic games, players are tethered to a computer or human-controlled partner;",
+		            "last_updated": "2022-05-25 at 00:00 (UTC)"
+},
+"Knuckle's Chaotix": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Inject/32x/World/Knuckle%27s%20Chaotix%20%28World%29%2832x%29.cia",
+				   "output": "sdmc:/Knuckles Chaotix (World).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Knuckles Chaotix (World).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Knuckles Chaotix (World).cia",
+				   "message": "Cleaning..."}],
+				   "size": "10,53 MiB"}
 }]}
