@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 152
+"revision": 153
 },
 "storeContent": [
 {"info": {
@@ -2232,7 +2232,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Advance 2 - Super Mario World.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,5 MiB"}
 },
 {"info": {
 					"title": "Pac-Man Collection",
@@ -2878,7 +2878,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Advance 4 - Super Mario Bros. 3.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,5 MiB"}
 },
 {"info": {
 					"title": "Wrecking Crew",
@@ -3011,7 +3011,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Advance - Super Mario Bros 2.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,5 MiB"}
 },
 {"info": {
 					"title": "Super Mario Bros. 3",
@@ -32983,7 +32983,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gundam - The 3D Battle (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "714,0 MiB"}
 },
 {"info": {
 		            "title": "Guru Guru Tamagotchi!",
@@ -33013,7 +33013,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Guru Guru Tamagotchi (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "178,0 MiB"}
 },
 {"info": {
 		            "title": "Phoenix Wright: Ace Attorney Trilogy",
@@ -33043,7 +33043,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gyakuten Saiban 123 - Naruhodo Selection (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "367,0 MiB"}
 },
 {"info": {
 		            "title": "Apollo Justice: Ace Attorney",
@@ -33073,7 +33073,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gyakuten Saiban 4 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "341,0 MiB"}
 },
 {"info": {
 		            "title": "Phoenix Wright: Ace Attorney - Spirit of Justice",
@@ -33103,7 +33103,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gyakuten Saiban 6 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "827,0 MiB"}
 },
 {"info": {
 		            "title": "Haikyu!! Cross Team Match!",
@@ -33133,7 +33133,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Haikyu Cross Team Match (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "250,0 MiB"}
 },
 {"info": {
 		            "title": "Haikyu!! Tsunage! Itadaki no Keshiki!!",
@@ -33163,7 +33163,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Haikyu Tsunage Itadaki no Keshiki (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "347,0 MiB"}
 },
 {"info": {
 		            "title": "HakoBoy! Hakozume Box",
@@ -33193,7 +33193,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/HakoBoy Hakozume Box (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "282,0 MiB"}
 },
 {"info": {
 		            "title": "Hamatora: Look at Smoking World",
@@ -33223,7 +33223,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hamatora - Look at Smoking World (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "252,0 MiB"}
 },
 {"info": {
 		            "title": "Hana to Ikimono Rittai Zukan",
@@ -33253,7 +33253,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hana to Ikimono Rittai Zukan (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "838,0 MiB"}
 },
 {"info": {
 		            "title": "Happiness Charge PreCure! Kawa-Run ☆ Collection",
@@ -33283,7 +33283,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Happiness Charge PreCure Kawa-Run Collection (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "404,0 MiB"}
 },
 {"info": {
 		            "title": "Hatsune Miku and Future Stars: Project Mirai",
@@ -33313,7 +33313,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hatsune Miku and Future Stars - Project Mirai (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "836,0 MiB"}
 },
 {"info": {
 		            "title": "Hatsune Miku: Project Mirai 2",
@@ -33343,7 +33343,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hatsune Miku - Project Mirai 2 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,87 GiB"}
 },
 {"info": {
 		            "title": "Hello Kitty to Issho! Block Crash Z",
@@ -33373,7 +33373,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hello Kitty to Issho Block Crash Z (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "176,0 MiB"}
 },
 {"info": {
 		            "title": "Hello Kitty to Sekai Ryokou! Iron na Kuni e Odekake Shimasho",
@@ -33403,7 +33403,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hello Kitty to Sekai Ryokou Iron na Kuni e Odekake Shimasho (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "215,0 MiB"}
 },
 {"info": {
 		            "title": "Hero Bank",
@@ -33433,7 +33433,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hero Bank (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "655,0 MiB"}
 },
 {"info": {
 		            "title": "Hero Bank 2",
@@ -33463,7 +33463,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hero Bank 2 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,24 GiB"}
 },
 {"info": {
 		            "title": "Highschool DxD",
@@ -33493,7 +33493,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Highschool DxD (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "487,0 MiB"}
 },
 {"info": {
 		            "title": "Hime Girl Paradise: Mechikawa! Agemori Sensation!",
@@ -33523,7 +33523,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hime Girl Paradise - Mechikawa Agemori Sensation (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "280,0 MiB"}
 },
 {"info": {
 		            "title": "HoppeChan: Punitto Shibotte Daibouken!",
@@ -33553,7 +33553,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/HoppeChan - Punitto Shibotte Daibouken (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "207,0 MiB"}
 },
 {"info": {
 		            "title": "Hoppechan: Minna de Odekake! Wakuwaku Hoppe Land!!",
@@ -33583,7 +33583,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hoppechan - Minna de Odekake Wakuwaku Hoppe Land (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "364,0 MiB"}
 },
 {"info": {
 		            "title": "Hoppechan: Tsukutte! Asonde! Punipuni Town!!",
@@ -33613,7 +33613,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hoppechan - Tsukutte Asonde Punipuni Town (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "350,0 MiB"}
 },
 {"info": {
 		            "title": "Hyakumasu Dora-San Nobita no Time Battle",
@@ -33643,7 +33643,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Hyakumasu Dora-San Nobita no Time Battle (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "35,9 MiB"}
 },
 {"info": {
 		            "title": "Idol Time PriPara: Yume All-Star Live!",
@@ -33673,7 +33673,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Idol Time PriPara - Yume All-Star Live (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "870,0 MiB"}
 },
 {"info": {
 		            "title": "Inazuma Eleven 1-2-3!! Endou Mamoru Densetsu",
@@ -33703,7 +33703,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven 1-2-3 Endou Mamoru Densetsu (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "1,78 GiB"}
 },
 {"info": {
 		            "title": "Inazuma Eleven Go: Galaxy Big Bang",
@@ -33733,7 +33733,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven Go - Galaxy Big Bang (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "2,74 GiB"}
 },
 {"info": {
 		            "title": "Inazuma Eleven Go: Galaxy Supernova",
@@ -33763,7 +33763,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Inazuma Eleven Go - Galaxy Supernova (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "2,74 GiB"}
 },
 {"info": {
 		            "title": "Island Days",
@@ -33793,7 +33793,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Island Days (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "446,0 MiB"}
 },
 {"info": {
 		            "title": "JS Girl: Doki Doki Model Challenge",
@@ -33823,7 +33823,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/JS Girl - Doki Doki Model Challenge (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "392,0 MiB"}
 },
 {"info": {
 		            "title": "Jewel Master",
@@ -33853,7 +33853,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Master (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "90,3 MiB"}
 },
 {"info": {
 		            "title": "Jewel Pet: Cafe de Mahou no Cooking!",
@@ -33883,7 +33883,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Pet - Cafe de Mahou no Cooking (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "445,0 MiB"}
 },
 {"info": {
 		            "title": "Jewel Pet: Mahou de Oshare ni Dance ☆ Deco!",
@@ -33913,7 +33913,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Pet - Mahou de Oshare ni Dance Deco (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "84,4 MiB"}
 },
 {"info": {
 		            "title": "Jewel Pet: Mahou no Rhythm de Ieie!",
@@ -33943,7 +33943,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jewel Pet - Mahou no Rhythm de Ieie (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "87,2 MiB"}
 },
 {"info": {
 		            "title": "Jikkyou Powerful Pro Yakyuu Heroes",
@@ -33973,7 +33973,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jikkyou Powerful Pro Yakyuu Heroes (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "702,0 MiB"}
 },
 {"info": {
 		            "title": "Jikkyou Powerful Pro Yakyuu Heroes: Jisedai World Hobby Fair 17 Winter Tokubetsu Taikenban",
@@ -34003,7 +34003,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jikkyou Powerful Pro Yakyuu Heroes - Jisedai World Hobby Fair 17 Winter Tokubetsu Taikenban (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "93,3 MiB"}
 },
 {"info": {
 		            "title": "Jukugo: Sokubiki Jiten",
@@ -34033,7 +34033,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Jukugo - Sokubiki Jiten (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "31,9 MiB"}
 },
 {"info": {
 		            "title": "Kaite Oboeru: DoraGana",
@@ -34063,7 +34063,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kaite Oboeru - DoraGana (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "46,1 MiB"}
 },
 {"info": {
 		            "title": "Kaitou Joker: Toki o Koeru Kaitou to Ushinawareta Houseki",
@@ -34093,7 +34093,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kaitou Joker - Toki o Koeru Kaitou to Ushinawareta Houseki (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "152,2 MiB"}
 },
 {"info": {
 		            "title": "Kamen Rider: Travelers Senki",
@@ -34123,7 +34123,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kamen Rider - Travelers Senki (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "459,0 MiB"}
 },
 {"info": {
 		            "title": "Kamiwaza Wanda: Kirakira Ichibangai Kikiippatsu",
@@ -34153,7 +34153,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kamiwaza Wanda - Kirakira Ichibangai Kikiippatsu (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "78,6 MiB"}
 },
 {"info": {
 		            "title": "Karous: The Beast of Re:Eden",
@@ -34183,7 +34183,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Karous - The Beast of Re-Eden (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "128,0 MiB"}
 },
 {"info": {
 		            "title": "Labyrinth no Kanata",
@@ -34213,7 +34213,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Labyrinth no Kanata (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "706,0 MiB"}
 },
 {"info": {
 		            "title": "Nanatsu no Taizai: The Seven Deadly Sins - Unjust Sin",
@@ -34243,7 +34243,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nanatsu no Taizai - The Seven Deadly Sins - Unjust Sin (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "275,0 MiB"}
 },
 {"info": {
 		            "title": "Nintendogs + Cats: Shiba & New Friends",
@@ -34273,7 +34273,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Nintendogs + Cats - Shiba & New Friends (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "449,0 MiB"}
 },
 {"info": {
 		            "title": "Asonde Shogi ga Tsuyokunaru! Ginsei Shogi DX",
@@ -34303,7 +34303,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Asonde Shogi ga Tsuyokunaru! Ginsei Shogi DX (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "179,0 MiB"}
 },
 {"info": {
 		            "title": "Puyo Puyo Tetris",
@@ -34334,7 +34334,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Puyo Puyo Tetris (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "468,0 MiB"},
 "Puyo Puyo Tetris - Update 1.1": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34351,7 +34351,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Puyo Puyo Tetris - Update 1.1 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "2,73 MiB"}
 },
 {"info": {
 		            "title": "Sega 3D Fukkoku Archives",
@@ -34381,7 +34381,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sega 3D Fukkoku Archives (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "78,5 MiB"}
 },
 {"info": {
 		            "title": "Sega 3D Fukkoku Archives 2",
@@ -34411,7 +34411,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sega 3D Fukkoku Archives 2 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "82,7 MiB"}
 },
 {"info": {
 		            "title": "Sega 3D Fukkoku Archives 3: Final Stage",
@@ -34442,7 +34442,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sega 3D Fukkoku Archives 3 - Final Stage (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "80,6 MiB"},
 "Sega 3D Fukkoku Archives 3: Final Stage - Update 1.1": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34459,7 +34459,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sega 3D Fukkoku Archives 3 - Final Stage - Update 1.1 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "11,4 MiB"}
 },
 {"info": {
 		            "title": "Shingeki no Kyojin: Jinrui Saigo no Tsubasa",
@@ -34490,7 +34490,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shingeki no Kyojin - Jinrui Saigo no Tsubasa (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,72 GiB"},
 "Shingeki no Kyojin: Jinrui Saigo no Tsubasa - Update 1.2": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34507,7 +34507,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shingeki no Kyojin - Jinrui Saigo no Tsubasa - Update 1.2 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "453,0 MiB"}
 },
 {"info": {
 		            "title": "Shingeki no Kyojin: Shichi-Kara no Dasshutsu",
@@ -34537,7 +34537,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shingeki no Kyojin - Shichi-Kara no Dasshutsu (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "474,0 MiB"}
 },
 {"info": {
 		            "title": "Shingeki no Kyoujin 2: Mirai no Zahyou",
@@ -34568,7 +34568,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shingeki no Kyoujin 2 - Mirai no Zahyou (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "1,60 GiB"},
 "Shingeki no Kyoujin 2: Mirai no Zahyou - Update 1.1": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34585,7 +34585,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shingeki no Kyoujin 2 - Mirai no Zahyou - Update 1.1 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,12 MiB"}
 },
 {"info": {
 		            "title": "Sumikko Gurashi: Koko Ga Ochitsukundesu",
@@ -34616,7 +34616,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sumikko Gurashi - Koko Ga Ochitsukundesu (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "198,0 MiB"},
 "Sumikko Gurashi: Koko Ga Ochitsukundesu - Update 1.2": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34633,7 +34633,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sumikko Gurashi - Koko Ga Ochitsukundesu - Update 1.2 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "31,2 MiB"}
 },
 {"info": {
 		            "title": "Taiko no Tatsujin: Don Don! Mystery Adventure",
@@ -34664,7 +34664,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don Don Mystery Adventure (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "459,0 MiB"},
 "Taiko no Tatsujin: Don Don! Mystery Adventure - Update 1.1": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34681,7 +34681,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don Don Mystery Adventure - Update 1.1 (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "25,7 MiB"},
 "Taiko no Tatsujin: Don Don! Mystery Adventure - DLC 1": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34698,7 +34698,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don Don Mystery Adventure - DLC 1 (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "126,0 MiB"},
 "Taiko no Tatsujin: Don Don! Mystery Adventure - DLC 2": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34715,7 +34715,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don Don Mystery Adventure - DLC 2 (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "161,0 MiB"},
 "Taiko no Tatsujin: Don Don! Mystery Adventure - DLC 3": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34732,7 +34732,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don Don Mystery Adventure - DLC 3 (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "151,0 MiB"},
 "Taiko no Tatsujin: Don Don! Mystery Adventure - DLC 4": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34749,7 +34749,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don Don Mystery Adventure - DLC 4 (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "152,0 MiB"},
 "Taiko no Tatsujin: Don Don! Mystery Adventure - DLC 5": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34766,7 +34766,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Taiko no Tatsujin - Don Don Mystery Adventure - DLC 5 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "167,0 MiB"}
 },
 {"info": {
 		            "title": "Animal Crossing: New Leaf",
@@ -34797,7 +34797,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Tobidase Doubutsu no Mori (JPN).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "696,0 MiB"},
 "Tobidase Doubutsu no Mori - Update (V6272)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34814,7 +34814,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Tobidase Doubutsu no Mori - Update (V6272)(JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "204,0 MiB"}
 },
 {"info": {
 		            "title": "Touch Detective Rising 3",
@@ -34844,7 +34844,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Touch Detective Rising 3 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "143,0 MiB"}
 },
 {"info": {
 		            "title": "World Soccer Winning Eleven 2014",
@@ -34874,7 +34874,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/World Soccer Winning Eleven 2014 (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "689,0 MiB"}
 },
 {"info": {
 		            "title": "Yo-kai Watch 3: Sukiyaki",
@@ -34904,7 +34904,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Yo-kai Watch 3 - Sukiyaki (JPN).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,04 GiB"}
 },
 {"info": {
 		            "title": "4 Elements",
@@ -34934,7 +34934,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/4 Elements (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "79,6 MiB"}
 },
 {"info": {
 		            "title": "Animal Crossing: Welcome Luxury",
@@ -34965,7 +34965,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Animal Crossing - Welcome Luxury.cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "845,0 MiB"},
 "Animal Crossing: Welcome Luxury - Update 1.6": {
 	"script": [{
 		           "type": "downloadFile",
@@ -34982,7 +34982,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Animal Crossing - Welcome Luxury - Update 1.6.cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "14,7 MiB"}
 },
 {"info": {
 		            "title": "Creeping Terror",
@@ -35012,7 +35012,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Creeping Terror (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "292,0 MiB"}
 },
 {"info": {
 		            "title": "Donkey Kong Country™",
@@ -35042,7 +35042,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Donkey Kong Country (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,73 MiB"}
 },
 {"info": {
 		            "title": "Final Fight",
@@ -35072,7 +35072,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fight (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,46 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ X",
@@ -35102,7 +35102,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man X (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,03 MiB"}
 },
 {"info": {
 		            "title": "Pilotwings™",
@@ -35132,7 +35132,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pilotwings (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,03 MiB"}
 },
 {"info": {
 		            "title": "Pokemon Blue Version",
@@ -35162,7 +35162,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Blue Version (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,80 MiB"}
 },
 {"info": {
 		            "title": "Pokemon Gold Version",
@@ -35192,7 +35192,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Gold Version (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "10,9 MiB"}
 },
 {"info": {
 		            "title": "Pokemon Red Version",
@@ -35222,7 +35222,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Red Version (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,80 MiB"}
 },
 {"info": {
 		            "title": "Pokemon Silver Version",
@@ -35252,7 +35252,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Silver Version (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "10,9 MiB"}
 },
 {"info": {
 		            "title": "Pokemon Yellow Version",
@@ -35282,7 +35282,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Yellow Version (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,81 MiB"}
 },
 {"info": {
 		            "title": "Super Mario Kart™",
@@ -35312,7 +35312,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Kart (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,18 MiB"}
 },
 {"info": {
 		            "title": "Super Metroid™",
@@ -35342,7 +35342,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Metroid (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "9,37 MiB"}
 },
 {"info": {
 		            "title": "Super Punch-Out!!™",
@@ -35372,7 +35372,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Punch-Out (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,38 MiB"}
 },
 {"info": {
 		            "title": "The Legend of the Mystical Ninja™",
@@ -35402,7 +35402,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of the Mystical Ninja (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,59 MiB"}
 },
 {"info": {
 		            "title": "Baldur's Gate: Dark Alliance",
@@ -35432,7 +35432,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Baldur's Gate - Dark Alliance (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,49 MiB"}
 },
 {"info": {
 		            "title": "Banjo-Pilot",
@@ -35462,7 +35462,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Banjo-Pilot (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "16,4 MiB"}
 },
 {"info": {
 		            "title": "Beyblade G-Revolution",
@@ -35492,7 +35492,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Beyblade G-Revolution (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,49 MiB"}
 },
 {"info": {
 		            "title": "Blaster Master Enemy Below",
@@ -35522,7 +35522,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Blaster Master Enemy Below (EUR).cia",
 				   "message": "Cleaning..."}],
-				   "size": ""},
+				   "size": "5,31 MiB"},
 "Blaster Master Enemy Below (USA)": {
 	"script": [{
 		           "type": "downloadFile",
@@ -35539,7 +35539,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Blaster Master Enemy Below (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,40 MiB"}
 },
 {"info": {
 		            "title": "Castlevania: Aria of Sorrow",
@@ -35569,7 +35569,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Castlevania - Aria of Sorrow (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,48 MiB"}
 },
 {"info": {
 		            "title": "Donkey Kong Jr.™",
@@ -35599,7 +35599,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Donkey Kong Jr. (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,52 MiB"}
 },
 {"info": {
 		            "title": "Dr. Robotnik's Mean Bean Machine™",
@@ -35629,7 +35629,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dr. Robotnik's Mean Bean Machine (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,70 MiB"}
 },
 {"info": {
 		            "title": "Dragon Crystal™",
@@ -35659,7 +35659,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Dragon Crystal (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,75 MiB"}
 },
 {"info": {
 		            "title": "F-Zero: GP Legend",
@@ -35689,7 +35689,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/F-Zero - GP Legend (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "16,4 MiB"}
 },
 {"info": {
 		            "title": "Final Fantasy IV Advance",
@@ -35719,7 +35719,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fantasy IV Advance (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,47 MiB"}
 },
 {"info": {
 		            "title": "Final Fantasy V Advance",
@@ -35749,7 +35749,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fantasy V Advance (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "16,4 MiB"}
 },
 {"info": {
 		            "title": "Final Fight 2™",
@@ -35779,7 +35779,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fight 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,72 MiB"}
 },
 {"info": {
 		            "title": "Final Fight 3™",
@@ -35809,7 +35809,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Final Fight 3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,62 MiB"}
 },
 {"info": {
 		            "title": "G-LOC™ Air Battle",
@@ -35839,7 +35839,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/G-LOC Air Battle (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,45 MiB"}
 },
 {"info": {
 		            "title": "Game &; Watch™ Gallery 2",
@@ -35869,7 +35869,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Game & Watch Gallery 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,16 MiB"}
 },
 {"info": {
 		            "title": "Game &; Watch™ Gallery 3",
@@ -35899,7 +35899,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Game & Watch Gallery 3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,22 MiB"}
 },
 {"info": {
 		            "title": "Gunstar Future Heroes",
@@ -35929,7 +35929,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Gunstar Future Heroes (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,50 MiB"}
 },
 {"info": {
 		            "title": "Kirby's Dream Course™",
@@ -35959,7 +35959,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirbys Dream Course (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,89 MiB"}
 },
 {"info": {
 		            "title": "Kirby & The AMAZING MIRROR",
@@ -35989,7 +35989,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kirby and The AMAZING MIRROR (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "18,1 MiB"}
 },
 {"info": {
 		            "title": "Kurukuru Kururin",
@@ -36019,7 +36019,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Kurukuru Kururin (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,50 MiB"}
 },
 {"info": {
 		            "title": "Legend of the River King™ 2",
@@ -36049,7 +36049,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Legend of the River King 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,25 MiB"}
 },
 {"info": {
 		            "title": "Legend of the River King™",
@@ -36079,7 +36079,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Legend of the River King (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,64 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ 2 (NES)",
@@ -36109,7 +36109,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,95 MiB"}
 },
 {"info": {
 		            "title": "MEGA MAN™",
@@ -36139,7 +36139,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,63 MiB"}
 },
 {"info": {
 		            "title": "Mighty Bomb Jack™",
@@ -36169,7 +36169,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mighty Bomb Jack (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,67 MiB"}
 },
 {"info": {
 		            "title": "Mystical Ninja starring Goemon",
@@ -36199,7 +36199,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mystical Ninja starring Goemon (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,29 MiB"}
 },
 {"info": {
 		            "title": "Mario Bros.™",
@@ -36229,7 +36229,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario Bros. (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,3 MiB"}
 },
 {"info": {
 		            "title": "Mario Golf™",
@@ -36259,7 +36259,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario Golf (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,67 MiB"}
 },
 {"info": {
 		            "title": "Mario vs. Donkey Kong™",
@@ -36289,7 +36289,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario vs. Donkey Kong (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "17,6 MiB"}
 },
 {"info": {
 		            "title": "Mario Tennis™",
@@ -36319,7 +36319,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario Tennis (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,58 MiB"}
 },
 {"info": {
 		            "title": "Mario's Picross™",
@@ -36349,7 +36349,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Marios Picross (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,53 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ 2 (GB)",
@@ -36379,7 +36379,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,11 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ 3",
@@ -36409,7 +36409,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man 3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,33 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ 4",
@@ -36439,7 +36439,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man 4 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,53 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ 5",
@@ -36469,7 +36469,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man 5 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,52 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ 6",
@@ -36499,7 +36499,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man 6 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,46 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ Dr. Wily's Revenge",
@@ -36529,7 +36529,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man Dr. Wilys Revenge (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,56 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ X2",
@@ -36559,7 +36559,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man X2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,37 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ X3",
@@ -36589,7 +36589,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man X3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,06 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ Xtreme 2",
@@ -36619,7 +36619,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man Xtreme 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,42 MiB"}
 },
 {"info": {
 		            "title": "Mega Man™ Xtreme",
@@ -36649,7 +36649,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mega Man Xtreme (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,09 MiB"}
 },
 {"info": {
 		            "title": "Metroid™",
@@ -36679,7 +36679,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Metroid (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,94 MiB"}
 },
 {"info": {
 		            "title": "Metroid™ Fusion",
@@ -36709,7 +36709,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Metroid Fusion (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "10,0 MiB"}
 },
 {"info": {
 		            "title": "Metroid™ II - Return of Samus",
@@ -36739,7 +36739,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Metroid II - Return of Samus (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,96 MiB"}
 },
 {"info": {
 		            "title": "Mighty Final Fight",
@@ -36769,7 +36769,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mighty Final Fight (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,89 MiB"}
 },
 {"info": {
 		            "title": "Milon's Secret Castle",
@@ -36799,7 +36799,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Milons Secret Castle (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,90 MiB"}
 },
 {"info": {
 		            "title": "Mole Mania",
@@ -36829,7 +36829,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mole Mania (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,53 MiB"}
 },
 {"info": {
 		            "title": "Monopoly",
@@ -36859,7 +36859,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Monopoly (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,49 MiB"}
 },
 {"info": {
 		            "title": "Moto Racer Advance",
@@ -36889,7 +36889,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Moto Racer Advance (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,47 MiB"}
 },
 {"info": {
 		            "title": "NES Open Tournament Golf",
@@ -36919,7 +36919,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/NES Open Tournament Golf (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,35 MiB"}
 },
 {"info": {
 		            "title": "Ninja Gaiden®",
@@ -36949,7 +36949,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ninja Gaiden (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,87 MiB"}
 },
 {"info": {
 		            "title": "Ninja Gaiden III The Ancient Ship of Doom",
@@ -36979,7 +36979,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ninja Gaiden III The Ancient Ship of Doom (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,86 MiB"}
 },
 {"info": {
 		            "title": "Ninja Gaiden II™ The Dark Sword of Chaos",
@@ -37009,7 +37009,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ninja Gaiden II The Dark Sword of Chaos (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,95 MiB"}
 },
 {"info": {
 		            "title": "Pinball Revenge of the Gator",
@@ -37039,7 +37039,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pinball Revenge of the Gator (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,83 MiB"}
 },
 {"info": {
 		            "title": "Pokemon™ Puzzle Challenge",
@@ -37069,7 +37069,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Puzzle Challenge (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,38 MiB"}
 },
 {"info": {
 		            "title": "Pokemon™ Trading Card Game",
@@ -37099,7 +37099,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pokemon Trading Card Game (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,52 MiB"}
 },
 {"info": {
 		            "title": "Prince of Persia",
@@ -37129,7 +37129,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Prince of Persia (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,80 MiB"}
 },
 {"info": {
 		            "title": "Punch-Out!!™",
@@ -37159,7 +37159,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Punch-Out (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,93 MiB"}
 },
 {"info": {
 		            "title": "QIX",
@@ -37189,7 +37189,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/QIX (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,83 MiB"}
 },
 {"info": {
 		            "title": "Radar Mission™",
@@ -37219,7 +37219,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Radar Mission (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,55 MiB"}
 },
 {"info": {
 		            "title": "Rayman®",
@@ -37249,7 +37249,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Rayman (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,68 MiB"}
 },
 {"info": {
 		            "title": "Renegade",
@@ -37279,7 +37279,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Renegade (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,64 MiB"}
 },
 {"info": {
 		            "title": "S.C.A.T.™",
@@ -37309,7 +37309,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/S.C.A.T. (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,7 MiB"}
 },
 {"info": {
 		            "title": "Shadow of the Ninja™",
@@ -37339,7 +37339,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shadow of the Ninja (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "12,8 MiB"}
 },
 {"info": {
 		            "title": "Shantae™",
@@ -37369,7 +37369,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shantae (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "8,36 MiB"}
 },
 {"info": {
 		            "title": "Shining Force™ The Sword of Hajya",
@@ -37399,7 +37399,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shining Force The Sword of Hajya (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,86 MiB"}
 },
 {"info": {
 		            "title": "Shinobi™",
@@ -37429,7 +37429,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Shinobi (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,76 MiB"}
 },
 {"info": {
 		            "title": "Side Pocket",
@@ -37459,7 +37459,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Side Pocket (EURs).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,26 MiB"}
 },
 {"info": {
 		            "title": "Sonic Advance 3",
@@ -37489,7 +37489,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic Advance 3 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "16,5 MiB"}
 },
 {"info": {
 		            "title": "Sonic Blast™",
@@ -37519,7 +37519,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic Blast (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,65 MiB"}
 },
 {"info": {
 		            "title": "Sonic Drift 2",
@@ -37549,7 +37549,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic Drift 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,97 MiB"}
 },
 {"info": {
 		            "title": "Sonic Labyrinth™",
@@ -37579,7 +37579,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic Labyrinth (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,47 MiB"}
 },
 {"info": {
 		            "title": "Sonic the Hedgehog 2",
@@ -37609,7 +37609,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic the Hedgehog 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,49 MiB"}
 },
 {"info": {
 		            "title": "Sonic the Hedgehog™",
@@ -37639,7 +37639,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic the Hedgehog (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,44 MiB"}
 },
 {"info": {
 		            "title": "Sonic the Hedgehog™ Triple Trouble",
@@ -37669,7 +37669,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Sonic the Hedgehog Triple Trouble (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,08 MiB"}
 },
 {"info": {
 		            "title": "Street Fighter 2010 The Final Fight",
@@ -37699,7 +37699,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Street Fighter 2010 The Final Fight (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,79 MiB"}
 },
 {"info": {
 		            "title": "Street Fighter™ Alpha 2",
@@ -37729,7 +37729,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Street Fighter Alpha 2 (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "17,1 MiB"}
 },
 {"info": {
 		            "title": "Street Fighter™ II Turbo Hyper Fighting",
@@ -37759,7 +37759,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Street Fighter II Turbo Hyper Fighting (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,93 MiB"}
 },
 {"info": {
 		            "title": "Street Gangs",
@@ -37789,7 +37789,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Street Gangs (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "13,4 MiB"}
 },
 {"info": {
 		            "title": "Summer Carnival '92 Recca",
@@ -37819,7 +37819,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Summer Carnival 92 Recca (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,07 MiB"}
 },
 {"info": {
 		            "title": "Super C",
@@ -37849,7 +37849,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super C (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "13,3 MiB"}
 },
 {"info": {
 		            "title": "Super Mario World™",
@@ -37879,7 +37879,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario World (World).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,25 MiB"}
 },
 {"info": {
 		            "title": "Super Mario Land™ 2: 6 Golden Coins™",
@@ -37909,7 +37909,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Land 2 - 6 Golden Coins (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,79 MiB"}
 },
 {"info": {
 		            "title": "Super Mario Land™",
@@ -37939,7 +37939,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Mario Land (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,45 MiB"}
 },
 {"info": {
 		            "title": "Super Street Fighter™ II The New Challengers",
@@ -37969,7 +37969,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Super Street Fighter II The New Challengers (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "10,4 MiB"}
 },
 {"info": {
 		            "title": "Tetris™",
@@ -37999,7 +37999,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Tetris (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "3,77 MiB"}
 },
 {"info": {
 		            "title": "Tails Adventure™",
@@ -38029,7 +38029,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Tails Adventure (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,83 MiB"}
 },
 {"info": {
 		            "title": "Tennis",
@@ -38059,7 +38059,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Tennis (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,04 MiB"}
 },
 {"info": {
 	            	"title": "The Legend of Zelda™ Link's Awakening DX™ [0004000000042600]",
@@ -38089,7 +38089,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042600].cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,27 MiB"}
 },
 {"info": {
 		            "title": "The Legend of Zelda™ Link's Awakening DX™ [0004000000042800]",
@@ -38119,7 +38119,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042800].cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "4,25 MiB"}
 },
 {"info": {
 		            "title": "The Legend of Zelda™ Link's Awakening DX™ [0004000000042a00]",
@@ -38149,7 +38149,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Links Awakening DX (EUR) [0004000000042a00].cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "5,33 MiB"}
 },
 {"info": {
 		            "title": "The Legend of Zelda™ Oracle of Ages",
@@ -38179,7 +38179,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Oracle of Ages (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,90 MiB"}
 },
 {"info": {
 		            "title": "The Legend of Zelda™ Oracle of Seasons",
@@ -38209,7 +38209,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/The Legend of Zelda Oracle of Seasons (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "7,95 MiB"}
 },
 {"info": {
 		            "title": "Wario Land II",
@@ -38239,7 +38239,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Wario Land II (EUR).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "6,14 MiB"}
 },
 {"info": {
 		            "title": "Angry Video Game Nerd Adventures",
@@ -38269,7 +38269,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Angry Video Game Nerd Adventures (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "25,9 MiB"}
 },
 {"info": {
 		            "title": "Silver Falls: 3 Down Stars",
@@ -38299,7 +38299,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Silver Falls - 3 Down Stars (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "323,0 MiB"}
 },
 {"info": {
 		            "title": "Of Mice And Sand",
@@ -38329,7 +38329,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Of Mice And Sand (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": ""}
+					"size": "51,2 MiB"}
 },
 {"info": {
 		            "title": "Yume Nikki",
