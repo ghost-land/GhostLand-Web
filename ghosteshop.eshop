@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 155
+"revision": 156
 },
 "storeContent": [
 {"info": {
@@ -47529,4 +47529,99 @@
 				   "file": "sdmc:/Knuckles Chaotix (World).cia",
 				   "message": "Cleaning..."}],
 				   "size": "10,53 MiB"}
+},
+{"info": {
+		            "title": "New Love Plus+",
+		            "version": "JPN",
+		            "author": "Konami",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 30,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon1288.png",
+		            "description": "",
+		            "last_updated": "2022-05-30 at 00:00 (UTC)"
+},
+"New Love Plus+": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/New%20Love%20Plus%2B%20%28JPN%29.cia",
+				   "output": "sdmc:/New Love Plus+ (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Love Plus+ (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Love Plus+ (JPN).cia",
+				   "message": "Cleaning..."}],
+				   "size": "1,61 GiB"}
+},
+{"info": {
+		            "title": "New Love Plus",
+		            "version": "JPN",
+		            "author": "Konami",
+		            "category": "Games",
+		            "console": "3DS",
+		            "additional": "Update & demo",
+		            "icon_index": 31,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon1289.png",
+		            "description": "",
+		            "last_updated": "2022-05-30 at 00:00 (UTC)"
+},
+"New Love Plus": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/New%20Love%20Plus%20%28JPN%29.cia",
+				   "output": "sdmc:/New Love Plus (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Love Plus (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Love Plus (JPN).cia",
+				   "message": "Cleaning..."}],
+				   "size": "1,76 GiB"},
+"New Love Plus - Update 2.0.0": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/New%20Love%20Plus%20-%20Update%202.0.0%20%28JPN%29.cia",
+				   "output": "sdmc:/New Love Plus - Update 2.0.0 (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/New Love Plus - Update 2.0.0 (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Love Plus - Update 2.0.0 (JPN).cia",
+				   "message": "Cleaning..."}],
+					"size": "101,46 MiB"},
+"New Love Plus - demo": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/JPN/N/New%20Love%20Plus%20%28demo%29%28JPN%29.cia",
+				   "output": "sdmc:/New Love Plus - demo (JPN).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/New Love Plus - demo (JPN).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Love Plus - demo (JPN).cia",
+				   "message": "Cleaning..."}],
+					"size": "46,64 MiB"}
 }]}
