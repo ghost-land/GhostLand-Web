@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 153
+"revision": 154
 },
 "storeContent": [
 {"info": {
@@ -1659,12 +1659,12 @@
 {"info": {
 					"title": "Poke Transfert",
 					"version": "ALL",
-					"author": "Pokemon.co",
+					"author": "Pokémon.co",
 					"category": "eShop",
 					"console": "3DS",
 					"icon_index": 5,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon6.png",
-					"description": "Le Poke Transfert permet de transférer des Pokemon des jeux de la cinquième génération ainsi que ceux de la première génération et de la deuxième génération.",
+					"description": "Le Poke Transfert permet de transférer des Pokémon des jeux de la cinquième génération ainsi que ceux de la première génération et de la deuxième génération.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
 "Poke Transfert": {
@@ -1749,9 +1749,9 @@
 					"size": "32,4 MiB"}
 },
 {"info": {
-					"title": "Pokemon Bank",
+					"title": "Pokémon Bank",
 					"version": "World",
-					"author": "Pokemon.co",
+					"author": "Pokémon.co",
 					"category": "eShop",
 					"console": "3DS",
 					"icon_index": 8,
@@ -1759,21 +1759,21 @@
 					"description": "",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokemon Bank": {
+"Pokémon Bank": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/ALL/P/Pokemon%20Bank%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Pokemon Bank (World).cia",
+				   "output": "sdmc:/Pokémon Bank (World).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Bank (World).cia",
+				   "file": "/Pokémon Bank (World).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Bank (World).cia",
+				   "file": "sdmc:/Pokémon Bank (World).cia",
 				   "message": "Cleaning..."}],
 					"size": "29,1 MiB"}
 },
@@ -2626,7 +2626,7 @@
 				   "size": "4,24 MiB"}
 },
 {"info": {
-					"title": "Pokemon Crystal Version",
+					"title": "Pokémon Crystal Version",
 					"version": "ALL",
 					"author": "Nintendo",
 					"category": "Virtual Consoles",
@@ -2640,17 +2640,17 @@
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pok%C3%A9mon%E2%84%A2%20Crystal%20Version%20ALL%20%280004000000172800%29.cia",
-				   "output": "sdmc:/Pokemon Crystal Version - USA.cia",
+				   "output": "sdmc:/Pokémon Crystal Version - USA.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Crystal Version - USA.cia",
+				   "file": "/Pokémon Crystal Version - USA.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Crystal Version - USA.cia",
+				   "file": "sdmc:/Pokémon Crystal Version - USA.cia",
 				   "message": "Cleaning..."}],
 					"size": "11,1 MiB"}
 },
@@ -2742,31 +2742,31 @@
 					"size": "8,49 MiB"}
 },
 {"info": {
-					"title": "Pokemon Prism",
+					"title": "Pokémon Prism",
 					"version": "Free",
 					"author": "rijon",
 					"category": "Homebrew",
 					"console": "",
 					"icon_index": 35,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon36.png",
-					"description": "Hack for Pokemon Crystal.",
+					"description": "Hack for Pokémon Crystal.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokemon Prism": {
+"Pokémon Prism": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pokemon%20Prism.cia",
-				   "output": "sdmc:/Pokemon Prism.cia",
+				   "output": "sdmc:/Pokémon Prism.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Prism.cia",
+				   "file": "/Pokémon Prism.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Prism.cia",
+				   "file": "sdmc:/Pokémon Prism.cia",
 				   "message": "Cleaning..."}],
 					"size": "5,05 MiB"}
 },
@@ -9079,89 +9079,89 @@
 					"size": "467 MiB"}
 },
 {"info": {
-					"title": "Pokemon GS Chronicles",
+					"title": "Pokémon GS Chronicles",
 					"version": "Beta 2 - Build 2911192_1",
 					"author": "Ruki",
 					"category": "Homebrew",
 					"console": "GBA",
 					"icon_index": 189,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon190.png",
-					"description": "Pokemon Fire Red hack.",
+					"description": "Pokémon Fire Red hack.",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokemon GS Chronicles": {
+"Pokémon GS Chronicles": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pokemon%20GS%20Chronicles%20Beta%202%20Build%202911192_1.cia",
-				   "output": "sdmc:/Pokemon GS Chronicles.cia",
+				   "output": "sdmc:/Pokémon GS Chronicles.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon GS Chronicles.cia",
+				   "file": "/Pokémon GS Chronicles.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon GS Chronicles.cia",
+				   "file": "sdmc:/Pokémon GS Chronicles.cia",
 				   "message": "Cleaning..."}],
 					"size": "32,5 MiB"}
 },
 {"info": {
-					"title": "Pokemon Orange Islands",
+					"title": "Pokémon Orange Islands",
 					"version": "5.0",
 					"author": "kalarie",
 					"category": "Homebrew",
 					"console": "GBA",
 					"icon_index": 190,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon191.png",
-					"description": "Pokemon Fire Red hack",
+					"description": "Pokémon Fire Red hack",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokemon Orange Islands": {
+"Pokémon Orange Islands": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pokemon%20Orange%20Islands%205.0.cia",
-				   "output": "sdmc:/Pokemon Orange Islands.cia",
+				   "output": "sdmc:/Pokémon Orange Islands.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Orange Islands.cia",
+				   "file": "/Pokémon Orange Islands.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Orange Islands.cia",
+				   "file": "sdmc:/Pokémon Orange Islands.cia",
 				   "message": "Cleaning..."}],
 					"size": "16,4 MiB"}
 },
 {"info": {
-					"title": "Pokemon Red Chapter",
+					"title": "Pokémon Red Chapter",
 					"version": "Beta 15.4",
 					"author": "Aethestode (rockmanmegaman)",
 					"category": "Homebrew",
 					"console": "GBA",
 					"icon_index": 191,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon192.png",
-					"description": "Pokemon Fire Red hack",
+					"description": "Pokémon Fire Red hack",
 					"last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Pokemon Red Chapter": {
+"Pokémon Red Chapter": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pokemon%20Red%20Chapter%20Beta%2015.4.cia",
-				   "output": "sdmc:/Pokemon Red Chapter.cia",
+				   "output": "sdmc:/Pokémon Red Chapter.cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Red Chapter.cia",
+				   "file": "/Pokémon Red Chapter.cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Red Chapter.cia",
+				   "file": "sdmc:/Pokémon Red Chapter.cia",
 				   "message": "Cleaning..."}],
 					"size": "64,5 MiB"}
 },
@@ -14086,7 +14086,7 @@
 					"size": "132,49 MiB"}
 },
 {"info": {
-					"title": "Pokemon Dream Radar",
+					"title": "Pokémon Dream Radar",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "eShop",
@@ -14096,26 +14096,26 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Dream Radar": {
+"Pokémon Dream Radar": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Dream%20Radar%20%28EUR%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Pokemon Dream Radar (EUR).cia",
+				   "output": "sdmc:/Pokémon Dream Radar (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Dream Radar (EUR).cia",
+				   "file": "/Pokémon Dream Radar (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Dream Radar (EUR).cia",
+				   "file": "sdmc:/Pokémon Dream Radar (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "24,87 MiB"}
 },
 {"info": {
-					"title": "Pokemon Link: Battle!",
+					"title": "Pokémon Link: Battle!",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "eShop",
@@ -14125,26 +14125,26 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Link: Battle!": {
+"Pokémon Link: Battle!": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Link%20-%20Battle%21%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Pokemon Link -Battle! (EUR).cia",
+				   "output": "sdmc:/Pokémon Link -Battle! (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Link -Battle! (EUR).cia",
+				   "file": "/Pokémon Link -Battle! (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Link -Battle! (EUR).cia",
+				   "file": "sdmc:/Pokémon Link -Battle! (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "48,07 MiB"}
 },
 {"info": {
-					"title": "Pokemon Moon",
+					"title": "Pokémon Moon",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Games",
@@ -14168,26 +14168,26 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Moon": {
+"Pokémon Moon": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Moon%20%28EUR%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%29.cia",
-				   "output": "sdmc:/Pokemon Moon (EUR).cia",
+				   "output": "sdmc:/Pokémon Moon (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Moon (EUR).cia",
+				   "file": "/Pokémon Moon (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Moon (EUR).cia",
+				   "file": "sdmc:/Pokémon Moon (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "2,98 GiB"}
 },
 {"info": {
-					"title": "Pokemon Mystery Dungeon: Gates to Infinity",
+					"title": "Pokémon Mystery Dungeon: Gates to Infinity",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Games",
@@ -14209,43 +14209,43 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Mystery Dungeon: Gates to Infinity": {
+"Pokémon Mystery Dungeon: Gates to Infinity": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Mystery%20Dungeon%20-%20Gates%20to%20Infinity%20%28EUR%29%28M5%29.cia",
-				   "output": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity (EUR).cia",
+				   "output": "sdmc:/Pokémon Mystery Dungeon - Gates to Infinity (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Mystery Dungeon - Gates to Infinity (EUR).cia",
+				   "file": "/Pokémon Mystery Dungeon - Gates to Infinity (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity (EUR).cia",
+				   "file": "sdmc:/Pokémon Mystery Dungeon - Gates to Infinity (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": "844,96 MiB"},
-"Pokemon Mystery Dungeon: Gates to Infinity - DLC": {
+"Pokémon Mystery Dungeon: Gates to Infinity - DLC": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Mystery%20Dungeon%20-%20Gates%20to%20Infinity%20-%20DLC%20%28EUR%29.cia",
-				   "output": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
+				   "output": "sdmc:/Pokémon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
+				   "file": "/Pokémon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
+				   "file": "sdmc:/Pokémon Mystery Dungeon - Gates to Infinity - DLC (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "240,39 MiB"}
 },
 {"info": {
-					"title": "Pokemon Rumble World",
+					"title": "Pokémon Rumble World",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Games",
@@ -14269,26 +14269,26 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Rumble World": {
+"Pokémon Rumble World": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Rumble%20World%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
-				   "output": "sdmc:/Pokemon Rumble World (EUR).cia",
+				   "output": "sdmc:/Pokémon Rumble World (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Rumble World (EUR).cia",
+				   "file": "/Pokémon Rumble World (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Rumble World (EUR).cia",
+				   "file": "sdmc:/Pokémon Rumble World (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "103,07 MiB"}
 },
 {"info": {
-					"title": "Pokemon Super Mystery Dungeon",
+					"title": "Pokémon Super Mystery Dungeon",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Games",
@@ -14319,43 +14319,43 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Super Mystery Dungeon": {
+"Pokémon Super Mystery Dungeon": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Super%20Mystery%20Dungeon%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
-				   "output": "sdmc:/Pokemon Super Mystery Dungeon (EUR).cia",
+				   "output": "sdmc:/Pokémon Super Mystery Dungeon (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Super Mystery Dungeon (EUR).cia",
+				   "file": "/Pokémon Super Mystery Dungeon (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Super Mystery Dungeon (EUR).cia",
+				   "file": "sdmc:/Pokémon Super Mystery Dungeon (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,70 GiB"},
-"Pokemon Super Mystery Dungeon - Update 1.1": {
+"Pokémon Super Mystery Dungeon - Update 1.1": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Super%20Mystery%20Dungeon%20-%20Update%201.1%20%28EUR%29.cia",
-				   "output": "sdmc:/Pokemon Super Mystery Dungeon - Update 1.1 (EUR).cia",
+				   "output": "sdmc:/Pokémon Super Mystery Dungeon - Update 1.1 (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Super Mystery Dungeon - Update 1.1 (EUR).cia",
+				   "file": "/Pokémon Super Mystery Dungeon - Update 1.1 (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Super Mystery Dungeon - Update 1.1 (EUR).cia",
+				   "file": "sdmc:/Pokémon Super Mystery Dungeon - Update 1.1 (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "32,18 MiB"}
 },
 {"info": {
-					"title": "Pokemon Ultra Sun",
+					"title": "Pokémon Ultra Sun",
 					"version": "EUR",
 					"author": "Nintendo",
 					"category": "Games",
@@ -14370,26 +14370,26 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon Ultra Sun": {
+"Pokémon Ultra Sun": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Ultra%20Sun%20%28EUR%29%28M8%29%28RETAIL%29.cia",
-				   "output": "sdmc:/Pokemon Ultra Sun (EUR).cia",
+				   "output": "sdmc:/Pokémon Ultra Sun (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon Ultra Sun (EUR).cia",
+				   "file": "/Pokémon Ultra Sun (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Ultra Sun (EUR).cia",
+				   "file": "sdmc:/Pokémon Ultra Sun (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "3,44 GiB"}
 },
 {"info": {
-					"title": "Pokemon X",
+					"title": "Pokémon X",
 					"version": "EUR, USA",
 					"author": "Nintendo",
 					"category": "Games",
@@ -14414,55 +14414,55 @@
 					"description": "",
 					"last_updated": "2020-11-05 at 04:19 (UTC)"
 },
-"Pokemon X (EUR)": {
+"Pokémon X (EUR)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20X%20%28EUR%29%28M7%29.cia",
-				   "output": "sdmc:/Pokemon X (EUR).cia",
+				   "output": "sdmc:/Pokémon X (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon X (EUR).cia",
+				   "file": "/Pokémon X (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon X (EUR).cia",
+				   "file": "sdmc:/Pokémon X (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,68 GiB"},
-"Pokemon X (USA)": {
+"Pokémon X (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20X%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon X (USA).cia",
+				   "output": "sdmc:/Pokémon X (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon X (USA).cia",
+				   "file": "/Pokémon X (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon X (USA).cia",
+				   "file": "sdmc:/Pokémon X (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,68 GiB"},
-"Pokemon X - Update 1.5 (USA)": {
+"Pokémon X - Update 1.5 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20X%20-%20Update%201.5%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon X - Update 1.5 (USA).cia",
+				   "output": "sdmc:/Pokémon X - Update 1.5 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Pokemon X - Update 1.5 (USA).cia",
+				   "file": "/Pokémon X - Update 1.5 (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon X - Update 1.5 (USA).cia",
+				   "file": "sdmc:/Pokémon X - Update 1.5 (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "30,2 MiB"}
 },
@@ -15660,7 +15660,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 385,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon386.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Around%20the%20World%20with%20Hello%20Kitty%20and%20Friends/boxart.png",
@@ -15694,7 +15694,7 @@
 		            "category": "eShop",
 		            "console": "3DS",
 		            "icon_index": 386,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon387.png",
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
@@ -15723,7 +15723,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 387,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon388.png",
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
@@ -15752,7 +15752,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 388,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon389.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Chevrolet%20Camaro%20Wild%20Ride%203D/art.png",
@@ -15786,7 +15786,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 389,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon390.png",
 		            "description": "",
 		            "last_updated": "2021-02-02 at 10:19 (UTC)"
 },
@@ -15832,7 +15832,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 390,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon391.png",
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
@@ -15861,7 +15861,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 391,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon392.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cooking%20Mama%204%20Kitchen%20Magic/boxart.png",
@@ -15895,7 +15895,7 @@
 		            "category": "eShop",
 		            "console": "3DS",
 		            "icon_index": 392,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon393.png",
 		            "description": "",
 		            "last_updated": "2020-10-21 at 10:19 (UTC)"
 },
@@ -15924,7 +15924,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 393,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon394.png",
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
@@ -15954,7 +15954,7 @@
 		            "console": "3DS",
 		            "additional": "Update",
 					"icon_index": 394,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon395.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Ball%20Fusions/boxart.png",
@@ -16032,7 +16032,7 @@
 		            "console": "3DS",
 		            "additional": "Update & DLC",
 					"icon_index": 395,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon396.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Ball%20Z%20Extreme%20Butoden%20-%20Update/boxart.png",
@@ -16211,7 +16211,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 396,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon397.png",
 		            "description": "",
 		            "last_updated": "2020-11-27 at 10:19 (UTC)"
 },
@@ -16240,7 +16240,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 397,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon398.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Farming%20Simulator%202012%203D/boxart.png",
@@ -16274,7 +16274,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 398,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon399.png",
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
@@ -16303,7 +16303,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 399,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon400.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Final%20Fantasy%20Explorers/boxart.png",
@@ -16380,7 +16380,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 400,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon401.png",
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
@@ -16410,7 +16410,7 @@
 		            "console": "3DS",
 		            "additional": "DLC",
 					"icon_index": 401,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon402.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fire%20Emblem%20Awakening/boxart.png",
@@ -16479,7 +16479,7 @@
 		            "console": "3DS",
 		            "additional": "DLC",
 					"icon_index": 402,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon403.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fire%20Emblem%20Fates%20Special%20Edition/boxart.png",
@@ -16547,7 +16547,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 403,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon404.png",
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
@@ -16576,7 +16576,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 404,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon405.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fossil%20Fighters%20Frontier/boxart.png",
@@ -16627,7 +16627,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 405,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon406.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Funfair%20Party%20Games/art.png",
@@ -16661,7 +16661,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 406,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon407.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Games%20Festival%201/art.png",
@@ -16695,7 +16695,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 407,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon408.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Games%20Festival%202/art.png",
@@ -16729,7 +16729,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 408,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon409.png",
 		            "description": "",
 		            "last_updated": "2021-02-02 at 10:19 (UTC)"
 },
@@ -16775,7 +16775,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 409,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon410.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Gardenscapes/art.png",
@@ -16809,7 +16809,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 410,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon411.png",
 		            "description": "",
 		            "last_updated": "2021-02-02 at 10:19 (UTC)"
 },
@@ -16855,7 +16855,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 411,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon412.png",
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
@@ -16884,7 +16884,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 412,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon413.png",
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
@@ -16913,7 +16913,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 413,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon414.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hello%20Kitty%20Picnic%20with%20Sanrio%20Friends/art.png",
@@ -16947,7 +16947,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 414,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon415.png",
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
@@ -16976,7 +16976,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 415,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon416.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hidden%20Expedition%20Titanic/art.png",
@@ -17010,7 +17010,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 416,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon417.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hollywood%20Fame%20Hidden%20Object%20Adventure/art.png",
@@ -17044,7 +17044,7 @@
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 417,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon418.png",
 		            "description": "",
 		            "last_updated": "2020-11-29 at 10:19 (UTC)"
 },
@@ -17074,7 +17074,7 @@
 		            "console": "3DS",
 		            "icon_index": 0,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon419.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20and%20Luigi%20Paper%20Jam/boxart.png",
@@ -17135,7 +17135,7 @@
 		            "console": "3DS",
 		            "icon_index": 1,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon420.png",
 		            "description": "",
 		            "last_updated": "2020-12-01 at 06:08 (UTC)"
 },
@@ -17165,7 +17165,7 @@
 		            "console": "3DS",
 		            "icon_index": 2,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon421.png",
 		            "description": "",
 		            "last_updated": "2020-11-30 at 18:19 (UTC)"
 },
@@ -17208,7 +17208,7 @@
 		            "console": "3DS",
 		            "icon_index": 3,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon422.png",
 		            "description": "",
 		            "last_updated": "2020-12-02 at 05:30 (UTC)"
 },
@@ -17238,7 +17238,7 @@
 		            "console": "3DS",
 		            "icon_index": 4,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon423.png",
 		            "description": "",
 		            "last_updated": "2020-12-03 at 18:19 (UTC)"
 },
@@ -17268,7 +17268,7 @@
 		            "console": "3DS",
 		            "icon_index": 5,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon424.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Imagine%20Babyz/art.png",
@@ -17320,7 +17320,7 @@
 		            "console": "3DS",
 		            "icon_index": 6,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon425.png",
 		            "description": "",
 		            "last_updated": "2020-12-03 at 18:19 (UTC)"
 },
@@ -17350,7 +17350,7 @@
 		            "console": "3DS",
 		            "icon_index": 7,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon426.png",
 		            "description": "",
 		            "last_updated": "2020-12-03 at 18:19 (UTC)"
 },
@@ -17380,7 +17380,7 @@
 		            "console": "3DS",
 		            "icon_index": 8,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon427.png",
 		            "description": "",
 		            "last_updated": "2020-12-03 at 18:19 (UTC)"
 },
@@ -17410,7 +17410,7 @@
 		            "console": "3DS",
 		            "icon_index": 9,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon428.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Inazuma%20Eleven%203%20-%20Lightning%20Bolt%20Bomb%20Blast%20and%20Team%20Ogre%20Attacks/boxart.png",
@@ -17454,7 +17454,7 @@
 		            "console": "3DS",
 		            "icon_index": 10,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon429.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Inazuma%20Eleven%20GO%20Chrono%20Stones%20Wildfire%20and%20Thunderflash/screenshots/Technique.png",
@@ -17512,7 +17512,7 @@
 		            "console": "3DS",
 		            "icon_index": 11,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon430.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Inazuma%20Eleven%20GO%20Light/boxart.png",
@@ -17573,7 +17573,7 @@
 		            "console": "3DS",
 		            "icon_index": 12,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon431.png",
 					"screenshots": 
 		            [{
 		            		"url": "https://cdn.ghosteshop.com/Images/3ds/Inazuma%20Eleven%20GO%20Shadow/boxart.png",
@@ -17625,7 +17625,7 @@
 		            "console": "3DS",
 		            "icon_index": 13,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon432.png",
 		            "description": "",
 		            "last_updated": "2020-12-03 at 18:19 (UTC)"
 },
@@ -17655,7 +17655,7 @@
 		            "console": "3DS",
 		            "icon_index": 14,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon433.png",
 		            "description": "",
 		            "last_updated": "2020-12-03 at 18:19 (UTC)"
 },
@@ -17685,7 +17685,7 @@
 		            "console": "3DS",
 		            "icon_index": 15,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon434.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Jewel%20Match%203/art.png",
@@ -17721,7 +17721,7 @@
 		            "additional": "Update",
 		            "icon_index": 16,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon435.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Jewel%20Quest%206%20-%20The%20Sapphire%20%20Dragon/art.png",
@@ -17773,7 +17773,7 @@
 		            "console": "3DS",
 		            "icon_index": 17,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon436.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Jewel%20Quest%204%20Heritage/art.png",
@@ -17808,7 +17808,7 @@
 		            "console": "3DS",
 		            "icon_index": 18,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon437.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Jewel%20Quest%20Mysteries%203%20-%20The%20Seventh%20Gate/art.png",
@@ -17843,7 +17843,7 @@
 		            "console": "3DS",
 		            "icon_index": 19,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon438.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/35%20Junior%20Games/art.png",
@@ -17878,7 +17878,7 @@
 		            "console": "3DS",
 		            "icon_index": 20,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon439.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kingdom%20Hearts%203D%20Dream%20Drop%20Distance/boxart.png",
@@ -17923,7 +17923,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 21,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon440.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Laytons%20Mystery%20Journey%20-%20Update%20ver1.2/boxart.png",
@@ -18021,7 +18021,7 @@
 		            "console": "3DS",
 		            "icon_index": 22,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon441.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lucky%20Luke%20%26%20The%20Daltons/art.png",
@@ -18056,7 +18056,7 @@
 		            "console": "3DS",
 		            "icon_index": 23,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon442.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 10:17 (UTC)"
 },
@@ -18086,7 +18086,7 @@
 		            "console": "3DS",
 		            "icon_index": 24,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon443.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Luxor/art.png",
@@ -18121,7 +18121,7 @@
 		            "console": "3DS",
 		            "icon_index": 25,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon444.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18151,7 +18151,7 @@
 		            "console": "3DS",
 		            "icon_index": 26,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon445.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mahjong%20Mysteries%20-%20Ancient%20Athena/art.png",
@@ -18186,7 +18186,7 @@
 		            "console": "3DS",
 		            "icon_index": 27,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon446.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20Tennis%20Open/boxart.png",
@@ -18238,7 +18238,7 @@
 		            "console": "3DS",
 		            "icon_index": 28,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon447.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18268,7 +18268,7 @@
 		            "console": "3DS",
 		            "icon_index": 29,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon448.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18298,7 +18298,7 @@
 		            "console": "3DS",
 		            "icon_index": 30,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon449.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18328,7 +18328,7 @@
 		            "console": "3DS",
 		            "icon_index": 31,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon450.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/My%20Exotic%20Farm/art.png",
@@ -18363,7 +18363,7 @@
 		            "console": "3DS",
 		            "icon_index": 32,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon451.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18393,7 +18393,7 @@
 		            "console": "3DS",
 		            "icon_index": 33,
 					"sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon452.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18423,7 +18423,7 @@
 		            "console": "3DS",
 		            "icon_index": 34,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon453.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mystery%20Case%20Files%20Dire%20Grove/art.png",
@@ -18458,7 +18458,7 @@
 		            "console": "3DS",
 		            "icon_index": 35,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon454.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mystery%20Case%20Files%20Ravenhearst/art.png",
@@ -18493,7 +18493,7 @@
 		            "console": "3DS",
 		            "icon_index": 36,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon455.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18523,7 +18523,7 @@
 		            "console": "3DS",
 		            "icon_index": 37,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon456.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18553,7 +18553,7 @@
 		            "console": "3DS",
 		            "icon_index": 38,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon457.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 13:17 (UTC)"
 },
@@ -18583,7 +18583,7 @@
 		            "console": "3DS",
 		            "icon_index": 39,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon458.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Shippuden%203D%20-%20The%20New%20Era/boxart.png",
@@ -18647,7 +18647,7 @@
 		            "console": "3DS",
 		            "icon_index": 40,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon459.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 20:50 (UTC)"
 },
@@ -18678,7 +18678,7 @@
 		            "additional": "DLC",
 		            "icon_index": 41,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon460.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 20:50 (UTC)"
 },
@@ -18726,7 +18726,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 42,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon461.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 20:50 (UTC)"
 },
@@ -18807,7 +18807,7 @@
 		            "console": "3DS",
 		            "icon_index": 43,
 					"sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon462.png",
 		            "description": "",
 		            "last_updated": "2020-12-04 at 20:50 (UTC)"
 },
@@ -18854,7 +18854,7 @@
 		            "console": "3DS",
 		            "icon_index": 44,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon463.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nintendo%203DS%20Guide%20Louvre/art.png",
@@ -18889,7 +18889,7 @@
 		            "console": "3DS",
 		            "icon_index": 45,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon464.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nintendogs%20Cats%20Golden%20Retriever%20New%20Friends/boxart.png",
@@ -18947,7 +18947,7 @@
 		            "console": "3DS",
 		            "icon_index": 46,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon465.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -18977,7 +18977,7 @@
 		            "console": "3DS",
 		            "icon_index": 47,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon466.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19007,7 +19007,7 @@
 		            "console": "3DS",
 		            "icon_index": 48,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon467.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19037,7 +19037,7 @@
 		            "console": "3DS",
 		            "icon_index": 49,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon468.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19067,7 +19067,7 @@
 		            "console": "3DS",
 		            "icon_index": 50,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon469.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19098,7 +19098,7 @@
 		            "additional": "DLC",
 		            "icon_index": 51,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon470.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Persona%20Q%20-%20Shadow%20of%20the%20Labyrinth/boxart.png",
@@ -19176,7 +19176,7 @@
 		            "console": "3DS",
 		            "icon_index": 52,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon471.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19289,7 +19289,7 @@
 					"size": "203 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Ultra Moon",
+		            "title": "Pokémon Ultra Moon",
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Games",
@@ -19305,26 +19305,26 @@
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
-"Pokemon Ultra Moon": {
+"Pokémon Ultra Moon": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Ultra%20Moon%20%28EUR%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CZh%2CKo%29.cia",
-				   "output": "sdmc:/Pokemon Ultra Moon (EUR).cia",
+				   "output": "sdmc:/Pokémon Ultra Moon (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Ultra Moon (EUR).cia",
+				   "file": "/Pokémon Ultra Moon (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Ultra Moon (EUR).cia",
+				   "file": "sdmc:/Pokémon Ultra Moon (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "3,45 GiB"}
 },
 {"info": {
-		            "title": "Pokemon Y",
+		            "title": "Pokémon Y",
 		            "version": "EUR, USA",
 		            "author": "Nintendo",
 		            "category": "Games",
@@ -19350,60 +19350,60 @@
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
-"Pokemon Y (EUR)": {
+"Pokémon Y (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pokemon%20Y%20%28EUR%29%28M7%29.cia",
-				   "output": "sdmc:/Pokemon Y (EUR).cia",
+				   "output": "sdmc:/Pokémon Y (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Y (EUR).cia",
+				   "file": "/Pokémon Y (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Y (EUR).cia",
+				   "file": "sdmc:/Pokémon Y (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,68 GiB"},
-"Pokemon Y (USA)": {
+"Pokémon Y (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Y%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Y (USA).cia",
+				   "output": "sdmc:/Pokémon Y (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Y (USA).cia",
+				   "file": "/Pokémon Y (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Y (USA).cia",
+				   "file": "sdmc:/Pokémon Y (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,68 GiB"},
-"Pokemon Y - Update 1.5 (USA)": {
+"Pokémon Y - Update 1.5 (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Y%20-%20Update%201.5%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Y - Update 1.5 (USA).cia",
+				   "output": "sdmc:/Pokémon Y - Update 1.5 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Y - Update 1.5 (USA).cia",
+				   "file": "/Pokémon Y - Update 1.5 (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Y - Update 1.5 (USA).cia",
+				   "file": "sdmc:/Pokémon Y - Update 1.5 (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "30,2 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Alpha Sapphire",
+		            "title": "Pokémon Alpha Sapphire",
 		            "version": "EUR, USA",
 		            "author": "Nintendo",
 		            "category": "Games",
@@ -19429,55 +19429,55 @@
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
-"Pokemon Alpha Sapphire (EUR)": {
+"Pokémon Alpha Sapphire (EUR)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Pok%C3%A9mon%20Saphir%20Alpha%20%28EUR%29.cia",
-				   "output": "sdmc:/Pokemon Alpha Sapphire (EUR).cia",
+				   "output": "sdmc:/Pokémon Alpha Sapphire (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Alpha Sapphire (EUR).cia",
+				   "file": "/Pokémon Alpha Sapphire (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Alpha Sapphire (EUR).cia",
+				   "file": "sdmc:/Pokémon Alpha Sapphire (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,76 GiB"},
-"Pokemon Alpha Sapphire (USA)": {
+"Pokémon Alpha Sapphire (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Alpha%20Sapphire%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Alpha Sapphire (USA).cia",
+				   "output": "sdmc:/Pokémon Alpha Sapphire (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Alpha Sapphire (USA).cia",
+				   "file": "/Pokémon Alpha Sapphire (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Alpha Sapphire (USA).cia",
+				   "file": "sdmc:/Pokémon Alpha Sapphire (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,77 GiB"},
-"Pokemon Alpha Sapphire - Update 1.4 (USA)": {
+"Pokémon Alpha Sapphire - Update 1.4 (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Alpha%20Sapphire%20-%20Update%201.4%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Alpha Sapphire - Update 1.4 (USA).cia",
+				   "output": "sdmc:/Pokémon Alpha Sapphire - Update 1.4 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Alpha Sapphire - Update 1.4 (USA).cia",
+				   "file": "/Pokémon Alpha Sapphire - Update 1.4 (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Alpha Sapphire - Update 1.4 (USA).cia",
+				   "file": "sdmc:/Pokémon Alpha Sapphire - Update 1.4 (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "33,4 MiB"}
 },
@@ -26103,7 +26103,7 @@
 					"size": "22,2 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Art Academy",
+		            "title": "Pokémon Art Academy",
 		            "version": "USA",
 		            "author": "Nintendo",
 		            "category": "Games",
@@ -26119,26 +26119,26 @@
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
-"Pokemon Art Academy": {
+"Pokémon Art Academy": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Art%20Academy%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Art Academy (USA).cia",
+				   "output": "sdmc:/Pokémon Art Academy (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Art Academy (USA).cia",
+				   "file": "/Pokémon Art Academy (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Art Academy (USA).cia",
+				   "file": "sdmc:/Pokémon Art Academy (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "320,0 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Omega Ruby",
+		            "title": "Pokémon Omega Ruby",
 		            "version": "USA",
 		            "author": "Nintendo",
 		            "category": "Games",
@@ -26164,43 +26164,43 @@
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
-"Pokemon Omega Ruby": {
+"Pokémon Omega Ruby": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Omega%20Ruby%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Omega Ruby (USA).cia",
+				   "output": "sdmc:/Pokémon Omega Ruby (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Omega Ruby (USA).cia",
+				   "file": "/Pokémon Omega Ruby (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Omega Ruby (USA).cia",
+				   "file": "sdmc:/Pokémon Omega Ruby (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "1,76 GiB"},
-"Pokemon Omega Ruby - Update 1.4": {
+"Pokémon Omega Ruby - Update 1.4": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Omega%20Ruby%20-%20Update%201.4%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Omega Ruby - Update 1.4 (USA).cia",
+				   "output": "sdmc:/Pokémon Omega Ruby - Update 1.4 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Omega Ruby - Update 1.4 (USA).cia",
+				   "file": "/Pokémon Omega Ruby - Update 1.4 (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Omega Ruby - Update 1.4 (USA).cia",
+				   "file": "sdmc:/Pokémon Omega Ruby - Update 1.4 (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "33,4 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Rumble Blast",
+		            "title": "Pokémon Rumble Blast",
 		            "version": "USA",
 		            "author": "Nintendo",
 		            "category": "Games",
@@ -26216,21 +26216,21 @@
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
-"Pokemon Rumble Blast": {
+"Pokémon Rumble Blast": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokemon%20Rumble%20Blast%20%28USA%29.cia",
-				   "output": "sdmc:/Pokemon Rumble Blast (USA).cia",
+				   "output": "sdmc:/Pokémon Rumble Blast (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Rumble Blast (USA).cia",
+				   "file": "/Pokémon Rumble Blast (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Rumble Blast (USA).cia",
+				   "file": "sdmc:/Pokémon Rumble Blast (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "308,0 MiB"}
 },
@@ -35135,7 +35135,7 @@
 					"size": "5,03 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Blue Version",
+		            "title": "Pokémon Blue Version",
 		            "version": "World",
 		            "author": "BigBlueBox",
 		            "category": "Virtual Consoles",
@@ -35146,26 +35146,26 @@
 		            "description": "",
 		            "last_updated": "2021-02-06 at 14:50 (UTC)"
 },
-"Pokemon Blue Version": {
+"Pokémon Blue Version": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pok%C3%A9mon%E2%84%A2%20Blue%20Version%20ALL%20%280004000000171100%29.cia",
-				   "output": "sdmc:/Pokemon Blue Version (World).cia",
+				   "output": "sdmc:/Pokémon Blue Version (World).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Blue Version (World).cia",
+				   "file": "/Pokémon Blue Version (World).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Blue Version (World).cia",
+				   "file": "sdmc:/Pokémon Blue Version (World).cia",
 				   "message": "Cleaning..."}],
 					"size": "9,80 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Gold Version",
+		            "title": "Pokémon Gold Version",
 		            "version": "World",
 		            "author": "BigBlueBox",
 		            "category": "Virtual Consoles",
@@ -35176,26 +35176,26 @@
 		            "description": "",
 		            "last_updated": "2021-02-06 at 14:50 (UTC)"
 },
-"Pokemon Gold Version": {
+"Pokémon Gold Version": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pok%C3%A9mon%E2%84%A2%20Gold%20Version%20ALL%20%280004000000172600%29.cia",
-				   "output": "sdmc:/Pokemon Gold Version (World).cia",
+				   "output": "sdmc:/Pokémon Gold Version (World).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Gold Version (World).cia",
+				   "file": "/Pokémon Gold Version (World).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Gold Version (World).cia",
+				   "file": "sdmc:/Pokémon Gold Version (World).cia",
 				   "message": "Cleaning..."}],
 					"size": "10,9 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Red Version",
+		            "title": "Pokémon Red Version",
 		            "version": "World",
 		            "author": "BigBlueBox",
 		            "category": "Virtual Consoles",
@@ -35206,26 +35206,26 @@
 		            "description": "",
 		            "last_updated": "2021-02-06 at 14:50 (UTC)"
 },
-"Pokemon Red Version": {
+"Pokémon Red Version": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pok%C3%A9mon%E2%84%A2%20Red%20Version%20ALL%20%280004000000171000%29.cia",
-				   "output": "sdmc:/Pokemon Red Version (World).cia",
+				   "output": "sdmc:/Pokémon Red Version (World).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Red Version (World).cia",
+				   "file": "/Pokémon Red Version (World).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Red Version (World).cia",
+				   "file": "sdmc:/Pokémon Red Version (World).cia",
 				   "message": "Cleaning..."}],
 					"size": "9,80 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Silver Version",
+		            "title": "Pokémon Silver Version",
 		            "version": "World",
 		            "author": "BigBlueBox",
 		            "category": "Virtual Consoles",
@@ -35236,26 +35236,26 @@
 		            "description": "",
 		            "last_updated": "2021-02-06 at 14:50 (UTC)"
 },
-"Pokemon Silver Version": {
+"Pokémon Silver Version": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pok%C3%A9mon%E2%84%A2%20Silver%20Version%20ALL%20%280004000000172700%29.cia",
-				   "output": "sdmc:/Pokemon Silver Version (World).cia",
+				   "output": "sdmc:/Pokémon Silver Version (World).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Silver Version (World).cia",
+				   "file": "/Pokémon Silver Version (World).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Silver Version (World).cia",
+				   "file": "sdmc:/Pokémon Silver Version (World).cia",
 				   "message": "Cleaning..."}],
 					"size": "10,9 MiB"}
 },
 {"info": {
-		            "title": "Pokemon Yellow Version",
+		            "title": "Pokémon Yellow Version",
 		            "version": "World",
 		            "author": "BigBlueBox",
 		            "category": "Virtual Consoles",
@@ -35266,21 +35266,21 @@
 		            "description": "",
 		            "last_updated": "2021-02-06 at 14:50 (UTC)"
 },
-"Pokemon Yellow Version": {
+"Pokémon Yellow Version": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/ALL/P/Pok%C3%A9mon%E2%84%A2%20Yellow%20Version%20ALL%20%280004000000171200%29.cia",
-				   "output": "sdmc:/Pokemon Yellow Version (World).cia",
+				   "output": "sdmc:/Pokémon Yellow Version (World).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Yellow Version (World).cia",
+				   "file": "/Pokémon Yellow Version (World).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Yellow Version (World).cia",
+				   "file": "sdmc:/Pokémon Yellow Version (World).cia",
 				   "message": "Cleaning..."}],
 					"size": "9,81 MiB"}
 },
@@ -37042,7 +37042,7 @@
 					"size": "3,83 MiB"}
 },
 {"info": {
-		            "title": "Pokemon™ Puzzle Challenge",
+		            "title": "Pokémon™ Puzzle Challenge",
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
@@ -37053,26 +37053,26 @@
 		            "description": "",
 		            "last_updated": "2021-02-07 at 12:35 (UTC)"
 },
-"Pokemon™ Puzzle Challenge": {
+"Pokémon™ Puzzle Challenge": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/EUR/P/Pok%C3%A9mon%E2%84%A2%20Puzzle%20Challenge%20EUR%20%280004000000119e00%29.cia",
-				   "output": "sdmc:/Pokemon Puzzle Challenge (EUR).cia",
+				   "output": "sdmc:/Pokémon Puzzle Challenge (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Puzzle Challenge (EUR).cia",
+				   "file": "/Pokémon Puzzle Challenge (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Puzzle Challenge (EUR).cia",
+				   "file": "sdmc:/Pokémon Puzzle Challenge (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "6,38 MiB"}
 },
 {"info": {
-		            "title": "Pokemon™ Trading Card Game",
+		            "title": "Pokémon™ Trading Card Game",
 		            "version": "EUR",
 		            "author": "Nintendo",
 		            "category": "Virtual Consoles",
@@ -37083,21 +37083,21 @@
 		            "description": "",
 		            "last_updated": "2021-02-07 at 12:35 (UTC)"
 },
-"Pokemon™ Trading Card Game": {
+"Pokémon™ Trading Card Game": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/Virtual%20console/EUR/P/Pok%C3%A9mon%E2%84%A2%20Trading%20Card%20Game%20EUR%20%28000400000011a100%29.cia",
-				   "output": "sdmc:/Pokemon Trading Card Game (EUR).cia",
+				   "output": "sdmc:/Pokémon Trading Card Game (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokemon Trading Card Game (EUR).cia",
+				   "file": "/Pokémon Trading Card Game (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokemon Trading Card Game (EUR).cia",
+				   "file": "sdmc:/Pokémon Trading Card Game (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "6,52 MiB"}
 },
