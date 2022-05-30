@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 154
+"revision": 155
 },
 "storeContent": [
 {"info": {
@@ -1657,33 +1657,51 @@
 					"size": "8,80 MiB"}
 },
 {"info": {
-					"title": "Poke Transfert",
-					"version": "ALL",
+					"title": "Poké Transporter",
+					"version": "World",
 					"author": "Pokémon.co",
 					"category": "eShop",
 					"console": "3DS",
+					"additional": "Update",
 					"icon_index": 5,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon6.png",
-					"description": "Le Poke Transfert permet de transférer des Pokémon des jeux de la cinquième génération ainsi que ceux de la première génération et de la deuxième génération.",
-					"last_updated": "2020-08-09 at 14:03 (UTC)"
+					"description": "Le Poké Transporter permet de transférer des Pokémon des jeux de la cinquième génération ainsi que ceux de la première génération et de la deuxième génération.",
+					"last_updated": "2022-05-30 at 22:18 (UTC)"
 },
-"Poke Transfert": {
+"Poké Transporter": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/ALL/P/Poke%20Transporter%20%28World%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Poke Transfert.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/ALL/P/Pok%C3%A9%20Transporter%20%28World%29.cia",
+				   "output": "sdmc:/Poké Transporter (World).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Poke Transfert.cia",
+				   "file": "/Poké Transporter (World).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Poke Transfert.cia",
+				   "file": "sdmc:/Poké Transporter (World).cia",
 				   "message": "Cleaning..."}],
-					"size": "26,7 MiB"}
+					"size": "54,69 MiB"},
+"Poké Transporter - Update 2.2.0": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/ALL/P/Poke%20Transporter%20-%20Update%202.2.0%20%28World%29.cia",
+				   "output": "sdmc:/Poké Transporter - Update 2.2.0 (World).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Poké Transporter - Update 2.2.0 (World).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Poké Transporter - Update 2.2.0 (World).cia",
+				   "message": "Cleaning..."}],
+					"size": "51,97 MiB"}
 },
 {"info": {
 					"title": "3D Sonic the Hedgehog 2",
