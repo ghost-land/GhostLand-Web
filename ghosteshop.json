@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 156
+"revision": 157
 },
 "storeContent": [
 {"info": {
@@ -19224,7 +19224,7 @@
 		            "console": "3DS",
 		            "icon_index": 53,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon472.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19254,7 +19254,7 @@
 		            "console": "3DS",
 		            "icon_index": 54,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon473.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19284,7 +19284,7 @@
 		            "console": "3DS",
 		            "icon_index": 55,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon474.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19314,7 +19314,7 @@
 		            "console": "3DS",
 		            "icon_index": 56,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon475.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Ultra%20Moon/boxart.png",
@@ -19350,7 +19350,7 @@
 		            "additional": "Update",
  		            "icon_index": 57,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon476.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Y/boxart.png",
@@ -19429,7 +19429,7 @@
 		            "additional": "Update",
 		            "icon_index": 58,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon477.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Alpha%20%20Sapphire/boxart.png",
@@ -19507,7 +19507,7 @@
 		            "console": "3DS",
 		            "icon_index": 59,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon478.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Professor%20Layton%20vs%20Phoenix%20Wright%20Ace%20Attorney/boxart.png",
@@ -19572,7 +19572,7 @@
 		            "additional": "DLC & Update",
 		            "icon_index": 60,
 					"sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon479.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19636,7 +19636,7 @@
 		            "console": "3DS",
 		            "icon_index": 62,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon481.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Puzzler%20Brain%20Games/art.png",
@@ -19671,7 +19671,7 @@
 		            "console": "3DS",
 		            "icon_index": 63,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon482.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19702,7 +19702,7 @@
 		            "additional": "Update",
 		            "icon_index": 64,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon483.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19750,7 +19750,7 @@
 		            "additional": "Spanish mas Update",
 		            "icon_index": 65,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon484.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Resident%20Evil%20Revelations/boxart.png",
@@ -19848,7 +19848,7 @@
 		            "console": "3DS",
 		            "icon_index": 66,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon485.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Rhythm%20Heaven%20Megamix/boxart.png",
@@ -19883,7 +19883,7 @@
 		            "console": "3DS",
 		            "icon_index": 67,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon486.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19913,7 +19913,7 @@
 		            "console": "3DS",
 		            "icon_index": 68,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon487.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Samurai%20Warriors%20Chronicles/boxart.png",
@@ -19965,7 +19965,7 @@
 		            "console": "3DS",
 		            "icon_index": 69,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon488.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -19995,7 +19995,7 @@
 		            "console": "3DS",
 		            "icon_index": 70,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon489.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20026,7 +20026,7 @@
 		            "additional": "Update",
 		            "icon_index": 71,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon490.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20073,7 +20073,7 @@
 		            "console": "3DS",
 		            "icon_index": 72,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon491.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20103,7 +20103,7 @@
 		            "console": "3DS",
 		            "icon_index": 73,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon492.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Shin%20Megami%20Tensei%20Devil%20Summoner%20Soul%20Hackers/boxart.png",
@@ -20181,7 +20181,7 @@
 		            "console": "3DS",
 		            "icon_index": 74,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon493.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20211,7 +20211,7 @@
 		            "console": "3DS",
 		            "icon_index": 75,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon494.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Spirit%20Camera%20The%20Cursed%20Memoir/boxart.png",
@@ -20246,7 +20246,7 @@
 		            "console": "3DS",
 		            "icon_index": 76,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon495.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20276,7 +20276,7 @@
 		            "console": "3DS",
 		            "icon_index": 77,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon496.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Sports%20Island%203D/boxart.png",
@@ -20311,7 +20311,7 @@
 		            "console": "3DS",
 		            "icon_index": 78,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon497.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Story%20of%20Seasons/boxart.png",
@@ -20376,7 +20376,7 @@
 		            "additional": "Update",
 		            "icon_index": 79,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon498.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Story%20of%20Seasons%20Trio%20of%20Towns/boxart.png",
@@ -20457,7 +20457,7 @@
 		            "console": "3DS",
 		            "icon_index": 80,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon499.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20487,7 +20487,7 @@
 		            "console": "3DS",
 		            "icon_index": 81,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon500.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20517,7 +20517,7 @@
 		            "console": "3DS",
 		            "icon_index": 82,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon501.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Super%20Street%20Fighter%20IV%203D%20Edition/boxart.png",
@@ -20569,7 +20569,7 @@
 		            "console": "3DS",
 		            "icon_index": 83,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon502.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20599,7 +20599,7 @@
 		            "console": "3DS",
 		            "icon_index": 84,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon503.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20629,7 +20629,7 @@
 		            "console": "3DS",
 		            "icon_index": 85,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon504.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20659,7 +20659,7 @@
 		            "console": "3DS",
 		            "icon_index": 86,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon505.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20689,7 +20689,7 @@
 		            "console": "3DS",
 		            "icon_index": 87,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon506.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20736,7 +20736,7 @@
 		            "console": "3DS",
 		            "icon_index": 88,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon507.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -20766,7 +20766,7 @@
 		            "console": "3DS",
 		            "icon_index": 89,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon508.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Legend%20of%20Zelda%20a%20Link%20Between%20Worlds/boxart.png",
@@ -20827,7 +20827,7 @@
 		            "console": "3DS",
 		            "icon_index": 90,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon509.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Tom%20Clancy%27s%20Ghost%20Recon%20Shadow%20Wars/boxart.png",
@@ -20879,7 +20879,7 @@
 		            "console": "3DS",
 		            "icon_index": 91,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon510.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Tom%20Clancys%20Splinter%20Cell%203D/boxart.png",
@@ -20918,7 +20918,7 @@
 		            "additional": "Update",
 		            "icon_index": 92,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon511.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Tomodachi%20Life/boxart.png",
@@ -20987,7 +20987,7 @@
 		            "console": "3DS",
 		            "icon_index": 93,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon512.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -21017,7 +21017,7 @@
 		            "console": "3DS",
 		            "icon_index": 94,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon513.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -21047,7 +21047,7 @@
 		            "console": "3DS",
 		            "icon_index": 95,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon514.png",
 		            "description": "",
 		            "last_updated": "2020-12-11 at 20:50 (UTC)"
 },
@@ -21078,7 +21078,7 @@
 		            "additional": "Update",
 		            "icon_index": 96,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon515.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Yo-kai%20Watch%203/boxart.png",
@@ -21153,7 +21153,7 @@
 		            "console": "3DS",
 		            "icon_index": 97,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon516.png",
 		            "description": "",
 		            "last_updated": "2020-12-18 at 20:50 (UTC)"
 },
@@ -21216,6 +21216,7 @@
 		            "category": "DSiWare",
 		            "console": "DSi",
 		            "icon_index": 277,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon278.png",
 		            "description": "Animal Crossing Calculator has two modes: a standard calculator and a unit converter. Calculator – A basic calculator that can add, subtract, multiply, and divide numbers and percentages up. Unit Converter – Can convert the measurements of length, area, weight, speed, volume, ...",
 		            "last_updated": "2021-12-06 at 20:50 (UTC)"
 },
@@ -21261,6 +21262,7 @@
 		            "category": "DSiWare",
 		            "console": "DSi",
 		            "icon_index": 292,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon293.png",
 		            "description": "Clocks are a type of furniture in the Animal Crossing series. Like with all analog clocks, the hands of each clock move as real time passes. On the hour, some clocks even have different motions",
 		            "last_updated": "2021-12-06 at 20:50 (UTC)"
 },
@@ -21307,7 +21309,7 @@
 		            "console": "DSi",
 		            "icon_index": 61,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon480.png",
 		            "description": "",
 		            "last_updated": "2019-12-18 at 20:50 (UTC)"
 },
@@ -21354,7 +21356,7 @@
 		            "console": "3DS",
 		            "icon_index": 98,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon517.png",
 		            "description": "Amiibo Emulation for 3ds",
 		            "last_updated": "2020-12-19 at 18:14 (UTC)"
 },
@@ -21393,7 +21395,7 @@
 		            "console": "3DS",
 					"icon_index": 99,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon518.png",
 		            "description": "Halflife port for 3ds",
 		            "last_updated": "2020-12-19 at 22:58 (UTC)"
 },
@@ -21449,7 +21451,7 @@
 		            "console": "3DS",
 		            "icon_index": 100,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon519.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21479,7 +21481,7 @@
 		            "console": "3DS",
 					"icon_index": 101,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon520.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Barbie%20and%20Her%20Sisters%20Puppy%20Rescue/boxart.png",
@@ -21520,7 +21522,7 @@
 		            "console": "3DS",
 		            "icon_index": 102,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon521.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Bratz%20Fashion%20Boutique/art.png",
@@ -21555,7 +21557,7 @@
 		            "console": "3DS",
 		            "icon_index": 103,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon522.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cave%20Story%203D/boxart.png",
@@ -21619,7 +21621,7 @@
 		            "console": "3DS",
 		            "icon_index": 104,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon523.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Centipede%20Infestation/art.png",
@@ -21654,7 +21656,7 @@
 		            "console": "3DS",
 		            "icon_index": 105,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon524.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Classic%20Games%20Overload%20Card%20%26%20Puzzle%20Edition/art.png",
@@ -21689,7 +21691,7 @@
 		            "console": "3DS",
 		            "icon_index": 106,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon525.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21720,7 +21722,7 @@
 		            "additional": "Update",
 		            "icon_index": 107,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon526.png",
 		            "description": "",
 		            "last_updated": "2021-01-27 at 18:39 (UTC)"
 },
@@ -21784,7 +21786,7 @@
 		            "console": "3DS",
 		            "icon_index": 108,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon527.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Code%20of%20Princess/boxart.png",
@@ -21836,7 +21838,7 @@
 		            "console": "3DS",
 		            "icon_index": 109,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon528.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21867,7 +21869,7 @@
 		            "additional": "DLC",
 		            "icon_index": 110,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon529.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -21914,7 +21916,7 @@
 		            "console": "3DS",
 		            "icon_index": 111,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon530.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Corpse%20Party/boxart.png",
@@ -21958,7 +21960,7 @@
 		            "console": "3DS",
 		            "icon_index": 112,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon531.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Crash%20City%20Mayhem/art.png",
@@ -21993,7 +21995,7 @@
 		            "console": "3DS",
 		            "icon_index": 113,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon532.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dead%20or%20Alive%20Dimensions/boxart.png",
@@ -22054,7 +22056,7 @@
 		            "console": "3DS",
 		            "icon_index": 114,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon533.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Deca%20Sports%20Extreme/boxart.png",
@@ -22106,7 +22108,7 @@
 		            "console": "3DS",
 		            "icon_index": 115,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon534.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22136,7 +22138,7 @@
 		            "console": "3DS",
 		            "icon_index": 116,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon535.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22166,7 +22168,7 @@
 		            "console": "3DS",
 		            "icon_index": 117,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon536.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Doctor%20Lautrec%20and%20the%20Forgotten%20Knights/boxart.png",
@@ -22201,7 +22203,7 @@
 		            "console": "3DS",
 		            "icon_index": 118,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon537.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22231,7 +22233,7 @@
 		            "console": "3DS",
 		            "icon_index": 119,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon538.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VII%20Fragments%20of%20the%20Forgotten%20Past/boxart.png",
@@ -22309,7 +22311,7 @@
 		            "console": "3DS",
 		            "icon_index": 120,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon539.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dream%20Trigger%203D/art.png",
@@ -22344,7 +22346,7 @@
 		            "console": "3DS",
 		            "icon_index": 121,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon540.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22375,7 +22377,7 @@
 		            "additional": "DLC",
 		            "icon_index": 122,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon541.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Mystery%20Dungeon/boxart.png",
@@ -22437,7 +22439,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 123,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon542.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%202%20-%20Untold%20the%20Fafnir%20Knight/boxart.png",
@@ -22509,7 +22511,7 @@
 		            "console": "3DS",
 		            "icon_index": 124,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon543.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20IV%20-%20Legends%20of%20the%20Titan/boxart.png",
@@ -22554,7 +22556,7 @@
 		            "additional": "DLC",
 		            "icon_index": 125,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon544.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22601,7 +22603,7 @@
 		            "console": "3DS",
 		            "icon_index": 126,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon545.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22632,7 +22634,7 @@
 		            "additional": "DLC",
 		            "icon_index": 127,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon546.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Etrian%20Odyssey%20V%20-%20Beyond%20the%20Myth/boxart.png",
@@ -22696,7 +22698,7 @@
 		            "console": "3DS",
 		            "icon_index": 128,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon547.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22726,7 +22728,7 @@
 		            "console": "3DS",
 		            "icon_index": 129,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon548.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22756,7 +22758,7 @@
 		            "console": "3DS",
 		            "icon_index": 130,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon549.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -22787,7 +22789,7 @@
 		            "additional": "DLC",
 		            "icon_index": 131,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon550.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fantasy-life/boxart.png",
@@ -22863,7 +22865,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 132,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon551.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Fire%20Emblem%20Echoes%20Shadows%20of%20Valentia/boxart.png",
@@ -22952,7 +22954,7 @@
 		            "console": "3DS",
 		            "icon_index": 133,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon552.png",
 		            "description": "",
 		            "last_updated": "2021-02-02 at 01:50 (UTC)"
 },
@@ -22999,7 +23001,7 @@
 		            "console": "3DS",
 		            "icon_index": 134,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon553.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23029,7 +23031,7 @@
 		            "console": "3DS",
 		            "icon_index": 135,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon554.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Frogger%203D/boxart.png",
@@ -23064,7 +23066,7 @@
 		            "console": "3DS",
 		            "icon_index": 136,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon555.png",
 		            "description": "",
 		            "last_updated": "2021-02-02 at 01:50 (UTC)"
 },
@@ -23111,7 +23113,7 @@
 		            "console": "3DS",
 		            "icon_index": 137,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon556.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Garfield%20Kart/art.png",
@@ -23147,7 +23149,7 @@
 		            "additional": "Update",
 		            "icon_index": 138,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon557.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hakuoki%20Memories%20of%20the%20Shinsengumi/boxart.png",
@@ -23216,7 +23218,7 @@
 		            "console": "3DS",
 		            "icon_index": 139,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon558.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23247,7 +23249,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 140,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon559.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23311,7 +23313,7 @@
 		            "console": "3DS",
 		            "icon_index": 141,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon560.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20A%20New%20Beginning/boxart.png",
@@ -23366,7 +23368,7 @@
 		            "console": "3DS",
 		            "icon_index": 142,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon561.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Harvest%20Moon%203D%20-%20The%20Tale%20of%20Two%20Towns/boxart.png",
@@ -23410,7 +23412,7 @@
 		            "console": "3DS",
 		            "icon_index": 143,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon562.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hatsune%20Miku%20Project%20Mirai%20DX/boxart.png",
@@ -23471,7 +23473,7 @@
 		            "console": "3DS",
 		            "icon_index": 144,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon563.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Heroes%20of%20Ruin/boxart.png",
@@ -23509,7 +23511,7 @@
 		            "console": "3DS",
 		            "icon_index": 145,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon564.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hey%20Pikmin/boxart.png",
@@ -23570,7 +23572,7 @@
 		            "console": "3DS",
 		            "icon_index": 146,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon565.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hometown%20Story/boxart.png",
@@ -23622,7 +23624,7 @@
 		            "console": "3DS",
 		            "icon_index": 147,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon566.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23653,7 +23655,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 148,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon567.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Hyrule%20Warriors%20Legends/boxart.png",
@@ -23782,7 +23784,7 @@
 		            "console": "3DS",
 		            "icon_index": 149,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon568.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Imagine%20Fashion%20Life/art.png",
@@ -23817,7 +23819,7 @@
 		            "console": "3DS",
 		            "icon_index": 150,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon569.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23864,7 +23866,7 @@
 		            "console": "3DS",
 		            "icon_index": 151,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon570.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Jaws%20Ultimate%20Predator/art.png",
@@ -23899,7 +23901,7 @@
 		            "console": "3DS",
 		            "icon_index": 152,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon571.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -23930,7 +23932,7 @@
 		            "additional": "Update",
 		            "icon_index": 153,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon572.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Battle%20Royale/boxart.png",
@@ -23991,7 +23993,7 @@
 		            "console": "3DS",
 		            "icon_index": 154,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon573.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Kirby%20Planet%20Robobot/boxart.png",
@@ -24055,7 +24057,7 @@
 		            "console": "3DS",
 		            "icon_index": 155,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon574.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24085,7 +24087,7 @@
 		            "console": "3DS",
 		            "icon_index": 156,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon575.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Little%20Battlers%20eXperience%E2%84%A2/boxart.png",
@@ -24137,7 +24139,7 @@
 		            "console": "3DS",
 		            "icon_index": 157,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon576.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20Batman%202%E2%84%A2%20DC%20Super%20Heroes/art.png",
@@ -24172,7 +24174,7 @@
 		            "console": "3DS",
 		            "icon_index": 158,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon577.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lego%20City%20Undercover%20the%20Chase%20Begins/boxart.png",
@@ -24233,7 +24235,7 @@
 		            "console": "3DS",
 		            "icon_index": 159,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon578.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20Harry%20Potter%E2%84%A2%20Years%205-7/art.png",
@@ -24269,7 +24271,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 160,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon579.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20Marvel%20Avengers/boxart.png",
@@ -24338,7 +24340,7 @@
 		            "console": "3DS",
 		            "icon_index": 161,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon580.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24368,7 +24370,7 @@
 		            "console": "3DS",
 		            "icon_index": 162,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon581.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24398,7 +24400,7 @@
 		            "console": "3DS",
 		            "icon_index": 163,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon582.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24428,7 +24430,7 @@
 		            "console": "3DS",
 		            "icon_index": 164,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon583.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24458,7 +24460,7 @@
 		            "console": "3DS",
 		            "icon_index": 165,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon584.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/LEGO%20The%20Lord%20of%20the%20Rings%E2%84%A2/art.png",
@@ -24493,7 +24495,7 @@
 		            "console": "3DS",
 		            "icon_index": 166,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon585.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lalaloopsy%20Carnival%20of%20Friends/art.png",
@@ -24528,7 +24530,7 @@
 		            "console": "3DS",
 		            "icon_index": 167,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon586.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Langrisser%20Reincarnation%20Tensei/boxart.png",
@@ -24572,7 +24574,7 @@
 		            "console": "3DS",
 		            "icon_index": 168,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon587.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24602,7 +24604,7 @@
 		            "console": "3DS",
 		            "icon_index": 169,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon588.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24632,7 +24634,7 @@
 		            "console": "3DS",
 		            "icon_index": 170,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon589.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Lord%20of%20Magna%20Maiden%20Heaven/boxart.png",
@@ -24682,7 +24684,7 @@
 		            "console": "3DS",
 					"icon_index": 171,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon590.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Madden%20NFL%20Football/art.png",
@@ -24717,7 +24719,7 @@
 		            "console": "3DS",
 		            "icon_index": 172,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon591.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mahjong%203D%20Warriors%20of%20the%20Emperor/art.png",
@@ -24752,7 +24754,7 @@
 		            "console": "3DS",
 		            "icon_index": 173,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon592.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24782,7 +24784,7 @@
 		            "console": "3DS",
 		            "icon_index": 174,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon593.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mario%20and%20Luigi%20Superstar%20Saga%20Bowsers%20Minions/boxart.png",
@@ -24829,7 +24831,7 @@
 		            "console": "3DS",
 		            "icon_index": 175,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon594.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -24859,7 +24861,7 @@
 		            "console": "3DS",
 		            "icon_index": 176,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon595.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mega%20Man%20Legacy%20Collection/boxart.png",
@@ -24897,7 +24899,7 @@
 		            "console": "3DS",
 		            "icon_index": 177,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon596.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Samus%20Returns/boxart.png",
@@ -24951,7 +24953,7 @@
 		            "additional": "Update",
 		            "icon_index": 178,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon597.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Metroid%20Prime%20Federation%20Force/boxart.png",
@@ -25012,7 +25014,7 @@
 		            "console": "3DS",
 		            "icon_index": 179,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon598.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Michael%20Jackson%20The%20Experience/art.png",
@@ -25047,7 +25049,7 @@
 		            "console": "3DS",
 		            "icon_index": 180,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon599.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Miitopia/boxart.png",
@@ -25091,7 +25093,7 @@
 		            "console": "3DS",
 		            "icon_index": 181,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon600.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Mini%20Mario%20and%20Friends%20Amiibo%20Challenge/art.png",
@@ -25135,7 +25137,7 @@
 		            "console": "3DS",
 		            "icon_index": 182,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon601.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25165,7 +25167,7 @@
 		            "console": "3DS",
 		            "icon_index": 183,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon602.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%204x4%203D/art.png",
@@ -25200,7 +25202,7 @@
 		            "console": "3DS",
 		            "icon_index": 184,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon603.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25230,7 +25232,7 @@
 		            "console": "3DS",
 		            "icon_index": 185,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon604.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%203%20-%20Ultimate/boxart.png",
@@ -25271,7 +25273,7 @@
 		            "console": "3DS",
 		            "icon_index": 186,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon605.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Monster%20Hunter%20Generations/boxart.png",
@@ -25349,7 +25351,7 @@
 		            "console": "3DS",
 		            "icon_index": 187,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon606.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25379,7 +25381,7 @@
 		            "console": "3DS",
 		            "icon_index": 188,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon607.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25409,7 +25411,7 @@
 		            "console": "3DS",
 		            "icon_index": 189,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon608.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Myst/art.png",
@@ -25444,7 +25446,7 @@
 		            "console": "3DS",
 		            "icon_index": 190,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon609.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25474,7 +25476,7 @@
 		            "console": "3DS",
 		            "icon_index": 191,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon610.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nano%20Assault/boxart.png",
@@ -25509,7 +25511,7 @@
 		            "console": "3DS",
 		            "icon_index": 192,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon611.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Naruto%20Powerful%20Shippuden/boxart.png",
@@ -25561,7 +25563,7 @@
 		            "console": "3DS",
 		            "icon_index": 193,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon612.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nikolis%20Pencil%20Puzzle/boxart.png",
@@ -25608,7 +25610,7 @@
 		            "console": "3DS",
 		            "icon_index": 194,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon613.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nintendogs%20Cats%20French%20Bulldog/boxart.png",
@@ -25660,7 +25662,7 @@
 		            "console": "3DS",
 		            "icon_index": 195,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon614.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Nintendogs%20Cats%20Toy%20Poodle/boxart.png",
@@ -25712,7 +25714,7 @@
 		            "console": "3DS",
 		            "icon_index": 196,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon615.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25742,7 +25744,7 @@
 		            "console": "3DS",
 		            "icon_index": 197,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon616.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25772,7 +25774,7 @@
 		            "console": "3DS",
 		            "icon_index": 198,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon617.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/PAC-MAN%20and%20the%20Ghostly%20Adventures/boxart.png",
@@ -25807,7 +25809,7 @@
 		            "console": "3DS",
 		            "icon_index": 199,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon618.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25838,7 +25840,7 @@
 		            "additional": "DLC",
 		            "icon_index": 200,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon619.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25885,7 +25887,7 @@
 		            "console": "3DS",
 		            "icon_index": 201,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon620.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25915,7 +25917,7 @@
 		            "console": "3DS",
 		            "icon_index": 202,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon621.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25945,7 +25947,7 @@
 		            "console": "3DS",
 		            "icon_index": 203,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon622.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -25975,7 +25977,7 @@
 		            "console": "3DS",
 		            "icon_index": 204,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon623.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Picross%20e4/art.png",
@@ -26019,7 +26021,7 @@
 		            "console": "3DS",
 		            "icon_index": 205,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon624.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pilotwings%20Resort/boxart.png",
@@ -26063,7 +26065,7 @@
 		            "console": "3DS",
 		            "icon_index": 206,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon625.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pinball%20Hall%20of%20Fame%20The%20Williams%20Collection/art.png",
@@ -26098,7 +26100,7 @@
 		            "console": "3DS",
 		            "icon_index": 207,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon626.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26128,7 +26130,7 @@
 		            "console": "3DS",
 		            "icon_index": 208,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon627.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Art%20Academy/boxart.png",
@@ -26164,7 +26166,7 @@
 		            "additional": "Update",
 		            "icon_index": 209,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon628.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pokemon%20Omega%20Ruby/boxart.png",
@@ -26225,7 +26227,7 @@
 		            "console": "3DS",
 		            "icon_index": 210,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon629.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pok%C3%A9mon%20Rumble%20Blast/art.png",
@@ -26260,7 +26262,7 @@
 		            "console": "3DS",
 					"icon_index": 211,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon630.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/boxart.png",
@@ -26304,7 +26306,7 @@
 		            "console": "3DS",
 		            "icon_index": 212,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon631.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26334,7 +26336,7 @@
 		            "console": "3DS",
 		            "icon_index": 213,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon632.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26364,7 +26366,7 @@
 		            "console": "3DS",
 		            "icon_index": 214,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon633.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26394,7 +26396,7 @@
 		            "console": "3DS",
 		            "icon_index": 215,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon634.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26424,7 +26426,7 @@
 		            "console": "3DS",
 		            "icon_index": 216,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon635.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26454,7 +26456,7 @@
 		            "console": "3DS",
 		            "icon_index": 217,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon636.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26484,7 +26486,7 @@
 		            "console": "3DS",
 		            "icon_index": 218,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon637.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Puppies%203D/boxart.png",
@@ -26519,7 +26521,7 @@
 		            "console": "3DS",
 		            "icon_index": 219,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon638.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Purr%20Pals%20Purrfection/art.png",
@@ -26554,7 +26556,7 @@
 		            "console": "3DS",
 		            "icon_index": 220,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon639.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26585,7 +26587,7 @@
 		            "additional": "Update & DLC",
 		            "icon_index": 221,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon640.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26649,7 +26651,7 @@
 		            "console": "3DS",
 		            "icon_index": 222,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon641.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -26679,7 +26681,7 @@
 		            "console": "3DS",
 		            "icon_index": 223,
 		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon.png",
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon642.png",
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
@@ -47624,4 +47626,102 @@
 				   "file": "sdmc:/New Love Plus - demo (JPN).cia",
 				   "message": "Cleaning..."}],
 					"size": "46,64 MiB"}
+},
+{"info": {
+		            "title": "Shovel Knight: Treasure Trove",
+		            "version": "USA, EUR",
+		            "author": "Yacht Club Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 32,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon1290.png",
+		            "description": "Shovel Knight: Treasure Trove is the full and complete edition of Shovel Knight, a sweeping classic action-adventure game series with awesome gameplay, memorable characters, and an 8-bit retro aesthetic! Run, jump, and battle as Shovel Knight, wielder of the Shovel Blade, in a quest for his lost beloved.",
+		            "last_updated": "2022-06-02 at 00:00 (UTC)"
+},
+"Shovel Knight: Treasure Trove (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/S/Shovel%20Knight%20-%20Treasure%20Trove%20%28EUR%29.cia",
+				   "output": "sdmc:/Shovel Knight - Treasure Trove (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Shovel Knight - Treasure Trove (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shovel Knight - Treasure Trove (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "236,55 MiB"},
+"Shovel Knight: Treasure Trove - Update 6.6.0 (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/S/Shovel%20Knight%20-%20Treasure%20Trove%20-%20Update%206.6.0%20%28EUR%29.cia",
+				   "output": "sdmc:/Shovel Knight - Treasure Trove - Update 6.6.0 (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Shovel Knight - Treasure Trove - Update 6.6.0 (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shovel Knight - Treasure Trove - Update 6.6.0 (EUR).cia",
+				   "message": "Cleaning..."}],
+					"size": "172,31 MiB"},
+"Shovel Knight: Treasure Trove (USA)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/S/Shovel%20Knight%20-%20Treasure%20Trove%20%28USA%29.cia",
+				   "output": "sdmc:/Shovel Knight - Treasure Trove (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Shovel Knight - Treasure Trove (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shovel Knight - Treasure Trove (USA).cia",
+				   "message": "Cleaning..."}],
+					"size": "236,0 MiB"},
+"Shovel Knight: Treasure Trove - Update 5.5.0 (USA)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/S/Shovel%20Knight%20-%20Treasure%20Trove%20-%20Update%205.5.0%20%28USA%29.cia",
+				   "output": "sdmc:/Shovel Knight - Treasure Trove - Update 5.5.0 (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Shovel Knight - Treasure Trove - Update 5.5.0 (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shovel Knight - Treasure Trove - Update 5.5.0 (USA).cia",
+				   "message": "Cleaning..."}],
+					"size": "171,75 MiB"},
+"Shovel Knight: Treasure Trove - Embedded Update ver. 4.1 (USA)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/S/Shovel%20Knight%20-%20Treasure%20Trove%20%28Embedded%20Update%20ver.%204.1%29%20%28USA%29.cia",
+				   "output": "sdmc:/Shovel Knight - Treasure Trove - Embedded Update ver. 4.1 (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Shovel Knight - Treasure Trove - Embedded Update ver. 4.1 (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Shovel Knight - Treasure Trove - Embedded Update ver. 4.1 (USA).cia",
+				   "message": "Cleaning..."}],
+					"size": "90,50 MiB"}
 }]}
