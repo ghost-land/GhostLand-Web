@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 157
+"revision": 159
 },
 "storeContent": [
 {"info": {
@@ -24363,36 +24363,6 @@
 					"size": "449,0 MiB"}
 },
 {"info": {
-		            "title": "LEGO Pirates of the Caribbean: The Video Game",
-		            "version": "USA",
-		            "author": "Disney Interactive Studios",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 162,
-		            "sheet_index": 1,
-		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon581.png",
-		            "description": "",
-		            "last_updated": "2020-12-22 at 01:50 (UTC)"
-},
-"LEGO Pirates of the Caribbean: The Video Game": {
-	"script": [{
-		           "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/L/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game%20%28USA%29.cia",
-				   "output": "sdmc:/LEGO Pirates of the Caribbean - The Video Game (USA).cia",
-				   "message": "Downloading your current game..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/LEGO Pirates of the Caribbean - The Video Game (USA).cia",
-				   "message": "Installing your game in progress..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/LEGO Pirates of the Caribbean - The Video Game (USA).cia",
-				   "message": "Cleaning..."}],
-					"size": "406,0 MiB"}
-},
-{"info": {
 		            "title": "LEGO Star Wars: The Force Awakens",
 		            "version": "USA",
 		            "author": "Warner Bros. Games",
@@ -47724,4 +47694,81 @@
 				   "file": "sdmc:/Shovel Knight - Treasure Trove - Embedded Update ver. 4.1 (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "90,50 MiB"}
+},
+{"info": {
+		            "title": "LEGO Marvel Avengers",
+		            "version": "France",
+		            "author": "Warner Bros. Games",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 33,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon1291.png",
+		            "description": "The game covers a total of 6 films from the Marvel Cinematic Universe. The main plot is based on the Avengers movie, which is represented in 5 levels and Avengers: Age of Ultron in 7 levels...",
+		            "last_updated": "2022-06-02 at 00:00 (UTC)"
+},
+"LEGO Marvel Avengers": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/France/L/LEGO%20Marvel%20Avengers%20%28French%29.cia",
+				   "output": "sdmc:/LEGO Marvel Avengers (France).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Marvel Avengers (France).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Marvel Avengers (France).cia",
+				   "message": "Cleaning..."}],
+				   "size": "441,15 MiB"}
+},
+{"info": {
+		            "title": "LEGO Pirates of the Caribbean: The Video Game",
+		            "version": "EUR, USA",
+		            "author": "Disney Interactive Studios",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 34,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon1292.png",
+		            "description": "LEGO® Pirates of the Caribbean: The Video Game is an action adventure game that brings the Pirates of the Caribbean world and all its colorful characters to life in LEGO Brick form.",
+		            "last_updated": "2022-06-02 at 00:00 (UTC)"
+},
+"LEGO Pirates of the Caribbean: The Video Game (EUR)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/EUR/L/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game%20%28EUR%29.cia",
+				   "output": "sdmc:/LEGO Pirates of the Caribbean - The Video Game (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Pirates of the Caribbean - The Video Game (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Pirates of the Caribbean - The Video Game (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "406,93 MiB"},
+"LEGO Pirates of the Caribbean: The Video Game (USA)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/L/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game%20%28USA%29.cia",
+				   "output": "sdmc:/LEGO Pirates of the Caribbean - The Video Game (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Pirates of the Caribbean - The Video Game (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Pirates of the Caribbean - The Video Game (USA).cia",
+				   "message": "Cleaning..."}],
+					"size": "406,0 MiB"}
 }]}
