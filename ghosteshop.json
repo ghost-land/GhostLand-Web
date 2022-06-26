@@ -83,7 +83,7 @@
 "Pixel Paint": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pixel%20Paint%20%28USA%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pixel%20Paint%20%28USA%29.cia",
 				   "output": "sdmc:/Pixel Paint (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
