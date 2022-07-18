@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 162
+"revision": 163
 },
 "storeContent": [
 {"info": {
@@ -47643,7 +47643,7 @@
 		            "description": "The game covers a total of 6 films from the Marvel Cinematic Universe. The main plot is based on the Avengers movie, which is represented in 5 levels and Avengers: Age of Ultron in 7 levels...",
 		            "last_updated": "2022-07-18 at 21:05 (UTC)"
 },
-"LEGO Marvel Avengers": {
+"LEGO Marvel Avengers (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/L/LEGO%20Marvel%20Avengers%20%28USA%29.cia",
@@ -47660,7 +47660,7 @@
 				   "file": "sdmc:/LEGO Marvel Avengers (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "441,0 MiB"},
-"LEGO Marvel Avengers - Update 1.2": {
+"LEGO Marvel Avengers - Update 1.2 (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/L/LEGO%20Marvel%20Avengers%20%20Update%201.2%20%28USA%29.cia",
@@ -47677,7 +47677,7 @@
 				   "file": "sdmc:/LEGO Marvel Avengers - Update 1.2 (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "17,7 MiB"},
-"LEGO Marvel Avengers - DLC": {
+"LEGO Marvel Avengers - DLC (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/L/LEGO%20Marvel%20Avengers%20-%20DCL%20%28USA%29.cia",
