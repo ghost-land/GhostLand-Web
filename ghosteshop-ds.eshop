@@ -1,0 +1,736 @@
+{
+"storeInfo":
+ {
+"title": "Ghost eShop Alternative DS",
+"author": "Ghost eShop Team",
+"file": "ghosteshop-ds.eshop",
+"url": "https://cdn.ghosteshop.com/script/ghosteshop-ds.eshop",
+"sheet": ["bg-ds.t3x", "icon-ds.t3x", "icon-ds_1.t3x"],
+"sheetURL": ["https://cdn.ghosteshop.com/script/bg-ds.t3x", "https://cdn.ghosteshop.com/script/icon-ds.t3x", "https://cdn.ghosteshop.com/script/icon-ds_1.t3x"],
+"description": "An free eShop for DS games\nVersion of the eShop: v13.0\n\nAuthor: Ghost eShop Team\nSpecial thanks: Dark98",
+"bg_index": 0,
+"bg_sheet": 0,
+"version": 3,
+"revision": 1
+},
+"storeContent": [
+{"info": {
+					"title": "007 - Blood Stone",
+					"version": "USA",
+					"author": "Activision",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 0,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon1.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "Action game. Full of gunfights and boat and car chases, the adventure here takes us to the four corners of the world to stop a terrorist threat. There is also a multiplayer mode for four budding spies.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"007 - Blood Stone": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/007%20-%20Blood%20Stone%20%28USA%29.nds",
+				   "output": "%NDS%/007 - Blood Stone (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/007 - Blood Stone (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,0 MiB"}
+},
+{"info": {
+					"title": "007 - Quantum of Solace",
+					"version": "USA",
+					"author": "Activision",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 1,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon2.png",
+					"description": "New episode of the James Bond saga, Quantum of Solace allows you to play as the most famous secret agent on Nintendo DS.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"007 - Quantum of Solace": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/007%20-%20Quantum%20of%20Solace%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/007 - Quantum of Solace (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "1 vs 100",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 2,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon3.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/1%20vs%20100/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "1 vs. 100 for the Nintendo DS recreates the fun of the hit TV show, while 4 additional game modes bring on new and competitive excitement.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"1 vs 100": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/1%20vs%20100%20%28USA%29.nds",
+				   "output": "%NDS%/1 vs 100 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/1%20vs%20100/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1 vs 100 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,0 MiB"}
+},
+{"info": {
+					"title": "100 All-Time Favorites",
+					"version": "USA",
+					"author": "Ubisoft",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 3,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon4.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20All-Time%20Favorites/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "100 All-Time Favorites is a mini-game collection. It is a simple collection of board, card, and other variety of games. Despite the name, it does not come with 100 unique games.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"100 All-Time Favorites": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/100%20All-Time%20Favorites%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/100 All-Time Favorites (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20All-Time%20Favorites/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/100 All-Time Favorites (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "100 Classic Books",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 4,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon5.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Books/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "100 Classic Book Collection, is an e-book collection. The game includes one hundred public domain works of literature.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"100 Classic Books": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/100%20Classic%20Books%20%28USA%29.nds",
+				   "output": "%NDS%/100 Classic Books (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Books/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/100 Classic Books (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,0 MiB"}
+},
+{"info": {
+					"title": "1001 Touch Games",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 5,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon6.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Touch%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "1001 Touch Games features the largest collection of “pick-up-and-play” arcade games available! Choose from hidden object scenes, matching games, strategy games,...",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"1001 Touch Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/1001%20Touch%20Games%20%28USA%29.nds",
+				   "output": "%NDS%/1001 Touch Games (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Touch%20Games/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1001 Touch Games (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "101 in 1 Explosive Megamix",
+					"version": "USA",
+					"author": "Atlus",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 6,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon7.png",
+					"description": "Players can use the stylus and touch screen to test their reflexes in action minigames like racing and skydiving, take on sporting events such as basketball, curling, and archery.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"101 in 1 Explosive Megamix": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/101%20in%201%20Explosive%20Megamix%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/101 in 1 Explosive Megamix (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "101 in 1 Sports Megamix",
+					"version": "USA",
+					"author": "Atlus",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 7,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon8.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Sports%20Megamix/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "101 in 1: Sports Megamix is a compilation of games for DS. This compilation offers many events (101 to be exact) that combine reflexes and coordination. Bowling, boxing, tennis, basketball or even horse riding.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"101 in 1 Sports Megamix": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/101%20in%201%20Sports%20Megamix%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/101 in 1 Sports Megamix (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Sports%20Megamix/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 in 1 Sports Megamix (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "123 Sesame Street - Cookie's Counting Carnival - The Videogame",
+					"version": "USA",
+					"author": "WB Games, Inc.",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 8,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon9.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "There are twelve game modes to play, as well as fourteen minigames.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"123 Sesame Street - Cookie's Counting Carnival - The Videogame": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame%20%28USA%29.nds",
+				   "output": "%NDS%/123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,0 MiB"}
+},
+{"info": {
+					"title": "123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame",
+					"version": "USA",
+					"author": "WB Games, Inc.",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 9,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon10.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame%20%28USA%29.nds",
+				   "output": "%NDS%/123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame",
+					"version": "USA",
+					"author": "WB Games, Inc.",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 10,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon11.png",
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/123%20Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20-%20With%20Elmo%20-%20The%20Videogame%20%28USA%29%20%28En%2CEs%29.nds",
+				   "output": "%NDS%/123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "128,0 MiB"}
+},
+{"info": {
+					"title": "18 Classic Card Games",
+					"version": "USA",
+					"author": "Destineer",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 11,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon12.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/18%20Classic%20Card%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "This game features 18 card games to play.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"18 Classic Card Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/18%20Classic%20Card%20Games%20%28USA%29.nds",
+				   "output": "%NDS%/18 Classic Card Games (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/18%20Classic%20Card%20Games/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/18 Classic Card Games (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "2 Game Pack - My Amusement Park + Digging for Dinosaurs",
+					"version": "USA",
+					"author": "Scholastic",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 12,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon13.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%20-%20My%20Amusement%20Park%20%2B%20Digging%20for%20Dinosaurs/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"2 Game Pack - My Amusement Park + Digging for Dinosaurs": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2%20Game%20Pack%20-%20My%20Amusement%20Park%20%2B%20Digging%20for%20Dinosaurs%20%28USA%29.nds",
+				   "output": "%NDS%/2 Game Pack - My Amusement Park + Digging for Dinosaurs (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%20-%20My%20Amusement%20Park%20%2B%20Digging%20for%20Dinosaurs/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 Game Pack - My Amusement Park + Digging for Dinosaurs (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,à MiB"}
+},
+{"info": {
+					"title": "2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 13,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon14.png",
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2%20Game%20Pack%21%20-%20Monster%20Trucks%20Mayhem%20%2B%20ATV%20-%20Thunder%20Ridge%20Riders%20%28USA%29.nds",
+				   "output": "%NDS%/2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders (USA).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "2006 FIFA World Cup - Germany 2006",
+					"version": "USA",
+					"author": "Electronic Arts",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 14,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon15.png",
+					"description": "The game contains 127 playable teams. Despite licensing issues between EA and the national football associations of Japan and the Netherlands, the two teams are fully licensed with real names and kits.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"2006 FIFA World Cup - Germany 2006": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure%20%28USA%29.nds",
+				   "output": "%NDS%/2006 FIFA World Cup - Germany 2006 (USA).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 15,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon16.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "This double pack has two games combined on one cartridge: Pinkalicious: It's Party Time Silverlicious: Sweet Adventure.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2006%20FIFA%20World%20Cup%20-%20Germany%202006%20%28USA%29.nds",
+				   "output": "%NDS%/2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "3 Game Pack! - Uno + Skip-Bo + Uno Free Fall",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 16,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon17.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Uno%20%2B%20Skip-Bo%20%2B%20Uno%20Free%20Fall/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"3 Game Pack! - Uno + Skip-Bo + Uno Free Fall": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/3%20Game%20Pack%21%20-%20Uno%20%2B%20Skip-Bo%20%2B%20Uno%20Free%20Fall%20%28USA%29.nds",
+				   "output": "%NDS%/3 Game Pack! - Uno + Skip-Bo + Uno Free Fall (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Uno%20%2B%20Skip-Bo%20%2B%20Uno%20Free%20Fall/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 Game Pack! - Uno + Skip-Bo + Uno Free Fall (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship",
+					"version": "USA",
+					"author": "Infogrames",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 17,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon18.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship%20%28USA%29.nds",
+				   "output": "%NDS%/4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,0 MiB"}
+},
+{"info": {
+					"title": "4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 18,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon19.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Battleship%20%2B%20Connect%20Four%20%2B%20Sorry%21%20%2B%20Trouble/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/4%20Game%20Pack%21%20-%20Battleship%20%2B%20Connect%20Four%20%2B%20Sorry%21%20%2B%20Trouble%20%28USA%29.nds",
+				   "output": "%NDS%/4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Battleship%20%2B%20Connect%20Four%20%2B%20Sorry%21%20%2B%20Trouble/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "4 Game Pack! - Clue + Aggravation + Perfection + Mouse Trap",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 19,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon20.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Clue%20%2B%20Aggravation%20%2B%20Perfection%20%2B%20Mouse%20Trap/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"4 Game Pack! - Clue + Aggravation + Perfection + Mouse Trap": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/4%20Game%20Pack%21%20-%20Clue%20%2B%20Aggravation%20%2B%20Perfection%20%2B%20Mouse%20Trap%20%28USA%29.nds",
+				   "output": "%NDS%/4 Game Pack! - Clue + Aggravation + Perfection + Mouse Trap (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Clue%20%2B%20Aggravation%20%2B%20Perfection%20%2B%20Mouse%20Trap/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Pack! - Clue + Aggravation + Perfection + Mouse Trap (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "50 Classic Games",
+					"version": "USA",
+					"author": "Destineer",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 20,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon21.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20Classic%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"50 Classic Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/50%20Classic%20Games%20%28USA%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/50 Classic Games (USA) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20Classic%20Games/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/50 Classic Games (USA) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "50 More Classic Games",
+					"version": "USA",
+					"author": "Destineer",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 21,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon22.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20More%20Classic%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"50 More Classic Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/50%20More%20Classic%20Games%20%28USA%29.nds",
+				   "output": "%NDS%/50 More Classic Games (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20More%20Classic%20Games/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/50 More Classic Games (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "7 Wonders - Treasures of Seven",
+					"version": "USA",
+					"author": "MumboJumbo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 22,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon23.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"7 Wonders - Treasures of Seven": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven%20%28USA%29.nds",
+				   "output": "%NDS%/7 Wonders - Treasures of Seven (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders - Treasures of Seven (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "7 Wonders II",
+					"version": "USA",
+					"author": "MumboJumbo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 23,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon24.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "In this puzzle game, you have to build the 7 Wonders of the World with the help of little Egyptians who are ready to do anything to help you in your task. You have to align a series of runes to build the wonders of our world. Each wonder has 6 or 7 levels of difficulty.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"7 Wonders II": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/7%20Wonders%20II%20%28USA%29.nds",
+				   "output": "%NDS%/7 Wonders II (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders II (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,0 MiB"}
+},
+{"info": {
+					"title": "7 Wonders of the Ancient World",
+					"version": "USA",
+					"author": "MumboJumbo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 24,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon25.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20of%20the%20Ancient%20World/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "Players take the task of reconstructing the Seven Wonders of the Ancient World. In each wonder, there are 5 to 7 sub-levels of runes that players switch to form a row of 3 or more runes. There are two modes of play: Free Play and Quest Modes. In Free Play, players can choose to play any level they have completed in Quest Mode.",
+					"last_updated": "2022-07-27 at 01:03 (UTC)"
+},
+"7 Wonders of the Ancient World": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/7%20Wonders%20of%20the%20Ancient%20World%20%28USA%29.nds",
+				   "output": "%NDS%/7 Wonders of the Ancient World (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20of%20the%20Ancient%20World/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders of the Ancient World (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,0 MiB"}
+}]}
