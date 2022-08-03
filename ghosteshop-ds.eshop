@@ -758,4 +758,35 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders of the Ancient World (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
+},
+{"info": {
+					"title": "Mario Kart Ds Deluxe",
+					"version": "",
+					"author": "Rafa4K",
+					"category": "Roms Hack",
+					"console": "DS",
+					"icon_index": 25,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon26.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/M/Mario%20Kart%20Ds%20Deluxe/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "Mario kart Ds Deluxe is a rom hack for DS working with Twilight and r4.\nIn this game there are modded tracks and tracks from Mario kart 8 Deluxe !",
+					"last_updated": "2022-08-03 at 17:49 (UTC)"
+},
+"Mario Kart Ds Deluxe": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Roms%20Hack/M/Mario%20Kart%20Ds%20Deluxe.nds",
+				   "output": "%NDS%/Mario Kart Ds Deluxe.nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/M/Mario%20Kart%20Ds%20Deluxe/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Mario Kart Ds Deluxe.nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "25,00 MiB"}
 }]}
