@@ -25,6 +25,9 @@
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon1.png",
 					"screenshots": 
 		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/art.png",
+		            			"description": "Art"
+		            			},{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/boxart.png",
 		            			"description": "Boxart"
 		            		}],
@@ -311,6 +314,11 @@
 					"icon_index": 10,
 					"sheet_index": 1,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon11.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20-%20With%20Elmo%20-%20The%20Videogame/boxart.png",
+		            			"description": "Cover-Art"
+		            		}],
 					"description": "",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
@@ -319,7 +327,13 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/123%20Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20-%20With%20Elmo%20-%20The%20Videogame%20%28USA%29%20%28En%2CEs%29.nds",
 				   "output": "%NDS%/123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es).nds",
-				   "message": "Download your .nds file..."}],
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20-%20With%20Elmo%20-%20The%20Videogame/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "128,0 MiB"}
 },
 {"info": {
@@ -382,7 +396,7 @@
 				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%20-%20My%20Amusement%20Park%20%2B%20Digging%20for%20Dinosaurs/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 Game Pack - My Amusement Park + Digging for Dinosaurs (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "32,à MiB"}
+				   "size": "32,0 MiB"}
 },
 {"info": {
 					"title": "2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders",
@@ -393,6 +407,11 @@
 					"icon_index": 13,
 					"sheet_index": 1,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon14.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%21%20-%20Monster%20Trucks%20Mayhem%20%2B%20ATV%20-%20Thunder%20Ridge%20Riders/boxart.png",
+		            			"description": "Boxart"
+		            		}],
 					"description": "",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
@@ -401,7 +420,13 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2%20Game%20Pack%21%20-%20Monster%20Trucks%20Mayhem%20%2B%20ATV%20-%20Thunder%20Ridge%20Riders%20%28USA%29.nds",
 				   "output": "%NDS%/2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders (USA).nds",
-				   "message": "Download your .nds file..."}],
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%21%20-%20Monster%20Trucks%20Mayhem%20%2B%20ATV%20-%20Thunder%20Ridge%20Riders/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
 },
 {"info": {
