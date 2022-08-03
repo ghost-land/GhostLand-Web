@@ -40,7 +40,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/007 - Blood Stone (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,0 MiB"}
@@ -91,7 +91,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/1%20vs%20100/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/1%20vs%20100/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1 vs 100 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,0 MiB"}
@@ -122,7 +122,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20All-Time%20Favorites/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20All-Time%20Favorites/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/100 All-Time Favorites (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,0 MiB"}
@@ -153,7 +153,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Books/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Books/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/100 Classic Books (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,0 MiB"}
@@ -184,7 +184,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Touch%20Games/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Touch%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1001 Touch Games (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,0 MiB"}
@@ -235,7 +235,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Sports%20Megamix/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Sports%20Megamix/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 in 1 Sports Megamix (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,0 MiB"}
@@ -266,7 +266,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,0 MiB"}
@@ -297,7 +297,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,0 MiB"}
@@ -348,7 +348,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/18%20Classic%20Card%20Games/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/18%20Classic%20Card%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/18 Classic Card Games (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,00 MiB"}
@@ -379,7 +379,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%20-%20My%20Amusement%20Park%20%2B%20Digging%20for%20Dinosaurs/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%20-%20My%20Amusement%20Park%20%2B%20Digging%20for%20Dinosaurs/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 Game Pack - My Amusement Park + Digging for Dinosaurs (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,à MiB"}
@@ -450,7 +450,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,0 MiB"}
@@ -481,7 +481,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Uno%20%2B%20Skip-Bo%20%2B%20Uno%20Free%20Fall/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Uno%20%2B%20Skip-Bo%20%2B%20Uno%20Free%20Fall/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 Game Pack! - Uno + Skip-Bo + Uno Free Fall (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
@@ -512,7 +512,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,0 MiB"}
@@ -543,7 +543,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Battleship%20%2B%20Connect%20Four%20%2B%20Sorry%21%20%2B%20Trouble/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Battleship%20%2B%20Connect%20Four%20%2B%20Sorry%21%20%2B%20Trouble/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
@@ -574,7 +574,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Clue%20%2B%20Aggravation%20%2B%20Perfection%20%2B%20Mouse%20Trap/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Clue%20%2B%20Aggravation%20%2B%20Perfection%20%2B%20Mouse%20Trap/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Pack! - Clue + Aggravation + Perfection + Mouse Trap (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
@@ -605,7 +605,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20Classic%20Games/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20Classic%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/50 Classic Games (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
@@ -636,7 +636,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20More%20Classic%20Games/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20More%20Classic%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/50 More Classic Games (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
@@ -667,7 +667,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders - Treasures of Seven (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
@@ -698,7 +698,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders II (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,0 MiB"}
@@ -729,7 +729,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20of%20the%20Ancient%20World/boxart.png",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20of%20the%20Ancient%20World/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders of the Ancient World (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,0 MiB"}
