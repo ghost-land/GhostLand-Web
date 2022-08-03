@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 163
+"revision": 164
 },
 "storeContent": [
 {"info": {
@@ -2763,7 +2763,7 @@
 					"title": "Pokémon Prism",
 					"version": "Free",
 					"author": "rijon",
-					"category": "Homebrew",
+					"category": "ROM Hacks",
 					"console": "",
 					"icon_index": 35,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon36.png",
@@ -9100,7 +9100,7 @@
 					"title": "Pokémon GS Chronicles",
 					"version": "Beta 2 - Build 2911192_1",
 					"author": "Ruki",
-					"category": "Homebrew",
+					"category": "ROM Hacks",
 					"console": "GBA",
 					"icon_index": 189,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon190.png",
@@ -9129,7 +9129,7 @@
 					"title": "Pokémon Orange Islands",
 					"version": "5.0",
 					"author": "kalarie",
-					"category": "Homebrew",
+					"category": "ROM Hacks",
 					"console": "GBA",
 					"icon_index": 190,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon191.png",
@@ -9158,7 +9158,7 @@
 					"title": "Pokémon Red Chapter",
 					"version": "Beta 15.4",
 					"author": "Aethestode (rockmanmegaman)",
-					"category": "Homebrew",
+					"category": "ROM Hacks",
 					"console": "GBA",
 					"icon_index": 191,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/gfx/sprites/icon192.png",
@@ -34860,7 +34860,7 @@
 		            "title": "Animal Crossing: Welcome Luxury",
 		            "version": "Free",
 		            "author": "Kyusetzu",
-		            "category": "Homebrew",
+		            "category": "ROM Hacks",
 		            "console": "3DS",
 		            "additional": "Update",
 		            "icon_index": 38,
