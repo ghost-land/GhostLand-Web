@@ -761,7 +761,7 @@
 },
 {"info": {
 					"title": "Mario Kart Ds Deluxe",
-					"version": "v0.3",
+					"version": "v3.0",
 					"author": "Rafa4K",
 					"category": "Roms Hack",
 					"console": "DS",
@@ -788,5 +788,5 @@
 				   "file": "https://cdn.ghosteshop.com/Images/ds/M/Mario%20Kart%20Ds%20Deluxe/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Mario Kart Ds Deluxe.nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "25,00 MiB"}
+				   "size": "25,3 MiB"}
 }]}
