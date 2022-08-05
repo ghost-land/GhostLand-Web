@@ -11,7 +11,7 @@
 "bg_index": 0,
 "bg_sheet": 0,
 "version": 3,
-"revision": 1
+"revision": 2
 },
 "storeContent": [
 {"info": {
@@ -164,7 +164,7 @@
 {"info": {
 					"title": "1001 Touch Games",
 					"version": "USA",
-					"author": "",
+					"author": "Maximum Family",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 5,
@@ -789,4 +789,1986 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Mario Kart Ds Deluxe.nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "25,3 MiB"}
+},
+{"info": {
+					"title": "AMF Bowling Pinbusters!",
+					"version": "USA",
+					"author": "Bethesda/ZeniMax Europe Ltd.",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 26,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon27.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/AMF%20Bowling%20Pinbusters%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"AMF Bowling Pinbusters!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/AMF%20Bowling%20Pinbusters%21%20%28USA%29.nds",
+				   "output": "%NDS%/AMF Bowling Pinbusters! (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/AMF%20Bowling%20Pinbusters%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/AMF Bowling Pinbusters! (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "ATV Quad Frenzy",
+					"version": "USA",
+					"author": "Majesco Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 27,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon28.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Quad%20Frenzy/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"ATV Quad Frenzy": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/ATV%20Quad%20Frenzy%20%28USA%29.nds",
+				   "output": "%NDS%/ATV Quad Frenzy (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Quad%20Frenzy/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ATV Quad Frenzy (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "ATV Quad Kings",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 28,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon29.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Quad%20Kings/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"ATV Quad Kings": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/ATV%20Quad%20Kings%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/ATV Quad Kings (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Quad%20Kings/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ATV Quad Kings (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "ATV Wild Ride",
+					"version": "USA",
+					"author": "Destineer",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 29,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon30.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Wild%20Ride/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"ATV Wild Ride": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/ATV%20Wild%20Ride%20%28USA%29.nds",
+				   "output": "%NDS%/ATV Wild Ride (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Wild%20Ride/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ATV Wild Ride (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Ace Attorney Investigations - Miles Edgeworth",
+					"version": "USA",
+					"author": "Capcom",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 30,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon31.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Ace Attorney Investigations - Miles Edgeworth": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20%28USA%29.nds",
+				   "output": "%NDS%/Ace Attorney Investigations - Miles Edgeworth (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ace Attorney Investigations - Miles Edgeworth (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Advance Wars - Days of Ruin",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 31,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon32.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Days%20of%20Ruin/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Advance Wars - Days of Ruin": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Advance%20Wars%20-%20Days%20of%20Ruin%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Advance Wars - Days of Ruin (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Days%20of%20Ruin/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Advance Wars - Days of Ruin (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Advance Wars - Dual Strike",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 32,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon33.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Dual%20Strike/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Advance Wars - Dual Strike": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Advance%20Wars%20-%20Dual%20Strike%20%28USA%29.nds",
+				   "output": "%NDS%/Advance Wars - Dual Strike (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Dual%20Strike/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Advance Wars - Dual Strike (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!!",
+					"version": "USA",
+					"author": "D3 Publisher",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 33,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon34.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Adventure%20Time%20-%20Hey%20Ice%20King%21%20Why%27d%20You%20Steal%20Our%20Garbage%21%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Adventure%20Time%20-%20Hey%20Ice%20King%21%20Why%27d%20You%20Steal%20Our%20Garbage%21%21%20%28USA%29.nds",
+				   "output": "%NDS%/Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Adventure%20Time%20-%20Hey%20Ice%20King%21%20Why%27d%20You%20Steal%20Our%20Garbage%21%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Again - Interactive Crime Novel",
+					"version": "USA",
+					"author": "Tecmo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 34,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon35.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Again%20-%20Interactive%20Crime%20Novel/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Again - Interactive Crime Novel": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Again%20-%20Interactive%20Crime%20Novel%20%28USA%29.nds",
+				   "output": "%NDS%/Again - Interactive Crime Novel (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Again%20-%20Interactive%20Crime%20Novel/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Again - Interactive Crime Novel (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Agatha Christie - The ABC Murders",
+					"version": "USA",
+					"author": "DreamCatcher",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 35,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon36.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Agatha%20Christie%20-%20The%20ABC%20Murders/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Agatha Christie - The ABC Murders": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Agatha%20Christie%20-%20The%20ABC%20Murders%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Agatha Christie - The ABC Murders (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Agatha%20Christie%20-%20The%20ABC%20Murders/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Agatha Christie - The ABC Murders (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Age of Empires - Mythologies",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 36,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon37.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Age%20of%20Empires%20-%20Mythologies/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Age of Empires - Mythologies": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Age%20of%20Empires%20-%20Mythologies%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Age of Empires - Mythologies (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Age%20of%20Empires%20-%20Mythologies/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Age of Empires - Mythologies (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Age of Empires - The Age of Kings",
+					"version": "USA",
+					"author": "Majesco Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 37,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon38.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Age%20of%20Empires%20-%20The%20Age%20of%20Kings/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Age of Empires - The Age of Kings": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Age%20of%20Empires%20-%20The%20Age%20of%20Kings%20%28USA%29.nds",
+				   "output": "%NDS%/Age of Empires - The Age of Kings (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Age%20of%20Empires%20-%20The%20Age%20of%20Kings/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Age of Empires - The Age of Kings (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Air Traffic Chaos",
+					"version": "USA",
+					"author": "Majesco Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 38,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon39.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Air%20Traffic%20Chaos/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Air Traffic Chaos": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Air%20Traffic%20Chaos%20%28USA%29.nds",
+				   "output": "%NDS%/Air Traffic Chaos (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Air%20Traffic%20Chaos/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Air Traffic Chaos (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Alex Rider - Stormbreaker",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 39,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon40.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alex%20Rider%20-%20Stormbreaker/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Alex Rider - Stormbreaker": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Alex%20Rider%20-%20Stormbreaker%20%28USA%29.nds",
+				   "output": "%NDS%/Alex Rider - Stormbreaker (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Alex%20Rider%20-%20Stormbreaker/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Alex Rider - Stormbreaker (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Alice in Wonderland",
+					"version": "USA",
+					"author": "Disney Interactive",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 40,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon41.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alice%20in%20Wonderland/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Alice in Wonderland": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Alice%20in%20Wonderland%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Alice in Wonderland (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Alice%20in%20Wonderland/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Alice in Wonderland (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Aliens - Infestation",
+					"version": "USA",
+					"author": "SEGA Japan",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 41,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon42.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aliens%20-%20Infestation/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Aliens - Infestation": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aliens%20-%20Infestation%20%28USA%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/Aliens - Infestation (USA) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Aliens%20-%20Infestation/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aliens - Infestation (USA) (En,Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Aliens in the Attic",
+					"version": "USA",
+					"author": "Playlogic/Engine Software",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 42,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon43.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aliens%20in%20the%20Attic/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Aliens in the Attic": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aliens%20in%20the%20Attic%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Aliens in the Attic (USA) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Aliens%20in%20the%20Attic/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aliens in the Attic (USA) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "All Star Cheer Squad",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 43,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon44.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/All%20Star%20Cheer%20Squad/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"All Star Cheer Squad": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/All%20Star%20Cheer%20Squad%20%28USA%29.nds",
+				   "output": "%NDS%/All Star Cheer Squad (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/All%20Star%20Cheer%20Squad/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/All Star Cheer Squad (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Alpha and Omega",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 44,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon45.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alpha%20and%20Omega/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Alpha and Omega": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Alpha%20and%20Omega%20%28USA%29.nds",
+				   "output": "%NDS%/Alpha and Omega (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Alpha%20and%20Omega/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Alpha and Omega (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Alvin and the Chipmunks",
+					"version": "USA",
+					"author": "Brash Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 45,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon46.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Alvin and the Chipmunks": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Alvin%20and%20the%20Chipmunks%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Alvin and the Chipmunks (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Alvin and the Chipmunks (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Alvin and the Chipmunks - Chipwrecked",
+					"version": "USA",
+					"author": "Majesco Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 46,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon47.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks%20-%20Chipwrecked/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Alvin and the Chipmunks - Chipwrecked": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Alvin%20and%20the%20Chipmunks%20-%20Chipwrecked%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Alvin and the Chipmunks - Chipwrecked (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks%20-%20Chipwrecked/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Alvin and the Chipmunks - Chipwrecked (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Alvin and the Chipmunks - The Squeakquel",
+					"version": "USA",
+					"author": "Majesco Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 47,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon48.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Alvin and the Chipmunks - The Squeakquel": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel%20%28USA%29.nds",
+				   "output": "%NDS%/Alvin and the Chipmunks - The Squeakquel (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Alvin and the Chipmunks - The Squeakquel (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Aly & AJ Adventure, The",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 48,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon49.png",
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Aly & AJ Adventure, The": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aly%20%26%20AJ%20Adventure%2C%20The%20%28USA%29.nds",
+				   "output": "%NDS%/Aly & AJ Adventure, The (USA).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Amazing Adventures - The Forgotten Ruins",
+					"version": "USA",
+					"author": "PopCap Games, Inc.",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 49,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon50.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Amazing%20Adventures%20-%20The%20Forgotten%20Ruins/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Amazing Adventures - The Forgotten Ruins": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Amazing%20Adventures%20-%20The%20Forgotten%20Ruins%20%28USA%29.nds",
+				   "output": "%NDS%/Amazing Adventures - The Forgotten Ruins (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Amazing%20Adventures%20-%20The%20Forgotten%20Ruins/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Amazing Adventures - The Forgotten Ruins (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Amazing Spider-Man, The",
+					"version": "USA",
+					"author": "Activision",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 50,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon51.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Amazing%20Spider-Man%2C%20The/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Amazing Spider-Man, The": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Amazing%20Spider-Man%2C%20The%20%28USA%29.nds",
+				   "output": "%NDS%/Amazing Spider-Man, The (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Amazing%20Spider-Man%2C%20The/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Amazing Spider-Man, The (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "America's Next Top Model",
+					"version": "USA",
+					"author": "Conspiracy/Swing",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 51,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon52.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/America%27s%20Next%20Top%20Model/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"America's Next Top Model": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/America%27s%20Next%20Top%20Model%20%28USA%29.nds",
+				   "output": "%NDS%/America's Next Top Model (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/America%27s%20Next%20Top%20Model/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/America's Next Top Model (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "America's Test Kitchen - Let's Get Cooking",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 52,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon53.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/America%27s%20Test%20Kitchen%20-%20Let%27s%20Get%20Cooking/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"America's Test Kitchen - Let's Get Cooking": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/America%27s%20Test%20Kitchen%20-%20Let%27s%20Get%20Cooking%20%28USA%29.nds",
+				   "output": "%NDS%/America's Test Kitchen - Let's Get Cooking (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/America%27s%20Test%20Kitchen%20-%20Let%27s%20Get%20Cooking/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/America's Test Kitchen - Let's Get Cooking (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "256,00 MiB"}
+},
+{"info": {
+					"title": "American Dragon - Jake Long - Attack of the Dark Dragon",
+					"version": "USA",
+					"author": "Disney Interactive",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 53,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon54.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/American%20Dragon%20-%20Jake%20Long%20-%20Attack%20of%20the%20Dark%20Dragon/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"American Dragon - Jake Long - Attack of the Dark Dragon": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/American%20Dragon%20-%20Jake%20Long%20-%20Attack%20of%20the%20Dark%20Dragon%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/American Dragon - Jake Long - Attack of the Dark Dragon (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/American%20Dragon%20-%20Jake%20Long%20-%20Attack%20of%20the%20Dark%20Dragon/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/American Dragon - Jake Long - Attack of the Dark Dragon (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "American Girl - Julie Finds a Way",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 54,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon55.png",
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"American Girl - Julie Finds a Way": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/American%20Girl%20-%20Julie%20Finds%20a%20Way%20%28USA%29.nds",
+				   "output": "%NDS%/American Girl - Julie Finds a Way (USA).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "American Girl - Kit Mystery Challenge!",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 55,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon56.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/American%20Girl%20-%20Kit%20Mystery%20Challenge%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"American Girl - Kit Mystery Challenge!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/American%20Girl%20-%20Kit%20Mystery%20Challenge%21%20%28USA%29.nds",
+				   "output": "%NDS%/American Girl - Kit Mystery Challenge! (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/American%20Girl%20-%20Kit%20Mystery%20Challenge%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/American Girl - Kit Mystery Challenge! (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "An M. Night Shyamalan Film - The Last Airbender",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 56,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon57.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/An%20M.%20Night%20Shyamalan%20Film%20-%20The%20Last%20Airbender/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"An M. Night Shyamalan Film - The Last Airbender": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/An%20M.%20Night%20Shyamalan%20Film%20-%20The%20Last%20Airbender%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/An M. Night Shyamalan Film - The Last Airbender (USA) (En,Fr) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/An%20M.%20Night%20Shyamalan%20Film%20-%20The%20Last%20Airbender/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/An M. Night Shyamalan Film - The Last Airbender (USA) (En,Fr) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Animal Boxing",
+					"version": "USA",
+					"author": "Destineer",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 57,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon58.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Boxing/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Boxing": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Boxing%20%28USA%29.nds",
+				   "output": "%NDS%/Animal Boxing (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Boxing/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Boxing (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Animal Crossing - Wild World",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 58,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon59.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Crossing%20-%20Wild%20World/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Crossing - Wild World": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Crossing%20-%20Wild%20World%20%28USA%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Animal Crossing - Wild World (USA) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Crossing%20-%20Wild%20World/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Crossing - Wild World (USA) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal Genius",
+					"version": "USA",
+					"author": "Scholastic",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 59,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon60.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Genius/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Genius": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Genius%20%28USA%29.nds",
+				   "output": "%NDS%/Animal Genius (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Genius/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Genius (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Animal Paradise",
+					"version": "USA",
+					"author": "Empire Interactive?",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 60,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon61.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Paradise/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Paradise": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Paradise%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Animal Paradise (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Paradise/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Paradise (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Animal Paradise - Wild",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 61,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon62.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Paradise%20-%20Wild/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Paradise - Wild": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Paradise%20-%20Wild%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Animal Paradise - Wild (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Paradise%20-%20Wild/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Paradise - Wild (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Animal Planet - Emergency Vets",
+					"version": "USA",
+					"author": "Activision",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 62,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon63.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Emergency%20Vets/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Planet - Emergency Vets": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Planet%20-%20Emergency%20Vets%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Animal Planet - Emergency Vets (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Emergency%20Vets/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Planet - Emergency Vets (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Animal Planet - Vet Collection",
+					"version": "USA",
+					"author": "Activision",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 63,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon64.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Vet%20Collection/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Planet - Vet Collection": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Planet%20-%20Vet%20Collection%20%28USA%29.nds",
+				   "output": "%NDS%/Animal Planet - Vet Collection (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Vet%20Collection/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Planet - Vet Collection (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Animal Planet - Vet Life",
+					"version": "USA",
+					"author": "Activision",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 64,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon65.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Vet%20Life/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animal Planet - Vet Life": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animal%20Planet%20-%20Vet%20Life%20%28USA%29.nds",
+				   "output": "%NDS%/Animal Planet - Vet Life (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Vet%20Life/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Planet - Vet Life (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animates!",
+					"version": "USA",
+					"author": "DreamCatcher",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 65,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon66.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animates%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Animates!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Animates%21%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Animates! (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Animates%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animates! (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Anno 1701 - Dawn of Discovery",
+					"version": "USA",
+					"author": "Ubisoft",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 66,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon67.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Anno%201701%20-%20Dawn%20of%20Discovery/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Anno 1701 - Dawn of Discovery": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Anno%201701%20-%20Dawn%20of%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Anno 1701 - Dawn of Discovery (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Anno%201701%20-%20Dawn%20of%20Discovery/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Anno 1701 - Dawn of Discovery (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Ant Nation",
+					"version": "USA",
+					"author": "Konami Digital Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 67,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon68.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Ant%20Nation/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Ant Nation": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Ant%20Nation%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Ant Nation (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Ant%20Nation/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ant Nation (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Apollo Justice - Ace Attorney",
+					"version": "USA",
+					"author": "Capcom",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 68,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon69.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Apollo Justice - Ace Attorney": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28USA%29.nds",
+				   "output": "%NDS%/Apollo Justice - Ace Attorney (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Aqua Panic!",
+					"version": "USA",
+					"author": "XS Games",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 69,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon70.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aqua%20Panic%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Aqua Panic!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aqua%20Panic%21%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Aqua Panic! (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Aqua%20Panic%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aqua Panic! (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Aquarium by DS",
+					"version": "USA",
+					"author": "Destineer",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 70,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon71.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aquarium%20by%20DS/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Aquarium by DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aquarium%20by%20DS%20%28USA%29.nds",
+				   "output": "%NDS%/Aquarium by DS (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Aquarium%20by%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aquarium by DS (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Arceus Distribution 2009",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 71,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon72.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Arceus%20Distribution%202009/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Arceus Distribution 2009": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Arceus%20Distribution%202009%20%28USA%29%20%28Wi-Fi%20Kiosk%29%20%28Save%20Data%29.nds",
+				   "output": "%NDS%/Arceus Distribution 2009 (USA) (Wi-Fi Kiosk) (Save Data).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Arceus%20Distribution%202009/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Arceus Distribution 2009 (USA) (Wi-Fi Kiosk) (Save Data).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Are You Smarter than a 5th Grader",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 72,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon73.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Are You Smarter than a 5th Grader": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20%28USA%29.nds",
+				   "output": "%NDS%/Are You Smarter than a 5th Grader (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Are You Smarter than a 5th Grader (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Are You Smarter than a 5th Grader - Back to School",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 73,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon74.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Back%20to%20School/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Are You Smarter than a 5th Grader - Back to School": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Back%20to%20School%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Are You Smarter than a 5th Grader - Back to School (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Back%20to%20School/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Are You Smarter than a 5th Grader - Back to School (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Are You Smarter than a 5th Grader - Game Time",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 74,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon75.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Game%20Time/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Are You Smarter than a 5th Grader - Game Time": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Game%20Time%20%28USA%29.nds",
+				   "output": "%NDS%/Are You Smarter than a 5th Grader - Game Time (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Game%20Time/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Are You Smarter than a 5th Grader - Game Time (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Are You Smarter than a 5th Grader - Make the Grade",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 75,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon76.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Make%20the%20Grade/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Are You Smarter than a 5th Grader - Make the Grade": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Make%20the%20Grade%20%28USA%29.nds",
+				   "output": "%NDS%/Are You Smarter than a 5th Grader - Make the Grade (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Make%20the%20Grade/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Are You Smarter than a 5th Grader - Make the Grade (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Army Men - Soldiers of Misfortune",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 76,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon77.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Army%20Men%20-%20Soldiers%20of%20Misfortune/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Army Men - Soldiers of Misfortune": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Army%20Men%20-%20Soldiers%20of%20Misfortune%20%28USA%29.nds",
+				   "output": "%NDS%/Army Men - Soldiers of Misfortune (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Army%20Men%20-%20Soldiers%20of%20Misfortune/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Army Men - Soldiers of Misfortune (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Art Academy",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 77,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon78.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Art%20Academy/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Art Academy": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Art%20Academy%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Art Academy (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Art%20Academy/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Art Academy (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ash's PIKACHU! Distribution 2011",
+					"version": "USA",
+					"author": "Nintendo",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 78,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon79.png",
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Ash's PIKACHU! Distribution 2011": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Ash%27s%20PIKACHU%21%20Distribution%202011%20%28USA%29%20%28Wi-Fi%20Kiosk%29%20%28Save%20Data%29.nds",
+				   "output": "%NDS%/Ash's PIKACHU! Distribution 2011 (USA) (Wi-Fi Kiosk) (Save Data).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Asphalt - Urban GT",
+					"version": "USA",
+					"author": "Gameloft",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 79,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon80.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Asphalt%20-%20Urban%20GT/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Asphalt - Urban GT": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Asphalt%20-%20Urban%20GT%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Asphalt - Urban GT (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Asphalt%20-%20Urban%20GT/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asphalt - Urban GT (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Assassin's Creed - Altair's Chronicles",
+					"version": "USA",
+					"author": "Ubisoft",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 80,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon81.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Assassin's Creed - Altair's Chronicles": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Assassin's Creed - Altair's Chronicles (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Assassin's Creed - Altair's Chronicles (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Assassin's Creed II - Discovery",
+					"version": "USA",
+					"author": "Ubisoft",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 81,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon82.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20II%20-%20Discovery/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Assassin's Creed II - Discovery": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Assassin%27s%20Creed%20II%20-%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20II%20-%20Discovery/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Astro Boy - The Video Game",
+					"version": "USA",
+					"author": "D3 Publisher",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 82,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon83.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Astro%20Boy%20-%20The%20Video%20Game/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Astro Boy - The Video Game": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Astro%20Boy%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Astro Boy - The Video Game (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Astro%20Boy%20-%20The%20Video%20Game/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Astro Boy - The Video Game (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Astro Invaders",
+					"version": "USA",
+					"author": "Destination Software, KSS",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 83,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon84.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Astro%20Invaders/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Astro Invaders": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Astro%20Invaders%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Astro Invaders (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Astro%20Invaders/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Astro Invaders (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Astrology DS - The Stars in Your Hands",
+					"version": "USA",
+					"author": "Deep Silver, Inc",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 84,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon85.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Astrology%20DS%20-%20The%20Stars%20in%20Your%20Hands/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Astrology DS - The Stars in Your Hands": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Astrology%20DS%20-%20The%20Stars%20in%20Your%20Hands%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Astrology DS - The Stars in Your Hands (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Astrology%20DS%20-%20The%20Stars%20in%20Your%20Hands/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Astrology DS - The Stars in Your Hands (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Atari Greatest Hits - Volume 1",
+					"version": "USA",
+					"author": "Infogrames",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 85,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon86.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%201/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Atari Greatest Hits - Volume 1": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Atari%20Greatest%20Hits%20-%20Volume%201%20%28USA%29.nds",
+				   "output": "%NDS%/Atari Greatest Hits - Volume 1 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%201/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Atari Greatest Hits - Volume 1 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Atari Greatest Hits - Volume 2",
+					"version": "USA",
+					"author": "Infogrames",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 86,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon87.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%202/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Atari Greatest Hits - Volume 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Atari%20Greatest%20Hits%20-%20Volume%202%20%28USA%29.nds",
+				   "output": "%NDS%/Atari Greatest Hits - Volume 2 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%202/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Atari Greatest Hits - Volume 2 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Atelier Annie - Alchemists of Sera Island",
+					"version": "USA",
+					"author": "NIS America, Inc.",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 87,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon88.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Atelier%20Annie%20-%20Alchemists%20of%20Sera%20Island/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Atelier Annie - Alchemists of Sera Island": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Atelier%20Annie%20-%20Alchemists%20of%20Sera%20Island%20%28USA%29.nds",
+				   "output": "%NDS%/Atelier Annie - Alchemists of Sera Island (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Atelier%20Annie%20-%20Alchemists%20of%20Sera%20Island/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Atelier Annie - Alchemists of Sera Island (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Avalon Code",
+					"version": "USA",
+					"author": "Rising Star Games",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 88,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon89.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Avalon%20Code/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Avalon Code": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Avalon%20Code%20%28USA%29.nds",
+				   "output": "%NDS%/Avalon Code (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Avalon%20Code/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Avalon Code (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Avatar - The Last Airbender - Into the Inferno",
+					"version": "USA",
+					"author": "THQ",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 89,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon90.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Avatar%20-%20The%20Last%20Airbender%20-%20Into%20the%20Inferno/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Avatar - The Last Airbender - Into the Inferno": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Avatar%20-%20The%20Last%20Airbender%20-%20Into%20the%20Inferno%20%28USA%29.nds",
+				   "output": "%NDS%/Avatar - The Last Airbender - Into the Inferno (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Avatar%20-%20The%20Last%20Airbender%20-%20Into%20the%20Inferno/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Avatar - The Last Airbender - Into the Inferno (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Away - Shuffle Dungeon",
+					"version": "USA",
+					"author": "Majesco Entertainment",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 90,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon91.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Away%20-%20Shuffle%20Dungeon/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-04 at 10:05 (UTC)"
+},
+"Away - Shuffle Dungeon": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Away%20-%20Shuffle%20Dungeon%20%28USA%29.nds",
+				   "output": "%NDS%/Away - Shuffle Dungeon (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/A/Away%20-%20Shuffle%20Dungeon/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Away - Shuffle Dungeon (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
 }]}
