@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 165
+"revision": 166
 },
 "storeContent": [
 {"info": {
@@ -47758,4 +47758,34 @@
 				   "file": "sdmc:/LEGO Pirates of the Caribbean - The Video Game (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "406,0 MiB"}
+},
+{"info": {
+		            "title": "OldTube3DS",
+		            "version": "V6",
+		            "author": "Fut",
+		            "category": "Homebrew",
+		            "console": "OLD3DS",
+		            "icon_index": 35,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1293.png",
+		            "description": "NOVO YOUTUBE PARA O3DS/2DS",
+		            "last_updated": "2022-08-05 at 18:17 (UTC)"
+},
+"OldTube3DS": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/OldTube3DS/OLDTube.cia",
+				   "output": "sdmc:/OldTube3DS.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/OldTube3DS.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/OldTube3DS.cia",
+				   "message": "Cleaning..."}],
+				   "size": ""}
 }]}
