@@ -11,7 +11,7 @@
 "bg_index": 0,
 "bg_sheet": 0,
 "version": 3,
-"revision": 2
+"revision": 3
 },
 "storeContent": [
 {"info": {
@@ -22,7 +22,7 @@
 					"console": "DS",
 					"icon_index": 0,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon1.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/art.png",
@@ -56,7 +56,7 @@
 					"console": "DS",
 					"icon_index": 1,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon2.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon2.png",
 					"description": "New episode of the James Bond saga, Quantum of Solace allows you to play as the most famous secret agent on Nintendo DS.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
@@ -76,7 +76,7 @@
 					"console": "DS",
 					"icon_index": 2,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon3.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon3.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/1%20vs%20100/boxart.png",
@@ -107,7 +107,7 @@
 					"console": "DS",
 					"icon_index": 3,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon4.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon4.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20All-Time%20Favorites/boxart.png",
@@ -138,7 +138,7 @@
 					"console": "DS",
 					"icon_index": 4,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon5.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon5.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Books/boxart.png",
@@ -169,7 +169,7 @@
 					"console": "DS",
 					"icon_index": 5,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon6.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon6.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Touch%20Games/boxart.png",
@@ -200,7 +200,7 @@
 					"console": "DS",
 					"icon_index": 6,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon7.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon7.png",
 					"description": "Players can use the stylus and touch screen to test their reflexes in action minigames like racing and skydiving, take on sporting events such as basketball, curling, and archery.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
@@ -220,7 +220,7 @@
 					"console": "DS",
 					"icon_index": 7,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon8.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon8.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Sports%20Megamix/boxart.png",
@@ -251,7 +251,7 @@
 					"console": "DS",
 					"icon_index": 8,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon9.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon9.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame/boxart.png",
@@ -282,7 +282,7 @@
 					"console": "DS",
 					"icon_index": 9,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon10.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon10.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame/boxart.png",
@@ -313,7 +313,7 @@
 					"console": "DS",
 					"icon_index": 10,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon11.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon11.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20-%20With%20Elmo%20-%20The%20Videogame/boxart.png",
@@ -344,7 +344,7 @@
 					"console": "DS",
 					"icon_index": 11,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon12.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon12.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/18%20Classic%20Card%20Games/boxart.png",
@@ -375,7 +375,7 @@
 					"console": "DS",
 					"icon_index": 12,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon13.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon13.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%20-%20My%20Amusement%20Park%20%2B%20Digging%20for%20Dinosaurs/boxart.png",
@@ -406,7 +406,7 @@
 					"console": "DS",
 					"icon_index": 13,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon14.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon14.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Game%20Pack%21%20-%20Monster%20Trucks%20Mayhem%20%2B%20ATV%20-%20Thunder%20Ridge%20Riders/boxart.png",
@@ -437,7 +437,7 @@
 					"console": "DS",
 					"icon_index": 14,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon15.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon15.png",
 					"description": "The game contains 127 playable teams. Despite licensing issues between EA and the national football associations of Japan and the Netherlands, the two teams are fully licensed with real names and kits.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
@@ -457,7 +457,7 @@
 					"console": "DS",
 					"icon_index": 15,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon16.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon16.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure/boxart.png",
@@ -488,7 +488,7 @@
 					"console": "DS",
 					"icon_index": 16,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon17.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon17.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Uno%20%2B%20Skip-Bo%20%2B%20Uno%20Free%20Fall/boxart.png",
@@ -519,7 +519,7 @@
 					"console": "DS",
 					"icon_index": 17,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon18.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon18.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship/boxart.png",
@@ -550,7 +550,7 @@
 					"console": "DS",
 					"icon_index": 18,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon19.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon19.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Battleship%20%2B%20Connect%20Four%20%2B%20Sorry%21%20%2B%20Trouble/boxart.png",
@@ -581,7 +581,7 @@
 					"console": "DS",
 					"icon_index": 19,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon20.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon20.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Pack%21%20-%20Clue%20%2B%20Aggravation%20%2B%20Perfection%20%2B%20Mouse%20Trap/boxart.png",
@@ -612,7 +612,7 @@
 					"console": "DS",
 					"icon_index": 20,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon21.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon21.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20Classic%20Games/boxart.png",
@@ -643,7 +643,7 @@
 					"console": "DS",
 					"icon_index": 21,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon22.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon22.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/50%20More%20Classic%20Games/boxart.png",
@@ -674,7 +674,7 @@
 					"console": "DS",
 					"icon_index": 22,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon23.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon23.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven/boxart.png",
@@ -705,7 +705,7 @@
 					"console": "DS",
 					"icon_index": 23,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon24.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon24.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart.png",
@@ -736,7 +736,7 @@
 					"console": "DS",
 					"icon_index": 24,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon25.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon25.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20of%20the%20Ancient%20World/boxart.png",
@@ -767,7 +767,7 @@
 					"console": "DS",
 					"icon_index": 25,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon26.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon26.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/M/Mario%20Kart%20Ds%20Deluxe/boxart.png",
@@ -798,7 +798,7 @@
 					"console": "DS",
 					"icon_index": 26,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon27.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon27.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/AMF%20Bowling%20Pinbusters%21/boxart.png",
@@ -829,7 +829,7 @@
 					"console": "DS",
 					"icon_index": 27,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon28.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon28.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Quad%20Frenzy/boxart.png",
@@ -860,7 +860,7 @@
 					"console": "DS",
 					"icon_index": 28,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon29.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon29.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Quad%20Kings/boxart.png",
@@ -891,7 +891,7 @@
 					"console": "DS",
 					"icon_index": 29,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon30.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon30.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/ATV%20Wild%20Ride/boxart.png",
@@ -922,7 +922,7 @@
 					"console": "DS",
 					"icon_index": 30,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon31.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon31.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth/boxart.png",
@@ -953,7 +953,7 @@
 					"console": "DS",
 					"icon_index": 31,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon32.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon32.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Days%20of%20Ruin/boxart.png",
@@ -984,7 +984,7 @@
 					"console": "DS",
 					"icon_index": 32,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon33.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon33.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Dual%20Strike/boxart.png",
@@ -1015,7 +1015,7 @@
 					"console": "DS",
 					"icon_index": 33,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon34.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon34.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Adventure%20Time%20-%20Hey%20Ice%20King%21%20Why%27d%20You%20Steal%20Our%20Garbage%21%21/boxart.png",
@@ -1046,7 +1046,7 @@
 					"console": "DS",
 					"icon_index": 34,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon35.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon35.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Again%20-%20Interactive%20Crime%20Novel/boxart.png",
@@ -1077,7 +1077,7 @@
 					"console": "DS",
 					"icon_index": 35,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon36.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon36.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Agatha%20Christie%20-%20The%20ABC%20Murders/boxart.png",
@@ -1108,7 +1108,7 @@
 					"console": "DS",
 					"icon_index": 36,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon37.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon37.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Age%20of%20Empires%20-%20Mythologies/boxart.png",
@@ -1139,7 +1139,7 @@
 					"console": "DS",
 					"icon_index": 37,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon38.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon38.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Age%20of%20Empires%20-%20The%20Age%20of%20Kings/boxart.png",
@@ -1170,7 +1170,7 @@
 					"console": "DS",
 					"icon_index": 38,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon39.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon39.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Air%20Traffic%20Chaos/boxart.png",
@@ -1201,7 +1201,7 @@
 					"console": "DS",
 					"icon_index": 39,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon40.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon40.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alex%20Rider%20-%20Stormbreaker/boxart.png",
@@ -1232,7 +1232,7 @@
 					"console": "DS",
 					"icon_index": 40,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon41.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon41.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alice%20in%20Wonderland/boxart.png",
@@ -1263,7 +1263,7 @@
 					"console": "DS",
 					"icon_index": 41,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon42.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon42.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aliens%20-%20Infestation/boxart.png",
@@ -1294,7 +1294,7 @@
 					"console": "DS",
 					"icon_index": 42,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon43.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon43.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aliens%20in%20the%20Attic/boxart.png",
@@ -1325,7 +1325,7 @@
 					"console": "DS",
 					"icon_index": 43,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon44.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon44.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/All%20Star%20Cheer%20Squad/boxart.png",
@@ -1356,7 +1356,7 @@
 					"console": "DS",
 					"icon_index": 44,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon45.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon45.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alpha%20and%20Omega/boxart.png",
@@ -1387,7 +1387,7 @@
 					"console": "DS",
 					"icon_index": 45,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon46.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon46.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks/boxart.png",
@@ -1418,7 +1418,7 @@
 					"console": "DS",
 					"icon_index": 46,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon47.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon47.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks%20-%20Chipwrecked/boxart.png",
@@ -1449,7 +1449,7 @@
 					"console": "DS",
 					"icon_index": 47,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon48.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon48.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Alvin%20and%20the%20Chipmunks%20-%20The%20Squeakquel/boxart.png",
@@ -1480,7 +1480,7 @@
 					"console": "DS",
 					"icon_index": 48,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon49.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon49.png",
 					"description": "",
 					"last_updated": "2022-08-04 at 10:05 (UTC)"
 },
@@ -1500,7 +1500,7 @@
 					"console": "DS",
 					"icon_index": 49,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon50.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon50.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Amazing%20Adventures%20-%20The%20Forgotten%20Ruins/boxart.png",
@@ -1531,7 +1531,7 @@
 					"console": "DS",
 					"icon_index": 50,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon51.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon51.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Amazing%20Spider-Man%2C%20The/boxart.png",
@@ -1562,7 +1562,7 @@
 					"console": "DS",
 					"icon_index": 51,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon52.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon52.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/America%27s%20Next%20Top%20Model/boxart.png",
@@ -1593,7 +1593,7 @@
 					"console": "DS",
 					"icon_index": 52,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon53.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon53.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/America%27s%20Test%20Kitchen%20-%20Let%27s%20Get%20Cooking/boxart.png",
@@ -1624,7 +1624,7 @@
 					"console": "DS",
 					"icon_index": 53,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon54.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon54.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/American%20Dragon%20-%20Jake%20Long%20-%20Attack%20of%20the%20Dark%20Dragon/boxart.png",
@@ -1655,7 +1655,7 @@
 					"console": "DS",
 					"icon_index": 54,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon55.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon55.png",
 					"description": "",
 					"last_updated": "2022-08-04 at 10:05 (UTC)"
 },
@@ -1675,7 +1675,7 @@
 					"console": "DS",
 					"icon_index": 55,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon56.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon56.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/American%20Girl%20-%20Kit%20Mystery%20Challenge%21/boxart.png",
@@ -1706,7 +1706,7 @@
 					"console": "DS",
 					"icon_index": 56,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon57.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon57.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/An%20M.%20Night%20Shyamalan%20Film%20-%20The%20Last%20Airbender/boxart.png",
@@ -1737,7 +1737,7 @@
 					"console": "DS",
 					"icon_index": 57,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon58.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon58.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Boxing/boxart.png",
@@ -1768,7 +1768,7 @@
 					"console": "DS",
 					"icon_index": 58,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon59.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon59.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Crossing%20-%20Wild%20World/boxart.png",
@@ -1799,7 +1799,7 @@
 					"console": "DS",
 					"icon_index": 59,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon60.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon60.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Genius/boxart.png",
@@ -1830,7 +1830,7 @@
 					"console": "DS",
 					"icon_index": 60,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon61.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon61.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Paradise/boxart.png",
@@ -1861,7 +1861,7 @@
 					"console": "DS",
 					"icon_index": 61,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon62.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon62.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Paradise%20-%20Wild/boxart.png",
@@ -1892,7 +1892,7 @@
 					"console": "DS",
 					"icon_index": 62,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon63.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon63.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Emergency%20Vets/boxart.png",
@@ -1923,7 +1923,7 @@
 					"console": "DS",
 					"icon_index": 63,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon64.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon64.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Vet%20Collection/boxart.png",
@@ -1954,7 +1954,7 @@
 					"console": "DS",
 					"icon_index": 64,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon65.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon65.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Planet%20-%20Vet%20Life/boxart.png",
@@ -1985,7 +1985,7 @@
 					"console": "DS",
 					"icon_index": 65,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon66.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon66.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animates%21/boxart.png",
@@ -2016,7 +2016,7 @@
 					"console": "DS",
 					"icon_index": 66,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon67.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon67.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Anno%201701%20-%20Dawn%20of%20Discovery/boxart.png",
@@ -2047,7 +2047,7 @@
 					"console": "DS",
 					"icon_index": 67,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon68.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon68.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Ant%20Nation/boxart.png",
@@ -2078,7 +2078,7 @@
 					"console": "DS",
 					"icon_index": 68,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon69.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon69.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart.png",
@@ -2109,7 +2109,7 @@
 					"console": "DS",
 					"icon_index": 69,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon70.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon70.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aqua%20Panic%21/boxart.png",
@@ -2140,7 +2140,7 @@
 					"console": "DS",
 					"icon_index": 70,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon71.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon71.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Aquarium%20by%20DS/boxart.png",
@@ -2171,7 +2171,7 @@
 					"console": "DS",
 					"icon_index": 71,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon72.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon72.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Arceus%20Distribution%202009/boxart.png",
@@ -2202,7 +2202,7 @@
 					"console": "DS",
 					"icon_index": 72,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon73.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon73.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader/boxart.png",
@@ -2233,7 +2233,7 @@
 					"console": "DS",
 					"icon_index": 73,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon74.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon74.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Back%20to%20School/boxart.png",
@@ -2264,7 +2264,7 @@
 					"console": "DS",
 					"icon_index": 74,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon75.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon75.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Game%20Time/boxart.png",
@@ -2295,7 +2295,7 @@
 					"console": "DS",
 					"icon_index": 75,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon76.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon76.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20-%20Make%20the%20Grade/boxart.png",
@@ -2326,7 +2326,7 @@
 					"console": "DS",
 					"icon_index": 76,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon77.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon77.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Army%20Men%20-%20Soldiers%20of%20Misfortune/boxart.png",
@@ -2357,7 +2357,7 @@
 					"console": "DS",
 					"icon_index": 77,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon78.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon78.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Art%20Academy/boxart.png",
@@ -2388,7 +2388,7 @@
 					"console": "DS",
 					"icon_index": 78,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon79.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon79.png",
 					"description": "",
 					"last_updated": "2022-08-04 at 10:05 (UTC)"
 },
@@ -2408,7 +2408,7 @@
 					"console": "DS",
 					"icon_index": 79,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon80.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon80.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Asphalt%20-%20Urban%20GT/boxart.png",
@@ -2439,7 +2439,7 @@
 					"console": "DS",
 					"icon_index": 80,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon81.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon81.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles/boxart.png",
@@ -2470,7 +2470,7 @@
 					"console": "DS",
 					"icon_index": 81,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon82.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon82.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20II%20-%20Discovery/boxart.png",
@@ -2501,7 +2501,7 @@
 					"console": "DS",
 					"icon_index": 82,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon83.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon83.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Astro%20Boy%20-%20The%20Video%20Game/boxart.png",
@@ -2532,7 +2532,7 @@
 					"console": "DS",
 					"icon_index": 83,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon84.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon84.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Astro%20Invaders/boxart.png",
@@ -2563,7 +2563,7 @@
 					"console": "DS",
 					"icon_index": 84,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon85.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon85.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Astrology%20DS%20-%20The%20Stars%20in%20Your%20Hands/boxart.png",
@@ -2594,7 +2594,7 @@
 					"console": "DS",
 					"icon_index": 85,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon86.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon86.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%201/boxart.png",
@@ -2625,7 +2625,7 @@
 					"console": "DS",
 					"icon_index": 86,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon87.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon87.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%202/boxart.png",
@@ -2656,7 +2656,7 @@
 					"console": "DS",
 					"icon_index": 87,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon88.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon88.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Atelier%20Annie%20-%20Alchemists%20of%20Sera%20Island/boxart.png",
@@ -2687,7 +2687,7 @@
 					"console": "DS",
 					"icon_index": 88,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon89.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon89.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Avalon%20Code/boxart.png",
@@ -2718,7 +2718,7 @@
 					"console": "DS",
 					"icon_index": 89,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon90.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon90.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Avatar%20-%20The%20Last%20Airbender%20-%20Into%20the%20Inferno/boxart.png",
@@ -2749,7 +2749,7 @@
 					"console": "DS",
 					"icon_index": 90,
 					"sheet_index": 1,
-					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator-ds/gfx/sprites/icon91.png",
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon91.png",
 					"screenshots": 
 		            [{
 		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Away%20-%20Shuffle%20Dungeon/boxart.png",
