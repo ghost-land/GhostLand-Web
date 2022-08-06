@@ -2775,7 +2775,7 @@
 {"info": {
 					"title": "B-17 - Fortress in the Sky",
 					"version": "USA",
-					"author": "",
+					"author": "Destination Software, KSS",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 91,
@@ -2806,7 +2806,7 @@
 {"info": {
 					"title": "B. Sokal Syberia",
 					"version": "USA",
-					"author": "",
+					"author": "DreamCatcher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 92,
@@ -2837,7 +2837,7 @@
 {"info": {
 					"title": "Baby Life",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 93,
@@ -2868,7 +2868,7 @@
 {"info": {
 					"title": "Baby Pals",
 					"version": "USA",
-					"author": "",
+					"author": "Crave Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 94,
@@ -2899,7 +2899,7 @@
 {"info": {
 					"title": "Babysitting Mania",
 					"version": "USA",
-					"author": "",
+					"author": "Majesco Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 95,
@@ -2930,7 +2930,7 @@
 {"info": {
 					"title": "Bachelor, The - The Videogame",
 					"version": "USA",
-					"author": "",
+					"author": "WB Games, Inc.",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 96,
@@ -2961,7 +2961,7 @@
 {"info": {
 					"title": "Back at the Barnyard - Slop Bucket Games",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 97,
@@ -2992,7 +2992,7 @@
 {"info": {
 					"title": "Backyard Baseball '09",
 					"version": "USA",
-					"author": "",
+					"author": "Infogrames",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 98,
@@ -3023,7 +3023,7 @@
 {"info": {
 					"title": "Backyard Baseball '10",
 					"version": "USA",
-					"author": "",
+					"author": "Infogrames",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 99,
@@ -3054,7 +3054,7 @@
 {"info": {
 					"title": "Backyard Basketball",
 					"version": "USA",
-					"author": "",
+					"author": "Infogrames",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 100,
@@ -3083,9 +3083,9 @@
 				   "size": "9,00 MiB"}
 },
 {"info": {
-					"title": "Backyard Football (USA)",
+					"title": "Backyard Football",
 					"version": "USA",
-					"author": "",
+					"author": "Infogrames",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 101,
@@ -3099,7 +3099,7 @@
 					"description": "",
 					"last_updated": "2022-08-09 at 13:05 (UTC)"
 },
-"Backyard Football (USA)": {
+"Backyard Football": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Football%20%28USA%29.nds",
@@ -3116,7 +3116,7 @@
 {"info": {
 					"title": "Backyard Hockey",
 					"version": "USA",
-					"author": "",
+					"author": "Infogrames",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 102,
@@ -3147,7 +3147,7 @@
 {"info": {
 					"title": "Backyard Sports - Rookie Rush",
 					"version": "USA",
-					"author": "",
+					"author": "Infogrames",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 103,
@@ -3178,7 +3178,7 @@
 {"info": {
 					"title": "Backyard Sports - Sandlot Sluggers",
 					"version": "USA",
-					"author": "",
+					"author": "Infogrames",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 104,
@@ -3209,7 +3209,7 @@
 {"info": {
 					"title": "Backyardigans, The",
 					"version": "USA",
-					"author": "",
+					"author": "ROCKSTAR GAMES™, Take 2 Interactive (before it was GameTek)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 105,
@@ -3240,7 +3240,7 @@
 {"info": {
 					"title": "Bakugan - Battle Brawlers",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 106,
@@ -3271,7 +3271,7 @@
 {"info": {
 					"title": "Bakugan - Battle Brawlers - Battle Trainer",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 107,
@@ -3302,7 +3302,7 @@
 {"info": {
 					"title": "Bakugan - Defenders of the Core",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 108,
@@ -3333,7 +3333,7 @@
 {"info": {
 					"title": "Bakugan - Rise of the Resistance",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 109,
@@ -3364,7 +3364,7 @@
 {"info": {
 					"title": "Balloon Pop",
 					"version": "USA",
-					"author": "",
+					"author": "UFO Interactive Games Inc.",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 110,
@@ -3395,7 +3395,7 @@
 {"info": {
 					"title": "Balls of Fury",
 					"version": "USA",
-					"author": "",
+					"author": "Destination Software, KSS",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 111,
@@ -3426,7 +3426,7 @@
 {"info": {
 					"title": "Band Hero",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 112,
@@ -3457,7 +3457,7 @@
 {"info": {
 					"title": "Bangai-O Spirits",
 					"version": "USA",
-					"author": "",
+					"author": "D3 PublisherTHQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 113,
@@ -3519,7 +3519,7 @@
 {"info": {
 					"title": "Barbie - Groom and Glam Pups",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 115,
@@ -3550,7 +3550,7 @@
 {"info": {
 					"title": "Barbie - Jet, Set & Style!",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 116,
@@ -3570,7 +3570,7 @@
 {"info": {
 					"title": "Barbie Fashion Show - An Eye for Style",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 117,
@@ -3601,7 +3601,7 @@
 {"info": {
 					"title": "Barbie Horse Adventures - Riding Camp",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 118,
@@ -3632,7 +3632,7 @@
 {"info": {
 					"title": "Barbie and the Three Musketeers",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 119,
@@ -3663,7 +3663,7 @@
 {"info": {
 					"title": "Barbie as the Island Princess",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 120,
@@ -3694,7 +3694,7 @@
 {"info": {
 					"title": "Barbie in the 12 Dancing Princesses",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 121,
@@ -3725,7 +3725,7 @@
 {"info": {
 					"title": "Barnyard Blast - Swine of the Night",
 					"version": "USA",
-					"author": "",
+					"author": "Destination Software, KSS",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 122,
@@ -3756,7 +3756,7 @@
 {"info": {
 					"title": "Batman - The Brave and the Bold - The Videogame",
 					"version": "USA",
-					"author": "",
+					"author": "WB Games, Inc.",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 123,
@@ -3787,7 +3787,7 @@
 {"info": {
 					"title": "Battle of Giants - Dinosaurs",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 124,
@@ -3818,7 +3818,7 @@
 {"info": {
 					"title": "Battle of Giants - Dragons",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 125,
@@ -3849,7 +3849,7 @@
 {"info": {
 					"title": "Battle of Giants - Mutant Insects",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 126,
@@ -3880,7 +3880,7 @@
 {"info": {
 					"title": "Battles of Prince of Persia",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 127,
@@ -3911,7 +3911,7 @@
 {"info": {
 					"title": "Battleship",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 128,
@@ -3973,7 +3973,7 @@
 {"info": {
 					"title": "Beat City",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 130,
@@ -4004,7 +4004,7 @@
 {"info": {
 					"title": "Bee Game, The",
 					"version": "USA",
-					"author": "",
+					"author": "Midway (before it was Tradewest)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 131,
@@ -4035,7 +4035,7 @@
 {"info": {
 					"title": "Bee Movie Game",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 132,
@@ -4066,7 +4066,7 @@
 {"info": {
 					"title": "Bejeweled 3",
 					"version": "USA",
-					"author": "",
+					"author": "PopCap Games, Inc.",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 133,
@@ -4097,7 +4097,7 @@
 {"info": {
 					"title": "Bejeweled Twist",
 					"version": "USA",
-					"author": "",
+					"author": "PopCap Games, Inc.",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 134,
@@ -4128,7 +4128,7 @@
 {"info": {
 					"title": "Bella Sara",
 					"version": "USA",
-					"author": "",
+					"author": "Codemasters",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 135,
@@ -4159,7 +4159,7 @@
 {"info": {
 					"title": "Ben 10 - Alien Force",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 136,
@@ -4190,7 +4190,7 @@
 {"info": {
 					"title": "Ben 10 - Alien Force - Vilgax Attacks",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 137,
@@ -4221,7 +4221,7 @@
 {"info": {
 					"title": "Ben 10 - Galactic Racing",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 138,
@@ -4252,7 +4252,7 @@
 {"info": {
 					"title": "Ben 10 - Omniverse",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 139,
@@ -4283,7 +4283,7 @@
 {"info": {
 					"title": "Ben 10 - Protector of Earth",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 140,
@@ -4314,7 +4314,7 @@
 {"info": {
 					"title": "Ben 10 - Triple Pack",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 141,
@@ -4345,7 +4345,7 @@
 {"info": {
 					"title": "Ben 10 - Ultimate Alien - Cosmic Destruction",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 142,
@@ -4407,7 +4407,7 @@
 {"info": {
 					"title": "Best Buy Nintendo Zone Beacon",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 144,
@@ -4427,7 +4427,7 @@
 {"info": {
 					"title": "Best Friends Tonight",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 145,
@@ -4458,7 +4458,7 @@
 {"info": {
 					"title": "Best of Tests DS",
 					"version": "USA",
-					"author": "",
+					"author": "Conspiracy/Swing",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 146,
@@ -4489,7 +4489,7 @@
 {"info": {
 					"title": "Betty Boop's Double Shift",
 					"version": "USA",
-					"author": "",
+					"author": "Destination Software, KSS",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 147,
@@ -4520,7 +4520,7 @@
 {"info": {
 					"title": "Beyblade - Metal Fusion",
 					"version": "USA",
-					"author": "",
+					"author": "Hudson Soft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 148,
@@ -4551,7 +4551,7 @@
 {"info": {
 					"title": "Beyblade - Metal Masters",
 					"version": "USA",
-					"author": "",
+					"author": "Konami Digital Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 149,
@@ -4582,7 +4582,7 @@
 {"info": {
 					"title": "Big Bang Mini",
 					"version": "USA",
-					"author": "",
+					"author": "SOUTHPEAK GAMES",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 150,
@@ -4613,7 +4613,7 @@
 {"info": {
 					"title": "Big Brain Academy",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 151,
@@ -4644,7 +4644,7 @@
 {"info": {
 					"title": "Big League Sports - Summer",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 152,
@@ -4675,7 +4675,7 @@
 {"info": {
 					"title": "Big Mutha Truckers",
 					"version": "USA",
-					"author": "",
+					"author": "Destination Software, KSS",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 153,
@@ -4737,7 +4737,7 @@
 {"info": {
 					"title": "Bigfoot - Collision Course",
 					"version": "USA",
-					"author": "",
+					"author": "Destination Software, KSS",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 155,
@@ -4768,7 +4768,7 @@
 {"info": {
 					"title": "Biggest Loser, The",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 156,
@@ -4799,7 +4799,7 @@
 {"info": {
 					"title": "Bigs 2, The",
 					"version": "USA",
-					"author": "",
+					"author": "ROCKSTAR GAMES™, Take 2 Interactive (before it was GameTek)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 157,
@@ -4830,7 +4830,7 @@
 {"info": {
 					"title": "Biker Mice from Mars",
 					"version": "USA",
-					"author": "",
+					"author": "The Game Factory (USA)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 158,
@@ -4861,7 +4861,7 @@
 {"info": {
 					"title": "Bionicle Heroes",
 					"version": "USA",
-					"author": "",
+					"author": "Eidos (was U.S. Gold <=1995)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 159,
@@ -4881,7 +4881,7 @@
 {"info": {
 					"title": "Black Sigil - Blade of the Exiled",
 					"version": "USA",
-					"author": "",
+					"author": "Graffiti Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 160,
@@ -4912,7 +4912,7 @@
 {"info": {
 					"title": "Blades of Thunder II",
 					"version": "USA",
-					"author": "",
+					"author": "Summitsoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 161,
@@ -4943,7 +4943,7 @@
 {"info": {
 					"title": "Bleach - Dark Souls",
 					"version": "USA",
-					"author": "",
+					"author": "SEGA Japan",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 162,
@@ -4974,7 +4974,7 @@
 {"info": {
 					"title": "Bleach - The 3rd Phantom",
 					"version": "USA",
-					"author": "",
+					"author": "SEGA Japan",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 163,
@@ -5005,7 +5005,7 @@
 {"info": {
 					"title": "Bleach - The Blade of Fate",
 					"version": "USA",
-					"author": "",
+					"author": "SEGA Japan",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 164,
@@ -5036,7 +5036,7 @@
 {"info": {
 					"title": "Blue Dragon - Awakened Shadow",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 165,
@@ -5067,7 +5067,7 @@
 {"info": {
 					"title": "Blue Dragon Plus",
 					"version": "USA",
-					"author": "",
+					"author": "Ignition Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 166,
@@ -5098,7 +5098,7 @@
 {"info": {
 					"title": "Boing! Docomodake DS",
 					"version": "USA",
-					"author": "",
+					"author": "Ignition Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 167,
@@ -5129,7 +5129,7 @@
 {"info": {
 					"title": "Bolt",
 					"version": "USA",
-					"author": "",
+					"author": "Disney Interactive",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 168,
@@ -5160,7 +5160,7 @@
 {"info": {
 					"title": "Bolt - Be-Awesome Edition",
 					"version": "USA",
-					"author": "",
+					"author": "Disney Interactive",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 169,
@@ -5191,7 +5191,7 @@
 {"info": {
 					"title": "Bomberman",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 170,
@@ -5222,7 +5222,7 @@
 {"info": {
 					"title": "Bomberman Land Touch!",
 					"version": "USA",
-					"author": "",
+					"author": "Atlus",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 171,
@@ -5253,7 +5253,7 @@
 {"info": {
 					"title": "Bomberman Land Touch! 2",
 					"version": "USA",
-					"author": "",
+					"author": "Hudson Soft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 172,
@@ -5284,7 +5284,7 @@
 {"info": {
 					"title": "Boogie",
 					"version": "USA",
-					"author": "",
+					"author": "Electronic Arts",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 173,
@@ -5315,7 +5315,7 @@
 {"info": {
 					"title": "Bookworm",
 					"version": "USA",
-					"author": "",
+					"author": "PopCap Games, Inc.",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 174,
@@ -5335,7 +5335,7 @@
 {"info": {
 					"title": "Brain Age - Train Your Brain in Minutes a Day!",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 175,
@@ -5366,7 +5366,7 @@
 {"info": {
 					"title": "Brain Age 2 - More Training in Minutes a Day!",
 					"version": "USA",
-					"author": "",
+					"author": "Nintendo",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 176,
@@ -5397,7 +5397,7 @@
 {"info": {
 					"title": "Brain Assist",
 					"version": "USA",
-					"author": "",
+					"author": "SEGA Japan",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 177,
@@ -5428,7 +5428,7 @@
 {"info": {
 					"title": "Brain Boost - Beta Wave",
 					"version": "USA",
-					"author": "",
+					"author": "Majesco Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 178,
@@ -5459,7 +5459,7 @@
 {"info": {
 					"title": "Brain Boost - Gamma Wave",
 					"version": "USA",
-					"author": "",
+					"author": "Majesco Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 179,
@@ -5521,7 +5521,7 @@
 {"info": {
 					"title": "Brain Challenge",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 181,
@@ -5552,7 +5552,7 @@
 {"info": {
 					"title": "Brain Quest - Grades 3 & 4",
 					"version": "USA",
-					"author": "",
+					"author": "Electronic Arts",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 182,
@@ -5583,7 +5583,7 @@
 {"info": {
 					"title": "Brain Quest - Grades 5 & 6",
 					"version": "USA",
-					"author": "",
+					"author": "Electronic Arts",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 183,
@@ -5614,7 +5614,7 @@
 {"info": {
 					"title": "Brain Voyage",
 					"version": "USA",
-					"author": "",
+					"author": "Eidos (was U.S. Gold <=1995)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 184,
@@ -5707,7 +5707,7 @@
 {"info": {
 					"title": "Bratz - 4 Real",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 187,
@@ -5738,7 +5738,7 @@
 {"info": {
 					"title": "Bratz - Fashion Boutique",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 188,
@@ -5758,7 +5758,7 @@
 {"info": {
 					"title": "Bratz - Forever Diamondz",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 189,
@@ -5789,7 +5789,7 @@
 {"info": {
 					"title": "Bratz - Girlz Really Rock",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 190,
@@ -5820,7 +5820,7 @@
 {"info": {
 					"title": "Bratz - Super Babyz",
 					"version": "USA",
-					"author": "",
+					"author": "THQ",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 191,
@@ -5851,7 +5851,7 @@
 {"info": {
 					"title": "Bratz Kidz - Slumber Party",
 					"version": "USA",
-					"author": "",
+					"author": "The Game Factory (USA)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 192,
@@ -5882,7 +5882,7 @@
 {"info": {
 					"title": "Bratz Ponyz",
 					"version": "USA",
-					"author": "",
+					"author": "The Game Factory (USA)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 193,
@@ -5913,7 +5913,7 @@
 {"info": {
 					"title": "Bratz Ponyz 2",
 					"version": "USA",
-					"author": "",
+					"author": "The Game Factory (USA)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 194,
@@ -5944,7 +5944,7 @@
 {"info": {
 					"title": "Brave",
 					"version": "USA",
-					"author": "",
+					"author": "Disney Interactive",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 195,
@@ -5975,7 +5975,7 @@
 {"info": {
 					"title": "Break 'em All",
 					"version": "USA",
-					"author": "",
+					"author": "D3 Publisher",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 196,
@@ -6006,7 +6006,7 @@
 {"info": {
 					"title": "Broken Sword - Shadow of the Templars - The Director's Cut",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 197,
@@ -6037,7 +6037,7 @@
 {"info": {
 					"title": "Brothers in Arms DS",
 					"version": "USA",
-					"author": "",
+					"author": "Ubisoft",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 198,
@@ -6068,7 +6068,7 @@
 {"info": {
 					"title": "Bubble Bobble - Double Shot",
 					"version": "USA",
-					"author": "",
+					"author": "Ignition Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 199,
@@ -6099,7 +6099,7 @@
 {"info": {
 					"title": "Bubble Bobble Revolution",
 					"version": "USA",
-					"author": "",
+					"author": "Codemasters",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 200,
@@ -6130,7 +6130,7 @@
 {"info": {
 					"title": "Bubble Guppies",
 					"version": "USA",
-					"author": "",
+					"author": "ROCKSTAR GAMES™, Take 2 Interactive (before it was GameTek)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 201,
@@ -6161,7 +6161,7 @@
 {"info": {
 					"title": "Build-A-Bear Workshop - Welcome to Hugsville",
 					"version": "USA",
-					"author": "",
+					"author": "Activision",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 202,
@@ -6181,7 +6181,7 @@
 {"info": {
 					"title": "Build-A-Bear Workshop - Where Best Friends Are Made",
 					"version": "USA",
-					"author": "",
+					"author": "The Game Factory (USA)",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 203,
@@ -6201,7 +6201,7 @@
 {"info": {
 					"title": "Build-a-Lot",
 					"version": "USA",
-					"author": "",
+					"author": "MumboJumbo",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 204,
@@ -6263,7 +6263,7 @@
 {"info": {
 					"title": "Burger Island",
 					"version": "USA",
-					"author": "",
+					"author": "Destineer",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 206,
@@ -6294,7 +6294,7 @@
 {"info": {
 					"title": "Burnout Legends",
 					"version": "USA",
-					"author": "",
+					"author": "Electronic Arts",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 207,
@@ -6325,7 +6325,7 @@
 {"info": {
 					"title": "Bust-A-Move DS",
 					"version": "USA",
-					"author": "",
+					"author": "Majesco Entertainment",
 					"category": "Games",
 					"console": "DS",
 					"icon_index": 208,
