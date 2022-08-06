@@ -11,7 +11,7 @@
 "bg_index": 0,
 "bg_sheet": 0,
 "version": 3,
-"revision": 3
+"revision": 4
 },
 "storeContent": [
 {"info": {
@@ -2771,4 +2771,3616 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Away - Shuffle Dungeon (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "B-17 - Fortress in the Sky",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 91,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon92.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/B-17%20-%20Fortress%20in%20the%20Sky/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"B-17 - Fortress in the Sky": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/B-17%20-%20Fortress%20in%20the%20Sky%20%28USA%29.nds",
+				   "output": "%NDS%/B-17 - Fortress in the Sky (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/B-17%20-%20Fortress%20in%20the%20Sky/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/B-17 - Fortress in the Sky (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "B. Sokal Syberia",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 92,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon93.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/B.%20Sokal%20Syberia/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"B. Sokal Syberia": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/B.%20Sokal%20Syberia%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/B. Sokal Syberia (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/B.%20Sokal%20Syberia/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/B. Sokal Syberia (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Baby Life",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 93,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon94.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Baby%20Life/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Baby Life": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Baby%20Life%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Baby Life (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Baby%20Life/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Baby Life (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Baby Pals",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 94,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon95.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Baby%20Pals/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Baby Pals": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Baby%20Pals%20%28USA%29.nds",
+				   "output": "%NDS%/Baby Pals (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Baby%20Pals/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Baby Pals (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Babysitting Mania",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 95,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon96.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Babysitting%20Mania/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Babysitting Mania": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Babysitting%20Mania%20%28USA%29.nds",
+				   "output": "%NDS%/Babysitting Mania (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Babysitting%20Mania/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Babysitting Mania (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bachelor, The - The Videogame",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 96,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon97.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bachelor%2C%20The%20-%20The%20Videogame/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bachelor, The - The Videogame": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bachelor%2C%20The%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Bachelor, The - The Videogame (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bachelor%2C%20The%20-%20The%20Videogame/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bachelor, The - The Videogame (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Back at the Barnyard - Slop Bucket Games",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 97,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon98.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Back%20at%20the%20Barnyard%20-%20Slop%20Bucket%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Back at the Barnyard - Slop Bucket Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Back%20at%20the%20Barnyard%20-%20Slop%20Bucket%20Games%20%28USA%29.nds",
+				   "output": "%NDS%/Back at the Barnyard - Slop Bucket Games (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Back%20at%20the%20Barnyard%20-%20Slop%20Bucket%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Back at the Barnyard - Slop Bucket Games (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Backyard Baseball '09",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 98,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon99.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Baseball%20%2709/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyard Baseball '09": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Baseball%20%2709%20%28USA%29.nds",
+				   "output": "%NDS%/Backyard Baseball '09 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Baseball%20%2709/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyard Baseball '09 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Backyard Baseball '10",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 99,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon100.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Baseball%20%2710/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyard Baseball '10": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Baseball%20%2710%20%28USA%29.nds",
+				   "output": "%NDS%/Backyard Baseball '10 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Baseball%20%2710/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyard Baseball '10 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Backyard Basketball",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 100,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon101.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Basketball/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyard Basketball": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Basketball%20%28USA%29.nds",
+				   "output": "%NDS%/Backyard Basketball (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Basketball/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyard Basketball (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "9,00 MiB"}
+},
+{"info": {
+					"title": "Backyard Football (USA)",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 101,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon102.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Football/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyard Football (USA)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Football%20%28USA%29.nds",
+				   "output": "%NDS%/Backyard Football (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Football/boxart-twl.pnghttps://cdn.ghosteshop.com/Images/ds/B/Backyard%20Hockey/boxart.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyard Football (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Backyard Hockey",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 102,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon103.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Hockey/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyard Hockey": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Hockey%20%28USA%29.nds",
+				   "output": "%NDS%/Backyard Hockey (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Hockey/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyard Hockey (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Backyard Sports - Rookie Rush",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 103,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon104.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Sports%20-%20Rookie%20Rush/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyard Sports - Rookie Rush": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Sports%20-%20Rookie%20Rush%20%28USA%29.nds",
+				   "output": "%NDS%/Backyard Sports - Rookie Rush (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Sports%20-%20Rookie%20Rush/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyard Sports - Rookie Rush (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Backyard Sports - Sandlot Sluggers",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 104,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon105.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Sports%20-%20Sandlot%20Sluggers/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyard Sports - Sandlot Sluggers": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyard%20Sports%20-%20Sandlot%20Sluggers%20%28USA%29.nds",
+				   "output": "%NDS%/Backyard Sports - Sandlot Sluggers (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyard%20Sports%20-%20Sandlot%20Sluggers/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyard Sports - Sandlot Sluggers (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Backyardigans, The",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 105,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon106.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Backyardigans%2C%20The/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Backyardigans, The": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyardigans%2C%20The%20%28USA%29.nds",
+				   "output": "%NDS%/Backyardigans, The (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Backyardigans%2C%20The/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyardigans, The (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Bakugan - Battle Brawlers",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 106,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon107.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bakugan - Battle Brawlers": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Battle%20Brawlers%20%28USA%29%20%28En%2CFr%29%20%28Toys%27R%27Us%29.nds",
+				   "output": "%NDS%/Bakugan - Battle Brawlers (USA) (En,Fr) (Toys'R'Us).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Battle Brawlers (USA) (En,Fr) (Toys'R'Us).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Bakugan - Battle Brawlers - Battle Trainer",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 107,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon108.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers%20-%20Battle%20Trainer/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bakugan - Battle Brawlers - Battle Trainer": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Battle%20Brawlers%20-%20Battle%20Trainer%20%28USA%29.nds",
+				   "output": "%NDS%/Bakugan - Battle Brawlers - Battle Trainer (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers%20-%20Battle%20Trainer/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Battle Brawlers - Battle Trainer (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bakugan - Defenders of the Core",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 108,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon109.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Defenders%20of%20the%20Core/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bakugan - Defenders of the Core": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Defenders%20of%20the%20Core%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Bakugan - Defenders of the Core (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Defenders%20of%20the%20Core/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Defenders of the Core (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Bakugan - Rise of the Resistance",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 109,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon110.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Rise%20of%20the%20Resistance/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bakugan - Rise of the Resistance": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Bakugan - Rise of the Resistance (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Rise%20of%20the%20Resistance/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Rise of the Resistance (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Balloon Pop",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 110,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon111.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Balloon%20Pop/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Balloon Pop": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Balloon%20Pop%20%28USA%29.nds",
+				   "output": "%NDS%/Balloon Pop (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Balloon%20Pop/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Balloon Pop (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Balls of Fury",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 111,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon112.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Balls%20of%20Fury/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Balls of Fury": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Balls%20of%20Fury%20%28USA%29.nds",
+				   "output": "%NDS%/Balls of Fury (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Balls%20of%20Fury/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Balls of Fury (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Band Hero",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 112,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon113.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Band%20Hero/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Band Hero": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Band%20Hero%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Band Hero (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Band%20Hero/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Band Hero (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "256,00 MiB"}
+},
+{"info": {
+					"title": "Bangai-O Spirits",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 113,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon114.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bangai-O%20Spirits/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bangai-O Spirits": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bangai-O%20Spirits%20%28USA%29.nds",
+				   "output": "%NDS%/Bangai-O Spirits (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bangai-O%20Spirits/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bangai-O Spirits (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Barbie - Dreamhouse Party",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 114,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon115.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20-%20Dreamhouse%20Party/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie - Dreamhouse Party": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20-%20Dreamhouse%20Party%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Barbie - Dreamhouse Party (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20-%20Dreamhouse%20Party/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie - Dreamhouse Party (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Barbie - Groom and Glam Pups",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 115,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon116.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20-%20Groom%20and%20Glam%20Pups/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie - Groom and Glam Pups": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Barbie - Groom and Glam Pups (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20-%20Groom%20and%20Glam%20Pups/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie - Groom and Glam Pups (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Barbie - Jet, Set & Style!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 116,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon117.png",
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie - Jet, Set & Style!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20-%20Jet%2C%20Set%20%26%20Style%21%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Barbie - Jet, Set & Style! (USA) (En,Fr) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Barbie Fashion Show - An Eye for Style",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 117,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon118.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20Fashion%20Show%20-%20An%20Eye%20for%20Style/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie Fashion Show - An Eye for Style": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20Fashion%20Show%20-%20An%20Eye%20for%20Style%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Barbie Fashion Show - An Eye for Style (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20Fashion%20Show%20-%20An%20Eye%20for%20Style/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie Fashion Show - An Eye for Style (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Barbie Horse Adventures - Riding Camp",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 118,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon119.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20Horse%20Adventures%20-%20Riding%20Camp/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie Horse Adventures - Riding Camp": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20Horse%20Adventures%20-%20Riding%20Camp%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Barbie Horse Adventures - Riding Camp (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20Horse%20Adventures%20-%20Riding%20Camp/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie Horse Adventures - Riding Camp (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Barbie and the Three Musketeers",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 119,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon120.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20and%20the%20Three%20Musketeers/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie and the Three Musketeers": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20and%20the%20Three%20Musketeers%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Barbie and the Three Musketeers (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20and%20the%20Three%20Musketeers/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie and the Three Musketeers (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Barbie as the Island Princess",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 120,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon121.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20as%20the%20Island%20Princess/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie as the Island Princess": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20as%20the%20Island%20Princess%20%28USA%29.nds",
+				   "output": "%NDS%/Barbie as the Island Princess (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20as%20the%20Island%20Princess/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie as the Island Princess (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Barbie in the 12 Dancing Princesses",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 121,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon122.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20in%20the%2012%20Dancing%20Princesses/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barbie in the 12 Dancing Princesses": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20in%20the%2012%20Dancing%20Princesses%20%28USA%29.nds",
+				   "output": "%NDS%/Barbie in the 12 Dancing Princesses (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barbie%20in%20the%2012%20Dancing%20Princesses/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie in the 12 Dancing Princesses (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Barnyard Blast - Swine of the Night",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 122,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon123.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Barnyard%20Blast%20-%20Swine%20of%20the%20Night/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Barnyard Blast - Swine of the Night": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barnyard%20Blast%20-%20Swine%20of%20the%20Night%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.nds",
+				   "output": "%NDS%/Barnyard Blast - Swine of the Night (USA) (En,Fr,Es,Pt).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Barnyard%20Blast%20-%20Swine%20of%20the%20Night/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barnyard Blast - Swine of the Night (USA) (En,Fr,Es,Pt).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Batman - The Brave and the Bold - The Videogame",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 123,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon124.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Batman - The Brave and the Bold - The Videogame": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Batman - The Brave and the Bold - The Videogame (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Batman%20-%20The%20Brave%20and%20the%20Bold%20-%20The%20Videogame/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Batman - The Brave and the Bold - The Videogame (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Battle of Giants - Dinosaurs",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 124,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon125.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Battle%20of%20Giants%20-%20Dinosaurs/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Battle of Giants - Dinosaurs": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Battle%20of%20Giants%20-%20Dinosaurs%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Battle of Giants - Dinosaurs (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Battle%20of%20Giants%20-%20Dinosaurs/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Battle of Giants - Dinosaurs (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Battle of Giants - Dragons",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 125,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon126.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Battle%20of%20Giants%20-%20Dragons/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Battle of Giants - Dragons": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Battle%20of%20Giants%20-%20Dragons%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Battle%20of%20Giants%20-%20Dragons/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Battle of Giants - Dragons (USA) (En,Fr,Es) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Battle of Giants - Mutant Insects",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 126,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon127.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Battle%20of%20Giants%20-%20Mutant%20Insects/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Battle of Giants - Mutant Insects": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Battle%20of%20Giants%20-%20Mutant%20Insects%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Battle of Giants - Mutant Insects (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Battle%20of%20Giants%20-%20Mutant%20Insects/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Battle of Giants - Mutant Insects (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Battles of Prince of Persia",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 127,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon128.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Battles%20of%20Prince%20of%20Persia/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Battles of Prince of Persia": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Battles%20of%20Prince%20of%20Persia%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Battles of Prince of Persia (USA) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Battles%20of%20Prince%20of%20Persia/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Battles of Prince of Persia (USA) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Battleship",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 128,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon129.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Battleship/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Battleship": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Battleship%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Battleship (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Battleship/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Battleship (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Beastly - Frantic Foto",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 129,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon130.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Beastly%20-%20Frantic%20Foto/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Beastly - Frantic Foto": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Beastly%20-%20Frantic%20Foto%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Beastly - Frantic Foto (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Beastly%20-%20Frantic%20Foto/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Beastly - Frantic Foto (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Beat City",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 130,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon131.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Beat%20City/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Beat City": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Beat%20City%20%28USA%29.nds",
+				   "output": "%NDS%/Beat City (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Beat%20City/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Beat City (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Bee Game, The",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 131,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon132.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bee%20Game%2C%20The/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bee Game, The": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bee%20Game%2C%20The%20%28USA%29.nds",
+				   "output": "%NDS%/Bee Game, The (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bee%20Game%2C%20The/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bee Game, The (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Bee Movie Game",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 132,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon133.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bee%20Movie%20Game/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bee Movie Game": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bee%20Movie%20Game%20%28USA%29.nds",
+				   "output": "%NDS%/Bee Movie Game (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bee%20Movie%20Game/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bee Movie Game (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bejeweled 3",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 133,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon134.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bejeweled%203/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bejeweled 3": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bejeweled%203%20%28USA%29.nds",
+				   "output": "%NDS%/Bejeweled 3 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bejeweled%203/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bejeweled 3 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bejeweled Twist",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 134,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon135.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bejeweled%20Twist/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bejeweled Twist": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bejeweled%20Twist%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Bejeweled Twist (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bejeweled%20Twist/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bejeweled Twist (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bella Sara",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 135,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon136.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bella%20Sara/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bella Sara": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bella%20Sara%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Bella Sara (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bella%20Sara/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bella Sara (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ben 10 - Alien Force",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 136,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon137.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Alien%20Force/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Ben 10 - Alien Force": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Ben%2010%20-%20Alien%20Force%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Ben 10 - Alien Force (USA) (En,Fr,De,Es,It) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Alien%20Force/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ben 10 - Alien Force (USA) (En,Fr,De,Es,It) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ben 10 - Alien Force - Vilgax Attacks",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 137,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon138.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Ben 10 - Alien Force - Vilgax Attacks": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Ben 10 - Alien Force - Vilgax Attacks (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Alien%20Force%20-%20Vilgax%20Attacks/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ben 10 - Alien Force - Vilgax Attacks (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ben 10 - Galactic Racing",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 138,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon139.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Galactic%20Racing/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Ben 10 - Galactic Racing": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Ben 10 - Galactic Racing (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Galactic%20Racing/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ben 10 - Galactic Racing (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ben 10 - Omniverse",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 139,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon140.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Omniverse/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Ben 10 - Omniverse": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Ben%2010%20-%20Omniverse%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Ben 10 - Omniverse (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Omniverse/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ben 10 - Omniverse (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ben 10 - Protector of Earth",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 140,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon141.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Protector%20of%20Earth/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Ben 10 - Protector of Earth": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Ben%2010%20-%20Protector%20of%20Earth%20%28USA%29.nds",
+				   "output": "%NDS%/Ben 10 - Protector of Earth (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Protector%20of%20Earth/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ben 10 - Protector of Earth (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ben 10 - Triple Pack",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 141,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon142.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Triple%20Pack/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Ben 10 - Triple Pack": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Ben%2010%20-%20Triple%20Pack%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Ben 10 - Triple Pack (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Triple%20Pack/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ben 10 - Triple Pack (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Ben 10 - Ultimate Alien - Cosmic Destruction",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 142,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon143.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Ultimate%20Alien%20-%20Cosmic%20Destruction/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Ben 10 - Ultimate Alien - Cosmic Destruction": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Ben%2010%20-%20Ultimate%20Alien%20-%20Cosmic%20Destruction%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Ben 10 - Ultimate Alien - Cosmic Destruction (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Ben%2010%20-%20Ultimate%20Alien%20-%20Cosmic%20Destruction/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ben 10 - Ultimate Alien - Cosmic Destruction (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bermuda Triangle - Saving the Coral",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 143,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon144.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bermuda%20Triangle%20-%20Saving%20the%20Coral/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bermuda Triangle - Saving the Coral": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bermuda%20Triangle%20-%20Saving%20the%20Coral%20%28USA%29.nds",
+				   "output": "%NDS%/Bermuda Triangle - Saving the Coral (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bermuda%20Triangle%20-%20Saving%20the%20Coral/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bermuda Triangle - Saving the Coral (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Best Buy Nintendo Zone Beacon",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 144,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon145.png",
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Best Buy Nintendo Zone Beacon": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Best%20Buy%20Nintendo%20Zone%20Beacon%20%28USA%29%20%28Wi-Fi%20Kiosk%29.nds",
+				   "output": "%NDS%/Best Buy Nintendo Zone Beacon (USA) (Wi-Fi Kiosk).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Best Friends Tonight",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 145,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon146.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Best%20Friends%20Tonight/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Best Friends Tonight": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Best%20Friends%20Tonight%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Best Friends Tonight (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Best%20Friends%20Tonight/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Best Friends Tonight (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Best of Tests DS",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 146,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon147.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Best%20of%20Tests%20DS/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Best of Tests DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Best%20of%20Tests%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Best of Tests DS (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Best%20of%20Tests%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Best of Tests DS (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Betty Boop's Double Shift",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 147,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon148.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Betty%20Boop%27s%20Double%20Shift/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Betty Boop's Double Shift": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Betty%20Boop%27s%20Double%20Shift%20%28USA%29.nds",
+				   "output": "%NDS%/Betty Boop's Double Shift (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Betty%20Boop%27s%20Double%20Shift/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Betty Boop's Double Shift (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Beyblade - Metal Fusion",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 148,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon149.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Beyblade%20-%20Metal%20Fusion/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Beyblade - Metal Fusion": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Beyblade%20-%20Metal%20Fusion%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Beyblade - Metal Fusion (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Beyblade%20-%20Metal%20Fusion/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Beyblade - Metal Fusion (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Beyblade - Metal Masters",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 149,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon150.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Beyblade%20-%20Metal%20Masters/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Beyblade - Metal Masters": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Beyblade%20-%20Metal%20Masters%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Beyblade - Metal Masters (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Beyblade%20-%20Metal%20Masters/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Beyblade - Metal Masters (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Big Bang Mini",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 150,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon151.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Bang%20Mini/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Big Bang Mini": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Big%20Bang%20Mini%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Big Bang Mini (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Bang%20Mini/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Big Bang Mini (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Big Brain Academy",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 151,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon152.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Brain%20Academy/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Big Brain Academy": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Big%20Brain%20Academy%20%28USA%29.nds",
+				   "output": "%NDS%/Big Brain Academy (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Brain%20Academy/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Big Brain Academy (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Big League Sports - Summer",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 152,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon153.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Big%20League%20Sports%20-%20Summer/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Big League Sports - Summer": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Big%20League%20Sports%20-%20Summer%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Big League Sports - Summer (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Big%20League%20Sports%20-%20Summer/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Big League Sports - Summer (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Big Mutha Truckers",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 153,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon154.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Mutha%20Truckers/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Big Mutha Truckers": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Big%20Mutha%20Truckers%20%28USA%29.nds",
+				   "output": "%NDS%/Big Mutha Truckers (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Mutha%20Truckers/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Big Mutha Truckers (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Big Time Rush - Backstage Pass",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 154,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon155.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Time%20Rush%20-%20Backstage%20Pass/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Big Time Rush - Backstage Pass": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Big%20Time%20Rush%20-%20Backstage%20Pass%20%28USA%29.nds",
+				   "output": "%NDS%/Big Time Rush - Backstage Pass (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Big%20Time%20Rush%20-%20Backstage%20Pass/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Big Time Rush - Backstage Pass (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Bigfoot - Collision Course",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 155,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon156.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bigfoot%20-%20Collision%20Course/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bigfoot - Collision Course": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bigfoot%20-%20Collision%20Course%20%28USA%29.nds",
+				   "output": "%NDS%/Bigfoot - Collision Course (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bigfoot%20-%20Collision%20Course/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bigfoot - Collision Course (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Biggest Loser, The",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 156,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon157.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Biggest%20Loser%2C%20The/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Biggest Loser, The": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Biggest%20Loser%2C%20The%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Biggest Loser, The (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Biggest%20Loser%2C%20The/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Biggest Loser, The (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bigs 2, The",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 157,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon158.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bigs%202%2C%20The/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bigs 2, The": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bigs%202%2C%20The%20%28USA%29.nds",
+				   "output": "%NDS%/Bigs 2, The (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bigs%202%2C%20The/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bigs 2, The (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Biker Mice from Mars",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 158,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon159.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Biker%20Mice%20from%20Mars/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Biker Mice from Mars": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Biker%20Mice%20from%20Mars%20%28USA%29.nds",
+				   "output": "%NDS%/Biker Mice from Mars (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Biker%20Mice%20from%20Mars/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Biker Mice from Mars (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bionicle Heroes",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 159,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon160.png",
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bionicle Heroes": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bionicle%20Heroes%20%28USA%29.nds",
+				   "output": "%NDS%/Bionicle Heroes (USA).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Black Sigil - Blade of the Exiled",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 160,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon161.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Black%20Sigil%20-%20Blade%20of%20the%20Exiled/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Black Sigil - Blade of the Exiled": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Black%20Sigil%20-%20Blade%20of%20the%20Exiled%20%28USA%29.nds",
+				   "output": "%NDS%/Black Sigil - Blade of the Exiled (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Black%20Sigil%20-%20Blade%20of%20the%20Exiled/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Black Sigil - Blade of the Exiled (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Blades of Thunder II",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 161,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon162.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Blades%20of%20Thunder%20II/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Blades of Thunder II": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Blades%20of%20Thunder%20II%20%28USA%29.nds",
+				   "output": "%NDS%/Blades of Thunder II (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Blades%20of%20Thunder%20II/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Blades of Thunder II (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Bleach - Dark Souls",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 162,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon163.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bleach%20-%20Dark%20Souls/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bleach - Dark Souls": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bleach%20-%20Dark%20Souls%20%28USA%29.nds",
+				   "output": "%NDS%/Bleach - Dark Souls (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bleach%20-%20Dark%20Souls/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bleach - Dark Souls (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Bleach - The 3rd Phantom",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 163,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon164.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bleach%20-%20The%203rd%20Phantom/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bleach - The 3rd Phantom": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bleach%20-%20The%203rd%20Phantom%20%28USA%29.nds",
+				   "output": "%NDS%/Bleach - The 3rd Phantom (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bleach%20-%20The%203rd%20Phantom/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bleach - The 3rd Phantom (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Bleach - The Blade of Fate",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 164,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon165.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bleach%20-%20The%20Blade%20of%20Fate/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bleach - The Blade of Fate": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bleach%20-%20The%20Blade%20of%20Fate%20%28USA%29.nds",
+				   "output": "%NDS%/Bleach - The Blade of Fate (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bleach%20-%20The%20Blade%20of%20Fate/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bleach - The Blade of Fate (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Blue Dragon - Awakened Shadow",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 165,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon166.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Blue%20Dragon%20-%20Awakened%20Shadow/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Blue Dragon - Awakened Shadow": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Blue%20Dragon%20-%20Awakened%20Shadow%20%28USA%29.nds",
+				   "output": "%NDS%/Blue Dragon - Awakened Shadow (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Blue%20Dragon%20-%20Awakened%20Shadow/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Blue Dragon - Awakened Shadow (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Blue Dragon Plus",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 166,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon167.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Blue%20Dragon%20Plus/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Blue Dragon Plus": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Blue%20Dragon%20Plus%20%28USA%29.nds",
+				   "output": "%NDS%/Blue Dragon Plus (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Blue%20Dragon%20Plus/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Blue Dragon Plus (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Boing! Docomodake DS",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 167,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon168.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Boing%21%20Docomodake%20DS/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Boing! Docomodake DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Boing%21%20Docomodake%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Boing! Docomodake DS (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Boing%21%20Docomodake%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Boing! Docomodake DS (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Bolt",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 168,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon169.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bolt/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bolt": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bolt%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Bolt (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bolt/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bolt (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Bolt - Be-Awesome Edition",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 169,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon170.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bolt%20-%20Be-Awesome%20Edition/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bolt - Be-Awesome Edition": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bolt%20-%20Be-Awesome%20Edition%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Bolt - Be-Awesome Edition (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bolt%20-%20Be-Awesome%20Edition/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bolt - Be-Awesome Edition (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Bomberman",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 170,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon171.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bomberman/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bomberman": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bomberman%20%28USA%29.nds",
+				   "output": "%NDS%/Bomberman (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bomberman/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bomberman (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Bomberman Land Touch!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 171,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon172.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bomberman%20Land%20Touch%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bomberman Land Touch!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bomberman%20Land%20Touch%21%20%28USA%29.nds",
+				   "output": "%NDS%/Bomberman Land Touch! (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bomberman%20Land%20Touch%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bomberman Land Touch! (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bomberman Land Touch! 2",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 172,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon173.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bomberman%20Land%20Touch%21%202/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bomberman Land Touch! 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bomberman%20Land%20Touch%21%202%20%28USA%29.nds",
+				   "output": "%NDS%/Bomberman Land Touch! 2 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bomberman%20Land%20Touch%21%202/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bomberman Land Touch! 2 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Boogie",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 173,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon174.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Boogie/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Boogie": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Boogie%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Boogie (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Boogie/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Boogie (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Bookworm",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 174,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon175.png",
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bookworm": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bookworm%20%28USA%29.nds",
+				   "output": "%NDS%/Bookworm (USA).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Brain Age - Train Your Brain in Minutes a Day!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 175,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon176.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Age%20-%20Train%20Your%20Brain%20in%20Minutes%20a%20Day%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Age - Train Your Brain in Minutes a Day!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Age%20-%20Train%20Your%20Brain%20in%20Minutes%20a%20Day%21%20%28USA%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Age%20-%20Train%20Your%20Brain%20in%20Minutes%20a%20Day%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Brain Age 2 - More Training in Minutes a Day!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 176,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon177.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Age%202%20-%20More%20Training%20in%20Minutes%20a%20Day%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Age 2 - More Training in Minutes a Day!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Age%202%20-%20More%20Training%20in%20Minutes%20a%20Day%21%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Age%202%20-%20More%20Training%20in%20Minutes%20a%20Day%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Brain Assist",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 177,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon178.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Assist/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Assist": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Assist%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Brain Assist (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Assist/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Assist (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Brain Boost - Beta Wave",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 178,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon179.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Boost%20-%20Beta%20Wave/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Boost - Beta Wave": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Boost%20-%20Beta%20Wave%20%28USA%29.nds",
+				   "output": "%NDS%/Brain Boost - Beta Wave (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Boost%20-%20Beta%20Wave/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Boost - Beta Wave (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Brain Boost - Gamma Wave",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 179,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon180.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Boost%20-%20Gamma%20Wave/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Boost - Gamma Wave": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Boost%20-%20Gamma%20Wave%20%28USA%29.nds",
+				   "output": "%NDS%/Brain Boost - Gamma Wave (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Boost%20-%20Gamma%20Wave/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Boost - Gamma Wave (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Brain Buster - Puzzle Pak",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 180,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon181.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Buster%20-%20Puzzle%20Pak/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Buster - Puzzle Pak": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Buster%20-%20Puzzle%20Pak%20%28USA%29.nds",
+				   "output": "%NDS%/Brain Buster - Puzzle Pak (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Buster%20-%20Puzzle%20Pak/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Buster - Puzzle Pak (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Brain Challenge",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 181,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon182.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Challenge/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Challenge": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Challenge%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Brain Challenge (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Challenge/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Challenge (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Brain Quest - Grades 3 & 4",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 182,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon183.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Quest%20-%20Grades%203%20%26%204/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Quest - Grades 3 & 4": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Quest%20-%20Grades%203%20%26%204%20%28USA%29.nds",
+				   "output": "%NDS%/Brain Quest - Grades 3 & 4 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Quest%20-%20Grades%203%20%26%204/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Quest - Grades 3 & 4 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Brain Quest - Grades 5 & 6",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 183,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon184.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Quest%20-%20Grades%205%20%26%206/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Quest - Grades 5 & 6": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Quest%20-%20Grades%205%20%26%206%20%28USA%29.nds",
+				   "output": "%NDS%/Brain Quest - Grades 5 & 6 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Quest%20-%20Grades%205%20%26%206/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Quest - Grades 5 & 6 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Brain Voyage",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 184,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon185.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Voyage/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brain Voyage": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brain%20Voyage%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Brain Voyage (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brain%20Voyage/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brain Voyage (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Brainstorm Series - Treasure Chase",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 185,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon186.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brainstorm%20Series%20-%20Treasure%20Chase/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brainstorm Series - Treasure Chase": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brainstorm%20Series%20-%20Treasure%20Chase%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Brainstorm Series - Treasure Chase (USA) (En,Fr,De,Es,It) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brainstorm%20Series%20-%20Treasure%20Chase/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brainstorm Series - Treasure Chase (USA) (En,Fr,De,Es,It) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Brainstorm Series - Word Up",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 186,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon187.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brainstorm%20Series%20-%20Word%20Up/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brainstorm Series - Word Up": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brainstorm%20Series%20-%20Word%20Up%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Brainstorm Series - Word Up (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brainstorm%20Series%20-%20Word%20Up/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brainstorm Series - Word Up (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Bratz - 4 Real",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 187,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon188.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%204%20Real/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz - 4 Real": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20-%204%20Real%20%28USA%29.nds",
+				   "output": "%NDS%/Bratz - 4 Real (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%204%20Real/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bratz - 4 Real (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bratz - Fashion Boutique",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 188,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon189.png",
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz - Fashion Boutique": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20-%20Fashion%20Boutique%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Bratz - Fashion Boutique (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bratz - Forever Diamondz",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 189,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon190.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%20Forever%20Diamondz/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz - Forever Diamondz": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20-%20Forever%20Diamondz%20%28USA%29.nds",
+				   "output": "%NDS%/Bratz - Forever Diamondz (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%20Forever%20Diamondz/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bratz - Forever Diamondz (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Bratz - Girlz Really Rock",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 190,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon191.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%20Girlz%20Really%20Rock/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz - Girlz Really Rock": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20-%20Girlz%20Really%20Rock%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Bratz - Girlz Really Rock (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%20Girlz%20Really%20Rock/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bratz - Girlz Really Rock (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bratz - Super Babyz",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 191,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon192.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%20Super%20Babyz/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz - Super Babyz": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20-%20Super%20Babyz%20%28USA%29.nds",
+				   "output": "%NDS%/Bratz - Super Babyz (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20-%20Super%20Babyz/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bratz - Super Babyz (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bratz Kidz - Slumber Party",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 192,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon193.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20Kidz%20-%20Slumber%20Party/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz Kidz - Slumber Party": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20Kidz%20-%20Slumber%20Party%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Bratz Kidz - Slumber Party (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20Kidz%20-%20Slumber%20Party/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bratz Kidz - Slumber Party (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bratz Ponyz",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 193,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon194.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20Ponyz/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz Ponyz": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20Ponyz%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Bratz Ponyz (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20Ponyz/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bratz Ponyz (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Bratz Ponyz 2",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 194,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon195.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20Ponyz%202/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bratz Ponyz 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bratz%20Ponyz%202%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Bratz Ponyz 2 (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bratz%20Ponyz%202/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bratz Ponyz 2 (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Brave",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 195,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon196.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brave/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brave": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brave%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Brave (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brave/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brave (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Break 'em All",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 196,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon197.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Break%20%27em%20All/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Break 'em All": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Break%20%27em%20All%20%28USA%29.nds",
+				   "output": "%NDS%/Break 'em All (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Break%20%27em%20All/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Break 'em All (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Broken Sword - Shadow of the Templars - The Director's Cut",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 197,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon198.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Broken%20Sword%20-%20Shadow%20of%20the%20Templars%20-%20The%20Director%27s%20Cut/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Broken Sword - Shadow of the Templars - The Director's Cut": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Broken%20Sword%20-%20Shadow%20of%20the%20Templars%20-%20The%20Director%27s%20Cut%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Broken%20Sword%20-%20Shadow%20of%20the%20Templars%20-%20The%20Director%27s%20Cut/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Brothers in Arms DS",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 198,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon199.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Brothers%20in%20Arms%20DS/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Brothers in Arms DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Brothers%20in%20Arms%20DS%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Brothers in Arms DS (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Brothers%20in%20Arms%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Brothers in Arms DS (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bubble Bobble - Double Shot",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 199,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon200.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bubble%20Bobble%20-%20Double%20Shot/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bubble Bobble - Double Shot": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bubble%20Bobble%20-%20Double%20Shot%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Bubble Bobble - Double Shot (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bubble%20Bobble%20-%20Double%20Shot/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bubble Bobble - Double Shot (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Bubble Bobble Revolution",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 200,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon201.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bubble%20Bobble%20Revolution/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bubble Bobble Revolution": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bubble%20Bobble%20Revolution%20%28USA%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Bubble Bobble Revolution (USA) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bubble%20Bobble%20Revolution/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bubble Bobble Revolution (USA) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bubble Guppies",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 201,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon202.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bubble%20Guppies/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bubble Guppies": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bubble%20Guppies%20%28USA%29.nds",
+				   "output": "%NDS%/Bubble Guppies (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bubble%20Guppies/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bubble Guppies (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Build-A-Bear Workshop - Welcome to Hugsville",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 202,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon203.png",
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Build-A-Bear Workshop - Welcome to Hugsville": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Build-A-Bear%20Workshop%20-%20Welcome%20to%20Hugsville%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Build-A-Bear Workshop - Welcome to Hugsville (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Build-A-Bear Workshop - Where Best Friends Are Made",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 203,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon204.png",
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Build-A-Bear Workshop - Where Best Friends Are Made": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Build-A-Bear%20Workshop%20-%20Where%20Best%20Friends%20Are%20Made%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Build-A-Bear Workshop - Where Best Friends Are Made (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Build-a-Lot",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 204,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon205.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Build-a-Lot/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Build-a-Lot": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Build-a-Lot%20%28USA%29.nds",
+				   "output": "%NDS%/Build-a-Lot (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Build-a-Lot/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Build-a-Lot (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Burger Bot",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 205,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon206.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Burger%20Bot/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Burger Bot": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Burger%20Bot%20%28USA%29.nds",
+				   "output": "%NDS%/Burger Bot (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Burger%20Bot/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Burger Bot (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Burger Island",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 206,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon207.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Burger%20Island/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Burger Island": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Burger%20Island%20%28USA%29.nds",
+				   "output": "%NDS%/Burger Island (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Burger%20Island/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Burger Island (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Burnout Legends",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 207,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon208.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Burnout%20Legends/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Burnout Legends": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Burnout%20Legends%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Burnout Legends (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Burnout%20Legends/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Burnout Legends (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Bust-A-Move DS",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 208,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon209.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Bust-A-Move%20DS/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Bust-A-Move DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bust-A-Move%20DS%20%28USA%29.nds",
+				   "output": "%NDS%/Bust-A-Move DS (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Bust-A-Move%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bust-A-Move DS (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Busy Scissors",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 209,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon210.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Busy%20Scissors/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-09 at 13:05 (UTC)"
+},
+"Busy Scissors": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Busy%20Scissors%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Busy Scissors (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/B/Busy%20Scissors/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Busy Scissors (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
 }]}
