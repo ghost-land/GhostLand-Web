@@ -6404,7 +6404,7 @@
 "C.O.P. - The Recruit": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/C.O.P.%20-%20The%20Recruit%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/C.O.P.%20-%20The%20Recruit%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/C.O.P. - The Recruit (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6435,7 +6435,7 @@
 "C.O.R.E.": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/C.O.R.E.%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/C.O.R.E.%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/C.O.R.E. (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6466,7 +6466,7 @@
 "CSI - Crime Scene Investigation - Dark Motives": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Dark%20Motives%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Dark%20Motives%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/CSI - Crime Scene Investigation - Dark Motives (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6497,7 +6497,7 @@
 "CSI - Crime Scene Investigation - Deadly Intent - The Hidden Cases": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Deadly%20Intent%20-%20The%20Hidden%20Cases%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Deadly%20Intent%20-%20The%20Hidden%20Cases%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/CSI - Crime Scene Investigation - Deadly Intent - The Hidden Cases (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6528,7 +6528,7 @@
 "CSI - Crime Scene Investigation - Unsolved!": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Unsolved%21%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Unsolved%21%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/CSI - Crime Scene Investigation - Unsolved! (USA) (En,Fr,Es) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6559,7 +6559,7 @@
 "Cabela's Dangerous Hunts 2011": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cabela%27s%20Dangerous%20Hunts%202011%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cabela%27s%20Dangerous%20Hunts%202011%20%28USA%29.nds",
 				   "output": "%NDS%/Cabela's Dangerous Hunts 2011 (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6590,7 +6590,7 @@
 "Cake Mania": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%20%28USA%29.nds",
 				   "output": "%NDS%/Cake Mania (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6621,7 +6621,7 @@
 "Cake Mania - Main Street": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%20-%20Main%20Street%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%20-%20Main%20Street%20%28USA%29.nds",
 				   "output": "%NDS%/Cake Mania - Main Street (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6652,7 +6652,7 @@
 "Cake Mania 2 - Jill's Next Adventure!": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%202%20-%20Jill%27s%20Next%20Adventure%21%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%202%20-%20Jill%27s%20Next%20Adventure%21%20%28USA%29.nds",
 				   "output": "%NDS%/Cake Mania 2 - Jill's Next Adventure! (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6683,7 +6683,7 @@
 "Cake Mania 3": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%203%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%203%20%28USA%29.nds",
 				   "output": "%NDS%/Cake Mania 3 (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6714,7 +6714,7 @@
 "Call of Duty - Black Ops": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Black%20Ops%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Black%20Ops%20%28USA%29.nds",
 				   "output": "%NDS%/Call of Duty - Black Ops (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6745,7 +6745,7 @@
 "Call of Duty - Modern Warfare - Mobilized": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Modern%20Warfare%20-%20Mobilized%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Modern%20Warfare%20-%20Mobilized%20%28USA%29.nds",
 				   "output": "%NDS%/Call of Duty - Modern Warfare - Mobilized (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6776,7 +6776,7 @@
 "Call of Duty - Modern Warfare 3 - Defiance": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Modern%20Warfare%203%20-%20Defiance%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Modern%20Warfare%203%20-%20Defiance%20%28USA%29.nds",
 				   "output": "%NDS%/Call of Duty - Modern Warfare 3 - Defiance (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6807,7 +6807,7 @@
 "Call of Duty - World at War": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20World%20at%20War%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20World%20at%20War%20%28USA%29.nds",
 				   "output": "%NDS%/Call of Duty - World at War (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6838,7 +6838,7 @@
 "Call of Duty 4 - Modern Warfare": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%204%20-%20Modern%20Warfare%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%204%20-%20Modern%20Warfare%20%28USA%29.nds",
 				   "output": "%NDS%/Call of Duty 4 - Modern Warfare (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6869,7 +6869,7 @@
 "Calvin Tucker's Redneck - Farm Animal Racing Tournament": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Calvin%20Tucker%27s%20Redneck%20-%20Farm%20Animal%20Racing%20Tournament%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Calvin%20Tucker%27s%20Redneck%20-%20Farm%20Animal%20Racing%20Tournament%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Calvin Tucker's Redneck - Farm Animal Racing Tournament (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6900,7 +6900,7 @@
 "Camp Rock - The Final Jam": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Camp%20Rock%20-%20The%20Final%20Jam%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Camp%20Rock%20-%20The%20Final%20Jam%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/Camp Rock - The Final Jam (USA) (En,Fr,Es) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6931,7 +6931,7 @@
 "Camping Mama - Outdoor Adventures": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Camping%20Mama%20-%20Outdoor%20Adventures%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Camping%20Mama%20-%20Outdoor%20Adventures%20%28USA%29.nds",
 				   "output": "%NDS%/Camping Mama - Outdoor Adventures (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6962,7 +6962,7 @@
 "Candace Kane's Candy Factory": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Candace%20Kane%27s%20Candy%20Factory%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Candace%20Kane%27s%20Candy%20Factory%20%28USA%29.nds",
 				   "output": "%NDS%/Candace Kane's Candy Factory (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6993,7 +6993,7 @@
 "Captain America - Super Soldier": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Captain%20America%20-%20Super%20Soldier%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Captain%20America%20-%20Super%20Soldier%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Captain America - Super Soldier (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7024,7 +7024,7 @@
 "Carnival Games": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Carnival%20Games%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Carnival%20Games%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.nds",
 				   "output": "%NDS%/Carnival Games (USA) (En,Fr,Es) (Rev 1).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7055,7 +7055,7 @@
 "Cars": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20%28USA%29.nds",
 				   "output": "%NDS%/Cars (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7086,7 +7086,7 @@
 "Cars - Mater-National Championship": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20-%20Mater-National%20Championship%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20-%20Mater-National%20Championship%20%28USA%29.nds",
 				   "output": "%NDS%/Cars - Mater-National Championship (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7117,7 +7117,7 @@
 "Cars - Race-O-Rama": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20-%20Race-O-Rama%20%28USA%29%20%28En%2CFr%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20-%20Race-O-Rama%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/Cars - Race-O-Rama (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7148,7 +7148,7 @@
 "Cars 2": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%202%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%202%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/Cars 2 (USA) (En,Fr,Es) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7179,7 +7179,7 @@
 "Cartoon Network Racing": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cartoon%20Network%20Racing%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cartoon%20Network%20Racing%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Cartoon Network Racing (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7210,7 +7210,7 @@
 "Casper's Scare School - Classroom Capers": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casper%27s%20Scare%20School%20-%20Classroom%20Capers%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casper%27s%20Scare%20School%20-%20Classroom%20Capers%20%28USA%29.nds",
 				   "output": "%NDS%/Casper's Scare School - Classroom Capers (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7241,7 +7241,7 @@
 "Casper's Scare School - Spooky Sports Day": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casper%27s%20Scare%20School%20-%20Spooky%20Sports%20Day%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casper%27s%20Scare%20School%20-%20Spooky%20Sports%20Day%20%28USA%29.nds",
 				   "output": "%NDS%/Casper's Scare School - Spooky Sports Day (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7272,7 +7272,7 @@
 "Castlevania - Dawn of Sorrow": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Dawn%20of%20Sorrow%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Dawn%20of%20Sorrow%20%28USA%29.nds",
 				   "output": "%NDS%/Castlevania - Dawn of Sorrow (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7303,7 +7303,7 @@
 "Castlevania - Order of Ecclesia": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Order%20of%20Ecclesia%20%28USA%29%20%28En%2CFr%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Order%20of%20Ecclesia%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/Castlevania - Order of Ecclesia (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7334,7 +7334,7 @@
 "Castlevania - Portrait of Ruin": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Portrait%20of%20Ruin%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Portrait%20of%20Ruin%20%28USA%29.nds",
 				   "output": "%NDS%/Castlevania - Portrait of Ruin (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7365,7 +7365,7 @@
 "Casual Mania": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casual%20Mania%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casual%20Mania%20%28USA%29.nds",
 				   "output": "%NDS%/Casual Mania (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7396,7 +7396,7 @@
 "Cate West - The Vanishing Files": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cate%20West%20-%20The%20Vanishing%20Files%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cate%20West%20-%20The%20Vanishing%20Files%20%28USA%29.nds",
 				   "output": "%NDS%/Cate West - The Vanishing Files (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7427,7 +7427,7 @@
 "Cats & Dogs - The Revenge of Kitty Galore": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cats%20%26%20Dogs%20-%20The%20Revenge%20of%20Kitty%20Galore%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cats%20%26%20Dogs%20-%20The%20Revenge%20of%20Kitty%20Galore%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Cats & Dogs - The Revenge of Kitty Galore (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7458,7 +7458,7 @@
 "Catz": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Catz%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Catz%20%28USA%29.nds",
 				   "output": "%NDS%/Catz (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7489,7 +7489,7 @@
 "Celebi Distribution 2011": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Celebi%20Distribution%202011%20%28USA%29%20%28Wi-Fi%20Kiosk%29%20%28Save%20Data%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Celebi%20Distribution%202011%20%28USA%29%20%28Wi-Fi%20Kiosk%29%20%28Save%20Data%29.nds",
 				   "output": "%NDS%/Celebi Distribution 2011 (USA) (Wi-Fi Kiosk) (Save Data).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7520,7 +7520,7 @@
 "Cesar Millan's Dog Whisperer": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cesar%20Millan%27s%20Dog%20Whisperer%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cesar%20Millan%27s%20Dog%20Whisperer%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Cesar Millan's Dog Whisperer (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7551,7 +7551,7 @@
 "Challenge Me - Brain Puzzles": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Brain%20Puzzles%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Brain%20Puzzles%20%28USA%29.nds",
 				   "output": "%NDS%/Challenge Me - Brain Puzzles (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7582,7 +7582,7 @@
 "Challenge Me - Brain Puzzles 2": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Brain%20Puzzles%202%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Brain%20Puzzles%202%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Challenge Me - Brain Puzzles 2 (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7613,7 +7613,7 @@
 "Challenge Me - Math Workout": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Math%20Workout%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Math%20Workout%20%28USA%29.nds",
 				   "output": "%NDS%/Challenge Me - Math Workout (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7644,7 +7644,7 @@
 "Challenge Me - Word Puzzles": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Word%20Puzzles%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Word%20Puzzles%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Challenge Me - Word Puzzles (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7675,7 +7675,7 @@
 "Chameleon - To Dye For!": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chameleon%20-%20To%20Dye%20For%21%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chameleon%20-%20To%20Dye%20For%21%20%28USA%29.nds",
 				   "output": "%NDS%/Chameleon - To Dye For! (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7706,7 +7706,7 @@
 "Championship Pony": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Championship%20Pony%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Championship%20Pony%20%28USA%29.nds",
 				   "output": "%NDS%/Championship Pony (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7737,7 +7737,7 @@
 "Chaotic - Shadow Warriors": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chaotic%20-%20Shadow%20Warriors%20%28USA%29%20%28En%2CFr%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chaotic%20-%20Shadow%20Warriors%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/Chaotic - Shadow Warriors (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7768,7 +7768,7 @@
 "Charlotte's Web": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charlotte%27s%20Web%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charlotte%27s%20Web%20%28USA%29.nds",
 				   "output": "%NDS%/Charlotte's Web (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7799,7 +7799,7 @@
 "Charm Girls Club - My Fashion Mall": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Charm Girls Club - My Fashion Mall (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7830,7 +7830,7 @@
 "Charm Girls Club - My Fashion Show": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Charm Girls Club - My Fashion Show (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7861,7 +7861,7 @@
 "Charm Girls Club - My Perfect Prom": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Perfect%20Prom%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Perfect%20Prom%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Charm Girls Club - My Perfect Prom (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7892,7 +7892,7 @@
 "Chase, The - Felix Meets Felicity": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chase%2C%20The%20-%20Felix%20Meets%20Felicity%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chase%2C%20The%20-%20Felix%20Meets%20Felicity%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Chase, The - Felix Meets Felicity (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7923,7 +7923,7 @@
 "Cheer We Go": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheer%20We%20Go%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheer%20We%20Go%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/Cheer We Go (USA) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7954,7 +7954,7 @@
 "Cheetah Girls, The - Passport to Stardom": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheetah%20Girls%2C%20The%20-%20Passport%20to%20Stardom%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheetah%20Girls%2C%20The%20-%20Passport%20to%20Stardom%20%28USA%29.nds",
 				   "output": "%NDS%/Cheetah Girls, The - Passport to Stardom (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -7985,7 +7985,7 @@
 "Cheetah Girls, The - Pop Star Sensations": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheetah%20Girls%2C%20The%20-%20Pop%20Star%20Sensations%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheetah%20Girls%2C%20The%20-%20Pop%20Star%20Sensations%20%28USA%29.nds",
 				   "output": "%NDS%/Cheetah Girls, The - Pop Star Sensations (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8016,7 +8016,7 @@
 "Chessmaster - The Art of Learning": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chessmaster%20-%20The%20Art%20of%20Learning%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chessmaster%20-%20The%20Art%20of%20Learning%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Chessmaster - The Art of Learning (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8047,7 +8047,7 @@
 "Chevrolet Camaro - Wild Ride": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chevrolet%20Camaro%20-%20Wild%20Ride%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chevrolet%20Camaro%20-%20Wild%20Ride%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Chevrolet Camaro - Wild Ride (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8078,7 +8078,7 @@
 "Chibi-Robo! - Park Patrol": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chibi-Robo%21%20-%20Park%20Patrol%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chibi-Robo%21%20-%20Park%20Patrol%20%28USA%29.nds",
 				   "output": "%NDS%/Chibi-Robo! - Park Patrol (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8109,7 +8109,7 @@
 "Chicken Blaster": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Blaster%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Blaster%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Chicken Blaster (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8140,7 +8140,7 @@
 "Chicken Hunter": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Hunter%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Hunter%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
 				   "output": "%NDS%/Chicken Hunter (USA) (En,Fr,De,Es,It,Nl).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8171,7 +8171,7 @@
 "Chicken Little - Ace in Action": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Little%20-%20Ace%20in%20Action%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Little%20-%20Ace%20in%20Action%20%28USA%29.nds",
 				   "output": "%NDS%/Chicken Little - Ace in Action (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8202,7 +8202,7 @@
 "Chicken Shoot": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Shoot%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Shoot%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Chicken Shoot (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8233,7 +8233,7 @@
 "Chocolatier": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chocolatier%20%28USA%29%20%28En%2CFr%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chocolatier%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/Chocolatier (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8264,7 +8264,7 @@
 "Christmas Carol, A": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Christmas%20Carol%2C%20A%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Christmas%20Carol%2C%20A%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Christmas Carol, A (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8295,7 +8295,7 @@
 "Chronicles of Mystery - Curse of the Ancient Temple": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Mystery%20-%20Curse%20of%20the%20Ancient%20Temple%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Mystery%20-%20Curse%20of%20the%20Ancient%20Temple%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Chronicles of Mystery - Curse of the Ancient Temple (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8326,7 +8326,7 @@
 "Chronicles of Mystery - The Secret Tree of Life": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Mystery%20-%20The%20Secret%20Tree%20of%20Life%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Mystery%20-%20The%20Secret%20Tree%20of%20Life%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/Chronicles of Mystery - The Secret Tree of Life (USA) (En,Fr,Es) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8357,7 +8357,7 @@
 "Chronicles of Narnia, The - Prince Caspian": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Narnia%2C%20The%20-%20Prince%20Caspian%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Narnia%2C%20The%20-%20Prince%20Caspian%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Chronicles of Narnia, The - Prince Caspian (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8388,7 +8388,7 @@
 "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Narnia%2C%20The%20-%20The%20Lion%2C%20the%20Witch%20and%20the%20Wardrobe%20%28USA%29%20%28En%2CFr%2CEs%2CIt%2CNl%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Narnia%2C%20The%20-%20The%20Lion%2C%20the%20Witch%20and%20the%20Wardrobe%20%28USA%29%20%28En%2CFr%2CEs%2CIt%2CNl%29.nds",
 				   "output": "%NDS%/Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA) (En,Fr,Es,It,Nl).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8419,7 +8419,7 @@
 "Chrono Trigger": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chrono%20Trigger%20%28USA%29%20%28En%2CFr%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chrono%20Trigger%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/Chrono Trigger (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8450,7 +8450,7 @@
 "Chrysler Classic Racing": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chrysler%20Classic%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chrysler%20Classic%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Chrysler Classic Racing (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8481,7 +8481,7 @@
 "Chuck E. Cheese's Party Games": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chuck%20E.%20Cheese%27s%20Party%20Games%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chuck%20E.%20Cheese%27s%20Party%20Games%20%28USA%29.nds",
 				   "output": "%NDS%/Chuck E. Cheese's Party Games (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8512,7 +8512,7 @@
 "Classic Action - Devilish": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Classic%20Action%20-%20Devilish%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Classic%20Action%20-%20Devilish%20%28USA%29.nds",
 				   "output": "%NDS%/Classic Action - Devilish (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8543,7 +8543,7 @@
 "Classic Word Games": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Classic%20Word%20Games%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Classic%20Word%20Games%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/Classic Word Games (USA) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8574,7 +8574,7 @@
 "Clique, The - Diss and Make Up": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Clique%2C%20The%20-%20Diss%20and%20Make%20Up%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Clique%2C%20The%20-%20Diss%20and%20Make%20Up%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Clique, The - Diss and Make Up (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8605,7 +8605,7 @@
 "Cloudy with a Chance of Meatballs": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cloudy%20with%20a%20Chance%20of%20Meatballs%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cloudy%20with%20a%20Chance%20of%20Meatballs%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8636,7 +8636,7 @@
 "Cloudy with a Chance of Meatballs 2": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28USA%29.nds",
 				   "output": "%NDS%/Cloudy with a Chance of Meatballs 2 (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8667,7 +8667,7 @@
 "Club Penguin - EPF - Herbert's Revenge": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Club%20Penguin%20-%20EPF%20-%20Herbert%27s%20Revenge%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Club%20Penguin%20-%20EPF%20-%20Herbert%27s%20Revenge%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Club Penguin - EPF - Herbert's Revenge (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8698,7 +8698,7 @@
 "Club Penguin - Elite Penguin Force": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Club%20Penguin%20-%20Elite%20Penguin%20Force%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Club%20Penguin%20-%20Elite%20Penguin%20Force%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.nds",
 				   "output": "%NDS%/Club Penguin - Elite Penguin Force (USA) (En,Fr,Es) (Rev 2).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8729,7 +8729,7 @@
 "Clubhouse Games": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Clubhouse%20Games%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Clubhouse%20Games%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
 				   "output": "%NDS%/Clubhouse Games (USA) (En,Fr,De,Es,It) (Rev 1).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8760,7 +8760,7 @@
 "Cocoto - Kart Racer": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cocoto%20-%20Kart%20Racer%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cocoto%20-%20Kart%20Racer%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Cocoto - Kart Racer (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8791,7 +8791,7 @@
 "Code Lyoko": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Code%20Lyoko%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Code%20Lyoko%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Code Lyoko (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8822,7 +8822,7 @@
 "Code Lyoko - Fall of X.A.N.A.": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28USA%29%20%28En%2CFr%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/Code Lyoko - Fall of X.A.N.A. (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8853,7 +8853,7 @@
 "Color Cross": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Color%20Cross%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Color%20Cross%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Color Cross (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8884,7 +8884,7 @@
 "Command and Destroy": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Command%20and%20Destroy%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Command%20and%20Destroy%20%28USA%29.nds",
 				   "output": "%NDS%/Command and Destroy (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8915,7 +8915,7 @@
 "Commando - Steel Disaster": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Commando%20-%20Steel%20Disaster%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Commando%20-%20Steel%20Disaster%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Commando - Steel Disaster (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8946,7 +8946,7 @@
 "Contact": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Contact%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Contact%20%28USA%29.nds",
 				   "output": "%NDS%/Contact (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -8977,7 +8977,7 @@
 "Contra 4": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Contra%204%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Contra%204%20%28USA%29.nds",
 				   "output": "%NDS%/Contra 4 (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9008,7 +9008,7 @@
 "Cookie & Cream": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cookie%20%26%20Cream%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cookie%20%26%20Cream%20%28USA%29.nds",
 				   "output": "%NDS%/Cookie & Cream (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9039,7 +9039,7 @@
 "Cookie Shop - Create Your Dream Shop": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Cookie Shop - Create Your Dream Shop (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9070,7 +9070,7 @@
 "Cooking Mama": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%20%28USA%29.nds",
 				   "output": "%NDS%/Cooking Mama (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9101,7 +9101,7 @@
 "Cooking Mama 2 - Dinner with Friends": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28USA%29.nds",
 				   "output": "%NDS%/Cooking Mama 2 - Dinner with Friends (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9132,7 +9132,7 @@
 "Cooking Mama 3 - Shop & Chop": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%203%20-%20Shop%20%26%20Chop%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%203%20-%20Shop%20%26%20Chop%20%28USA%29.nds",
 				   "output": "%NDS%/Cooking Mama 3 - Shop & Chop (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9163,7 +9163,7 @@
 "Coraline": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Coraline%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Coraline%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Coraline (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9194,7 +9194,7 @@
 "Corvette Evolution GT": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Corvette%20Evolution%20GT%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Corvette%20Evolution%20GT%20%28USA%29.nds",
 				   "output": "%NDS%/Corvette Evolution GT (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9225,7 +9225,7 @@
 "Cory in the House": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cory%20in%20the%20House%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cory%20in%20the%20House%20%28USA%29.nds",
 				   "output": "%NDS%/Cory in the House (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9256,7 +9256,7 @@
 "Cosmos Chaos": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cosmos%20Chaos%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cosmos%20Chaos%20%28USA%29.nds",
 				   "output": "%NDS%/Cosmos Chaos (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9287,7 +9287,7 @@
 "Cradle of Rome": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cradle%20of%20Rome%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cradle%20of%20Rome%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
 				   "output": "%NDS%/Cradle of Rome (USA) (En,Fr,De,Es,It,Nl).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9318,7 +9318,7 @@
 "Crafting Mama": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crafting%20Mama%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crafting%20Mama%20%28USA%29.nds",
 				   "output": "%NDS%/Crafting Mama (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9349,7 +9349,7 @@
 "Crash - Mind over Mutant": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20-%20Mind%20over%20Mutant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20-%20Mind%20over%20Mutant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
 				   "output": "%NDS%/Crash - Mind over Mutant (USA) (En,Fr,De,Es,It,Nl).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9380,7 +9380,7 @@
 "Crash Boom Bang!": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20Boom%20Bang%21%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20Boom%20Bang%21%20%28USA%29.nds",
 				   "output": "%NDS%/Crash Boom Bang! (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9411,7 +9411,7 @@
 "Crash of the Titans": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20of%20the%20Titans%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20of%20the%20Titans%20%28USA%29.nds",
 				   "output": "%NDS%/Crash of the Titans (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9442,7 +9442,7 @@
 "Crayola Treasure Adventures": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crayola%20Treasure%20Adventures%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crayola%20Treasure%20Adventures%20%28USA%29.nds",
 				   "output": "%NDS%/Crayola Treasure Adventures (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9473,7 +9473,7 @@
 "Crazy Chicken - Star Karts": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20-%20Star%20Karts%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20-%20Star%20Karts%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Crazy Chicken - Star Karts (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9504,7 +9504,7 @@
 "Crazy Chicken Adventure - The Pharaoh's Treasure": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20Adventure%20-%20The%20Pharaoh%27s%20Treasure%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20Adventure%20-%20The%20Pharaoh%27s%20Treasure%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Crazy Chicken Adventure - The Pharaoh's Treasure (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9535,7 +9535,7 @@
 "Crazy Chicken Jump'n Run - Atlantis Quest": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20Jump%27n%20Run%20-%20Atlantis%20Quest%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20Jump%27n%20Run%20-%20Atlantis%20Quest%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				   "output": "%NDS%/Crazy Chicken Jump'n Run - Atlantis Quest (USA) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9566,7 +9566,7 @@
 "Crazy Machines": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Machines%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Machines%20%28USA%29.nds",
 				   "output": "%NDS%/Crazy Machines (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9597,7 +9597,7 @@
 "Crime Lab - Body of Evidence": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crime%20Lab%20-%20Body%20of%20Evidence%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crime%20Lab%20-%20Body%20of%20Evidence%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/Crime Lab - Body of Evidence (USA) (En,Fr,Es) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9628,7 +9628,7 @@
 "Crime Scene": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crime%20Scene%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crime%20Scene%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Crime Scene (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9659,7 +9659,7 @@
 "Croods, The - Prehistoric Party!": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Croods%2C%20The%20-%20Prehistoric%20Party%21%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Croods%2C%20The%20-%20Prehistoric%20Party%21%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Croods, The - Prehistoric Party! (USA) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9690,7 +9690,7 @@
 "CrossworDS": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CrossworDS%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CrossworDS%20%28USA%29.nds",
 				   "output": "%NDS%/CrossworDS (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9721,7 +9721,7 @@
 "Curling DS": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Curling%20DS%20%28USA%29%20%28En%2CFr%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Curling%20DS%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/Curling DS (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -9752,7 +9752,7 @@
 "Custom Robo Arena": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Custom%20Robo%20Arena%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Custom%20Robo%20Arena%20%28USA%29.nds",
 				   "output": "%NDS%/Custom Robo Arena (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
