@@ -11,7 +11,7 @@
 "bg_index": 0,
 "bg_sheet": 0,
 "version": 3,
-"revision": 4
+"revision": 5
 },
 "storeContent": [
 {"info": {
@@ -6383,4 +6383,3383 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Busy Scissors (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "C.O.P. - The Recruit",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 210,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon211.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"C.O.P. - The Recruit": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/C.O.P.%20-%20The%20Recruit%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/C.O.P. - The Recruit (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/C.O.P. - The Recruit (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "C.O.R.E.",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 211,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon212.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"C.O.R.E.": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/C.O.R.E.%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/C.O.R.E. (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/C.O.R.E. (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "CSI - Crime Scene Investigation - Dark Motives",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 212,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon213.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"CSI - Crime Scene Investigation - Dark Motives": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Dark%20Motives%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/CSI - Crime Scene Investigation - Dark Motives (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/CSI - Crime Scene Investigation - Dark Motives (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "CSI - Crime Scene Investigation - Deadly Intent - The Hidden Cases",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 213,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon214.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"CSI - Crime Scene Investigation - Deadly Intent - The Hidden Cases": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Deadly%20Intent%20-%20The%20Hidden%20Cases%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/CSI - Crime Scene Investigation - Deadly Intent - The Hidden Cases (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/CSI - Crime Scene Investigation - Deadly Intent - The Hidden Cases (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "CSI - Crime Scene Investigation - Unsolved!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 214,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon215.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"CSI - Crime Scene Investigation - Unsolved!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Unsolved%21%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/CSI - Crime Scene Investigation - Unsolved! (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/CSI - Crime Scene Investigation - Unsolved! (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cabela's Dangerous Hunts 2011",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 215,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon216.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cabela's Dangerous Hunts 2011": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cabela%27s%20Dangerous%20Hunts%202011%20%28USA%29.nds",
+				   "output": "%NDS%/Cabela's Dangerous Hunts 2011 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cabela's Dangerous Hunts 2011 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Cake Mania",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 216,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon217.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cake Mania": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%20%28USA%29.nds",
+				   "output": "%NDS%/Cake Mania (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cake Mania (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Cake Mania - Main Street",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 217,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon218.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cake Mania - Main Street": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%20-%20Main%20Street%20%28USA%29.nds",
+				   "output": "%NDS%/Cake Mania - Main Street (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cake Mania - Main Street (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Cake Mania 2 - Jill's Next Adventure!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 218,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon219.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cake Mania 2 - Jill's Next Adventure!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%202%20-%20Jill%27s%20Next%20Adventure%21%20%28USA%29.nds",
+				   "output": "%NDS%/Cake Mania 2 - Jill's Next Adventure! (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cake Mania 2 - Jill's Next Adventure! (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Cake Mania 3",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 219,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon220.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cake Mania 3": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cake%20Mania%203%20%28USA%29.nds",
+				   "output": "%NDS%/Cake Mania 3 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cake Mania 3 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Call of Duty - Black Ops",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 220,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon221.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Call of Duty - Black Ops": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Black%20Ops%20%28USA%29.nds",
+				   "output": "%NDS%/Call of Duty - Black Ops (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Call of Duty - Black Ops (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Call of Duty - Modern Warfare - Mobilized",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 221,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon222.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Call of Duty - Modern Warfare - Mobilized": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Modern%20Warfare%20-%20Mobilized%20%28USA%29.nds",
+				   "output": "%NDS%/Call of Duty - Modern Warfare - Mobilized (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Call of Duty - Modern Warfare - Mobilized (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Call of Duty - Modern Warfare 3 - Defiance",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 222,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon223.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Call of Duty - Modern Warfare 3 - Defiance": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Modern%20Warfare%203%20-%20Defiance%20%28USA%29.nds",
+				   "output": "%NDS%/Call of Duty - Modern Warfare 3 - Defiance (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Call of Duty - Modern Warfare 3 - Defiance (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Call of Duty - World at War",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 223,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon224.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Call of Duty - World at War": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20World%20at%20War%20%28USA%29.nds",
+				   "output": "%NDS%/Call of Duty - World at War (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Call of Duty - World at War (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Call of Duty 4 - Modern Warfare",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 224,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon225.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Call of Duty 4 - Modern Warfare": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%204%20-%20Modern%20Warfare%20%28USA%29.nds",
+				   "output": "%NDS%/Call of Duty 4 - Modern Warfare (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Call of Duty 4 - Modern Warfare (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Calvin Tucker's Redneck - Farm Animal Racing Tournament",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 225,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon226.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Calvin Tucker's Redneck - Farm Animal Racing Tournament": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Calvin%20Tucker%27s%20Redneck%20-%20Farm%20Animal%20Racing%20Tournament%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Calvin Tucker's Redneck - Farm Animal Racing Tournament (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Calvin Tucker's Redneck - Farm Animal Racing Tournament (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Camp Rock - The Final Jam",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 226,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon227.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Camp Rock - The Final Jam": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Camp%20Rock%20-%20The%20Final%20Jam%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Camp Rock - The Final Jam (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Camp Rock - The Final Jam (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Camping Mama - Outdoor Adventures",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 227,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon228.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Camping Mama - Outdoor Adventures": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Camping%20Mama%20-%20Outdoor%20Adventures%20%28USA%29.nds",
+				   "output": "%NDS%/Camping Mama - Outdoor Adventures (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Camping Mama - Outdoor Adventures (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Candace Kane's Candy Factory",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 228,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon229.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Candace Kane's Candy Factory": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Candace%20Kane%27s%20Candy%20Factory%20%28USA%29.nds",
+				   "output": "%NDS%/Candace Kane's Candy Factory (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Candace Kane's Candy Factory (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Captain America - Super Soldier",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 229,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon230.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Captain America - Super Soldier": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Captain%20America%20-%20Super%20Soldier%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Captain America - Super Soldier (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Captain America - Super Soldier (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Carnival Games",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 230,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon231.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Carnival Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Carnival%20Games%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Carnival Games (USA) (En,Fr,Es) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Carnival Games (USA) (En,Fr,Es) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cars",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 231,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon232.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cars": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20%28USA%29.nds",
+				   "output": "%NDS%/Cars (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cars (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Cars - Mater-National Championship",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 232,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon233.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cars - Mater-National Championship": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20-%20Mater-National%20Championship%20%28USA%29.nds",
+				   "output": "%NDS%/Cars - Mater-National Championship (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cars - Mater-National Championship (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cars - Race-O-Rama",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 233,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon234.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cars - Race-O-Rama": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%20-%20Race-O-Rama%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Cars - Race-O-Rama (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cars - Race-O-Rama (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cars 2",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 234,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon235.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cars 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cars%202%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Cars 2 (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cars 2 (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Cartoon Network Racing",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 235,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon236.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cartoon Network Racing": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cartoon%20Network%20Racing%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Cartoon Network Racing (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cartoon Network Racing (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Casper's Scare School - Classroom Capers",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 236,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon237.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Casper's Scare School - Classroom Capers": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casper%27s%20Scare%20School%20-%20Classroom%20Capers%20%28USA%29.nds",
+				   "output": "%NDS%/Casper's Scare School - Classroom Capers (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Casper's Scare School - Classroom Capers (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Casper's Scare School - Spooky Sports Day",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 237,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon238.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Casper's Scare School - Spooky Sports Day": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casper%27s%20Scare%20School%20-%20Spooky%20Sports%20Day%20%28USA%29.nds",
+				   "output": "%NDS%/Casper's Scare School - Spooky Sports Day (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Casper's Scare School - Spooky Sports Day (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Castlevania - Dawn of Sorrow",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 238,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon239.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Castlevania - Dawn of Sorrow": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Dawn%20of%20Sorrow%20%28USA%29.nds",
+				   "output": "%NDS%/Castlevania - Dawn of Sorrow (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Castlevania - Dawn of Sorrow (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Castlevania - Order of Ecclesia",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 239,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon240.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Castlevania - Order of Ecclesia": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Order%20of%20Ecclesia%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Castlevania - Order of Ecclesia (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Castlevania - Order of Ecclesia (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Castlevania - Portrait of Ruin",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 240,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon241.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Castlevania - Portrait of Ruin": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Castlevania%20-%20Portrait%20of%20Ruin%20%28USA%29.nds",
+				   "output": "%NDS%/Castlevania - Portrait of Ruin (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Castlevania - Portrait of Ruin (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Casual Mania",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 241,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon242.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Casual Mania": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Casual%20Mania%20%28USA%29.nds",
+				   "output": "%NDS%/Casual Mania (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Casual Mania (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Cate West - The Vanishing Files",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 242,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon243.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cate West - The Vanishing Files": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cate%20West%20-%20The%20Vanishing%20Files%20%28USA%29.nds",
+				   "output": "%NDS%/Cate West - The Vanishing Files (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cate West - The Vanishing Files (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cats & Dogs - The Revenge of Kitty Galore",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 243,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon244.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cats & Dogs - The Revenge of Kitty Galore": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cats%20%26%20Dogs%20-%20The%20Revenge%20of%20Kitty%20Galore%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Cats & Dogs - The Revenge of Kitty Galore (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cats & Dogs - The Revenge of Kitty Galore (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Catz",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 244,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon245.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Catz": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Catz%20%28USA%29.nds",
+				   "output": "%NDS%/Catz (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Catz (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Celebi Distribution 2011",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 245,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon246.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Celebi Distribution 2011": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Celebi%20Distribution%202011%20%28USA%29%20%28Wi-Fi%20Kiosk%29%20%28Save%20Data%29.nds",
+				   "output": "%NDS%/Celebi Distribution 2011 (USA) (Wi-Fi Kiosk) (Save Data).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Celebi Distribution 2011 (USA) (Wi-Fi Kiosk) (Save Data).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Cesar Millan's Dog Whisperer",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 246,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon247.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cesar Millan's Dog Whisperer": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cesar%20Millan%27s%20Dog%20Whisperer%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Cesar Millan's Dog Whisperer (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cesar Millan's Dog Whisperer (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Challenge Me - Brain Puzzles",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 247,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon248.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Challenge Me - Brain Puzzles": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Brain%20Puzzles%20%28USA%29.nds",
+				   "output": "%NDS%/Challenge Me - Brain Puzzles (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Challenge Me - Brain Puzzles (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Challenge Me - Brain Puzzles 2",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 248,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon249.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Challenge Me - Brain Puzzles 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Brain%20Puzzles%202%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Challenge Me - Brain Puzzles 2 (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Challenge Me - Brain Puzzles 2 (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Challenge Me - Math Workout",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 249,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon250.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Challenge Me - Math Workout": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Math%20Workout%20%28USA%29.nds",
+				   "output": "%NDS%/Challenge Me - Math Workout (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Challenge Me - Math Workout (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Challenge Me - Word Puzzles",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 250,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon251.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Challenge Me - Word Puzzles": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Challenge%20Me%20-%20Word%20Puzzles%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Challenge Me - Word Puzzles (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Challenge Me - Word Puzzles (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Chameleon - To Dye For!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 251,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon252.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chameleon - To Dye For!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chameleon%20-%20To%20Dye%20For%21%20%28USA%29.nds",
+				   "output": "%NDS%/Chameleon - To Dye For! (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chameleon - To Dye For! (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Championship Pony",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 252,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon253.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Championship Pony": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Championship%20Pony%20%28USA%29.nds",
+				   "output": "%NDS%/Championship Pony (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Championship Pony (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Chaotic - Shadow Warriors",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 253,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon254.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chaotic - Shadow Warriors": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chaotic%20-%20Shadow%20Warriors%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Chaotic - Shadow Warriors (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chaotic - Shadow Warriors (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Charlotte's Web",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 254,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon255.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Charlotte's Web": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charlotte%27s%20Web%20%28USA%29.nds",
+				   "output": "%NDS%/Charlotte's Web (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Charlotte's Web (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Charm Girls Club - My Fashion Mall",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 255,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon256.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Charm Girls Club - My Fashion Mall": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Fashion%20Mall%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Charm Girls Club - My Fashion Mall (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Charm Girls Club - My Fashion Mall (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Charm Girls Club - My Fashion Show",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 256,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon257.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Charm Girls Club - My Fashion Show": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Fashion%20Show%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Charm Girls Club - My Fashion Show (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Charm Girls Club - My Fashion Show (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Charm Girls Club - My Perfect Prom",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 257,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon258.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Charm Girls Club - My Perfect Prom": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Charm%20Girls%20Club%20-%20My%20Perfect%20Prom%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Charm Girls Club - My Perfect Prom (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Charm Girls Club - My Perfect Prom (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chase, The - Felix Meets Felicity",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 258,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon259.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chase, The - Felix Meets Felicity": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chase%2C%20The%20-%20Felix%20Meets%20Felicity%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Chase, The - Felix Meets Felicity (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chase, The - Felix Meets Felicity (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cheer We Go",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 259,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon260.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cheer We Go": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheer%20We%20Go%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Cheer We Go (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cheer We Go (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Cheetah Girls, The - Passport to Stardom",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 260,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon261.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cheetah Girls, The - Passport to Stardom": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheetah%20Girls%2C%20The%20-%20Passport%20to%20Stardom%20%28USA%29.nds",
+				   "output": "%NDS%/Cheetah Girls, The - Passport to Stardom (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cheetah Girls, The - Passport to Stardom (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Cheetah Girls, The - Pop Star Sensations",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 261,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon262.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cheetah Girls, The - Pop Star Sensations": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cheetah%20Girls%2C%20The%20-%20Pop%20Star%20Sensations%20%28USA%29.nds",
+				   "output": "%NDS%/Cheetah Girls, The - Pop Star Sensations (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cheetah Girls, The - Pop Star Sensations (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Chessmaster - The Art of Learning",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 262,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon263.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chessmaster - The Art of Learning": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chessmaster%20-%20The%20Art%20of%20Learning%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Chessmaster - The Art of Learning (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chessmaster - The Art of Learning (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Chevrolet Camaro - Wild Ride",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 263,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon264.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chevrolet Camaro - Wild Ride": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chevrolet%20Camaro%20-%20Wild%20Ride%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Chevrolet Camaro - Wild Ride (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chevrolet Camaro - Wild Ride (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Chibi-Robo! - Park Patrol",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 264,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon265.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chibi-Robo! - Park Patrol": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chibi-Robo%21%20-%20Park%20Patrol%20%28USA%29.nds",
+				   "output": "%NDS%/Chibi-Robo! - Park Patrol (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chibi-Robo! - Park Patrol (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chicken Blaster",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 265,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon266.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chicken Blaster": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Blaster%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Chicken Blaster (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chicken Blaster (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Chicken Hunter",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 266,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon267.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chicken Hunter": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Hunter%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Chicken Hunter (USA) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chicken Hunter (USA) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Chicken Little - Ace in Action",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 267,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon268.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chicken Little - Ace in Action": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Little%20-%20Ace%20in%20Action%20%28USA%29.nds",
+				   "output": "%NDS%/Chicken Little - Ace in Action (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chicken Little - Ace in Action (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chicken Shoot",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 268,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon269.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chicken Shoot": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chicken%20Shoot%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Chicken Shoot (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chicken Shoot (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Chocolatier",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 269,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon270.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chocolatier": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chocolatier%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Chocolatier (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chocolatier (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Christmas Carol, A",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 270,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon271.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Christmas Carol, A": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Christmas%20Carol%2C%20A%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Christmas Carol, A (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Christmas Carol, A (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chronicles of Mystery - Curse of the Ancient Temple",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 271,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon272.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chronicles of Mystery - Curse of the Ancient Temple": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Mystery%20-%20Curse%20of%20the%20Ancient%20Temple%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Chronicles of Mystery - Curse of the Ancient Temple (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chronicles of Mystery - Curse of the Ancient Temple (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chronicles of Mystery - The Secret Tree of Life",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 272,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon273.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chronicles of Mystery - The Secret Tree of Life": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Mystery%20-%20The%20Secret%20Tree%20of%20Life%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Chronicles of Mystery - The Secret Tree of Life (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chronicles of Mystery - The Secret Tree of Life (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chronicles of Narnia, The - Prince Caspian",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 273,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon274.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chronicles of Narnia, The - Prince Caspian": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Narnia%2C%20The%20-%20Prince%20Caspian%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Chronicles of Narnia, The - Prince Caspian (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chronicles of Narnia, The - Prince Caspian (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 274,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon275.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chronicles%20of%20Narnia%2C%20The%20-%20The%20Lion%2C%20the%20Witch%20and%20the%20Wardrobe%20%28USA%29%20%28En%2CFr%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA) (En,Fr,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA) (En,Fr,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Chrono Trigger",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 275,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon276.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chrono Trigger": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chrono%20Trigger%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Chrono Trigger (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chrono Trigger (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Chrysler Classic Racing",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 276,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon277.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chrysler Classic Racing": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chrysler%20Classic%20Racing%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Chrysler Classic Racing (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chrysler Classic Racing (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Chuck E. Cheese's Party Games",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 277,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon278.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Chuck E. Cheese's Party Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Chuck%20E.%20Cheese%27s%20Party%20Games%20%28USA%29.nds",
+				   "output": "%NDS%/Chuck E. Cheese's Party Games (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Chuck E. Cheese's Party Games (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Classic Action - Devilish",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 278,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon279.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Classic Action - Devilish": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Classic%20Action%20-%20Devilish%20%28USA%29.nds",
+				   "output": "%NDS%/Classic Action - Devilish (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Classic Action - Devilish (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Classic Word Games",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 279,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon280.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Classic Word Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Classic%20Word%20Games%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Classic Word Games (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Classic Word Games (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Clique, The - Diss and Make Up",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 280,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon281.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Clique, The - Diss and Make Up": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Clique%2C%20The%20-%20Diss%20and%20Make%20Up%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Clique, The - Diss and Make Up (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Clique, The - Diss and Make Up (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Cloudy with a Chance of Meatballs",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 281,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon282.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cloudy with a Chance of Meatballs": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cloudy%20with%20a%20Chance%20of%20Meatballs%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cloudy with a Chance of Meatballs 2",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 282,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon283.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cloudy with a Chance of Meatballs 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cloudy%20with%20a%20Chance%20of%20Meatballs%202%20%28USA%29.nds",
+				   "output": "%NDS%/Cloudy with a Chance of Meatballs 2 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cloudy with a Chance of Meatballs 2 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Club Penguin - EPF - Herbert's Revenge",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 283,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon284.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Club Penguin - EPF - Herbert's Revenge": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Club%20Penguin%20-%20EPF%20-%20Herbert%27s%20Revenge%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Club Penguin - EPF - Herbert's Revenge (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Club Penguin - EPF - Herbert's Revenge (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Club Penguin - Elite Penguin Force",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 284,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon285.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Club Penguin - Elite Penguin Force": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Club%20Penguin%20-%20Elite%20Penguin%20Force%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.nds",
+				   "output": "%NDS%/Club Penguin - Elite Penguin Force (USA) (En,Fr,Es) (Rev 2).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Club Penguin - Elite Penguin Force (USA) (En,Fr,Es) (Rev 2).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Clubhouse Games",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 285,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon286.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Clubhouse Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Clubhouse%20Games%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Clubhouse Games (USA) (En,Fr,De,Es,It) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Clubhouse Games (USA) (En,Fr,De,Es,It) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Cocoto - Kart Racer",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 286,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon287.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cocoto - Kart Racer": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cocoto%20-%20Kart%20Racer%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Cocoto - Kart Racer (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cocoto - Kart Racer (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Code Lyoko",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 287,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon288.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Code Lyoko": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Code%20Lyoko%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Code Lyoko (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Code Lyoko (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Code Lyoko - Fall of X.A.N.A.",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 288,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon289.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Code Lyoko - Fall of X.A.N.A.": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Code%20Lyoko%20-%20Fall%20of%20X.A.N.A.%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Code Lyoko - Fall of X.A.N.A. (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Code Lyoko - Fall of X.A.N.A. (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Color Cross",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 289,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon290.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Color Cross": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Color%20Cross%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Color Cross (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Color Cross (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Command and Destroy",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 290,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon291.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Command and Destroy": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Command%20and%20Destroy%20%28USA%29.nds",
+				   "output": "%NDS%/Command and Destroy (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Command and Destroy (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Commando - Steel Disaster",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 291,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon292.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Commando - Steel Disaster": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Commando%20-%20Steel%20Disaster%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Commando - Steel Disaster (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Commando - Steel Disaster (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Contact",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 292,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon293.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Contact": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Contact%20%28USA%29.nds",
+				   "output": "%NDS%/Contact (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Contact (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Contra 4",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 293,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon294.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Contra 4": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Contra%204%20%28USA%29.nds",
+				   "output": "%NDS%/Contra 4 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Contra 4 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cookie & Cream",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 294,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon295.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cookie & Cream": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cookie%20%26%20Cream%20%28USA%29.nds",
+				   "output": "%NDS%/Cookie & Cream (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cookie & Cream (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cookie Shop - Create Your Dream Shop",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 295,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon296.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cookie Shop - Create Your Dream Shop": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cookie%20Shop%20-%20Create%20Your%20Dream%20Shop%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Cookie Shop - Create Your Dream Shop (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cookie Shop - Create Your Dream Shop (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cooking Mama",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 296,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon297.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cooking Mama": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%20%28USA%29.nds",
+				   "output": "%NDS%/Cooking Mama (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cooking Mama (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cooking Mama 2 - Dinner with Friends",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 297,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon298.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cooking Mama 2 - Dinner with Friends": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%202%20-%20Dinner%20with%20Friends%20%28USA%29.nds",
+				   "output": "%NDS%/Cooking Mama 2 - Dinner with Friends (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cooking Mama 2 - Dinner with Friends (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Cooking Mama 3 - Shop & Chop",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 298,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon299.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cooking Mama 3 - Shop & Chop": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cooking%20Mama%203%20-%20Shop%20%26%20Chop%20%28USA%29.nds",
+				   "output": "%NDS%/Cooking Mama 3 - Shop & Chop (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cooking Mama 3 - Shop & Chop (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Coraline",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 299,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon300.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Coraline": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Coraline%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Coraline (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Coraline (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Corvette Evolution GT",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 300,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon301.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Corvette Evolution GT": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Corvette%20Evolution%20GT%20%28USA%29.nds",
+				   "output": "%NDS%/Corvette Evolution GT (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Corvette Evolution GT (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Cory in the House",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 301,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon302.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cory in the House": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cory%20in%20the%20House%20%28USA%29.nds",
+				   "output": "%NDS%/Cory in the House (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cory in the House (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Cosmos Chaos",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 302,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon303.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cosmos Chaos": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cosmos%20Chaos%20%28USA%29.nds",
+				   "output": "%NDS%/Cosmos Chaos (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cosmos Chaos (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Cradle of Rome",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 303,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon304.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Cradle of Rome": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Cradle%20of%20Rome%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Cradle of Rome (USA) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cradle of Rome (USA) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Crafting Mama",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 304,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon305.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crafting Mama": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crafting%20Mama%20%28USA%29.nds",
+				   "output": "%NDS%/Crafting Mama (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crafting Mama (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Crash - Mind over Mutant",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 305,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon306.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crash - Mind over Mutant": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20-%20Mind%20over%20Mutant%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Crash - Mind over Mutant (USA) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crash - Mind over Mutant (USA) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Crash Boom Bang!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 306,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon307.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crash Boom Bang!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20Boom%20Bang%21%20%28USA%29.nds",
+				   "output": "%NDS%/Crash Boom Bang! (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crash Boom Bang! (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Crash of the Titans",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 307,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon308.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crash of the Titans": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crash%20of%20the%20Titans%20%28USA%29.nds",
+				   "output": "%NDS%/Crash of the Titans (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crash of the Titans (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Crayola Treasure Adventures",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 308,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon309.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crayola Treasure Adventures": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crayola%20Treasure%20Adventures%20%28USA%29.nds",
+				   "output": "%NDS%/Crayola Treasure Adventures (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crayola Treasure Adventures (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Crazy Chicken - Star Karts",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 309,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon310.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crazy Chicken - Star Karts": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20-%20Star%20Karts%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Crazy Chicken - Star Karts (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crazy Chicken - Star Karts (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Crazy Chicken Adventure - The Pharaoh's Treasure",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 310,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon311.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crazy Chicken Adventure - The Pharaoh's Treasure": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20Adventure%20-%20The%20Pharaoh%27s%20Treasure%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Crazy Chicken Adventure - The Pharaoh's Treasure (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crazy Chicken Adventure - The Pharaoh's Treasure (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Crazy Chicken Jump'n Run - Atlantis Quest",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 311,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon312.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crazy Chicken Jump'n Run - Atlantis Quest": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Chicken%20Jump%27n%20Run%20-%20Atlantis%20Quest%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Crazy Chicken Jump'n Run - Atlantis Quest (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crazy Chicken Jump'n Run - Atlantis Quest (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Crazy Machines",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 312,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon313.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crazy Machines": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crazy%20Machines%20%28USA%29.nds",
+				   "output": "%NDS%/Crazy Machines (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crazy Machines (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Crime Lab - Body of Evidence",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 313,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon314.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crime Lab - Body of Evidence": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crime%20Lab%20-%20Body%20of%20Evidence%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Crime Lab - Body of Evidence (USA) (En,Fr,Es) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crime Lab - Body of Evidence (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Crime Scene",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 314,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon315.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Crime Scene": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Crime%20Scene%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Crime Scene (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Crime Scene (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Croods, The - Prehistoric Party!",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 315,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon316.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Croods, The - Prehistoric Party!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Croods%2C%20The%20-%20Prehistoric%20Party%21%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Croods, The - Prehistoric Party! (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Croods, The - Prehistoric Party! (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "CrossworDS",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 316,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon317.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"CrossworDS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/CrossworDS%20%28USA%29.nds",
+				   "output": "%NDS%/CrossworDS (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/CrossworDS (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Curling DS",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 317,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon318.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Curling DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Curling%20DS%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Curling DS (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Curling DS (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Custom Robo Arena",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 318,
+					"sheet_index": 1,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon319.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-07 at 21:14 (UTC)"
+},
+"Custom Robo Arena": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Custom%20Robo%20Arena%20%28USA%29.nds",
+				   "output": "%NDS%/Custom Robo Arena (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Custom Robo Arena (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
 }]}
