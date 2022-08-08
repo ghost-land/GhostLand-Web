@@ -444,7 +444,7 @@
 "2006 FIFA World Cup - Germany 2006": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2006%20FIFA%20World%20Cup%20-%20Germany%202006%20%28USA%29.nds",
 				   "output": "%NDS%/2006 FIFA World Cup - Germany 2006 (USA).nds",
 				   "message": "Download your .nds file..."}],
 				   "size": "32,0 MiB"}
@@ -469,7 +469,7 @@
 "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2006%20FIFA%20World%20Cup%20-%20Germany%202006%20%28USA%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2-Pack%20-%20Pinkalicious%20-%20It%27s%20Party%20Time%21%20%26%20Silverlicious%20-%20Sweet%20Adventure%20%28USA%29.nds",
 				   "output": "%NDS%/2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure (USA).nds",
 				   "message": "Download your .nds file..."
 }, 
