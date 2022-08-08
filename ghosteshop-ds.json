@@ -13220,4 +13220,779 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/de Blob 2 (USA) (En,Fr) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "EA Playground",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 0,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon424.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"EA Playground": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/EA%20Playground%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/EA Playground (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/EA Playground (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Easy Piano",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 1,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon425.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Easy Piano": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Easy%20Piano%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Easy Piano (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Easy Piano (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Eco-Creatures - Save the Forest",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 2,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon426.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Eco-Creatures - Save the Forest": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Eco-Creatures%20-%20Save%20the%20Forest%20%28USA%29.nds",
+				   "output": "%NDS%/Eco-Creatures - Save the Forest (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Eco-Creatures - Save the Forest (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Ed, Edd n Eddy - Scam of the Century",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 3,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon427.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Ed, Edd n Eddy - Scam of the Century": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Ed%2C%20Edd%20n%20Eddy%20-%20Scam%20of%20the%20Century%20%28USA%29.nds",
+				   "output": "%NDS%/Ed, Edd n Eddy - Scam of the Century (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ed, Edd n Eddy - Scam of the Century (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Elebits - The Adventures of Kai and Zero",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 4,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon428.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Elebits - The Adventures of Kai and Zero": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Elebits%20-%20The%20Adventures%20of%20Kai%20and%20Zero%20%28USA%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Elebits - The Adventures of Kai and Zero (USA) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Elebits - The Adventures of Kai and Zero (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Electroplankton",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 5,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon429.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Electroplankton": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Electroplankton%20%28USA%29.nds",
+				   "output": "%NDS%/Electroplankton (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Electroplankton (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Elements of Destruction",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 6,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon430.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Elements of Destruction": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Elements%20of%20Destruction%20%28USA%29.nds",
+				   "output": "%NDS%/Elements of Destruction (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Elements of Destruction (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Elf Bowling 1 & 2",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 7,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon431.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Elf Bowling 1 & 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Elf%20Bowling%201%20%26%202%20%28USA%29.nds",
+				   "output": "%NDS%/Elf Bowling 1 & 2 (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Elf Bowling 1 & 2 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Elite Beat Agents",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 8,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon432.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Elite Beat Agents": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Elite%20Beat%20Agents%20%28USA%29.nds",
+				   "output": "%NDS%/Elite Beat Agents (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Elite Beat Agents (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Elite Forces - Unit 77",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 9,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon433.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Elite Forces - Unit 77": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Elite%20Forces%20-%20Unit%2077%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Elite Forces - Unit 77 (USA) (En,Fr,De,Es,It) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Elite Forces - Unit 77 (USA) (En,Fr,De,Es,It) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Emergency Room - Real Life Rescues",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 10,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon434.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Emergency Room - Real Life Rescues": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Emergency%20Room%20-%20Real%20Life%20Rescues%20%28USA%29.nds",
+				   "output": "%NDS%/Emergency Room - Real Life Rescues (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Emergency Room - Real Life Rescues (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Emergency! - Disaster Rescue Squad",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 11,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon435.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Emergency! - Disaster Rescue Squad": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Emergency%21%20-%20Disaster%20Rescue%20Squad%20%28USA%29.nds",
+				   "output": "%NDS%/Emergency! - Disaster Rescue Squad (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Emergency! - Disaster Rescue Squad (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Emily the Strange - Strangerous",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 12,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon436.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Emily the Strange - Strangerous": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Emily%20the%20Strange%20-%20Strangerous%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Emily the Strange - Strangerous (USA) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Emily the Strange - Strangerous (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Emma at the Farm",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 13,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon437.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Emma at the Farm": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Emma%20at%20the%20Farm%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Emma at the Farm (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Emma at the Farm (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Emma in the Mountains",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 14,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon438.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Emma in the Mountains": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Emma%20in%20the%20Mountains%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Emma in the Mountains (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Emma in the Mountains (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Enchanted",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 15,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon439.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Enchanted": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Enchanted%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Enchanted (USA) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Enchanted (USA) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ener-G - Dance Squad",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 16,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon440.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Ener-G - Dance Squad": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Ener-G%20-%20Dance%20Squad%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Ener-G - Dance Squad (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ener-G - Dance Squad (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Ener-G - Gym Rockets",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 17,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon441.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Ener-G - Gym Rockets": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Ener-G%20-%20Gym%20Rockets%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Ener-G - Gym Rockets (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ener-G - Gym Rockets (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ener-G - Horse Riders",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 18,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon442.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Ener-G - Horse Riders": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Ener-G%20-%20Horse%20Riders%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Ener-G - Horse Riders (USA) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ener-G - Horse Riders (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Eragon",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 19,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon443.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Eragon": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Eragon%20%28USA%29.nds",
+				   "output": "%NDS%/Eragon (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Eragon (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Escape the Museum",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 20,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon444.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Escape the Museum": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Escape%20the%20Museum%20%28USA%29%20%28En%2CFr%2CDe%2CEs%29.nds",
+				   "output": "%NDS%/Escape the Museum (USA) (En,Fr,De,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Escape the Museum (USA) (En,Fr,De,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Etrian Odyssey",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 21,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon445.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Etrian Odyssey": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Etrian%20Odyssey%20%28USA%29.nds",
+				   "output": "%NDS%/Etrian Odyssey (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Etrian Odyssey (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Etrian Odyssey II - Heroes of Lagaard",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 22,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon446.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Etrian Odyssey II - Heroes of Lagaard": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Etrian%20Odyssey%20II%20-%20Heroes%20of%20Lagaard%20%28USA%29.nds",
+				   "output": "%NDS%/Etrian Odyssey II - Heroes of Lagaard (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Etrian Odyssey II - Heroes of Lagaard (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Etrian Odyssey III - The Drowned City",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 23,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon447.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Etrian Odyssey III - The Drowned City": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Etrian%20Odyssey%20III%20-%20The%20Drowned%20City%20%28USA%29.nds",
+				   "output": "%NDS%/Etrian Odyssey III - The Drowned City (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Etrian Odyssey III - The Drowned City (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Exit DS",
+					"version": "USA",
+					"author": "",
+					"category": "Games",
+					"console": "DS",
+					"icon_index": 24,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon448.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Exit DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/USA/E/Exit%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Exit DS (USA) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Exit DS (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
 }]}
