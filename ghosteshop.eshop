@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 166
+"revision": 167
 },
 "storeContent": [
 {"info": {
@@ -47788,4 +47788,39 @@
 				   "file": "sdmc:/OldTube3DS.cia",
 				   "message": "Cleaning..."}],
 				   "size": "3,89 MiB"}
+},
+{"info": {
+		            "title": "Chibi-Robo! Lets Go, Photo!",
+		            "version": "EUR",
+		            "author": "Nintendo",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 36,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1294.png",
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Chibi-Robo%21%20Lets%20Go%2C%20Photo%21/art.png",
+		            			"description": "Art"
+		            		}],
+		            "description": "The director's museum is empty! You are his little companion, Chibi-Robo, and your mission is to fill the place with images of real-life objects - and attract as many visitors as possible!",
+		            "last_updated": "2022-08-10 at 18:00 (UTC)"
+},
+"Chibi-Robo! Lets Go, Photo!": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/EUR/C/Chibi-Robo%21%20Let%27s%20Go%2C%20Photo%21%20%28EUR%29.cia",
+				   "output": "sdmc:/Chibi-Robo! Lets Go, Photo! (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Chibi-Robo! Lets Go, Photo! (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Chibi-Robo! Lets Go, Photo! (EUR).cia",
+				   "message": "Cleaning..."}],
+				   "size": "490,31 MiB"}
 }]}
