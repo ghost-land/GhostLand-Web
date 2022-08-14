@@ -2167,7 +2167,7 @@
 					"title": "Arceus Distribution 2009",
 					"version": "USA",
 					"author": "Nintendo",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 71,
 					"sheet_index": 1,
@@ -2384,7 +2384,7 @@
 					"title": "Ash's PIKACHU! Distribution 2011",
 					"version": "USA",
 					"author": "Nintendo",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 78,
 					"sheet_index": 1,
@@ -4408,7 +4408,7 @@
 					"title": "Best Buy Nintendo Zone Beacon",
 					"version": "USA",
 					"author": "Nintendo",
-					"category": ["Games"],
+					"category": ["Kiosk"],
 					"console": ["DS"],
 					"icon_index": 144,
 					"sheet_index": 1,
@@ -7473,7 +7473,7 @@
 					"title": "Celebi Distribution 2011",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 245,
 					"sheet_index": 1,
@@ -9829,7 +9829,7 @@
 					"title": "DS Download Station",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 321,
 					"sheet_index": 1,
@@ -10280,7 +10280,7 @@
 					"title": "Darkrai Distribution 2008",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 328,
 					"sheet_index": 1,
@@ -10652,7 +10652,7 @@
 					"title": "Deoxys Distribution 2008",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 340,
 					"sheet_index": 1,
@@ -12326,7 +12326,7 @@
 					"title": "Dragonite Distribution 2008",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 394,
 					"sheet_index": 1,
@@ -16759,7 +16759,7 @@
 					"title": "Golden Sun - Dark Dawn",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 114,
 					"sheet_index": 2,
@@ -17286,7 +17286,7 @@
 					"title": "Guitar Hero - On Tour - Modern Hits",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 131,
 					"sheet_index": 2,
@@ -17435,10 +17435,10 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hamsterz Life (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
-					"title": "Hands On!",
+					"title": "Hands On! Tangrams",
 					"version": "USA",
 					"author": "",
 					"category": ["Games"],
@@ -17454,7 +17454,7 @@
 					"description": "",
 					"last_updated": "2022-08-13 at 20:55 (UTC)"
 },
-"Hands On!": {
+"Hands On! Tangrams": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/H/Hands%20On%21%20Tangrams%20%28USA%29.nds",
@@ -17466,7 +17466,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hands On! Tangrams (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Hannah Montana",
@@ -17497,7 +17497,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hannah Montana (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hannah Montana - Music Jam",
@@ -17528,7 +17528,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hannah Montana - Music Jam (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Hannah Montana - The Movie",
@@ -17559,7 +17559,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hannah Montana - The Movie (USA) (En,Fr) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Happily Ever After - Volume 1",
@@ -17590,7 +17590,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Happily Ever After - Volume 1 (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Happily Ever After - Volume 2",
@@ -17621,7 +17621,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Happily Ever After - Volume 2 (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Happy Cooking",
@@ -17652,7 +17652,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Happy Cooking (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Happy Feet",
@@ -17683,7 +17683,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Happy Feet (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Happy Feet Two",
@@ -17714,7 +17714,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Happy Feet Two (USA) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hardy Boys, The - Treasure on the Tracks",
@@ -17745,7 +17745,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hardy Boys, The - Treasure on the Tracks (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harlem Globetrotters World Tour",
@@ -17776,7 +17776,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harlem Globetrotters World Tour (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Harry Potter and the Deathly Hallows - Part 1",
@@ -17807,7 +17807,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harry Potter and the Deathly Hallows - Part 1 (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harry Potter and the Deathly Hallows - Part 2",
@@ -17838,7 +17838,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harry Potter and the Deathly Hallows - Part 2 (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harry Potter and the Goblet of Fire",
@@ -17869,7 +17869,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harry Potter and the Goblet of Fire (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harry Potter and the Half-Blood Prince",
@@ -17900,7 +17900,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harry Potter and the Order of the Phoenix",
@@ -17931,7 +17931,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harry Potter and the Order of the Phoenix (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harvest Moon - Frantic Farming",
@@ -17962,7 +17962,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harvest Moon - Frantic Farming (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Harvest Moon DS",
@@ -17993,7 +17993,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harvest Moon DS (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harvest Moon DS - Grand Bazaar",
@@ -18024,7 +18024,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harvest Moon DS - Grand Bazaar (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Harvest Moon DS - Island of Happiness",
@@ -18055,7 +18055,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harvest Moon DS - Island of Happiness (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harvest Moon DS - Sunshine Islands",
@@ -18086,7 +18086,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harvest Moon DS - Sunshine Islands (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Harvest Moon DS - The Tale of Two Towns",
@@ -18117,7 +18117,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harvest Moon DS - The Tale of Two Towns (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Harvest Moon DS Cute",
@@ -18148,7 +18148,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Harvest Moon DS Cute (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hasbro Family Game Night",
@@ -18179,7 +18179,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hasbro Family Game Night (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Heathcliff! - Frantic Foto",
@@ -18210,7 +18210,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Heathcliff! - Frantic Foto (USA) (En,Fr,Es) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Heavy Armor Brigade",
@@ -18241,7 +18241,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Heavy Armor Brigade (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hell's Kitchen - The Game",
@@ -18272,7 +18272,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hell's Kitchen - The Game (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Hello Kitty - Big City Dreams",
@@ -18303,7 +18303,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hello Kitty - Big City Dreams (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hello Kitty - Birthday Adventures",
@@ -18334,7 +18334,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hello Kitty - Birthday Adventures (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hello Kitty - Daily",
@@ -18365,7 +18365,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hello Kitty - Daily (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Hello Kitty - Party",
@@ -18396,7 +18396,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hello Kitty - Party (USA) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Henry Hatsworth in the Puzzling Adventure",
@@ -18427,7 +18427,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Henry Hatsworth in the Puzzling Adventure (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Herbie - Rescue Rally",
@@ -18458,7 +18458,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Herbie - Rescue Rally (USA) (En,Fr,De,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Hero's Saga - Laevatein Tactics",
@@ -18489,7 +18489,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hero's Saga - Laevatein Tactics (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Heroes of Mana",
@@ -18520,7 +18520,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Heroes of Mana (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Hi Hi Puffy AmiYumi - The Genie & the Amp",
@@ -18551,7 +18551,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hi Hi Puffy AmiYumi - The Genie & the Amp (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hi! Hamtaro - Ham-Ham Challenge",
@@ -18582,7 +18582,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hi! Hamtaro - Ham-Ham Challenge (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Hidden Mysteries - Buckingham Palace - Secrets of Kings and Queens",
@@ -18613,7 +18613,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hidden Mysteries - Buckingham Palace - Secrets of Kings and Queens (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Hidden Mysteries - Titanic - Secrets of the Fateful Voyage",
@@ -18644,7 +18644,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hidden Mysteries - Titanic - Secrets of the Fateful Voyage (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "High School Musical - Makin' the Cut!",
@@ -18675,7 +18675,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/High School Musical - Makin' the Cut! (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "High School Musical 2 - Work This Out!",
@@ -18706,7 +18706,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/High School Musical 2 - Work This Out! (USA) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "High School Musical 3 - Senior Year",
@@ -18737,7 +18737,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/High School Musical 3 - Senior Year (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "History - Great Empires - Rome",
@@ -18768,7 +18768,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/History - Great Empires - Rome (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Holly Hobbie & Friends",
@@ -18799,7 +18799,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Holly Hobbie & Friends (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Homie Rollerz",
@@ -18830,7 +18830,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Homie Rollerz (USA) (En,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Honda ATV Fever",
@@ -18861,7 +18861,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Honda ATV Fever (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Honeycomb Beat",
@@ -18892,7 +18892,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Honeycomb Beat (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Hop",
@@ -18923,7 +18923,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hop (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Hoppie",
@@ -18954,7 +18954,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hoppie (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Horse Life",
@@ -18985,7 +18985,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Horse Life (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Horse Life - Adventures",
@@ -19016,7 +19016,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Horse Life - Adventures (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Horsez",
@@ -19047,7 +19047,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Horsez (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hoshigami - Ruining Blue Earth - Remix",
@@ -19078,7 +19078,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hoshigami - Ruining Blue Earth - Remix (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hot Wheels - Battle Force 5",
@@ -19109,7 +19109,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hot Wheels - Battle Force 5 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hot Wheels - Beat That!",
@@ -19140,7 +19140,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hot Wheels - Beat That! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Hot Wheels - Track Attack",
@@ -19171,7 +19171,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hot Wheels - Track Attack (USA) (En,Fr) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hotel Dusk - Room 215",
@@ -19202,7 +19202,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hotel Dusk - Room 215 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Hotel Giant DS",
@@ -19233,7 +19233,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hotel Giant DS (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Hotel Transylvania",
@@ -19264,7 +19264,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hotel Transylvania (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Hotel for Dogs",
@@ -19295,7 +19295,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hotel for Dogs (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "How to Train Your Dragon",
@@ -19326,7 +19326,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/How to Train Your Dragon (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Humans, The - Meet the Ancestors!",
@@ -19357,7 +19357,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Humans, The - Meet the Ancestors! (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Hurry Up Hedgehog!",
@@ -19388,7 +19388,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hurry Up Hedgehog! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Hysteria Hospital - Emergency Ward",
@@ -19419,7 +19419,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hysteria Hospital - Emergency Ward (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "I Heart Geeks",
@@ -19450,7 +19450,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I Heart Geeks (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "I Love Babies",
@@ -19481,7 +19481,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I Love Babies (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "I Love Beauty - Hollywood Makeover",
@@ -19512,7 +19512,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I Love Beauty - Hollywood Makeover (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "I Love Horses",
@@ -19543,7 +19543,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I Love Horses (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "I Love Puppies",
@@ -19574,7 +19574,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I Love Puppies (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "I SPY Castle",
@@ -19605,7 +19605,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I SPY Castle (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "I SPY Universe",
@@ -19636,7 +19636,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I SPY Universe (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "I Spy Fun House",
@@ -19667,7 +19667,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I Spy Fun House (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "I Spy Game Pack",
@@ -19698,7 +19698,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/I Spy Game Pack (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "IL-2 Sturmovik - Birds of Prey",
@@ -19729,7 +19729,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/IL-2 Sturmovik - Birds of Prey (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Ice Age - Dawn of the Dinosaurs",
@@ -19760,7 +19760,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ice Age - Dawn of the Dinosaurs (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Ice Age 2 - The Meltdown",
@@ -19791,7 +19791,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ice Age 2 - The Meltdown (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Ice Age 4 - Continental Drift - Arctic Games",
@@ -19822,7 +19822,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ice Age 4 - Continental Drift - Arctic Games (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Igor - The Game",
@@ -19853,7 +19853,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Igor - The Game (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Imagine - Animal Doctor",
@@ -19884,7 +19884,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Animal Doctor (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Animal Doctor Care Center",
@@ -19915,7 +19915,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Animal Doctor Care Center (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Artist",
@@ -19946,7 +19946,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Artist (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Babysitters",
@@ -19977,7 +19977,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Babysitters (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Babyz",
@@ -20008,7 +20008,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Babyz (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Babyz Fashion",
@@ -20039,7 +20039,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Babyz Fashion (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Ballet Star",
@@ -20070,7 +20070,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Ballet Star (USA) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Imagine - Boutique Owner",
@@ -20101,7 +20101,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Boutique Owner (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Cheerleader",
@@ -20132,7 +20132,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Cheerleader (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Detective",
@@ -20163,7 +20163,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Detective (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Family Doctor",
@@ -20194,7 +20194,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Family Doctor (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Fashion Designer",
@@ -20225,7 +20225,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Fashion Designer (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Fashion Designer - New York",
@@ -20256,7 +20256,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Fashion Designer - New York (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Imagine - Fashion Designer - World Tour",
@@ -20287,7 +20287,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Fashion Designer - World Tour (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Imagine - Fashion Stylist",
@@ -20318,7 +20318,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Fashion Stylist (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Figure Skater",
@@ -20349,7 +20349,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Figure Skater (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Gymnast",
@@ -20380,7 +20380,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Gymnast (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Interior Designer",
@@ -20411,7 +20411,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Interior Designer (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Makeup Artist",
@@ -20442,7 +20442,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Makeup Artist (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Master Chef",
@@ -20473,7 +20473,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Master Chef (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Movie Star",
@@ -20504,7 +20504,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Movie Star (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Imagine - Music Fest",
@@ -20535,7 +20535,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Music Fest (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Party Planner",
@@ -20566,7 +20566,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Party Planner (USA) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Reporter",
@@ -20597,7 +20597,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Reporter (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Resort Owner",
@@ -20628,7 +20628,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Resort Owner (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Rock Star",
@@ -20659,7 +20659,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Rock Star (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Salon Stylist",
@@ -20690,7 +20690,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Salon Stylist (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Soccer Captain",
@@ -20721,7 +20721,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Soccer Captain (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Sweet 16",
@@ -20752,7 +20752,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Sweet 16 (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Imagine - Teacher",
@@ -20783,7 +20783,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Teacher (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Imagine - Teacher - Class Trip",
@@ -20814,7 +20814,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Teacher - Class Trip (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Imagine - Wedding Designer",
@@ -20845,7 +20845,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Wedding Designer (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Imagine - Zookeeper",
@@ -20876,7 +20876,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Imagine - Zookeeper (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Impossible Mission",
@@ -20907,7 +20907,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Impossible Mission (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Incredible Hulk, The",
@@ -20938,7 +20938,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Incredible Hulk, The (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Incredibles, The - Rise of the Underminer",
@@ -20969,7 +20969,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Incredibles, The - Rise of the Underminer (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Indiana Jones and the Staff of Kings",
@@ -21000,7 +21000,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Indiana Jones and the Staff of Kings (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Indianapolis 500 Legends",
@@ -21031,7 +21031,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Indianapolis 500 Legends (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Infinite Space",
@@ -21062,7 +21062,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Infinite Space (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "256 MiB"}
 },
 {"info": {
 					"title": "Inkheart",
@@ -21093,7 +21093,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Inkheart (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Insecticide",
@@ -21124,7 +21124,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Insecticide (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Intellivision Lives!",
@@ -21155,7 +21155,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Intellivision Lives! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Interactive Storybook DS - Series 1",
@@ -21186,7 +21186,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Interactive Storybook DS - Series 1 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Interactive Storybook DS - Series 2",
@@ -21217,7 +21217,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Interactive Storybook DS - Series 2 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Interactive Storybook DS - Series 3",
@@ -21248,7 +21248,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Interactive Storybook DS - Series 3 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "InuYasha - Secret of the Divine Jewel",
@@ -21279,7 +21279,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/InuYasha - Secret of the Divine Jewel (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Iron Chef America - Supreme Cuisine",
@@ -21310,7 +21310,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Iron Chef America - Supreme Cuisine (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Iron Man",
@@ -21341,7 +21341,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Iron Man (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Iron Man 2",
@@ -21372,7 +21372,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Iron Man 2 (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Ivy the Kiwi",
@@ -21403,7 +21403,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ivy the Kiwi (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Izuna - Legend of the Unemployed Ninja",
@@ -21434,7 +21434,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Izuna - Legend of the Unemployed Ninja (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Izuna 2 - The Unemployed Ninja Returns",
@@ -21465,7 +21465,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Izuna 2 - The Unemployed Ninja Returns (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "iCarly",
@@ -21496,7 +21496,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/iCarly (USA) (En,Fr) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "iCarly - Groovy Foodie!",
@@ -21527,7 +21527,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/iCarly - Groovy Foodie! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "iCarly 2 - iJoin the Click!",
@@ -21558,7 +21558,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/iCarly 2 - iJoin the Click! (USA) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jackass - The Game DS",
@@ -21589,7 +21589,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jackass - The Game DS (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Jagged Alliance",
@@ -21620,7 +21620,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jagged Alliance (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jake Hunter - Detective Chronicles",
@@ -21651,7 +21651,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Hunter - Detective Chronicles (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jake Hunter Detective Story - Memories of the Past",
@@ -21682,7 +21682,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Hunter Detective Story - Memories of the Past (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jake Power - Fireman",
@@ -21713,7 +21713,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Fireman (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jake Power - Handyman",
@@ -21744,7 +21744,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Handyman (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jake Power - Policeman",
@@ -21775,7 +21775,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Policeman (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jam Sessions - Sing and Play Guitar",
@@ -21806,7 +21806,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jam Sessions 2",
@@ -21837,7 +21837,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jam Sessions 2 (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jambo! Safari - Animal Rescue",
@@ -21868,7 +21868,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jambo! Safari - Animal Rescue (USA) (En,Fr,De,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "James Cameron's Avatar - The Game",
@@ -21899,7 +21899,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/James Cameron's Avatar - The Game (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "James Patterson Women's Murder Club - Games of Passion",
@@ -21930,7 +21930,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/James Patterson Women's Murder Club - Games of Passion (USA) (En,Fr) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "James Pond - Codename Robocod",
@@ -21961,7 +21961,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/James Pond - Codename Robocod (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jane's Hotel",
@@ -21992,7 +21992,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jane's Hotel (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Jason Rohrer with Music by Tom Bailey - Diamond Trust of London",
@@ -22023,7 +22023,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jason Rohrer with Music by Tom Bailey - Diamond Trust of London (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "256 MiB"}
 },
 {"info": {
 					"title": "Jelly Belly - Ballistic Beans!",
@@ -22054,7 +22054,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jelly Belly - Ballistic Beans! (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jenga - World Tour",
@@ -22085,7 +22085,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jenga - World Tour (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Jeopardy!",
@@ -22116,7 +22116,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jeopardy! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Jewel Link Mysteries - Mountains of Madness",
@@ -22147,7 +22147,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Link Mysteries - Mountains of Madness (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Jewel Master - Cradle of Athena",
@@ -22178,7 +22178,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Master - Cradle of Athena (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewel Master - Cradle of Egypt 2",
@@ -22209,7 +22209,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Master - Cradle of Egypt 2 (USA) (En,Fr,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewel Master - Cradle of Persia",
@@ -22240,7 +22240,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Master - Cradle of Persia (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewel Master - Cradle of Rome 2",
@@ -22271,7 +22271,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Master - Cradle of Rome 2 (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewel Master - Egypt",
@@ -22302,7 +22302,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Master - Egypt (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewel Master Collection",
@@ -22333,7 +22333,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Master Collection (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewel Match",
@@ -22364,7 +22364,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Match (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewel Quest - Expeditions",
@@ -22395,7 +22395,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Quest - Expeditions (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Jewel Quest - Mysteries",
@@ -22426,7 +22426,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Quest - Mysteries (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jewel Quest - Solitaire Trio",
@@ -22457,7 +22457,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Quest - Solitaire Trio (USA) (En,Fr,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jewel Time Deluxe",
@@ -22488,7 +22488,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewel Time Deluxe (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewels of the Ages",
@@ -22519,7 +22519,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewels of the Ages (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jewels of the Tropical Lost Island",
@@ -22550,7 +22550,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jewels of the Tropical Lost Island (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Jigapix - Pets",
@@ -22581,7 +22581,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jigapix - Pets (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jigapix - Wild World",
@@ -22612,7 +22612,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jigapix - Wild World (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jigapix - Wonderful World",
@@ -22643,7 +22643,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jigapix - Wonderful World (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jillian Michaels Fitness Ultimatum 2010",
@@ -22674,7 +22674,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jillian Michaels Fitness Ultimatum 2010 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "John Deere - Harvest in the Heartland",
@@ -22705,7 +22705,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/John Deere - Harvest in the Heartland (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Johnny Bravo in the Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama!",
@@ -22736,7 +22736,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Johnny Bravo in the Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! (USA) (En,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Johnny Test",
@@ -22767,7 +22767,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Johnny Test (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Jojo's Fashion Show - Design in a Dash!",
@@ -22798,7 +22798,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jojo's Fashion Show - Design in a Dash! (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Jonas",
@@ -22829,7 +22829,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jonas (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Journey to the Center of the Earth",
@@ -22860,7 +22860,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Journey to the Center of the Earth (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Juiced 2 - Hot Import Nights",
@@ -22891,7 +22891,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Juiced 2 - Hot Import Nights (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "JumpStart - Deep Sea Escape",
@@ -22922,7 +22922,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/JumpStart - Deep Sea Escape (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "JumpStart - Legend of Lost Island",
@@ -22953,7 +22953,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/JumpStart - Legend of Lost Island (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Junior Brain Trainer",
@@ -22984,7 +22984,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Junior Brain Trainer (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Junior Brain Trainer - Math Edition",
@@ -23015,7 +23015,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Junior Brain Trainer - Math Edition (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Junior Brain Trainer 2",
@@ -23046,7 +23046,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Junior Brain Trainer 2 (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Junior Classic Books & Fairytales",
@@ -23077,7 +23077,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Junior Classic Books & Fairytales (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Junior Classic Games",
@@ -23108,7 +23108,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Junior Classic Games (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Junior Island Adventure",
@@ -23139,7 +23139,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Junior Island Adventure (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Junior Mystery Quest",
@@ -23170,7 +23170,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Junior Mystery Quest (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Just Sing",
@@ -23201,7 +23201,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Just Sing (USA) (En,Fr) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Just in Time Translations - Say It in 6 Languages",
@@ -23232,7 +23232,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Just in Time Translations - Say It in 6 Languages (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Justice League Heroes",
@@ -23263,7 +23263,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Justice League Heroes (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Kamen Rider - Dragon Knight",
@@ -23294,7 +23294,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kamen Rider - Dragon Knight (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Kids Learn & Play - Pets & Vets Bundle",
@@ -23325,7 +23325,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kids Learn & Play - Pets & Vets Bundle (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Kids Learn - 2Think - A+ Edition",
@@ -23356,7 +23356,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kids Learn - 2Think - A+ Edition (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Kids Learn - Math - A+ Edition",
@@ -23387,7 +23387,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kids Learn - Math - A+ Edition (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Kids Learn - Math and Spelling Bundle",
@@ -23418,7 +23418,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kids Learn - Math and Spelling Bundle (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Kids Learn - Spelling and Grammar - A+ Edition",
@@ -23449,7 +23449,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kids Learn - Spelling and Grammar - A+ Edition (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Kids Learn Music - A+ Edition",
@@ -23480,7 +23480,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kids Learn Music - A+ Edition (USA) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Kim Possible - Global Gemini",
@@ -23511,7 +23511,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kim Possible - Global Gemini (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Kim Possible - Kimmunicator",
@@ -23542,7 +23542,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kim Possible - Kimmunicator (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Kingdom Hearts - 358-2 Days",
@@ -23573,7 +23573,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kingdom Hearts - 358-2 Days (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "256 MiB"}
 },
 {"info": {
 					"title": "Kingdom Hearts - Re-coded",
@@ -23604,7 +23604,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kingdom Hearts - Re-coded (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "256 MiB"}
 },
 {"info": {
 					"title": "Kirby - Canvas Curse",
@@ -23635,7 +23635,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kirby - Canvas Curse (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Kirby - Squeak Squad",
@@ -23666,7 +23666,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kirby - Squeak Squad (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Kirby Mass Attack",
@@ -23697,7 +23697,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kirby Mass Attack (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Kirby Super Star Ultra",
@@ -23728,7 +23728,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kirby Super Star Ultra (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Knights in the Nightmare",
@@ -23759,7 +23759,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Knights in the Nightmare (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Knock 'Em Downs - World's Fair",
@@ -23790,7 +23790,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Knock 'Em Downs - World's Fair (USA) (En,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Konami Classics Series - Arcade Hits",
@@ -23821,7 +23821,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Konami Classics Series - Arcade Hits (USA) (En,Ja).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Konductra",
@@ -23852,7 +23852,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Konductra (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Korg DS-10 Synthesizer",
@@ -23883,7 +23883,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Korg DS-10 Synthesizer (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Korg DS-10+ Synthesizer",
@@ -23914,7 +23914,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Korg DS-10+ Synthesizer (USA) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Kung Fu Panda",
@@ -23945,7 +23945,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kung Fu Panda (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Kung Fu Panda - Legendary Warriors",
@@ -23976,7 +23976,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kung Fu Panda - Legendary Warriors (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Kung Fu Panda 2",
@@ -24007,7 +24007,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kung Fu Panda 2 (USA) (En,Fr) (VKUE) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Kung Zhu",
@@ -24038,7 +24038,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kung Zhu (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Kurupoto - Cool Cool Stars",
@@ -24069,7 +24069,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kurupoto - Cool Cool Stars (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "L.O.L.",
@@ -24100,7 +24100,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/L.O.L. (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "LEGO Batman - The Videogame",
@@ -24131,7 +24131,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Batman - The Videogame (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "LEGO Batman 2 - DC Super Heroes",
@@ -24162,7 +24162,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Battles",
@@ -24193,7 +24193,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Battles (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Battles - Ninjago",
@@ -24224,7 +24224,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Battles - Ninjago (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Friends",
@@ -24255,7 +24255,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Friends (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Harry Potter - Years 1-4",
@@ -24286,7 +24286,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Harry Potter - Years 1-4 (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Harry Potter - Years 5-7",
@@ -24317,7 +24317,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Indiana Jones - The Original Adventures",
@@ -24348,7 +24348,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Indiana Jones - The Original Adventures (USA) (En,Fr,De,Es,It,Da).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "LEGO Indiana Jones 2 - The Adventure Continues",
@@ -24379,7 +24379,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "LEGO Legends of Chima - Laval's Journey",
@@ -24410,7 +24410,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Marvel Super Heroes - Universe in Peril",
@@ -24441,7 +24441,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Pirates of the Caribbean - The Video Game",
@@ -24472,7 +24472,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO Rock Band",
@@ -24503,7 +24503,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Rock Band (USA) (En,Fr,De,Es,It,Da).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "256 MiB"}
 },
 {"info": {
 					"title": "LEGO Star Wars - The Complete Saga",
@@ -24534,7 +24534,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Star Wars - The Complete Saga (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "LEGO Star Wars II - The Original Trilogy",
@@ -24565,7 +24565,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Star Wars II - The Original Trilogy (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "LEGO Star Wars III - The Clone Wars",
@@ -24596,7 +24596,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LEGO The Lord of the Rings",
@@ -24627,7 +24627,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LEGO The Lord of the Rings (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Labyrinth",
@@ -24658,7 +24658,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Labyrinth (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Lalaloopsy",
@@ -24689,7 +24689,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lalaloopsy (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Lalaloopsy - Carnival of Friends",
@@ -24720,7 +24720,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lalaloopsy - Carnival of Friends (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lara Croft Tomb Raider - Legend",
@@ -24751,7 +24751,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Learn Chess",
@@ -24782,7 +24782,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Learn Chess (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Learn Geography",
@@ -24813,7 +24813,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Learn Geography (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Learn Science",
@@ -24844,7 +24844,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Learn Science (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Learning To Spell",
@@ -24875,7 +24875,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Learning To Spell (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Left Brain, Right Brain - Use Both Hands, Train Both Sides",
@@ -24906,7 +24906,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Left Brain, Right Brain - Use Both Hands, Train Both Sides (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Left Brain, Right Brain 2",
@@ -24937,7 +24937,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Left Brain, Right Brain 2 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Legacy of Ys - Books I & II",
@@ -24968,7 +24968,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legacy of Ys - Books I & II (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Legend of Kage 2, The",
@@ -24999,7 +24999,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Kage 2, The (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Legend of Kay",
@@ -25030,7 +25030,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Kay (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Legend of Spyro, The - A New Beginning",
@@ -25061,7 +25061,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Spyro, The - A New Beginning (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Legend of Spyro, The - Dawn of the Dragon",
@@ -25092,7 +25092,38 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
+},
+{"info": {
+					"title": "Legend of Spyro, The - The Eternal Night",
+					"version": "",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 999,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/Nintendo%DS//boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2022-08-13 at 20:55 (UTC)"
+},
+"Legend of Spyro, The - The Eternal Night": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/L/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29.nds",
+				   "output": "%NDS%/Legend of Spyro, The - The Eternal Night (USA).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Spyro, The - The Eternal Night (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Legend of Zelda, The - Phantom Hourglass",
@@ -25123,7 +25154,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Legend of Zelda, The - Spirit Tracks",
@@ -25154,7 +25185,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Legend of Zelda, The - Twilight Princess - Preview Trailer",
@@ -25185,7 +25216,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of Zelda, The - Twilight Princess - Preview Trailer (USA) (Not for Sale).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Legend of the Guardians - The Owls of Ga'Hoole",
@@ -25216,7 +25247,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legend of the Guardians - The Owls of Ga'Hoole (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Legendary Starfy, The",
@@ -25247,7 +25278,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Legendary Starfy, The (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Let's Draw!",
@@ -25278,7 +25309,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Let's Draw! (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Let's Pilates!",
@@ -25309,7 +25340,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Let's Pilates! (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Let's Play Ballerina",
@@ -25340,7 +25371,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Let's Play Ballerina (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Let's Play Flight Attendant",
@@ -25371,7 +25402,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Let's Play Flight Attendant (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Let's Play Garden",
@@ -25402,7 +25433,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Let's Play Garden (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Let's Ride - Friends Forever",
@@ -25433,7 +25464,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Let's Ride - Friends Forever (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Let's Yoga!",
@@ -25464,7 +25495,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Let's Yoga! (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "LifeSigns - Surgical Unit",
@@ -25495,7 +25526,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LifeSigns - Surgical Unit (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Line Rider 2 - Unbound",
@@ -25526,7 +25557,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Line Rider 2 - Unbound (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lionel Trains - On Track",
@@ -25557,7 +25588,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lionel Trains - On Track (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Little Bears",
@@ -25588,7 +25619,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Little Bears (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Little League World Series Baseball - Double Play",
@@ -25619,7 +25650,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Little League World Series Baseball - Double Play (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Little League World Series Baseball 2008",
@@ -25650,7 +25681,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Little League World Series Baseball 2008 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Little League World Series Baseball 2009",
@@ -25681,7 +25712,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Little League World Series Baseball 2009 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Little Mermaid, The - Ariel's Undersea Adventure",
@@ -25712,7 +25743,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Little Mermaid, The - Ariel's Undersea Adventure (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Little Red Riding Hood's Zombie BBQ",
@@ -25743,7 +25774,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Little Red Riding Hood's Zombie BBQ (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop - Beach Friends",
@@ -25774,7 +25805,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop - Beach Friends (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop - City Friends",
@@ -25805,7 +25836,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop - City Friends (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop - Country Friends",
@@ -25836,7 +25867,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop - Country Friends (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop - Garden",
@@ -25867,7 +25898,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop - Garden (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop - Jungle",
@@ -25898,7 +25929,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop - Jungle (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop - Spring",
@@ -25929,7 +25960,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop - Spring (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop - Winter",
@@ -25960,7 +25991,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop - Winter (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop 3 - Biggest Stars - Blue Team",
@@ -25991,7 +26022,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop 3 - Biggest Stars - Blue Team (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop 3 - Biggest Stars - Pink Team",
@@ -26022,7 +26053,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop 3 - Biggest Stars - Pink Team (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Littlest Pet Shop 3 - Biggest Stars - Purple Team",
@@ -26053,7 +26084,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Littlest Pet Shop 3 - Biggest Stars - Purple Team (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lock's Quest",
@@ -26084,7 +26115,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lock's Quest (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Logic Machines",
@@ -26115,7 +26146,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Logic Machines (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "Looney Tunes - Cartoon Conductor",
@@ -26146,7 +26177,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Looney Tunes - Cartoon Conductor (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Looney Tunes - Duck Amuck",
@@ -26177,7 +26208,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Looney Tunes - Duck Amuck (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lord of the Rings, The - Aragorn's Quest",
@@ -26208,7 +26239,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lord of the Rings, The - Aragorn's Quest (USA) (En,Fr,Es,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lord of the Rings, The - Conquest",
@@ -26239,7 +26270,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lord of the Rings, The - Conquest (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lost in Blue",
@@ -26270,7 +26301,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lost in Blue (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lost in Blue 2",
@@ -26301,7 +26332,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lost in Blue 2 (USA) (En,Ja,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lost in Blue 3",
@@ -26332,7 +26363,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lost in Blue 3 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "LostMagic",
@@ -26363,7 +26394,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/LostMagic (USA) (En,Fr,De,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16 MiB"}
 },
 {"info": {
 					"title": "Lovely Lisa",
@@ -26394,7 +26425,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lovely Lisa (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Lovely Lisa and Friends",
@@ -26425,7 +26456,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lovely Lisa and Friends (USA) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Loving Life with Hello Kitty & Friends",
@@ -26456,7 +26487,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Loving Life with Hello Kitty & Friends (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Lufia - Curse of the Sinistrals",
@@ -26487,7 +26518,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lufia - Curse of the Sinistrals (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64 MiB"}
 },
 {"info": {
 					"title": "Luminous Arc",
@@ -26518,7 +26549,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Luminous Arc (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Luminous Arc 2",
@@ -26549,7 +26580,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Luminous Arc 2 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Lunar - Dragon Song",
@@ -26580,7 +26611,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lunar - Dragon Song (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32 MiB"}
 },
 {"info": {
 					"title": "Lunar Knights",
@@ -26611,7 +26642,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lunar Knights (USA) (En,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Lux-Pain",
@@ -26642,7 +26673,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Lux-Pain (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "128 MiB"}
 },
 {"info": {
 					"title": "Luxor - Pharaoh's Challenge",
@@ -26673,7 +26704,7 @@
 				   "file": "http://-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Luxor - Pharaoh's Challenge (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "8 MiB"}
 },
 {"info": {
 					"title": "M&M's - Adventure",
@@ -27671,7 +27702,7 @@
 					"title": "Manaphy Distribution 2007",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -33747,7 +33778,7 @@
 					"title": "Nintendogs - Download-Relay Version",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -36134,7 +36165,7 @@
 					"title": "Pichu-Jirachi Distribution 2010",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -37126,7 +37157,7 @@
 					"title": "Pokemon Mystery Dungeon - Explorers of Time + Pokemon Mystery Dungeon - Explorers of Darkness",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -37188,7 +37219,7 @@
 					"title": "Pokemon Ranger - Guardian Signs",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -38211,7 +38242,7 @@
 					"title": "Professor Layton and the Curious Village",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -39203,7 +39234,7 @@
 					"title": "Raikou-Entei-Suicune-Celebi Distribution 2011",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -41404,7 +41435,7 @@
 					"title": "Secret Egg Distribution 2011",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -41466,7 +41497,7 @@
 					"title": "Secret Key Distribution 2009",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -41714,7 +41745,7 @@
 					"title": "Shaymin-Regigigas Distribution 2009",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -41931,7 +41962,7 @@
 					"title": "Shiny Dialga-Palkia-Giratina Distribution 2013",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -48441,7 +48472,7 @@
 					"title": "Transformers Demo Card",
 					"version": "USA",
 					"author": "",
-					"category": ["Games"],
+					"category": ["Demo", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
@@ -52223,7 +52254,7 @@
 					"title": "Zoroark Distribution 2011",
 					"version": "USA",
 					"author": "",
-					"category": ["Save Data"],
+					"category": ["Save Data", "Kiosk"],
 					"console": ["DS"],
 					"icon_index": 999,
 					"sheet_index": 2,
