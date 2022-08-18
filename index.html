@@ -1,25 +1,53 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <title>Ghost Land | Domaine</title>
-    </head>
+<html lang="en">
 
-    <body>
-        <h1>Bonjour et bienvenue sur le domaine de Ghost Land !<br />
-        Ce site ne sert que pour les pages RSS...</h1>
-       
-        <h3>Pages:</h3>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Land | .io</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+        }
 
-<ol>
-    <h3>Plusieurs Fichiers :</h3>
-    <li><strong><a href="https://ghost-land.github.io/ghosteshop.html">ghosteshop.html</strong></li>
-    <li><strong><a href="https://ghosteshop.com/feed/news.xml">ghosteshop.rss</strong></li>
-    <li><strong><a href="https://ghost-land.github.io/ghosteshop.json">ghosteshop.json</strong></li>
-    <li><strong><a href="https://ghost-land.github.io/ghosteshop-ds.json">ghosteshop-ds.json</strong></li>
-    <li><strong><a href="https://ghost-land.github.io/ghosteshop.eshop">ghosteshop.eshop</strong></li>
-    <li><strong><a href="https://ghost-land.github.io/ghosteshop-ds.eshop">ghosteshop-ds.eshop</strong></li>  
-	
-</ol>
-	</body>
+        #content {
+            margin: auto auto;
+            margin-top: 25px;
+            padding: auto auto;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            display: block;
+        }
+        #content button{
+            cursor: pointer;
+            margin: 5px;
+            font-size: 1.3em;
+            padding : 7px 14px; 
+            border: none;
+            background-color: #FF8300;
+            color: white;
+        }
+        #content button:hover{
+            background-color: #FFA500;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="content">
+        <img draggable="false" style="text-align: center; height: 150px;" src="gland.png" /><br>
+        <h1>API and other things...</h1><br>
+        <a href="ghosteshop.json"><button>ghosteshop.json</button></a><br>
+        <a href="https://ghosteshop.com/feed/news.xml"><button>ghosteshop.rss</button></a><br>
+        <a href="ghosteshop-ds.json"><button>ghosteshop-ds.json</button></a><br>
+        <a href="ghosteshop.eshop"><button>ghosteshop.eshop</button></a><br>
+        <a href="ghosteshop-ds.eshop"><button>ghosteshop-ds.eshop</button></a><br>
+        <a href="ghosteshop.html"><button>ghosteshop.html</button></a><br>
+    </div>
+</body>
+
 </html>
