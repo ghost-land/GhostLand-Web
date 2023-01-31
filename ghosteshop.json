@@ -79,6 +79,8 @@
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot3.png",
 		            			"description": "In Game | Screen 3"
 		            		}],
+		            "videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/Pixel%20Paint/videos/Pixel%20Paint%20Nintendo%203DS.webm","description": "Trailer"}],
 					"description": "Easily create your own pixel art and publish it on Miiverse or save it on the SD card for use on social networks! A pixel art is an image created pixel by pixel, as in retro games. Base your creation on an old game or create something entirely new!",
 					"last_updated": "2020-10-13 at 11:29 (UTC)"
 },
@@ -154,6 +156,8 @@
 					"console": "3DS",
 					"icon_index": 235,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon236.png",
+					"videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/3d%20Classics%20Kid%20Icarus/videos/3D%20Classics%20-%20Kid%20Icarus%20%283DS%20eShop%29%20Trailer.webm","description": "Trailer"}],
 					"description": "The legend of Kid Icarus is retold in this 3D-enhanced version of the classic. Relive Pit’s first adventure in the 3D Classics: Kid Icarus game as you venture from the depths of the underworld up to the heights of the sky palace. Are you the stuff of legend?",
 				    "last_updated": "2020-10-03 at 15:09 (UTC)"
 },
@@ -200,6 +204,8 @@
 								"url": "https://cdn.ghosteshop.com/Images/3ds/3D%20Classics%20Kirby%27s%20Adventure/screenshots/Level-Cutscene.png",
 								"description": "Level Cutscene"
 		            		}],
+		            "videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/3d%20Classics%20Kirbys%20Adventure/videos/%5BTrailer%5D%203D%20Classics%20-%20Kirby%27s%20Adventure%20-%20Launch%20Trailer.webm","description": "Trailer"}],
 					"description": "Delve into the land of dreams-turned-nightmares as Kirby™ flies with the stars in 3D. 3D Classics: Kirby's Adventure offers you a chance to explore the world of Dream Land in a whole new way.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
@@ -229,6 +235,8 @@
 					"console": "3DS",
 					"icon_index": 237,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon238.png",
+					"videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/3d%20Classics%20Twinbee/videos/3DS%20-%203D%20Classics%20-%20TwinBee%20Trailer.mp4","description": "Trailer"}],
 					"description": "3D Classics TwinBee will put you in command of the most kawaii spaceship in arcade history, but in 3D this time! Defend Donburi Island from the bellicose hordes of King Spice! You can shoot enemy spaceships, or drop bombs on invaders on the ground.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
@@ -334,6 +342,8 @@
 								"url": "https://cdn.ghosteshop.com/Images/3ds/7th%20Dragon%20III%20Code%20Vfd/screenshots/battle.png",
 								"description": "Battle"
 		            		}],
+		            "videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/7th%20Dragon%20Iii%20Code%20Vfd/videos/7th%20Dragon%20III%20Code%20-%20VFD%20Trailer.webm","description": "Trailer"}],
 					"description": "The apocalypse is heralded by the arrival of seven dragons. One after another, they invaded Earth and have since begun the slaughter of the human race. The arrival of the Seven sweeps away any hope for humanity, unless you turn back time in 7th Dragon III Code: VFD.",
 					"last_updated": "2020-11-27 at 15:09 (UTC)"
 },
@@ -414,6 +424,8 @@
 					"console": "3DS",
 					"icon_index": 241,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon242.png",
+					"videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/10in1%20Arcade%20Collection/videos/10-In-1%20Arcade%20Collection%20-%20Official%20Trailer%20-%20Nintendo%203DS%20eShop.webm","description": "Trailer"}],
 					"description": "Bring back those retro memories! Test your skill in each of the ten games in this classic arcade collection! Battle against time and enemies to achieve the highest score in each challenge in this 10 in 1: Arcade Collection.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
@@ -489,6 +501,8 @@
 					"console": "3DS",
 					"icon_index": 243,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon244.png",
+					"videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/Azure%20Striker%20Gunvolt/videos/Azure%20Striker%20GUNVOLT%20-%20Nintendo%20eShop%20Trailer%20%28Nintendo%203DS%29.webm","description": "Trailer"}],
 					"description": "Azure Striker Gunvolt is an Action and Platformer video game developed by Inti Creates and released in 2014 for Windows, Nintendo Switch and Nintendo 3DS.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
@@ -605,6 +619,8 @@
 					"console": "3DS",
 					"icon_index": 247,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon248.png",
+					"videos": 
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/Bird%20Mania%203d/videos/Bird%20Mania%203D%20Official%20Trailer.webm","description": "Trailer"}],
 					"description": "When Mojo realizes that his friends from the fold have gone to Africa, he chases them like crazy because he wants to go on vacation too! Fly faster and faster, dive, zoom, slide and collect all the bonuses.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
@@ -634,6 +650,8 @@
 					"console": "3DS",
 					"icon_index": 248,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon249.png",
+					"videos":
+					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/Bird%20Mania%20Christmas%203d/videos/Bird%20Mania%20Christmas%203D%20-%20Trailer%20%283DS%29.f243.webm","description": "Trailer"}],
 					"description": "Christmas time is almost here and the skies are crowded with Santa's elves delivering presents across the globe. Mojo the bird is still mid-flight in his pursuit of sunny Africa so with a little Christmas spirit and Santa's hat it's time to turn up the turbo and fly full blast to Africa!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
