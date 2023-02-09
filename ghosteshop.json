@@ -11,12 +11,12 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 167
+"revision": 168
 },
 "storeContent": [
 {"info": {
 					"title": "Ghost eShop",
-					"version": "v13.0",
+					"version": "v13.5",
 					"author": "Ghost eShop Team",
 					"category": "Homebrew",
 					"console": "3DS",
@@ -27,7 +27,7 @@
 					"videos": 
 					[{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/videos/introducing-ghost-eshop.webm","description": "Trailer"}],
 					"description": "An alternative eShop for 3DS, New3DS, New3DSxl, 2DS, New2DS, New2DSxl. Created on June 2020, over time this one has evolved enormously, to arrive at the current version on which it is currently",
-					"last_updated": "2021-11-07 at 16:42 (UTC)"
+					"last_updated": "2023-02-09 at 21:42 (UTC)"
 },
 "GhostEshop.cia": {
 	"script": [{
@@ -45,7 +45,7 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/GhostEshop.cia",
 				   "message": "Cleaning..."}],
-				   "size": "1,99 MiB"},
+				   "size": "2,18 MiB"},
 "GhostEshop.3dsx": {
 	"script": [{
 					"type": "downloadFile",
@@ -58,7 +58,7 @@
 					"file": "http://cdn.ghosteshop.com/Homebrew/GhostEshop.smdh",
 					"output": "sdmc:/3ds/GhostEshop.smdh",
 					"message": "Downloading GhostEshop.smdh..."}],
-					"size": "2,38 MiB"}
+					"size": "2,45 MiB"}
 },
 {"info": {
 					"title": "Pixel Paint",
