@@ -21400,7 +21400,7 @@
 				   "type": "deleteFile",
 				   "file": "/0004013000004002.zip",
 				   "message": "Deleting 0004013000004002.zip..."}],
-				   "size": "41,3 KiB"},
+				   "size": "40,20 KiB"},
 "wumiibohelper.cia": {
 	"script": [{
 				   "type": "downloadFile",
@@ -21417,7 +21417,7 @@
 					"type": "deleteFile",
 					"file": "sdmc:/wumiibohelper.cia",
 					"message": "Cleaning..."}],
-					"size": "1,44 MiB"}
+					"size": "27,36 MiB"}
 },
 {"info": {
 		            "title": "Xash3DS",
