@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 168
+"revision": 169
 },
 "storeContent": [
 {"info": {
@@ -21372,7 +21372,7 @@
 },
 {"info": {
 		            "title": "Wumiibo",
-				   	"version": "v3.0",
+				   	"version": "v4.1",
 				   	"author": "hax0kartik",
 				   	"category": "Homebrew",
 		            "console": "3DS",
@@ -21380,7 +21380,7 @@
 		            "sheet_index": 1,
 		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon517.png",
 		            "description": "Amiibo Emulation for 3ds",
-		            "last_updated": "2020-12-19 at 18:14 (UTC)"
+		            "last_updated": "2023-02-15 at 08:00 (UTC)"
 },
 "wumiibo": {
 	"script": [{
@@ -21401,12 +21401,22 @@
 				   "file": "/0004013000004002.zip",
 				   "message": "Deleting 0004013000004002.zip..."}],
 				   "size": "41,3 KiB"},
-"wumiibohelper.3dsx": {
+"wumiibohelper.cia": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "http://cdn.ghosteshop.com/Homebrew/Wumiibo/wumiibohelper.3dsx",
-				   "output": "sdmc:/3ds/wumiibohelper.3dsx",
-				   "message": "Downloading wumiibohelper.3dsx..."}],
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Wumiibo/wumiibohelper.cia",
+				   "output": "sdmc:/wumiibohelper.cia",
+				   "message": "Downloading wumiibohelper.cia..."
+},
+{
+					"type": "installCia",
+					"file": "/wumiibohelper.cia",
+					"message": "Installing wumiibohelper.cia"
+},
+{
+					"type": "deleteFile",
+					"file": "sdmc:/wumiibohelper.cia",
+					"message": "Cleaning..."}],
 					"size": "1,44 MiB"}
 },
 {"info": {
