@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 169
+"revision": 170
 },
 "storeContent": [
 {"info": {
@@ -47855,4 +47855,43 @@
 				   "file": "sdmc:/Chibi-Robo! Lets Go, Photo! (EUR).cia",
 				   "message": "Cleaning..."}],
 				   "size": "490,31 MiB"}
+},
+{"info": {
+		            "title": "PKSM",
+		            "version": "v9.2.0",
+		            "author": "FlagBrew",
+		            "category": "Homebrew",
+		            "console": "3DS",
+		            "icon_index": 37,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1295.png",
+		            "screenshots": 
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_1.png","description": "Screen 1"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_2.png","description": "Screen 2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_3.png","description": "Screen 3"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_4.png","description": "Screen 4"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_5.png","description": "Screen 5"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_6.png","description": "Screen 6"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_7.png","description": "Screen 7"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_8.png","description": "Screen 8"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_9.png","description": "Screen 9"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_10.png","description": "Screen 10"}],
+		            "description": "Multipurpose and portable Pokemon save manager and editor for generations III to VIII, programmed in C++",
+		            "last_updated": "2023-02-15 at 08:30 (UTC)"
+},
+"PKSM.cia": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/PKSM/PKSM.cia",
+				   "output": "sdmc:/PKSM.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/PKSM.cia",
+				   "message": "Installing PKSM in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/PKSM.cia",
+				   "message": "Cleaning..."}],
+				   "size": "5,83 MiB"},
+"PKSM.3dsx": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/PKSM/PKSM.3dsx",
+				   "output": "sdmc:/3ds/PKSM.3dsx",
+				   "message": "Downloading PKSM.3dsx..."}],
+					"size": "6,99MiB"}
 }]}
