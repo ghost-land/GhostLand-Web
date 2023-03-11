@@ -7,11 +7,11 @@
 "url": "https://cdn.ghosteshop.com/script/ghosteshop.unistore",
 "sheet": ["icon.t3x", "icon_1.t3x", "icon_2.t3x", "icon_3.t3x", "icon_4.t3x", "icon_5.t3x"],
 "sheetURL": ["https://cdn.ghosteshop.com/script/icon.t3x", "https://cdn.ghosteshop.com/script/icon_1.t3x", "https://cdn.ghosteshop.com/script/icon_2.t3x", "https://cdn.ghosteshop.com/script/icon_3.t3x", "https://cdn.ghosteshop.com/script/icon_4.t3x", "https://cdn.ghosteshop.com/script/icon_5.t3x"],
-"description": "An alternative & free eShop.\nVersion of the eShop: v13.0\n\nAuthor: Ghost eShop Team\nSpecial thanks: TomTalker",
+"description": "An alternative & free eShop.\nVersion of the eShop: v13.5\n\nAuthor: Ghost eShop Team\nSpecial thanks: TomTalker",
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 169
+"revision": 170
 },
 "storeContent": [
 {"info": {
@@ -47893,5 +47893,93 @@
 				   "file": "http://cdn.ghosteshop.com/Homebrew/PKSM/PKSM.3dsx",
 				   "output": "sdmc:/3ds/PKSM.3dsx",
 				   "message": "Downloading PKSM.3dsx..."}],
-					"size": "6,99MiB"}
+					"size": "6,99 MiB"}
+},
+{"info": {
+		            "title": "Otosan: Nintendo 3DS Edition",
+		            "version": "USA",
+		            "author": "William Kage",
+		            "category": "eShop",
+		            "console": "3DS",
+		            "icon_index": 38,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1296.png",
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Otosan%20Nintendo%203ds%20Edition/banner.png",
+		            			"description": "Banner"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Otosan%20Nintendo%203ds%20Edition/screenshots/screenshot_1.png",
+		            			"description": "In Game (1/3)"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Otosan%20Nintendo%203ds%20Edition/screenshots/screenshot_2.png",
+		            			"description": "In Game (2/3)"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Otosan%20Nintendo%203ds%20Edition/screenshots/screenshot_3.png",
+		            			"description": "In Game (3/3)"
+		            		}],
+		            "description": "Fight fear and make your dad proud in this bite-sized adventure.",
+		            "last_updated": "2023-03-12 at 00:30 (UTC)"
+},
+"Otosan: Nintendo 3DS Edition": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/O/Otosan_%20Nintendo%203DS%20Edition%20%28USA%29.cia",
+				   "output": "sdmc:/Otosan - Nintendo 3DS Edition (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Otosan - Nintendo 3DS Edition (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Otosan - Nintendo 3DS Edition (USA)n.cia",
+				   "message": "Cleaning..."}],
+				   "size": "13,77 MiB"}
+},
+{"info": {
+		            "title": "Silver Falls Gaiden Deathly Delusion Destroyers",
+		            "version": "USA",
+		            "author": "Sungrand",
+		            "category": "eShop",
+		            "console": "3DS",
+		            "icon_index": 39,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1297.png",
+		            "screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Silver%20Falls%20Gaiden%20Ddd/banner.png",
+		            			"description": "Banner"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Silver%20Falls%20Gaiden%20Ddd/screenshots/screenshot_1.png",
+		            			"description": "In Game (1/3)"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Silver%20Falls%20Gaiden%20Ddd/screenshots/screenshot_2.png",
+		            			"description": "In Game (2/3)"
+							},{
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Silver%20Falls%20Gaiden%20Ddd/screenshots/screenshot_3.png",
+		            			"description": "In Game (3/3)"
+		            		}],
+		            "description": "People have been going missing recently in the forests surrounding a quiet mountain town. Hikers, hunters, and fishers from out of town seem unaware of something sinister lurking in the shadows of Silver Falls. Gus Ironcock is a contented delivery driver whose world is turned upside down when the most important person in his life becomes one of the numbers of people who have disappeared into the forest...",
+		            "last_updated": "2023-03-12 at 00:30 (UTC)"
+},
+"Silver Falls Gaiden DDD": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/S/Silver%20Falls%20Gaiden%20DDD%20%28USA%29.cia",
+				   "output": "sdmc:/Silver Falls Gaiden DDD (USA).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Silver Falls Gaiden DDD (USA).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Silver Falls Gaiden DDD (USA).cia",
+				   "message": "Cleaning..."}],
+				   "size": "121,35 MiB"}
 }]}
