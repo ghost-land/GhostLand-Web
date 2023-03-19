@@ -33428,7 +33428,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/N/Nicktoons%20-%20Battle%20for%20Volcano%20Island/boxart-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/N/Nicktoons%20-%20Battle%20for%20Volcano%20Island/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Nicktoons - Battle for Volcano Island (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
@@ -33893,7 +33893,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/N/Nursery%20Mania/boxart-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/N/Nursery%20Mania/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Nursery Mania (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
