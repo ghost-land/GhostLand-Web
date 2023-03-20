@@ -6519,10 +6519,10 @@
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon215.png",
 					"screenshots": 
 		            [{
-		            			"url": "",
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Unsolved%21/boxart.png",
 		            			"description": "Boxart"
 		            		}],
-					"description": "https://cdn.ghosteshop.com/Images/ds/C/CSI%20-%20Crime%20Scene%20Investigation%20-%20Unsolved%21/boxart.png",
+					"description": "",
 					"last_updated": "2022-08-07 at 21:14 (UTC)"
 },
 "CSI - Crime Scene Investigation - Unsolved!": {
@@ -6581,7 +6581,7 @@
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon217.png",
 					"screenshots": 
 		            [{
-		            			"url": "",
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/C/Cake%20Mania/boxart.png",
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
@@ -6596,7 +6596,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/C/Cake%20Mania/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Cake Mania (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
@@ -8689,7 +8689,7 @@
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon285.png",
 					"screenshots": 
 		            [{
-		            			"url": "",
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/C/Club%20Penguin%20-%20Elite%20Penguin%20Force/boxart.png",
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
@@ -8704,7 +8704,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/C/Club%20Penguin%20-%20Elite%20Penguin%20Force/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Club Penguin - Elite Penguin Force (USA) (En,Fr,Es) (Rev 2).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
@@ -9834,10 +9834,25 @@
 					"icon_index": 321,
 					"sheet_index": 1,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon322.png",
-					"screenshots": 
-		            [{
-		            			"url": "",
-		            			"description": "Boxart"
+					"screenshots": [{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%201.png","description": "Boxart of DS Download Station - Volume 1"
+		            		},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%202.png","description": "Boxart of DS Download Station - Volume 2"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%203.png","description": "Boxart of DS Download Station - Volume 3"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%204.png","description": "Boxart of DS Download Station - Volume 4"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%205.png","description": "Boxart of DS Download Station - Volume 5"
+		            		},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%206.png","description": "Boxart of DS Download Station - Volume 6"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%207.png","description": "Boxart of DS Download Station - Volume 7"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%208.png","description": "Boxart of DS Download Station - Volume 8"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%209.png","description": "Boxart of DS Download Station - Volume 9"
+		            		},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2010.png","description": "Boxart of DS Download Station - Volume 10"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2011.png","description": "Boxart of DS Download Station - Volume 11"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2012.png","description": "Boxart of DS Download Station - Volume 12"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2013.png","description": "Boxart of DS Download Station - Volume 13"
+		            		},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2014.png","description": "Boxart of DS Download Station - Volume 14"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2015.png","description": "Boxart of DS Download Station - Volume 15"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2016.png","description": "Boxart of DS Download Station - Volume 16"
+		            		},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2017.png","description": "Boxart of DS Download Station - Volume 17"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2018.png","description": "Boxart of DS Download Station - Volume 18"
+							},{"url": "https://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2019.png","description": "Boxart of DS Download Station - Volume 19"
 		            		}],
 					"description": "",
 					"last_updated": "2022-08-08 at 02:30 (UTC)"
@@ -9851,7 +9866,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%201-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"},
@@ -9864,7 +9879,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2010-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9877,7 +9892,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2011-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9890,7 +9905,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2012-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9903,7 +9918,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2013-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9916,7 +9931,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2014-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9929,7 +9944,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2015-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9942,7 +9957,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2016-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9955,7 +9970,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2017-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9968,7 +9983,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2018-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9981,7 +9996,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%2019-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -9994,7 +10009,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%202-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"},
@@ -10007,7 +10022,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%203-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -10020,7 +10035,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%204-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -10033,7 +10048,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%205-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"},
@@ -10046,7 +10061,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%206-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -10059,7 +10074,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%207-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -10072,7 +10087,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%208-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"},
@@ -10085,7 +10100,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/DS%20Download%20Station/DS%20Download%20Station%20-%20Volume%209-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
@@ -45986,7 +46001,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/T.A.C.%20Heroes%20-%20Big%20Red%20One/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/T.A.C. Heroes - Big Red One (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "TINCan! Escape",
@@ -46017,7 +46032,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TINCan%21%20Escape/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TINCan! Escape (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "TMNT",
@@ -46048,7 +46063,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TMNT/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TMNT (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "TNA Wrestling Impact! - Cross the Line",
@@ -46079,7 +46094,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TNA%20Wrestling%20Impact%21%20-%20Cross%20the%20Line/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TNA Wrestling Impact! - Cross the Line (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "TRON - Evolution",
@@ -46110,7 +46125,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TRON%20-%20Evolution/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Tak - Mojo Mistake",
@@ -46141,7 +46156,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tak%20-%20Mojo%20Mistake/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tak - Mojo Mistake (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Tak - The Great Juju Challenge",
@@ -46172,7 +46187,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tak%20-%20The%20Great%20Juju%20Challenge/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tak - The Great Juju Challenge (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Tamagotchi Connection - Corner Shop",
@@ -46203,7 +46218,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tamagotchi%20Connection%20-%20Corner%20Shop/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tamagotchi Connection - Corner Shop (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Tamagotchi Connection - Corner Shop 2",
@@ -46234,7 +46249,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tamagotchi%20Connection%20-%20Corner%20Shop%202/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tamagotchi Connection - Corner Shop 2 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Tamagotchi Connection - Corner Shop 3",
@@ -46265,7 +46280,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tamagotchi%20Connection%20-%20Corner%20Shop%203/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tamagotchi Connection - Corner Shop 3 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Tangled",
@@ -46296,7 +46311,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tangled/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tangled (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Tao's Adventure - Curse of the Demon Seal",
@@ -46327,7 +46342,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tao%27s%20Adventure%20-%20Curse%20of%20the%20Demon%20Seal/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tao's Adventure - Curse of the Demon Seal (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Teenage Mutant Ninja Turtles - Arcade Attack",
@@ -46358,7 +46373,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Teenage%20Mutant%20Ninja%20Turtles%20-%20Arcade%20Attack/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Teenage Mutant Ninja Turtles - Arcade Attack (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare",
@@ -46389,7 +46404,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Teenage%20Mutant%20Ninja%20Turtles%203%20-%20Mutant%20Nightmare/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Teenage Zombies - Invasion of the Alien Brain Thingys",
@@ -46420,7 +46435,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Teenage%20Zombies%20-%20Invasion%20of%20the%20Alien%20Brain%20Thingys/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Teenage Zombies - Invasion of the Alien Brain Thingys (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Tenchu - Dark Secret",
@@ -46451,7 +46466,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tenchu%20-%20Dark%20Secret/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tenchu - Dark Secret (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Tetris DS",
@@ -46482,7 +46497,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tetris%20DS/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tetris DS (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Tetris Party Deluxe",
@@ -46513,7 +46528,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tetris%20Party%20Deluxe/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tetris Party Deluxe (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Texas Hold 'em Poker DS",
@@ -46544,7 +46559,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Texas%20Hold%20%27em%20Poker%20DS/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Texas Hold 'em Poker DS (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Texas Hold 'em Poker Pack",
@@ -46575,7 +46590,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Texas%20Hold%20%27em%20Poker%20Pack/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Texas Hold 'em Poker Pack (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "That's So Raven - Psychic on the Scene",
@@ -46606,7 +46621,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/That%27s%20So%20Raven%20-%20Psychic%20on%20the%20Scene/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/That's So Raven - Psychic on the Scene (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Think - Logic Trainer",
@@ -46637,7 +46652,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Think%20-%20Logic%20Trainer/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Think - Logic Trainer (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Think - Logic Trainer Kids!",
@@ -46668,7 +46683,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Think%20-%20Logic%20Trainer%20Kids%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Think - Logic Trainer Kids! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "ThinkSMART - Labyrinth",
@@ -46699,7 +46714,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/ThinkSMART%20-%20Labyrinth/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ThinkSMART - Labyrinth (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "ThinkSmart - Chess for Kids",
@@ -46730,7 +46745,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/ThinkSmart%20-%20Chess%20for%20Kids/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ThinkSmart - Chess for Kids (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "ThinkSmart - Power Up Your Brain!",
@@ -46761,7 +46776,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/ThinkSmart%20-%20Power%20Up%20Your%20Brain%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ThinkSmart - Power Up Your Brain! (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "ThinkSmart - Power Up Your Brain! - Kids 8+",
@@ -46792,7 +46807,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/ThinkSmart%20-%20Power%20Up%20Your%20Brain%21%20-%20Kids%208%2B/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ThinkSmart - Power Up Your Brain! - Kids 8+ (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "ThinkSmart Games - Scotland Yard - Hunting Mister X",
@@ -46823,7 +46838,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/ThinkSmart%20Games%20-%20Scotland%20Yard%20-%20Hunting%20Mister%20X/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ThinkSmart Games - Scotland Yard - Hunting Mister X (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Thor - God of Thunder",
@@ -46854,7 +46869,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Thor%20-%20God%20of%20Thunder/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Thor - God of Thunder (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Thrillville - Off the Rails",
@@ -46885,7 +46900,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Thrillville%20-%20Off%20the%20Rails/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Thrillville - Off the Rails (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "ThunderCats",
@@ -46916,7 +46931,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/ThunderCats/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ThunderCats (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tiger Woods PGA Tour 08",
@@ -46947,7 +46962,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tiger%20Woods%20PGA%20Tour%2008/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tiger Woods PGA Tour 08 (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tigre, El - The Adventures of Manny Rivera",
@@ -46978,7 +46993,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tigre%2C%20El%20-%20The%20Adventures%20of%20Manny%20Rivera/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tigre, El - The Adventures of Manny Rivera (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Time Ace",
@@ -47009,7 +47024,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Time%20Ace/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Time Ace (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Time Hollow",
@@ -47040,7 +47055,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Time%20Hollow/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Time Hollow (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tinker Bell",
@@ -47071,7 +47086,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tinker%20Bell/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tinker Bell (USA) (En,Fr,Es) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tinker Bell and the Great Fairy Rescue",
@@ -47102,7 +47117,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tinker%20Bell%20and%20the%20Great%20Fairy%20Rescue/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tinker Bell and the Great Fairy Rescue (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tinker Bell and the Lost Treasure",
@@ -47133,7 +47148,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tinker%20Bell%20and%20the%20Lost%20Treasure/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tinker Bell and the Lost Treasure (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Titanic Mystery",
@@ -47164,7 +47179,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Titanic%20Mystery/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Titanic Mystery (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "To-Fu Collection",
@@ -47195,7 +47210,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/To-Fu%20Collection/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/To-Fu Collection (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tokyo Beat Down",
@@ -47226,7 +47241,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tokyo%20Beat%20Down/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tokyo Beat Down (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tom Clancy's Splinter Cell - Chaos Theory",
@@ -47257,7 +47272,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tom%20Clancy%27s%20Splinter%20Cell%20-%20Chaos%20Theory/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tom and Jerry Tales",
@@ -47288,7 +47303,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tom%20and%20Jerry%20Tales/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tom and Jerry Tales (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tomb Raider - Underworld",
@@ -47319,7 +47334,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tomb%20Raider%20-%20Underworld/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tomb Raider - Underworld (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tony Hawk's American Sk8land",
@@ -47350,7 +47365,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tony%20Hawk%27s%20American%20Sk8land/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tony Hawk's American Sk8land (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tony Hawk's Downhill Jam",
@@ -47381,7 +47396,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tony%20Hawk%27s%20Downhill%20Jam/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tony Hawk's Downhill Jam (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tony Hawk's Motion",
@@ -47412,7 +47427,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tony%20Hawk%27s%20Motion/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tony Hawk's Motion (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tony Hawk's Proving Ground",
@@ -47443,7 +47458,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tony%20Hawk%27s%20Proving%20Ground/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tony Hawk's Proving Ground (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Toon-Doku - Sudoku with Pictures!",
@@ -47474,7 +47489,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Toon-Doku%20-%20Sudoku%20with%20Pictures%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Toon-Doku - Sudoku with Pictures! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Top Gun",
@@ -47505,7 +47520,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Top%20Gun/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Top Gun (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Top Spin 2",
@@ -47536,7 +47551,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Top%20Spin%202/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Top Spin 2 (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Top Spin 3",
@@ -47567,7 +47582,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Top%20Spin%203/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Top Spin 3 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Top Trumps - NBA All Stars",
@@ -47598,7 +47613,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Top%20Trumps%20-%20NBA%20All%20Stars/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Top Trumps - NBA All Stars (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tornado",
@@ -47629,7 +47644,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tornado/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tornado (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Totally Spies! 2 - Undercover",
@@ -47660,7 +47675,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Totally%20Spies%21%202%20-%20Undercover/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Totally Spies! 2 - Undercover (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Touch 'N' Play Collection",
@@ -47691,7 +47706,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Touch%20%27N%27%20Play%20Collection/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Touch 'N' Play Collection (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Touch Darts",
@@ -47722,7 +47737,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Touch%20Darts/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Touch Darts (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Touch Detective",
@@ -47753,7 +47768,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Touch%20Detective/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Touch Detective (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Touch Detective 2 1-2",
@@ -47784,7 +47799,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Touch%20Detective%202%201-2/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Touch Detective 2 1-2 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Touch Mechanic",
@@ -47815,7 +47830,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Touch%20Mechanic/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Touch Mechanic (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Touch the Dead",
@@ -47846,7 +47861,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Touch%20the%20Dead/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Touch the Dead (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "TouchMaster",
@@ -47877,7 +47892,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TouchMaster/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TouchMaster (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "TouchMaster - Connect",
@@ -47908,7 +47923,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TouchMaster%20-%20Connect/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TouchMaster - Connect (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "TouchMaster 2",
@@ -47939,7 +47954,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TouchMaster%202/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TouchMaster 2 (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "TouchMaster 3",
@@ -47970,7 +47985,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TouchMaster%203/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TouchMaster 3 (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Toy Shop",
@@ -48001,7 +48016,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Toy%20Shop/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Toy Shop (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Toy Story 3",
@@ -48032,7 +48047,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Toy%20Story%203/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Toy Story 3 (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Toy Story 3 - To The Rescue! Edition",
@@ -48063,7 +48078,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Toy%20Story%203%20-%20To%20The%20Rescue%21%20Edition/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Toy Story 3 - To The Rescue! Edition (USA) (En,Fr,Es) (Target Exclusive) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Trace Memory",
@@ -48094,7 +48109,7 @@
 				   "file": "-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Trace Memory (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "TrackMania DS",
@@ -48125,7 +48140,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TrackMania%20DS/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TrackMania DS (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "TrackMania Turbo",
@@ -48156,7 +48171,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/TrackMania%20Turbo/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/TrackMania Turbo (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - Autobots",
@@ -48187,7 +48202,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20Autobots/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - Autobots (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - Dark of the Moon - Autobots",
@@ -48218,7 +48233,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20Dark%20of%20the%20Moon%20-%20Autobots/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - Dark of the Moon - Autobots (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - Dark of the Moon - Decepticons",
@@ -48249,7 +48264,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20Dark%20of%20the%20Moon%20-%20Decepticons/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - Dark of the Moon - Decepticons (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - Decepticons",
@@ -48280,7 +48295,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20Decepticons/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - Decepticons (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - Revenge of the Fallen - Autobots Version",
@@ -48311,7 +48326,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20Revenge%20of%20the%20Fallen%20-%20Autobots%20Version/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - Revenge of the Fallen - Autobots Version (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - Revenge of the Fallen - Decepticons Version",
@@ -48342,7 +48357,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20Revenge%20of%20the%20Fallen%20-%20Decepticons%20Version/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - Revenge of the Fallen - Decepticons Version (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - Ultimate Autobots Edition",
@@ -48373,7 +48388,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20Ultimate%20Autobots%20Edition/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - Ultimate Autobots Edition (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - War for Cybertron - Autobots",
@@ -48404,7 +48419,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20War%20for%20Cybertron%20-%20Autobots/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - War for Cybertron - Autobots (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers - War for Cybertron - Decepticons",
@@ -48435,7 +48450,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20-%20War%20for%20Cybertron%20-%20Decepticons/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers - War for Cybertron - Decepticons (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers Animated - The Game",
@@ -48466,7 +48481,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20Animated%20-%20The%20Game/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers Animated - The Game (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers Demo Card",
@@ -48497,7 +48512,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20Demo%20Card/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers Demo Card (USA) (Demo) (Wi-Fi Kiosk).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Transformers Prime",
@@ -48528,7 +48543,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Transformers%20Prime/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Transformers Prime (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Trash Pack, The",
@@ -48559,7 +48574,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Trash%20Pack%2C%20The/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Trash Pack, The (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Trauma Center - Under the Knife",
@@ -48590,7 +48605,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Trauma%20Center%20-%20Under%20the%20Knife/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Trauma Center - Under the Knife (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Trauma Center - Under the Knife 2",
@@ -48621,7 +48636,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Trauma%20Center%20-%20Under%20the%20Knife%202/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Trauma Center - Under the Knife 2 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Travel Games for Dummies",
@@ -48652,7 +48667,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Travel%20Games%20for%20Dummies/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Travel Games for Dummies (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Treasure World",
@@ -48683,7 +48698,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Treasure%20World/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Treasure World (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Treasures of Montezuma, The",
@@ -48714,7 +48729,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Treasures%20of%20Montezuma%2C%20The/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Treasures of Montezuma, The (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Trioncube",
@@ -48745,7 +48760,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Trioncube/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Trioncube (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tropix! ...Your Island Getaway",
@@ -48776,7 +48791,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tropix%21%20...Your%20Island%20Getaway/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tropix! ...Your Island Getaway (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "True Swing Golf",
@@ -48807,7 +48822,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/True%20Swing%20Golf/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/True Swing Golf (USA) (En,Ja,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Tsumiki - Block Drop Mania",
@@ -48838,7 +48853,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Tsumiki%20-%20Block%20Drop%20Mania/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tsumiki - Block Drop Mania (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Turbo - Super Stunt Squad",
@@ -48869,7 +48884,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Turbo%20-%20Super%20Stunt%20Squad/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Turbo - Super Stunt Squad (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Turn It Around",
@@ -48900,7 +48915,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/T/Turn%20It%20Around/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Turn It Around (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "USA Today Crossword Challenge",
@@ -48931,7 +48946,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/USA%20Today%20Crossword%20Challenge/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/USA Today Crossword Challenge (USA) (En,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "USA Today Puzzle Craze",
@@ -48962,7 +48977,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/USA%20Today%20Puzzle%20Craze/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/USA Today Puzzle Craze (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Ultimate Band",
@@ -48993,7 +49008,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Ultimate%20Band/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ultimate Band (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Ultimate Card Games",
@@ -49024,7 +49039,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Ultimate%20Card%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ultimate Card Games (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Ultimate Game Room",
@@ -49055,7 +49070,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Ultimate%20Game%20Room/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ultimate Game Room (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Ultimate Mortal Kombat",
@@ -49086,7 +49101,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Ultimate%20Mortal%20Kombat/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ultimate Mortal Kombat (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Ultimate Puzzle Games - Sudoku Edition",
@@ -49117,7 +49132,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Ultimate%20Puzzle%20Games%20-%20Sudoku%20Edition/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ultimate Puzzle Games - Sudoku Edition (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Ultimate Spider-Man",
@@ -49148,7 +49163,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Ultimate%20Spider-Man/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ultimate Spider-Man (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Underground Pool",
@@ -49179,7 +49194,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Underground%20Pool/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Underground Pool (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Underwater Attack",
@@ -49210,7 +49225,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Underwater%20Attack/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Underwater Attack (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Uno 52",
@@ -49241,7 +49256,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Uno%2052/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Uno 52 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Unsolved Crimes",
@@ -49272,7 +49287,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Unsolved%20Crimes/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Unsolved Crimes (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Up",
@@ -49303,7 +49318,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Up/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Up (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Urbz, The - Sims in the City",
@@ -49334,7 +49349,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/U/Urbz%2C%20The%20-%20Sims%20in%20the%20City/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Urbz, The - Sims in the City (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Valkyrie Profile - Covenant of the Plume",
@@ -49365,7 +49380,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Valkyrie Profile - Covenant of the Plume (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Vampire Legends - Power of Three",
@@ -49396,7 +49411,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Vampire%20Legends%20-%20Power%20of%20Three/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Vampire Legends - Power of Three (USA) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Vampire Moon - The Mystery of the Hidden Sun",
@@ -49427,7 +49442,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Vampire%20Moon%20-%20The%20Mystery%20of%20the%20Hidden%20Sun/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Vampire Moon - The Mystery of the Hidden Sun (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Vegas Casino",
@@ -49458,7 +49473,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Vegas%20Casino/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Vegas Casino (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Veggy World",
@@ -49489,7 +49504,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Veggy%20World/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Veggy World (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Victorious - Hollywood Arts Debut",
@@ -49520,7 +49535,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Victorious%20-%20Hollywood%20Arts%20Debut/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Victorious - Hollywood Arts Debut (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Victorious - Taking the Lead",
@@ -49551,7 +49566,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Victorious%20-%20Taking%20the%20Lead/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Victorious - Taking the Lead (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Viewtiful Joe - Double Trouble!",
@@ -49582,7 +49597,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Viewtiful%20Joe%20-%20Double%20Trouble%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Viewtiful Joe - Double Trouble! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Virtual Villagers - A New Home",
@@ -49613,7 +49628,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Virtual%20Villagers%20-%20A%20New%20Home/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Virtual Villagers - A New Home (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Viva Pinata - Pocket Paradise",
@@ -49644,7 +49659,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/Viva%20Pinata%20-%20Pocket%20Paradise/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Viva Pinata - Pocket Paradise (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WALL-E",
@@ -49675,7 +49690,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/WALL-E/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WALL-E (USA) (En,Fr,Es) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WWE SmackDown vs Raw 2008 Featuring ECW",
@@ -49706,7 +49721,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/WWE%20SmackDown%20vs%20Raw%202008%20Featuring%20ECW/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WWE SmackDown vs Raw 2008 Featuring ECW (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WWE SmackDown vs Raw 2009 Featuring ECW",
@@ -49737,7 +49752,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/WWE%20SmackDown%20vs%20Raw%202009%20Featuring%20ECW/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WWE SmackDown vs Raw 2009 Featuring ECW (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WWE SmackDown vs Raw 2010 Featuring ECW",
@@ -49768,7 +49783,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/WWE%20SmackDown%20vs%20Raw%202010%20Featuring%20ECW/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WWE SmackDown vs Raw 2010 Featuring ECW (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wacky Races - Crash & Dash",
@@ -49799,7 +49814,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wacky%20Races%20-%20Crash%20%26%20Dash/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wacky Races - Crash & Dash (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wappy Dog",
@@ -49830,7 +49845,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wappy%20Dog/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wappy Dog (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Warhammer 40,000 - Squad Command",
@@ -49861,7 +49876,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Warhammer%2040%2C000%20-%20Squad%20Command/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Warhammer 40,000 - Squad Command (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wario - Master of Disguise",
@@ -49892,7 +49907,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wario%20-%20Master%20of%20Disguise/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wario - Master of Disguise (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WarioWare - D.I.Y.",
@@ -49923,7 +49938,7 @@
 				   "file": "-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WarioWare - D.I.Y. (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WarioWare - Touched!",
@@ -49954,7 +49969,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/WarioWare%20-%20Touched%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WarioWare - Touched! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wedding Dash",
@@ -49985,7 +50000,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wedding%20Dash/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wedding Dash (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Western Riding Academy",
@@ -50016,7 +50031,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Western%20Riding%20Academy/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Western Riding Academy (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Whac-A-Mole",
@@ -50047,7 +50062,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Whac-A-Mole/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Whac-A-Mole (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "What's Cooking - Jamie Oliver",
@@ -50078,7 +50093,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/What%27s%20Cooking%20-%20Jamie%20Oliver/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/What's Cooking - Jamie Oliver (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wheel of Fortune",
@@ -50109,7 +50124,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wheel%20of%20Fortune/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wheel of Fortune (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Where the Wild Things Are",
@@ -50140,7 +50155,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Where%20the%20Wild%20Things%20Are/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Where the Wild Things Are (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Where's Waldo - The Fantastic Journey",
@@ -50171,7 +50186,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Where%27s%20Waldo%20-%20The%20Fantastic%20Journey/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Where's Waldo - The Fantastic Journey (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Who Wants to Be a Millionaire",
@@ -50202,7 +50217,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Who%20Wants%20to%20Be%20a%20Millionaire/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Who Wants to Be a Millionaire (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wiffle Ball",
@@ -50233,7 +50248,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wiffle%20Ball/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wiffle Ball (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wild West, The",
@@ -50264,7 +50279,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wild%20West%2C%20The/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wild West, The (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Windy x Windam",
@@ -50295,7 +50310,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Windy%20x%20Windam/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Windy x Windam (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Winning Eleven - Pro Evolution Soccer 2007",
@@ -50326,7 +50341,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Winning%20Eleven%20-%20Pro%20Evolution%20Soccer%202007/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Winning Eleven - Pro Evolution Soccer 2007 (USA) (En,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Winter Sports 2 - The Next Challenge",
@@ -50357,7 +50372,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Winter%20Sports%202%20-%20The%20Next%20Challenge/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Winter Sports 2 - The Next Challenge (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Winter's Tail - How One Little Dolphin Learned to Swim Again",
@@ -50388,7 +50403,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Winter%27s%20Tail%20-%20How%20One%20Little%20Dolphin%20Learned%20to%20Swim%20Again/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Winter's Tail - How One Little Dolphin Learned to Swim Again (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Winx Club - Magical Fairy Party",
@@ -50419,7 +50434,7 @@
 				   "file": "-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Winx Club - Magical Fairy Party (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Winx Club - Mission Enchantix",
@@ -50450,7 +50465,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Winx%20Club%20-%20Mission%20Enchantix/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Winx Club - Mission Enchantix (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Winx Club - Quest for the Codex",
@@ -50481,7 +50496,7 @@
 				   "file": "-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Winx Club - Quest for the Codex (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Winx Club - Saving Alfea",
@@ -50512,7 +50527,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Winx%20Club%20-%20Saving%20Alfea/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Winx Club - Saving Alfea (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wipeout - The Game",
@@ -50543,7 +50558,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wipeout%20-%20The%20Game/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wipeout - The Game (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wipeout 2",
@@ -50574,7 +50589,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wipeout%202/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wipeout 2 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WireWay",
@@ -50605,7 +50620,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/WireWay/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WireWay (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Witch's Tale, A",
@@ -50636,7 +50651,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Witch%27s%20Tale%2C%20A/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Witch's Tale, A (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Witch's Wish",
@@ -50667,7 +50682,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Witch%27s%20Wish/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Witch's Wish (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Witches & Vampires - The Secrets of Ashburry",
@@ -50698,7 +50713,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Witches%20%26%20Vampires%20-%20The%20Secrets%20of%20Ashburry/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Witches & Vampires - The Secrets of Ashburry (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wizard of Oz, The - Beyond the Yellow Brick Road",
@@ -50729,7 +50744,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wizard%20of%20Oz%2C%20The%20-%20Beyond%20the%20Yellow%20Brick%20Road/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wizard of Oz, The - Beyond the Yellow Brick Road (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wizards of Waverly Place",
@@ -50760,7 +50775,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wizards%20of%20Waverly%20Place/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wizards of Waverly Place (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wizards of Waverly Place - Spellbound",
@@ -50791,7 +50806,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wizards%20of%20Waverly%20Place%20-%20Spellbound/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wizards of Waverly Place - Spellbound (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wonder Pets! - Save the Animals!",
@@ -50822,7 +50837,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wonder%20Pets%21%20-%20Save%20the%20Animals%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wonder Pets! - Save the Animals! (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wonder World - Amusement Park",
@@ -50853,7 +50868,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wonder%20World%20-%20Amusement%20Park/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wonder World - Amusement Park (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "WordJong",
@@ -50884,7 +50899,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/WordJong/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/WordJong (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wordfish",
@@ -50915,7 +50930,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Wordfish/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wordfish (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "World Championship Games - A Track & Field Event",
@@ -50946,7 +50961,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/World%20Championship%20Games%20-%20A%20Track%20%26%20Field%20Event/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/World Championship Games - A Track & Field Event (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "World Championship Poker - Deluxe Series",
@@ -50977,7 +50992,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/World%20Championship%20Poker%20-%20Deluxe%20Series/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/World Championship Poker - Deluxe Series (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "World Championship Spelling",
@@ -51008,7 +51023,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/World%20Championship%20Spelling/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/World Championship Spelling (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "World Cup of Pool",
@@ -51039,7 +51054,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/World%20Cup%20of%20Pool/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/World Cup of Pool (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "World Ends with You, The",
@@ -51070,7 +51085,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/World%20Ends%20with%20You%2C%20The/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/World Ends with You, The (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "World Series of Poker 2008 - The Official Video Game - Battle for the Bracelets",
@@ -51101,7 +51116,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/World%20Series%20of%20Poker%202008%20-%20The%20Official%20Video%20Game%20-%20Battle%20for%20the%20Bracelets/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/World Series of Poker 2008 - The Official Video Game - Battle for the Bracelets (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "World of Zoo",
@@ -51132,7 +51147,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/World%20of%20Zoo/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/World of Zoo (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Worms - Open Warfare",
@@ -51163,7 +51178,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Worms%20-%20Open%20Warfare/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Worms - Open Warfare (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Worms - Open Warfare 2",
@@ -51194,7 +51209,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/W/Worms%20-%20Open%20Warfare%202/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Worms - Open Warfare 2 (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Wreck-It Ralph",
@@ -51225,7 +51240,7 @@
 				   "file": "-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Wreck-It Ralph (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "X-Men - Destiny",
@@ -51256,7 +51271,7 @@
 				   "file": "-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/X-Men - Destiny (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "X-Men - The Official Game",
@@ -51287,7 +51302,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/X/X-Men%20-%20The%20Official%20Game/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/X-Men - The Official Game (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "X-Men Origins - Wolverine",
@@ -51318,7 +51333,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/X/X-Men%20Origins%20-%20Wolverine/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/X-Men Origins - Wolverine (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "XG Blast!",
@@ -51349,7 +51364,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/X/XG%20Blast%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/XG Blast! (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Xia-Xia",
@@ -51380,7 +51395,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/X/Xia-Xia/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Xia-Xia (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Xiaolin Showdown",
@@ -51411,7 +51426,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/X/Xiaolin%20Showdown/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Xiaolin Showdown (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yamaha Supercross",
@@ -51442,7 +51457,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yamaha%20Supercross/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yamaha Supercross (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yard Sale Hidden Treasures - Sunnyville",
@@ -51473,7 +51488,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yard%20Sale%20Hidden%20Treasures%20-%20Sunnyville/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yard Sale Hidden Treasures - Sunnyville (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yogi Bear",
@@ -51504,7 +51519,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yogi%20Bear/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yogi Bear (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yoshi's Island DS",
@@ -51535,7 +51550,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yoshi%27s%20Island%20DS/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yoshi's Island DS (USA) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "You Don't Know Jack",
@@ -51566,7 +51581,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/You%20Don%27t%20Know%20Jack/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/You Don't Know Jack (USA) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yu-Gi-Oh! - World Championship 2008",
@@ -51597,7 +51612,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yu-Gi-Oh%21%20-%20World%20Championship%202008/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yu-Gi-Oh! - World Championship 2008 (USA) (En,Ja).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009",
@@ -51628,7 +51643,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yu-Gi-Oh%21%205D%27s%20-%20Stardust%20Accelerator%20-%20World%20Championship%202009/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (USA) (En,Ja,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia",
@@ -51659,7 +51674,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yu-Gi-Oh%21%205D%27s%20-%20World%20Championship%202010%20-%20Reverse%20of%20Arcadia/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (USA) (En,Ja,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus",
@@ -51690,7 +51705,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yu-Gi-Oh%21%205D%27s%20-%20World%20Championship%202011%20-%20Over%20the%20Nexus/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (USA) (En,Ja,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Yu-Gi-Oh! GX - Spirit Caller",
@@ -51721,7 +51736,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Y/Yu-Gi-Oh%21%20GX%20-%20Spirit%20Caller/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Yu-Gi-Oh! GX - Spirit Caller (USA) (En,Ja).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zendoku",
@@ -51752,7 +51767,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zendoku/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zendoku (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zenses - Ocean",
@@ -51783,7 +51798,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zenses%20-%20Ocean/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zenses - Ocean (USA) (En,Fr,Es) (Rev 1) (Knowledge Adventure).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zenses - Rainforest",
@@ -51814,7 +51829,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zenses%20-%20Rainforest/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zenses - Rainforest (USA) (En,Fr,Es) (Rev 1) (Knowledge Adventure).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zenses - Zen Garden",
@@ -51845,7 +51860,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zenses%20-%20Zen%20Garden/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zenses - Zen Garden (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zhu Zhu Babies",
@@ -51876,7 +51891,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zhu%20Zhu%20Babies/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zhu Zhu Babies (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zhu Zhu Pets",
@@ -51907,7 +51922,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zhu%20Zhu%20Pets/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zhu Zhu Pets (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zhu Zhu Pets - Quest for Zhu",
@@ -51938,7 +51953,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zhu%20Zhu%20Pets%20-%20Quest%20for%20Zhu/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zhu Zhu Pets - Quest for Zhu (USA) (En,Fr) (Rev 1).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zhu Zhu Puppies",
@@ -51969,7 +51984,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zhu%20Zhu%20Puppies/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zhu Zhu Puppies (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "ZhuZhu Pets 2 Featuring The Wild Bunch",
@@ -52000,7 +52015,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/ZhuZhu%20Pets%202%20Featuring%20The%20Wild%20Bunch/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/ZhuZhu Pets 2 Featuring The Wild Bunch (USA) (En,Fr) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoey 101 - Field Trip Fiasco",
@@ -52031,7 +52046,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zoey%20101%20-%20Field%20Trip%20Fiasco/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoey 101 - Field Trip Fiasco (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zombiez Seeker",
@@ -52062,7 +52077,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zombiez%20Seeker/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zombiez Seeker (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoo Hospital",
@@ -52093,7 +52108,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zoo%20Hospital/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoo Hospital (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoo Keeper",
@@ -52124,7 +52139,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zoo%20Keeper/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoo Keeper (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoo Tycoon 2 DS",
@@ -52155,7 +52170,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zoo%20Tycoon%202%20DS/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoo Tycoon 2 DS (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoo Tycoon DS",
@@ -52186,7 +52201,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zoo%20Tycoon%20DS/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoo Tycoon DS (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoo Vet - Endangered Animals",
@@ -52217,7 +52232,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zoo%20Vet%20-%20Endangered%20Animals/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoo Vet - Endangered Animals (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoobles! Spring to Life!",
@@ -52248,7 +52263,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zoobles%21%20Spring%20to%20Life%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoobles! Spring to Life! (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zoroark Distribution 2011",
@@ -52279,7 +52294,7 @@
 				   "file": "-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zoroark Distribution 2011 (USA) (En,Fr) (Wi-Fi Kiosk) (Save Data).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zorro - Quest for Justice",
@@ -52310,7 +52325,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zorro%20-%20Quest%20for%20Justice/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zorro - Quest for Justice (USA) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zubo",
@@ -52341,7 +52356,7 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zubo/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zubo (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 },
 {"info": {
 					"title": "Zuma's Revenge",
@@ -52372,5 +52387,5 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/Z/Zuma%27s%20Revenge/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zuma's Revenge (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": " MiB"}
+				   "size": ",00 MiB"}
 }]}
