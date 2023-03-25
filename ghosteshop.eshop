@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 171
+"revision": 173
 },
 "storeContent": [
 {"info": {
@@ -23,7 +23,41 @@
 					"icon_index": 234,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon235.png",
 					"screenshots": 
-		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/boxart.png","description": "Cover-Art"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/01-Checking%20Update.png","description": "Checking Update"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/02-Main%20Menu.png","description": "Main Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/03-Multi%20Version.png","description": "Multi Version"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/04-Availible%20Downloads.png","description": "Available Downloads"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/05-Search%20%26%20Filters.png","description": "Search & Filters"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/06-Search%20Title.png","description": "Search Title"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/07-Search%20Author.png","description": "Search Author"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/08-Search%20Category.png","description": "Search Category | 1/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/09-Search%20Category.png","description": "Search Category | 2/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/10-Search%20Console.png","description": "Search Console"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/11-Mark%20Menu.png","description": "Mark Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/12-Mark%20Game.png","description": "Mark Game"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/13-Filter%20Mark.png","description": "Filter Mark"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/14-Sorting%20Menu.png","description": "Sorting Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/15-Sorting%20Title%20Ascending.png","description": "Sorting Title Ascending"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/16-Sorting%20Last%20Update%20Descending.png","description": "Sorting Last Update Descending"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/17-Grid%20Vue.png","description": "Grid Vue"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/17-List%20Vue.png","description": "List Vue"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/18-Settings%20Menu.png","description": "Settings Menu"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/19-Choose%20Language.png","description": "Choose Language"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/20-Select%20eShop.png","description": "Select eShop"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/21-Recommended%20eShop.png","description": "Recommended eShop"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/22-Auto-Update%20Settings.png","description": "Auto-Update Settings"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/23-GUI%20Settings.png","description": "GUI Settings"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/24-eShop%20BG.png","description": "eShop BG"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/25-Custom%20Font.png","description": "Custom Font"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/26-Directory%20Settings.png","description": "Directory Settings"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/27-Select%20Directory.png","description": "Select Directory"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/28-Credits.png","description": "Credits"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/29-Screen%20Icon.png","description": "Screen icon"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/30-View%20Screen%201.png","description": "View Screen | 1/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/30-View%20Screen%202.png","description": "View Screen | 2/2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/31-Screen%20Boxart.png","description": "Screen Boxart"}],
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/boxart.png","description": "Cover-Art"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/01-Checking%20Update.png","description": "Checking Update"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/02-Main%20Menu.png","description": "Main Menu"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/03-Multi%20Version.png","description": "Multi Version"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/04-Availible%20Downloads.png","description": "Available Downloads"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/05-Search%20%26%20Filters.png","description": "Search & Filters"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/06-Search%20Title.png","description": "Search Title"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/07-Search%20Author.png","description": "Search Author"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/08-Search%20Category.png","description": "Search Category | 1/2"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/09-Search%20Category.png","description": "Search Category | 2/2"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/10-Search%20Console.png","description": "Search Console"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/11-Mark%20Menu.png","description": "Mark Menu"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/12-Mark%20Game.png","description": "Mark Game"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/13-Filter%20Mark.png","description": "Filter Mark"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/14-Sorting%20Menu.png","description": "Sorting Menu"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/15-Sorting%20Title%20Ascending.png","description": "Sorting Title Ascending"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/16-Sorting%20Last%20Update%20Descending.png","description": "Sorting Last Update Descending"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/17-Grid%20Vue.png","description": "Grid Vue"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/17-List%20Vue.png","description": "List Vue"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/18-Settings%20Menu.png","description": "Settings Menu"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/19-Choose%20Language.png","description": "Choose Language"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/20-Select%20eShop.png","description": "Select eShop"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/21-Recommended%20eShop.png","description": "Recommended eShop"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/22-Auto-Update%20Settings.png","description": "Auto-Update Settings"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/23-GUI%20Settings.png","description": "GUI Settings"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/24-eShop%20BG.png","description": "eShop BG"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/25-Custom%20Font.png","description": "Custom Font"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/26-Directory%20Settings.png","description": "Directory Settings"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/27-Select%20Directory.png","description": "Select Directory"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/28-Credits.png","description": "Credits"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/29-Screen%20Icon.png","description": "Screen icon"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/30-View%20Screen%201.png","description": "View Screen | 1/2"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/30-View%20Screen%202.png","description": "View Screen | 2/2"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/31-Screen%20Boxart.png","description": "Screen Boxart"
+		            }],
 					"videos": 
 					[{"url": "https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/videos/introducing-ghost-eshop.webm","description": "Trailer"}],
 					"description": "An alternative eShop for 3DS, New3DS, New3DSxl, 2DS, New2DS, New2DSxl. Created on June 2020, over time this one has evolved enormously, to arrive at the current version on which it is currently",
@@ -69,16 +103,10 @@
 					"icon_index": 271,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon272.png",
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot.png",
-		            			"description": "In Game | Screen 1"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot2.png",
-		            			"description": "In Game | Screen 2"
-							},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot3.png",
-		            			"description": "In Game | Screen 3"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot.png","description": "In Game | Screen 1"
+		            },{"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot2.png","description": "In Game | Screen 2"
+					},{"url": "https://cdn.ghosteshop.com/Images/3ds/Pixel-Paint/screenshots/in-game-screenshot3.png","description": "In Game | Screen 3"
+		            }],
 		            "videos": 
 					[{"url": "https://cdn.ghosteshop.com/db/3ds/US/Pixel%20Paint/videos/Pixel%20Paint%20Nintendo%203DS.webm","description": "Trailer"}],
 					"description": "Easily create your own pixel art and publish it on Miiverse or save it on the SD card for use on social networks! A pixel art is an image created pixel by pixel, as in retro games. Base your creation on an old game or create something entirely new!",
@@ -10807,7 +10835,7 @@
 					"size": "81,75 MiB"}
 },
 {"info": {
-					"title": "Crimson Shround",
+					"title": "Crimson Shroud",
 					"version": "USA",
 					"author": "Level 5",
 					"category": "eShop",
@@ -10817,21 +10845,21 @@
 					"description": "",
 					"last_updated": "2020-10-22 at 15:09 (UTC)"
 },
-"Crimson Shround": {
+"Crimson Shroud": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/C/Crimson%20Shroud%20%28USA%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Crimson Shround (USA) (eShop).cia",
+				   "output": "sdmc:/Crimson Shroud (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Crimson Shround (USA) (eShop).cia",
+				   "file": "/Crimson Shroud (USA) (eShop).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Crimson Shround (USA) (eShop).cia",
+				   "file": "sdmc:/Crimson Shroud (USA) (eShop).cia",
 				   "message": "Cleaning..."}],
 					"size": "244,87 MiB"}
 },
@@ -26025,7 +26053,7 @@
 					"size": "82,2 MiB"}
 },
 {"info": {
-		            "title": "Pokedex 3D",
+		            "title": "Pokédex 3D",
 		            "version": "USA",
 		            "author": "Nintendo",
 		            "category": "eShop",
@@ -26036,21 +26064,21 @@
 		            "description": "",
 		            "last_updated": "2020-12-22 at 01:50 (UTC)"
 },
-"Pokedex 3D": {
+"Pokédex 3D": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Pokedex%203D%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia",
-				   "output": "sdmc:/Pokedex 3D (USA).cia",
+				   "output": "sdmc:/Pokédex 3D (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Pokedex 3D (USA).cia",
+				   "file": "/Pokédex 3D (USA).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Pokedex 3D (USA).cia",
+				   "file": "sdmc:/Pokédex 3D (USA).cia",
 				   "message": "Cleaning..."}],
 					"size": "22,2 MiB"}
 },
@@ -47962,7 +47990,8 @@
 		            			"url": "https://cdn.ghosteshop.com/db/3ds/US/Silver%20Falls%20Gaiden%20Ddd/screenshots/screenshot_3.png",
 		            			"description": "In Game (3/3)"
 		            		}],
-		            "description": "People have been going missing recently in the forests surrounding a quiet mountain town. Hikers, hunters, and fishers from out of town seem unaware of something sinister lurking in the shadows of Silver Falls. Gus Ironcock is a contented delivery driver whose world is turned upside down when the most important person in his life becomes one of the numbers of people who have disappeared into the forest...",
+		            "description": "People have been going missing recently in the forests surrounding a quiet mountain town. Hikers, hunters, and fishers from out of town seem unaware of something sinister lurking in the shadows of Silver Falls...",
+		            "longdescription": "TWO games in one, Gaiden Deathly Delusion Destroyers comes packaged with Ruby River. <br>Introducing the first Battle RPG and Open World Survival in the Silver Falls series! <br>People have been going missing recently in the forests surrounding a quiet mountain town. Hikers, hunters, and fishers from out of town seem unaware of something sinister lurking in the shadows of Silver Falls. Gus Ironcock is a contented delivery driver whose world is turned upside down when the most important person in his life becomes one of the numbers of people who have disappeared into the forest. Quietly too ashamed to ask for help from the locals in town, Gus will have to find some way to save the life of someone he loves. <br>Gaiden Deathly Delusion Destroyers is a Battle RPG in which players can enjoy a deeply complex character customization and battle system without getting lost in a massive environment to traverse and explore. Story events take place after completing missions, ensuring players don't get lost even if they've taken a break in between play sessions. <br>In a series first, this BRPG allows players to recruit characters from all across the Silver Falls series. Assemble a dream team of series favorite characters and take on an ever expanding variety of challenging missions. New missions become available hourly, daily, and weekly. Complete missions to earn new weapons and armor, find materials to upgrade equipment, and earn powerful ultimate skills unique to each character. <br>Each character has unique strengths and weaknesses, with new abilities available based on the day of the week. Customize party setups and combine skills to create unique battle strategies. Adapt to ever changing challenges and amass an arsenal of powerful equipment. <br>Complete missions and progress through the story as you learn more about Silver Falls and the people who seem to know a bit more than they're letting on. <br>Ruby River is an Open World Survival and Crafting experience. Enjoy life at a slower pace and explore a massive environment. Enjoy a relaxing stroll through the forest during the day time. Harvest materials from trees, bushes, and anything you can find. Collect crafting materials to create weapons and armor. Find and hunt for ingredients to cook dozens of different unique dishes. <br>Build a forest cabin or mansion of your own design using dozens of unique template pieces... but take shelter before night falls. With the dark of night come unspeakable horrors. Dangerous creatures will hunt you down once the sun is gone. Protect your cabin and defeat enemies to earn EXP. Enhance your stats to get stronger. <br>Introducing a series first feature! Players can send resources between Ruby River and Gaiden Deathly Delusion Destroyers. Send weapons from Gaiden to help deal with monsters in Ruby River. Craft elemental armor in Ruby River and send it into Gaiden to protect party members from powerful monsters. <br>Use the Code Linker to recruit favorite characters from other Silver Falls titles into Gaiden Deathly Delusion Destroyers. <br>The heartpounding challenge of Gaiden Deathly Delusion Destroyers. <br>The relaxing call of the wild in Ruby River. <br>Welcome to Silver Falls.",
 		            "last_updated": "2023-03-12 at 00:30 (UTC)"
 },
 "Silver Falls Gaiden DDD": {
