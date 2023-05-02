@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 7
+"revision": 8
 },
 "storeContent": [
 {"info": {
@@ -245,7 +245,7 @@
 },
 {"info": {
 					"title": "123 Sesame Street - Cookie's Counting Carnival - The Videogame",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "WB Games, Inc.",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -258,9 +258,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "There are twelve game modes to play, as well as fourteen minigames.",
-					"last_updated": "2022-07-27 at 01:03 (UTC)"
+					"last_updated": "2023-05-01 at 19:03 (UTC)"
 },
-"123 Sesame Street - Cookie's Counting Carnival - The Videogame": {
+"123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame%20%28USA%29.nds",
@@ -272,11 +272,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"123 Sesame Street - Cookie's Counting Carnival - The Videogame (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame%20%28Australia%29.nds",
+				   "output": "%NDS%/123 Sesame Street - Cookie's Counting Carnival - The Videogame (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Cookie%27s%20Counting%20Carnival%20-%20The%20Videogame/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Cookie's Counting Carnival - The Videogame (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "WB Games, Inc.",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -289,9 +302,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-07-27 at 01:03 (UTC)"
+					"last_updated": "2023-05-01 at 19:03 (UTC)"
 },
-"123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame": {
+"123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame%20%28USA%29.nds",
@@ -302,6 +315,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame%20%28Australia%29.nds",
+				   "output": "%NDS%/123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/123%20Sesame%20Street%20-%20Elmo%27s%20A-to-Zoo%20Adventure%20-%20The%20Videogame/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (Australia).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -2196,7 +2222,7 @@
 },
 {"info": {
 					"title": "Are You Smarter than a 5th Grader",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "THQ",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2209,9 +2235,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-05-01 at 19:03 (UTC)"
 },
-"Are You Smarter than a 5th Grader": {
+"Are You Smarter than a 5th Grader (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20%28USA%29.nds",
@@ -2223,7 +2249,20 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Are You Smarter than a 5th Grader (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "64,00 MiB"}
+				   "size": "64,00 MiB"},
+"Are You Smarter than a 5th Grader (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/A/Are%20You%20Smarter%20than%20a%205th%20Grader%20%28Australia%29.nds",
+				   "output": "%NDS%/Are You Smarter than a 5th Grader (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%205th%20Grader/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Are You Smarter than a 5th Grader (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Are You Smarter than a 5th Grader - Back to School",
@@ -4096,7 +4135,7 @@
 },
 {"info": {
 					"title": "Bejeweled Twist",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "PopCap Games, Inc.",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -4109,9 +4148,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-05-01 at 19:03 (UTC)"
 },
-"Bejeweled Twist": {
+"Bejeweled Twist (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bejeweled%20Twist%20%28USA%29%20%28NDSi%20Enhanced%29.nds",
@@ -4122,6 +4161,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bejeweled%20Twist/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bejeweled Twist (USA) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Bejeweled Twist (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Australia/B/Bejeweled%20Twist%20%28Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Bejeweled Twist (Australia) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bejeweled%20Twist/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bejeweled Twist (Australia) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -10386,7 +10438,7 @@
 },
 {"info": {
 					"title": "Deal or No Deal",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -10399,9 +10451,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-08 at 02:30 (UTC)"
+					"last_updated": "2023-05-01 at 19:03 (UTC)"
 },
-"Deal or No Deal": {
+"Deal or No Deal (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/D/Deal%20or%20No%20Deal%20%28USA%29.nds",
@@ -10413,7 +10465,20 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/D/Deal%20or%20No%20Deal/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Deal or No Deal (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "16,00 MiB"}
+				   "size": "16,00 MiB"},
+"Deal or No Deal (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/D/Deal%20or%20No%20Deal%20%28Australia%29.nds",
+				   "output": "%NDS%/Deal or No Deal (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/Deal%20or%20No%20Deal/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Deal or No Deal (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
 },
 {"info": {
 					"title": "Deal or No Deal - Special Edition",
@@ -21499,7 +21564,7 @@
 					"description": "",
 					"last_updated": "2022-08-13 at 20:55 (UTC)"
 },
-"iCarly": {
+"iCarly (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/I/iCarly%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.nds",
@@ -21510,6 +21575,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/I/iCarly/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/iCarly (USA) (En,Fr) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"iCarly (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/I/iCarly%20%28Australia%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/iCarly (Australia) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/I/iCarly/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/iCarly (Australia) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
@@ -21701,7 +21779,7 @@
 },
 {"info": {
 					"title": "Jake Power - Fireman",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -21714,7 +21792,7 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-13 at 20:55 (UTC)"
+					"last_updated": "2023-05-01 at 19:03 (UTC)"
 },
 "Jake Power - Fireman": {
 	"script": [{
@@ -21728,11 +21806,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/J/Jake%20Power%20-%20Fireman/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Fireman (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Jake Power - Firefighter": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Australia/J/Jake%20Power%20-%20Firefighter%20%28Australia%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Jake Power - Firefighter (Australia) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/J/Jake%20Power%20-%20Fireman/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Firefighter (Australia) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Jake Power - Handyman",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -21747,7 +21838,7 @@
 					"description": "",
 					"last_updated": "2022-08-13 at 20:55 (UTC)"
 },
-"Jake Power - Handyman": {
+"Jake Power - Handyman (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/J/Jake%20Power%20-%20Handyman%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -21759,11 +21850,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/J/Jake%20Power%20-%20Handyman/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Handyman (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Jake Power - Handyman (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/J/Jake%20Power%20-%20Handyman%20%28Australia%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Jake Power - Handyman (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/J/Jake%20Power%20-%20Handyman/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Handyman (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Jake Power - Policeman",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -21776,9 +21880,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-13 at 20:55 (UTC)"
+					"last_updated": "2023-05-01 at 19:03 (UTC)"
 },
-"Jake Power - Policeman": {
+"Jake Power - Policeman (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/J/Jake%20Power%20-%20Policeman%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -21789,6 +21893,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/J/Jake%20Power%20-%20Policeman/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Policeman (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Jake Power - Policeman (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/J/Jake%20Power%20-%20Policeman%20%28Australia%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Jake Power - Policeman (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/J/Jake%20Power%20-%20Policeman/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Jake Power - Policeman (Australia).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -36632,7 +36749,7 @@
 },
 {"info": {
 					"title": "Plants vs. Zombies",
-					"version": "USA",
+					"version": "USA, Australia",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -36647,7 +36764,7 @@
 					"description": "",
 					"last_updated": "2022-08-13 at 20:55 (UTC)"
 },
-"Plants vs. Zombies": {
+"Plants vs. Zombies (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/P/Plants%20vs.%20Zombies%20%28USA%29.nds",
@@ -36658,6 +36775,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Plants%20vs.%20Zombies/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Plants vs. Zombies (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Plants vs. Zombies (Australia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/P/Plants%20vs.%20Zombies%20%28Australia%29.nds",
+				   "output": "%NDS%/Plants vs. Zombies (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Plants%20vs.%20Zombies/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Plants vs. Zombies (Australia).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
