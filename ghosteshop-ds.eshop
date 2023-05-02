@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 8
+"revision": 9
 },
 "storeContent": [
 {"info": {
@@ -52496,4 +52496,230 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Zuma's Revenge (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "AFL Mascot Manor",
+					"version": "Australia",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 687,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1687.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/AFL%20Mascot%20Manor/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"AFL Mascot Manor": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/A/AFL%20Mascot%20Manor%20%28Australia%29.nds",
+				   "output": "%NDS%/AFL Mascot Manor (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/AFL%20Mascot%20Manor/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/AFL Mascot Manor (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Dr Kawashima's Brain Training - How Old Is Your Brain",
+					"version": "Australia",
+					"author": "",
+					"category": ["Demo", "Kiosk"],
+					"console": ["DS"],
+					"icon_index": 688,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1688.png",
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"Dr Kawashima's Brain Training - How Old Is Your Brain (Australia) (Demo) (Kiosk)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/D/Dr%20Kawashima%27s%20Brain%20Training%20-%20How%20Old%20Is%20Your%20Brain%20%28Australia%29%20%28Demo%29%20%28Kiosk%29.nds",
+				   "output": "%NDS%/Dr Kawashima's Brain Training - How Old Is Your Brain (Australia) (Demo) (Kiosk).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Gardening Guide - How to Get Green Fingers",
+					"version": "Australia",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 689,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1689.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/G/Gardening%20Guide%20-%20How%20to%20Get%20Green%20Fingers/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"Gardening Guide - How to Get Green Fingers": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/G/Gardening%20Guide%20-%20How%20to%20Get%20Green%20Fingers%20%28Australia%29.nds",
+				   "output": "%NDS%/Gardening Guide - How to Get Green Fingers (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/G/Gardening%20Guide%20-%20How%20to%20Get%20Green%20Fingers/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Gardening Guide - How to Get Green Fingers (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "NRL Mascot Mania",
+					"version": "Australia",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 690,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1690.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/N/NRL%20Mascot%20Mania/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"NRL Mascot Mania": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/N/NRL%20Mascot%20Mania%20%28Australia%29.nds",
+				   "output": "%NDS%/NRL Mascot Mania (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/N/NRL%20Mascot%20Mania/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/NRL Mascot Mania (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "PokerDome Poker Master - No Limit Texas Hold'em Poker",
+					"version": "Australia",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 691,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1691.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/PokerDome%20Poker%20Master%20-%20No%20Limit%20Texas%20Hold%27em%20Poker/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"PokerDome Poker Master - No Limit Texas Hold'em Poker": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/P/PokerDome%20Poker%20Master%20-%20No%20Limit%20Texas%20Hold%27em%20Poker%20%28Australia%29.nds",
+				   "output": "%NDS%/PokerDome Poker Master - No Limit Texas Hold'em Poker (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/PokerDome%20Poker%20Master%20-%20No%20Limit%20Texas%20Hold%27em%20Poker/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/PokerDome Poker Master - No Limit Texas Hold'em Poker (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Sesame Street - Ready, Set, Grover!",
+					"version": "Australia",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 692,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1692.png",
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"Sesame Street - Ready, Set, Grover!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/S/Sesame%20Street%20-%20Ready%2C%20Set%2C%20Grover%21%20%28Australia%29.nds",
+				   "output": "%NDS%/Sesame Street - Ready, Set, Grover! (Australia).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Shane Watson's Power Play Cricket 2011",
+					"version": "Australia",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 693,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1693.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/S/Shane%20Watson%27s%20Power%20Play%20Cricket%202011/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"Shane Watson's Power Play Cricket 2011": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/S/Shane%20Watson%27s%20Power%20Play%20Cricket%202011%20%28Australia%29.nds",
+				   "output": "%NDS%/Shane Watson's Power Play Cricket 2011 (Australia).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/S/Shane%20Watson%27s%20Power%20Play%20Cricket%202011/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Shane Watson's Power Play Cricket 2011 (Australia).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "V8 Supercars Australia 3 - Create & Race",
+					"version": "Australia",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 694,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1694.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/V/V8%20Supercars%20Australia%203%20-%20Create%20%26%20Race/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-01 at 20:55 (UTC)"
+},
+"V8 Supercars Australia 3 - Create & Race": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/V/V8%20Supercars%20Australia%203%20-%20Create%20%26%20Race%20%28Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/V8 Supercars Australia 3 - Create & Race (Australia) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/V/V8%20Supercars%20Australia%203%20-%20Create%20%26%20Race/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/V8 Supercars Australia 3 - Create & Race (Australia) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
 }]}
