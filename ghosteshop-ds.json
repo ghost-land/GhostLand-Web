@@ -11,12 +11,12 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 9
+"revision": 10
 },
 "storeContent": [
 {"info": {
 					"title": "007 - Blood Stone",
-					"version": "USA",
+					"version": "USA, Canada",
 					"author": "Activision",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -34,7 +34,7 @@
 					"description": "Action game. Full of gunfights and boat and car chases, the adventure here takes us to the four corners of the world to stop a terrorist threat. There is also a multiplayer mode for four budding spies.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"007 - Blood Stone": {
+"007 - Blood Stone (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/007%20-%20Blood%20Stone%20%28USA%29.nds",
@@ -45,6 +45,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/007 - Blood Stone (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"007 - Blood Stone (Canada)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/1234567890/007%20-%20Blood%20Stone%20%28Canada%29.nds",
+				   "output": "%NDS%/007 - Blood Stone (Canada).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/007%20-%20Blood%20Stone/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/007 - Blood Stone (Canada).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
@@ -3557,7 +3570,7 @@
 },
 {"info": {
 					"title": "Barbie - Groom and Glam Pups",
-					"version": "USA",
+					"version": "USA, Brazil",
 					"author": "THQ",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3570,9 +3583,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-05-03 at 06:05 (UTC)"
 },
-"Barbie - Groom and Glam Pups": {
+"Barbie - Groom and Glam Pups (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28USA%29%20%28En%2CFr%29.nds",
@@ -3584,7 +3597,20 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Barbie%20-%20Groom%20and%20Glam%20Pups/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie - Groom and Glam Pups (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "32,00 MiB"}
+				   "size": "32,00 MiB"},
+"Barbie - Groom and Glam Pups (Brazil)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Brazil/B/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28Brazil%29%20%28En%2CEs%2CPt%29.nds",
+				   "output": "%NDS%/Barbie - Groom and Glam Pups (Brazil) (En,Es,Pt).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Barbie%20-%20Groom%20and%20Glam%20Pups/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Barbie - Groom and Glam Pups (Brazil) (En,Es,Pt).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Barbie - Jet, Set & Style!",
@@ -4166,7 +4192,7 @@
 "Bejeweled Twist (Australia)": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Australia/B/Bejeweled%20Twist%20%28Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/B/Bejeweled%20Twist%20%28Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28NDSi%20Enhanced%29.nds",
 				   "output": "%NDS%/Bejeweled Twist (Australia) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -6748,7 +6774,7 @@
 },
 {"info": {
 					"title": "Call of Duty - Black Ops",
-					"version": "USA",
+					"version": "USA, Canada",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -6761,9 +6787,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-07 at 21:14 (UTC)"
+					"last_updated": "2023-05-03 at 21:14 (UTC)"
 },
-"Call of Duty - Black Ops": {
+"Call of Duty - Black Ops (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/C/Call%20of%20Duty%20-%20Black%20Ops%20%28USA%29.nds",
@@ -6774,6 +6800,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/C/Call%20of%20Duty%20-%20Black%20Ops/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Call of Duty - Black Ops (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Call of Duty - Black Ops (Canada)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/C/Call%20of%20Duty%20-%20Black%20Ops%20%28Canada%29.nds",
+				   "output": "%NDS%/Call of Duty - Black Ops (Canada).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/C/Call%20of%20Duty%20-%20Black%20Ops/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Call of Duty - Black Ops (Canada).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
@@ -11877,7 +11916,7 @@
 },
 {"info": {
 					"title": "Dora Puppy",
-					"version": "USA",
+					"version": "USA, Canada",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -11890,9 +11929,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-08 at 02:30 (UTC)"
+					"last_updated": "2023-05-03 at 02:30 (UTC)"
 },
-"Dora Puppy": {
+"Dora Puppy (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/D/Dora%20Puppy%20%28USA%29.nds",
@@ -11904,7 +11943,20 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/D/Dora%20Puppy/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Dora Puppy (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "8,00 MiB"}
+				   "size": "8,00 MiB"},
+"Dora Puppy (Canada)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/D/Dora%20Puppy%20%28Canada%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Dora Puppy (Canada) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/D/Dora%20Puppy/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Dora Puppy (Canada) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Dora the Explorer - Dora Saves the Mermaids",
@@ -16899,7 +16951,7 @@
 },
 {"info": {
 					"title": "GoldenEye 007",
-					"version": "USA",
+					"version": "USA, Canada",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -16912,9 +16964,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-08 at 23:30 (UTC)"
+					"last_updated": "2023-05-03 at 23:30 (UTC)"
 },
-"GoldenEye 007": {
+"GoldenEye 007 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/G/GoldenEye%20007%20%28USA%29.nds",
@@ -16925,6 +16977,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/G/GoldenEye%20007/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/GoldenEye 007 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"GoldenEye 007 (Canada)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/G/GoldenEye%20007%20%28Canada%29.nds",
+				   "output": "%NDS%/GoldenEye 007 (Canada).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/G/GoldenEye%20007/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/GoldenEye 007 (Canada).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
@@ -19224,7 +19289,7 @@
 },
 {"info": {
 					"title": "Hot Wheels - Track Attack",
-					"version": "USA",
+					"version": "USA, Brazil",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -19237,9 +19302,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-13 at 20:55 (UTC)"
+					"last_updated": "2023-05-03 at 06:55 (UTC)"
 },
-"Hot Wheels - Track Attack": {
+"Hot Wheels - Track Attack (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/H/Hot%20Wheels%20-%20Track%20Attack%20%28USA%29%20%28En%2CFr%29%20%28NDSi%20Enhanced%29.nds",
@@ -19250,6 +19315,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/H/Hot%20Wheels%20-%20Track%20Attack/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hot Wheels - Track Attack (USA) (En,Fr) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Hot Wheels - Track Attack (Brazil)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Brazil/H/Hot%20Wheels%20-%20Track%20Attack%20%28Brazil%29%20%28En%2CEs%2CPt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Hot Wheels - Track Attack (Brazil) (En,Es,Pt) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/H/Hot%20Wheels%20-%20Track%20Attack/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hot Wheels - Track Attack (Brazil) (En,Es,Pt) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
@@ -21810,7 +21888,7 @@
 "Jake Power - Firefighter": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Australia/J/Jake%20Power%20-%20Firefighter%20%28Australia%29%20%28En%2CFr%2CEs%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Australia/J/Jake%20Power%20-%20Firefighter%20%28Australia%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/Jake Power - Firefighter (Australia) (En,Fr,Es).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -24050,7 +24128,7 @@
 },
 {"info": {
 					"title": "Kung Fu Panda",
-					"version": "USA",
+					"version": "USA, Canada",
 					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -24063,9 +24141,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-13 at 20:55 (UTC)"
+					"last_updated": "2023-05-03 at 20:55 (UTC)"
 },
-"Kung Fu Panda": {
+"Kung Fu Panda (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/K/Kung%20Fu%20Panda%20%28USA%29.nds",
@@ -24077,7 +24155,20 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/K/Kung%20Fu%20Panda/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kung Fu Panda (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "32,00 MiB"}
+				   "size": "32,00 MiB"},
+"Kung Fu Panda (Canada)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/K/Kung%20Fu%20Panda%20%28Canada%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/Kung Fu Panda (Canada).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/K/Kung%20Fu%20Panda/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Kung Fu Panda (Canada).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Kung Fu Panda - Legendary Warriors",
@@ -52720,6 +52811,119 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/V/V8%20Supercars%20Australia%203%20-%20Create%20%26%20Race/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/V8 Supercars Australia 3 - Create & Race (Australia) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Madagascar 2",
+					"version": "Canada",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 695,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1695.png",
+					"description": "",
+					"last_updated": "2023-05-03 at 08:55 (UTC)"
+},
+"Madagascar 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Madagascar%202%20%28Canada%29%20%5Bb%5D.nds",
+				   "output": "%NDS%/Madagascar 2 (Canada) [b].nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Mon Coach Personnel - J'Ameliore Mon Anglais",
+					"version": "Canada",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 696,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1696.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Anglais/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-03 at 08:55 (UTC)"
+},
+"Mon Coach Personnel - J'Ameliore Mon Anglais": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Anglais%20%28Canada%29.nds",
+				   "output": "%NDS%/Mon Coach Personnel - J'Ameliore Mon Anglais (Canada).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Anglais/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Mon Coach Personnel - J'Ameliore Mon Anglais (Canada).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Mon Coach Personnel - J'Ameliore Mon Espagnol",
+					"version": "Canada",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 697,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1697.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Espagnol/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-03 at 08:55 (UTC)"
+},
+"Mon Coach Personnel - J'Ameliore Mon Espagnol": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Espagnol%20%28Canada%29.nds",
+				   "output": "%NDS%/Mon Coach Personnel - J'Ameliore Mon Espagnol (Canada).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Espagnol/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Mon Coach Personnel - J'Ameliore Mon Espagnol (Canada).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Mon Coach Personnel - J'Enrichis Mon Vocabulaire",
+					"version": "Canada",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 698,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1698.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/M/Mon%20Coach%20Personnel%20-%20J%27Enrichis%20Mon%20Vocabulaire/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-03 at 08:55 (UTC)"
+},
+"Mon Coach Personnel - J'Enrichis Mon Vocabulaire": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Enrichis%20Mon%20Vocabulaire%20%28Canada%29.nds",
+				   "output": "%NDS%/Mon Coach Personnel - J'Enrichis Mon Vocabulaire (Canada).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/M/Mon%20Coach%20Personnel%20-%20J%27Enrichis%20Mon%20Vocabulaire/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Mon Coach Personnel - J'Enrichis Mon Vocabulaire (Canada).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 }]}
