@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 12
+"revision": 13
 },
 "storeContent": [
 {"info": {
@@ -247,27 +247,51 @@
 },
 {"info": {
 					"title": "101 in 1 Explosive Megamix",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Atlus",
 					"category": ["Games"],
 					"console": ["DS"],
 					"icon_index": 6,
 					"sheet_index": 1,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon7.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Explosive%20Megamix/boxart.png",
+		            			"description": "Boxart"
+		            		}],
 					"description": "Players can use the stylus and touch screen to test their reflexes in action minigames like racing and skydiving, take on sporting events such as basketball, curling, and archery.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"101 in 1 Explosive Megamix": {
+"101 in 1 Explosive Megamix (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/101%20in%201%20Explosive%20Megamix%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
 				   "output": "%NDS%/101 in 1 Explosive Megamix (USA) (En,Fr,Es).nds",
-				   "message": "Download your .nds file..."}],
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Explosive%20Megamix/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 in 1 Explosive Megamix (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"101 in 1 Explosive Megamix (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/101%20in%201%20Explosive%20Megamix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/101 in 1 Explosive Megamix (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Explosive%20Megamix/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 in 1 Explosive Megamix (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "101 in 1 Sports Megamix",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Atlus",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -282,7 +306,7 @@
 					"description": "101 in 1: Sports Megamix is a compilation of games for DS. This compilation offers many events (101 to be exact) that combine reflexes and coordination. Bowling, boxing, tennis, basketball or even horse riding.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"101 in 1 Sports Megamix": {
+"101 in 1 Sports Megamix (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/101%20in%201%20Sports%20Megamix%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -293,6 +317,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Sports%20Megamix/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 in 1 Sports Megamix (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"101 in 1 Sports Megamix (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/101%20in%201%20Sports%20Megamix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/101 in 1 Sports Megamix (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 in 1 Sports Megamix (Europe) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -53474,4 +53511,991 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Silke - Pixelines Lillesoester - Syng, Leg og Laer (Denmark) [b].nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "100 Classic Book Collection",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 713,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1713.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Book%20Collection/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"100 Classic Book Collection": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/100%20Classic%20Book%20Collection%20%28Europe%29.nds",
+				   "output": "%NDS%/100 Classic Book Collection (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Book%20Collection/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/100 Classic Book Collection (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "100 Classic Games",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 714,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1714.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"100 Classic Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/100%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/100 Classic Games (Europe) (En,Fr,De,Es,It) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/100%20Classic%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/100 Classic Games (Europe) (En,Fr,De,Es,It) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "1000 Cooking Recipes from Elle a Table",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 715,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1715.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/1000%20Cooking%20Recipes%20from%20Elle%20a%20Table/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"1000 Cooking Recipes from Elle a Table": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/1000%20Cooking%20Recipes%20from%20Elle%20a%20Table%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/1000 Cooking Recipes from Elle a Table (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/1000%20Cooking%20Recipes%20from%20Elle%20a%20Table/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1000 Cooking Recipes from Elle a Table (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "1001 Crosswords",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 716,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1716.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Crosswords/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"1001 Crosswords": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/1001%20Crosswords%20%28Europe%29.nds",
+				   "output": "%NDS%/1001 Crosswords (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Crosswords/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1001 Crosswords (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "101 Dino Pets",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 717,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1717.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/101%20Dino%20Pets/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"101 Dino Pets": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/101%20Dino%20Pets%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%29.nds",
+				   "output": "%NDS%/101 Dino Pets (Europe) (En,Fr,De,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/101%20Dino%20Pets/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 Dino Pets (Europe) (En,Fr,De,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "11 Card Games",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 720,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1720.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/11%20Card%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"11 Card Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/11%20Card%20Games%20%28Europe%29%20%28En%2CDe%2CEs%29.nds",
+				   "output": "%NDS%/11 Card Games (Europe) (En,De,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/11%20Card%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/11 Card Games (Europe) (En,De,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "12 Family Games",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 721,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1721.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/12%20Family%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"12 Family Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/12%20Family%20Games%20%28Europe%29%20%5Bb%5D.nds",
+				   "output": "%NDS%/12 Family Games (Europe) [b].nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/12%20Family%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/12 Family Games (Europe) [b].nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": " MiB"}
+},
+{"info": {
+					"title": "18 Card Games",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 722,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1722.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/18%20Card%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"18 Card Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/18%20Card%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CNl%29.nds",
+				   "output": "%NDS%/18 Card Games (Europe) (En,Fr,De,Es,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/18%20Card%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/18 Card Games (Europe) (En,Fr,De,Es,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 723,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1723.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Games%20in%201%20-%20Jewel%20Master%20-%20Cradle%20of%20Egypt%20%2B%20Mahjongg%20-%20Ancient%20Egypt/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20Games%20in%201%20-%20Jewel%20Master%20-%20Cradle%20of%20Egypt%20%2B%20Mahjongg%20-%20Ancient%20Egypt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20Games%20in%201%20-%20Jewel%20Master%20-%20Cradle%20of%20Egypt%20%2B%20Mahjongg%20-%20Ancient%20Egypt/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "2 Games on 1 Card - Monster Trucks Mayhem & ATV - Thunder Ridge Riders",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 724,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1724.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20Games%20on%201%20Card%20-%20Monster%20Trucks%20Mayhem%20%26%20ATV%20-%20Thunder%20Ridge%20Riders/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 Games on 1 Card - Monster Trucks Mayhem & ATV - Thunder Ridge Riders": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20Games%20on%201%20Card%20-%20Monster%20Trucks%20Mayhem%20%26%20ATV%20-%20Thunder%20Ridge%20Riders%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/2 Games on 1 Card - Monster Trucks Mayhem & ATV - Thunder Ridge Riders (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20Games%20on%201%20Card%20-%20Monster%20Trucks%20Mayhem%20%26%20ATV%20-%20Thunder%20Ridge%20Riders/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 Games on 1 Card - Monster Trucks Mayhem & ATV - Thunder Ridge Riders (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - Mahjong + Mahjong Around the World",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 725,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1725.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20Mahjong%20%2B%20Mahjong%20Around%20the%20World/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - Mahjong + Mahjong Around the World": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20Mahjong%20%2B%20Mahjong%20Around%20the%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20Mahjong%20%2B%20Mahjong%20Around%20the%20World/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,0 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 726,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1726.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20Music%20for%20Kids%20%2B%20Englisch%20Macht%20Spass%20-%20Eine%20Reise%20nach%20London%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20Music%20for%20Kids%20%2B%20Englisch%20Macht%20Spass%20-%20Eine%20Reise%20nach%20London%21%20%28Europe%29%20%28En%2CDe%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20Music%20for%20Kids%20%2B%20Englisch%20Macht%20Spass%20-%20Eine%20Reise%20nach%20London%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - My Little Baby + My Boyfriend",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 727,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1727.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Little%20Baby%20%2B%20My%20Boyfriend/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - My Little Baby + My Boyfriend": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20My%20Little%20Baby%20%2B%20My%20Boyfriend%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%2CNo%2CDa%29.nds",
+				   "output": "%NDS%/2 in 1 - My Little Baby + My Boyfriend (Europe) (En,Fr,De,Es,It,Sv,No,Da).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Little%20Baby%20%2B%20My%20Boyfriend/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - My Little Baby + My Boyfriend (Europe) (En,Fr,De,Es,It,Sv,No,Da).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - My Pet Hotel + My Vet Practice - In the Country",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 728,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1728.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Pet%20Hotel%20%2B%20My%20Vet%20Practice%20-%20In%20the%20Country/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - My Pet Hotel + My Vet Practice - In the Country": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20My%20Pet%20Hotel%20%2B%20My%20Vet%20Practice%20-%20In%20the%20Country%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/2 in 1 - My Pet Hotel + My Vet Practice - In the Country (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Pet%20Hotel%20%2B%20My%20Vet%20Practice%20-%20In%20the%20Country/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - My Pet Hotel + My Vet Practice - In the Country (Europe) (En,Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 729,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1729.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Pet%20Hotel%202%20%2B%20My%20Vet%20Practice%20-%20In%20the%20Country/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20My%20Pet%20Hotel%202%20%2B%20My%20Vet%20Practice%20-%20In%20the%20Country%20%28Europe%29%20%28Fr%2CDe%29.nds",
+				   "output": "%NDS%/2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country (Europe) (Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Pet%20Hotel%202%20%2B%20My%20Vet%20Practice%20-%20In%20the%20Country/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country (Europe) (Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - My Pet School + Best Friends - My Horse",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 730,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1730.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Pet%20School%20%2B%20Best%20Friends%20-%20My%20Horse/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - My Pet School + Best Friends - My Horse": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20My%20Pet%20School%20%2B%20Best%20Friends%20-%20My%20Horse%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/2 in 1 - My Pet School + Best Friends - My Horse (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Pet%20School%20%2B%20Best%20Friends%20-%20My%20Horse/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - My Pet School + Best Friends - My Horse (Europe) (En,Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 731,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1731.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Riding%20Stables%20-%20Life%20with%20Horses/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - My Riding Stables + My Riding Stables - Life with Horses": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Riding%20Stables%20-%20Life%20with%20Horses%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/2 in 1 - My Riding Stables + My Riding Stables - Life with Horses (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Riding%20Stables%20-%20Life%20with%20Horses/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - My Riding Stables + My Riding Stables - Life with Horses (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - My Riding Stables + My Western Horse",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 732,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1732.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Western%20Horse/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - My Riding Stables + My Western Horse": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Western%20Horse%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/2 in 1 - My Riding Stables + My Western Horse (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Western%20Horse/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - My Riding Stables + My Western Horse (Europe) (En,Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "2 in 1 - My Vet Practice + My Pet Hotel 2",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 733,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1733.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Vet%20Practice%20%2B%20My%20Pet%20Hotel%202/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"2 in 1 - My Vet Practice + My Pet Hotel 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2%20in%201%20-%20My%20Vet%20Practice%20%2B%20My%20Pet%20Hotel%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/2%20in%201%20-%20My%20Vet%20Practice%20%2B%20My%20Pet%20Hotel%202/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 734,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1734.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Cradle%20of%20Rome%20%2B%20Cradle%20of%20Athena%20%2B%20Cradle%20of%20Egypt/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20Game%20Pack%21%20-%20Cradle%20of%20Rome%20%2B%20Cradle%20of%20Athena%20%2B%20Cradle%20of%20Egypt%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Cradle%20of%20Rome%20%2B%20Cradle%20of%20Athena%20%2B%20Cradle%20of%20Egypt/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "3 Game Pack! - Uno & Skip-Bo & Uno Free Fall",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 735,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1735.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Uno%20%26%20Skip-Bo%20%26%20Uno%20Free%20Fall/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 Game Pack! - Uno & Skip-Bo & Uno Free Fall": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20Game%20Pack%21%20-%20Uno%20%26%20Skip-Bo%20%26%20Uno%20Free%20Fall%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/3 Game Pack! - Uno & Skip-Bo & Uno Free Fall (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20Game%20Pack%21%20-%20Uno%20%26%20Skip-Bo%20%26%20Uno%20Free%20Fall/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 Game Pack! - Uno & Skip-Bo & Uno Free Fall (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "3 in 1 - Animals",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 736,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1736.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20Animals/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 in 1 - Animals": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20in%201%20-%20Animals%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/3 in 1 - Animals (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20Animals/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 in 1 - Animals (Europe) (En,Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "3 in 1 - Horses",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 737,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1737.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20Horses/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 in 1 - Horses": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20in%201%20-%20Horses%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/3 in 1 - Horses (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20Horses/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 in 1 - Horses (Europe) (En,Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "3 in 1 - My Horse + My Vet Practice + My Vet Practice in the Country",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 738,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1738.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Horse%20%2B%20My%20Vet%20Practice%20%2B%20My%20Vet%20Practice%20in%20the%20Country/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 in 1 - My Horse + My Vet Practice + My Vet Practice in the Country": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20in%201%20-%20My%20Horse%20%2B%20My%20Vet%20Practice%20%2B%20My%20Vet%20Practice%20in%20the%20Country%20%28Europe%29%20%28Fr%2CDe%2CIt%29.nds",
+				   "output": "%NDS%/3 in 1 - My Horse + My Vet Practice + My Vet Practice in the Country (Europe) (Fr,De,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Horse%20%2B%20My%20Vet%20Practice%20%2B%20My%20Vet%20Practice%20in%20the%20Country/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 in 1 - My Horse + My Vet Practice + My Vet Practice in the Country (Europe) (Fr,De,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "3 in 1 - My Riding Stables + My Pet School + My Western Horse",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 739,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1739.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Pet%20School%20%2B%20My%20Western%20Horse/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 in 1 - My Riding Stables + My Pet School + My Western Horse": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Pet%20School%20%2B%20My%20Western%20Horse%20%28Europe%29%20%28Fr%2CDe%2CIt%29.nds",
+				   "output": "%NDS%/3 in 1 - My Riding Stables + My Pet School + My Western Horse (Europe) (Fr,De,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Riding%20Stables%20%2B%20My%20Pet%20School%20%2B%20My%20Western%20Horse/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 in 1 - My Riding Stables + My Pet School + My Western Horse (Europe) (Fr,De,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 740,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1740.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Riding%20Stables%20-%20Life%20with%20Horses%20%2B%20My%20Pet%20Hotel%202%20%26%20%2B%20My%20Pet%20School/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20in%201%20-%20My%20Riding%20Stables%20-%20Life%20with%20Horses%20%2B%20My%20Pet%20Hotel%202%20%26%20%2B%20My%20Pet%20School%20%28Europe%29%20%28Fr%2CDe%2CIt%29.nds",
+				   "output": "%NDS%/3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School (Europe) (Fr,De,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Riding%20Stables%20-%20Life%20with%20Horses%20%2B%20My%20Pet%20Hotel%202%20%26%20%2B%20My%20Pet%20School/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School (Europe) (Fr,De,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 741,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1741.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Vet%20Practice%20%26%20Riding%20Star%20%26%20My%20Vet%20Practice%20in%20Australia/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20in%201%20-%20My%20Vet%20Practice%20%26%20Riding%20Star%20%26%20My%20Vet%20Practice%20in%20Australia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20My%20Vet%20Practice%20%26%20Riding%20Star%20%26%20My%20Vet%20Practice%20in%20Australia/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "3 in 1 - Solitaire, Mahjong & Tangram",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 742,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1742.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20Solitaire%2C%20Mahjong%20%26%20Tangram/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"3 in 1 - Solitaire, Mahjong & Tangram": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/3%20in%201%20-%20Solitaire%2C%20Mahjong%20%26%20Tangram%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/3 in 1 - Solitaire, Mahjong & Tangram (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/3%20in%201%20-%20Solitaire%2C%20Mahjong%20%26%20Tangram/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/3 in 1 - Solitaire, Mahjong & Tangram (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "4 Elements",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 743,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1743.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/4%20Elements/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"4 Elements (Europe) (Fr,De)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/4%20Elements%20%28Europe%29%20%28Fr%2CDe%29.nds",
+				   "output": "%NDS%/4 Elements (Europe) (Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/4%20Elements/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Elements (Europe) (Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"4 Elements (Europe) (Fr,Nl)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/4%20Elements%20%28Europe%29%20%28Fr%2CNl%29.nds",
+				   "output": "%NDS%/4 Elements (Europe) (Fr,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/4%20Elements/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Elements (Europe) (Fr,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"4 Elements (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/4%20Elements%20%28Europe%29.nds",
+				   "output": "%NDS%/4 Elements (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/4%20Elements/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Elements (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "42 All-Time Classics",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 744,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1744.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/42%20All-Time%20Classics/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"42 All-Time Classics": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/42%20All-Time%20Classics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/42 All-Time Classics (Europe) (En,Fr,De,Es,It) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/42%20All-Time%20Classics/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/42 All-Time Classics (Europe) (En,Fr,De,Es,It) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "8BallAllstars",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 745,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1745.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/1234567890/8BallAllstars/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 20:00 (UTC)"
+},
+"8BallAllstars": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/8BallAllstars%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/8BallAllstars (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/8BallAllstars/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/8BallAllstars (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
 }]}
