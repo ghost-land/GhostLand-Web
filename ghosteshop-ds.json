@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 10
+"revision": 11
 },
 "storeContent": [
 {"info": {
@@ -4908,7 +4908,7 @@
 {"info": {
 					"title": "Biker Mice from Mars",
 					"version": "USA",
-					"author": "The Game Factory (USA)",
+					"author": "The Game Factory",
 					"category": ["Games"],
 					"console": ["DS"],
 					"icon_index": 158,
@@ -52924,6 +52924,429 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/M/Mon%20Coach%20Personnel%20-%20J%27Enrichis%20Mon%20Vocabulaire/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Mon Coach Personnel - J'Enrichis Mon Vocabulaire (Canada).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Flunkerne Pirater",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 699,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1699.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/F/Flunkerne%20Pirater/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Flunkerne Pirater": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/F/Flunkerne%20Pirater%20%28Denmark%29.nds",
+				   "output": "%NDS%/Flunkerne Pirater (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/F/Flunkerne%20Pirater/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Flunkerne Pirater (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Hugo - Den forsvundne Kaempe",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 700,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1700.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/H/Hugo%20-%20Den%20forsvundne%20Kaempe/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Hugo - Den forsvundne Kaempe": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/H/Hugo%20-%20Den%20forsvundne%20Kaempe%20%28Denmark%29.nds",
+				   "output": "%NDS%/Hugo - Den forsvundne Kaempe (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/H/Hugo%20-%20Den%20forsvundne%20Kaempe/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hugo - Den forsvundne Kaempe (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Hugo - Kampen om Krystalkortet",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 701,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1701.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/H/Hugo%20-%20Kampen%20om%20Krystalkortet/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Hugo - Kampen om Krystalkortet": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/H/Hugo%20-%20Kampen%20om%20Krystalkortet%20%28Denmark%29.nds",
+				   "output": "%NDS%/Hugo - Kampen om Krystalkortet (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/H/Hugo%20-%20Kampen%20om%20Krystalkortet/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Hugo - Kampen om Krystalkortet (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Orla Froesnapper",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 702,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1702.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/O/Orla%20Froesnapper/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Orla Froesnapper": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/O/Orla%20Froesnapper%20%28Denmark%29.nds",
+				   "output": "%NDS%/Orla Froesnapper (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/O/Orla%20Froesnapper/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Orla Froesnapper (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline - Hotel Skrottenborg",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 703,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1703.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Hotel%20Skrottenborg/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline - Hotel Skrottenborg": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20-%20Hotel%20Skrottenborg%20%28Denmark%29.nds",
+				   "output": "%NDS%/Pixeline - Hotel Skrottenborg (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Hotel%20Skrottenborg/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline - Hotel Skrottenborg (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline - Jungleskatten",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 704,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1704.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Jungleskatten/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline - Jungleskatten": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20-%20Jungleskatten%20%28Denmark%29.nds",
+				   "output": "%NDS%/Pixeline - Jungleskatten (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Jungleskatten/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline - Jungleskatten (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline - Magi i Pixieland",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 705,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1705.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Magi%20i%20Pixieland/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline - Magi i Pixieland": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20-%20Magi%20i%20Pixieland%20%28Denmark%29.nds",
+				   "output": "%NDS%/Pixeline - Magi i Pixieland (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Magi%20i%20Pixieland/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline - Magi i Pixieland (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline - Skole-Hjaelp - Laer at Stave - Stavning eller Kaos",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 706,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1706.png",
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline - Skole-Hjaelp - Laer at Stave - Stavning eller Kaos": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20-%20Skole-Hjaelp%20-%20Laer%20at%20Stave%20-%20Stavning%20eller%20Kaos%20%28Denmark%29.nds",
+				   "output": "%NDS%/Pixeline - Skole-Hjaelp - Laer at Stave - Stavning eller Kaos (Denmark).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline - Skole-hjaelp - Dansk - Kaos i Kommakoebing",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 707,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1707.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Dansk%20-%20Kaos%20i%20Kommakoebing/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline - Skole-hjaelp - Dansk - Kaos i Kommakoebing": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20-%20Skole-hjaelp%20-%20Dansk%20-%20Kaos%20i%20Kommakoebing%20%28Denmark%29%20%5Bb%5D.nds",
+				   "output": "%NDS%/Pixeline - Skole-hjaelp - Dansk - Kaos i Kommakoebing (Denmark) [b].nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Dansk%20-%20Kaos%20i%20Kommakoebing/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline - Skole-hjaelp - Dansk - Kaos i Kommakoebing (Denmark) [b].nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline - Skole-hjaelp - Engelsk - Goes to London",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 708,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1708.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Engelsk%20-%20Goes%20to%20London/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline - Skole-hjaelp - Engelsk - Goes to London": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20-%20Skole-hjaelp%20-%20Engelsk%20-%20Goes%20to%20London%20%28Denmark%29.nds",
+				   "output": "%NDS%/Pixeline - Skole-hjaelp - Engelsk - Goes to London (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Engelsk%20-%20Goes%20to%20London/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline - Skole-hjaelp - Engelsk - Goes to London (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline - Skole-hjaelp - Matematik - Taager over Talstrup",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 709,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1709.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Matematik%20-%20Taager%20over%20Talstrup/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline - Skole-hjaelp - Matematik - Taager over Talstrup": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20-%20Skole-hjaelp%20-%20Matematik%20-%20Taager%20over%20Talstrup%20%28Denmark%29.nds",
+				   "output": "%NDS%/Pixeline - Skole-hjaelp - Matematik - Taager over Talstrup (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Matematik%20-%20Taager%20over%20Talstrup/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline - Skole-hjaelp - Matematik - Taager over Talstrup (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Pixeline og Droemmespejlet",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 710,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1710.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20og%20Droemmespejlet/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Pixeline og Droemmespejlet": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/P/Pixeline%20og%20Droemmespejlet%20%28Denmark%29.nds",
+				   "output": "%NDS%/Pixeline og Droemmespejlet (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Pixeline%20og%20Droemmespejlet/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline og Droemmespejlet (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Silke - Pixelines Lillesoester - Hoensefoedder og Guleroedder",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 711,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1711.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/S/Silke%20-%20Pixelines%20Lillesoester%20-%20Hoensefoedder%20og%20Guleroedder/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Silke - Pixelines Lillesoester - Hoensefoedder og Guleroedder": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/S/Silke%20-%20Pixelines%20Lillesoester%20-%20Hoensefoedder%20og%20Guleroedder%20%28Denmark%29.nds",
+				   "output": "%NDS%/Silke - Pixelines Lillesoester - Hoensefoedder og Guleroedder (Denmark).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/S/Silke%20-%20Pixelines%20Lillesoester%20-%20Hoensefoedder%20og%20Guleroedder/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Silke - Pixelines Lillesoester - Hoensefoedder og Guleroedder (Denmark).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Silke - Pixelines Lillesoester - Syng, Leg og Laer",
+					"version": "Denmark",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 712,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1712.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/S/Silke%20-%20Pixelines%20Lillesoester%20-%20Syng%2C%20Leg%20og%20Laer/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-05-05 at 07:55 (UTC)"
+},
+"Silke - Pixelines Lillesoester - Syng, Leg og Laer": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Denmark/S/Silke%20-%20Pixelines%20Lillesoester%20-%20Syng%2C%20Leg%20og%20Laer%20%28Denmark%29%20%5Bb%5D.nds",
+				   "output": "%NDS%/Silke - Pixelines Lillesoester - Syng, Leg og Laer (Denmark) [b].nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/S/Silke%20-%20Pixelines%20Lillesoester%20-%20Syng%2C%20Leg%20og%20Laer/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Silke - Pixelines Lillesoester - Syng, Leg og Laer (Denmark) [b].nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 }]}
