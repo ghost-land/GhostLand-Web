@@ -63,7 +63,7 @@
 },
 {"info": {
 					"title": "007 - Quantum of Solace",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Activision",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -71,19 +71,33 @@
 					"sheet_index": 1,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon2.png",
 					"description": "New episode of the James Bond saga, Quantum of Solace allows you to play as the most famous secret agent on Nintendo DS.",
-					"last_updated": "2022-07-27 at 01:03 (UTC)"
+					"last_updated": "2023-05-05 at 10:03 (UTC)"
 },
-"007 - Quantum of Solace": {
+"007 - Quantum of Solace (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/007%20-%20Quantum%20of%20Solace%20%28USA%29%20%28En%2CFr%29.nds",
 				   "output": "%NDS%/007 - Quantum of Solace (USA) (En,Fr).nds",
 				   "message": "Download your .nds file..."}],
+				   "size": "32,00 MiB"},
+"007 - Quantum of Solace (Europe) (Es,It)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28Es%2CIt%29.nds",
+				   "output": "%NDS%/007 - Quantum of Solace (Europe) (Es,It).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,00 MiB"},
+"007 - Quantum of Solace (Europe) (En,Fr)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/007%20-%20Quantum%20of%20Solace%20%28Europe%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/007 - Quantum of Solace (Europe) (En,Fr).nds",
+				   "message": "Download your .nds file..."}],
 				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "1 vs 100",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Destination Software, KSS",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -98,7 +112,7 @@
 					"description": "1 vs. 100 for the Nintendo DS recreates the fun of the hit TV show, while 4 additional game modes bring on new and competitive excitement.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"1 vs 100": {
+"1 vs 100 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/1%20vs%20100%20%28USA%29.nds",
@@ -110,7 +124,20 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/1%20vs%20100/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1 vs 100 (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "16,00 MiB"}
+				   "size": "16,00 MiB"},
+"1 vs 100 (Europe) [b]": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/1%20vs%20100%20%28Europe%29%20%5Bb%5D.nds",
+				   "output": "%NDS%/1 vs 100 (Europe) [b].nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/1%20vs%20100/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1 vs 100 (Europe) [b].nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
 },
 {"info": {
 					"title": "100 All-Time Favorites",
@@ -145,7 +172,7 @@
 },
 {"info": {
 					"title": "100 Classic Books",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Nintendo",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -176,7 +203,7 @@
 },
 {"info": {
 					"title": "1001 Touch Games",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Maximum Family",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -189,9 +216,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "1001 Touch Games features the largest collection of “pick-up-and-play” arcade games available! Choose from hidden object scenes, matching games, strategy games,...",
-					"last_updated": "2022-07-27 at 01:03 (UTC)"
+					"last_updated": "2023-05-05 at 01:03 (UTC)"
 },
-"1001 Touch Games": {
+"1001 Touch Games (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/1001%20Touch%20Games%20%28USA%29.nds",
@@ -202,6 +229,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Touch%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1001 Touch Games (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"1001 Touch Games (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/1001%20Touch%20Games%20%28Europe%29%20%28En%2CFr%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/1001 Touch Games (Europe) (En,Fr,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/1001%20Touch%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/1001 Touch Games (Europe) (En,Fr,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -470,7 +510,7 @@
 },
 {"info": {
 					"title": "2006 FIFA World Cup - Germany 2006",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Electronic Arts",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -478,13 +518,20 @@
 					"sheet_index": 1,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon15.png",
 					"description": "The game contains 127 playable teams. Despite licensing issues between EA and the national football associations of Japan and the Netherlands, the two teams are fully licensed with real names and kits.",
-					"last_updated": "2022-07-27 at 01:03 (UTC)"
+					"last_updated": "2023-05-05 at 01:03 (UTC)"
 },
-"2006 FIFA World Cup - Germany 2006": {
+"2006 FIFA World Cup - Germany 2006 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/2006%20FIFA%20World%20Cup%20-%20Germany%202006%20%28USA%29.nds",
 				   "output": "%NDS%/2006 FIFA World Cup - Germany 2006 (USA).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "32,00 MiB"},
+"2006 FIFA World Cup - Germany 2006 (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/2006%20FIFA%20World%20Cup%20-%20Germany%202006%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/2006 FIFA World Cup - Germany 2006 (Europe) (En,Fr,De,Es,It).nds",
 				   "message": "Download your .nds file..."}],
 				   "size": "32,00 MiB"}
 },
@@ -552,7 +599,7 @@
 },
 {"info": {
 					"title": "4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Infogrames",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -565,9 +612,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-07-27 at 01:03 (UTC)"
+					"last_updated": "2023-05-05 at 01:03 (UTC)"
 },
-"4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship": {
+"4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship%20%28USA%29.nds",
@@ -578,6 +625,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship%20%28Europe%29.nds",
+				   "output": "%NDS%/4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/4%20Game%20Fun%20Pack%20-%20Monopoly%20%2B%20Boggle%20%2B%20Yahtzee%20%2B%20Battleship/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship (Europe).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -645,7 +705,7 @@
 },
 {"info": {
 					"title": "50 Classic Games",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Destineer",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -660,7 +720,7 @@
 					"description": "",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"50 Classic Games": {
+"50 Classic Games (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/50%20Classic%20Games%20%28USA%29%20%28Rev%201%29.nds",
@@ -671,6 +731,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/50%20Classic%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/50 Classic Games (USA) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"},
+"50 Classic Games (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/50%20Classic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/50 Classic Games (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/50%20Classic%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/50 Classic Games (Europe) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,00 MiB"}
 },
@@ -707,7 +780,7 @@
 },
 {"info": {
 					"title": "7 Wonders - Treasures of Seven",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "MumboJumbo",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -722,7 +795,7 @@
 					"description": "",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"7 Wonders - Treasures of Seven": {
+"7 Wonders - Treasures of Seven (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven%20%28USA%29.nds",
@@ -734,11 +807,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders - Treasures of Seven (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"},
+"7 Wonders - Treasures of Seven (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven%20%28Europe%29.nds",
+				   "output": "%NDS%/7 Wonders - Treasures of Seven (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20-%20Treasures%20of%20Seven/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders - Treasures of Seven (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "8,00 MiB"}
 },
 {"info": {
 					"title": "7 Wonders II",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "MumboJumbo",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -753,7 +839,7 @@
 					"description": "In this puzzle game, you have to build the 7 Wonders of the World with the help of little Egyptians who are ready to do anything to help you in your task. You have to align a series of runes to build the wonders of our world. Each wonder has 6 or 7 levels of difficulty.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"7 Wonders II": {
+"7 Wonders II (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/7%20Wonders%20II%20%28USA%29.nds",
@@ -765,11 +851,37 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders II (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"7 Wonders II (Europe) (En,Fr)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/7%20Wonders%20II%20%28Europe%29%20%28En%2CFr%29.nds",
+				   "output": "%NDS%/7 Wonders II (Europe) (En,Fr).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders II (Europe) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"7 Wonders II (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/7%20Wonders%20II%20%28Europe%29.nds",
+				   "output": "%NDS%/7 Wonders II (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20II/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders II (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "7 Wonders of the Ancient World",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "MumboJumbo",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -784,7 +896,7 @@
 					"description": "Players take the task of reconstructing the Seven Wonders of the Ancient World. In each wonder, there are 5 to 7 sub-levels of runes that players switch to form a row of 3 or more runes. There are two modes of play: Free Play and Quest Modes.",
 					"last_updated": "2022-07-27 at 01:03 (UTC)"
 },
-"7 Wonders of the Ancient World": {
+"7 Wonders of the Ancient World (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/7%20Wonders%20of%20the%20Ancient%20World%20%28USA%29.nds",
@@ -796,7 +908,20 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20of%20the%20Ancient%20World/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders of the Ancient World (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
-				   "size": "8,00 MiB"}
+				   "size": "8,00 MiB"},
+"7 Wonders of the Ancient World (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/1234567890/7%20Wonders%20of%20the%20Ancient%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/7 Wonders of the Ancient World (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/7%20Wonders%20of%20the%20Ancient%20World/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/7 Wonders of the Ancient World (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Mario Kart Ds Deluxe",
@@ -52854,7 +52979,7 @@
 "Mon Coach Personnel - J'Ameliore Mon Anglais": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Anglais%20%28Canada%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Anglais%20%28Canada%29.nds",
 				   "output": "%NDS%/Mon Coach Personnel - J'Ameliore Mon Anglais (Canada).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -52885,7 +53010,7 @@
 "Mon Coach Personnel - J'Ameliore Mon Espagnol": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Espagnol%20%28Canada%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Ameliore%20Mon%20Espagnol%20%28Canada%29.nds",
 				   "output": "%NDS%/Mon Coach Personnel - J'Ameliore Mon Espagnol (Canada).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -52916,7 +53041,7 @@
 "Mon Coach Personnel - J'Enrichis Mon Vocabulaire": {
 	"script": [{
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Enrichis%20Mon%20Vocabulaire%20%28Canada%29.nds",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Canada/M/Mon%20Coach%20Personnel%20-%20J%27Enrichis%20Mon%20Vocabulaire%20%28Canada%29.nds",
 				   "output": "%NDS%/Mon Coach Personnel - J'Enrichis Mon Vocabulaire (Canada).nds",
 				   "message": "Download your .nds file..."
 }, 
@@ -53221,7 +53346,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "https://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Engelsk%20-%20Goes%20to%20London/boxart-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/P/Pixeline%20-%20Skole-hjaelp%20-%20Engelsk%20-%20Goes%20to%20London/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pixeline - Skole-hjaelp - Engelsk - Goes to London (Denmark).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
