@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 173
+"revision": 174
 },
 "storeContent": [
 {"info": {
@@ -748,14 +748,21 @@
 					"size": "23,21 MiB"}
 },
 {"info": {
-					"title": "Bomb Monkey",
+					"title": "Bomb Monkey™",
 					"version": "USA",
 					"author": "Renegade Kid",
 					"category": "eShop",
 					"console": "3DS",
 					"icon_index": 249,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon250.png",
+					"screenshots": 
+		            [{"url": "https://cdn.ghosteshop.com/db/3ds/US/Bomb%20Monkey/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Bomb%20Monkey/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Bomb%20Monkey/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Bomb%20Monkey/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "With an endless supply of bloks and a steady stream of bombs, you can partake in this legendary sport anytime you have a spare moment. Young Bomb Monkeys will learn patience and strategy.",
+					"longdescription": "Blok Bombing is a fine and ancient sport invented by a small and creative troop of primates, called Bomb Monkeys. The goal is simple: do not allow the bloks rising from the jungle floor to reach dangerous heights and knock you from your perch. <br><br> With an endless supply of bloks and a steady stream of bombs, you can partake in this legendary sport anytime you have a spare moment. Young Bomb Monkeys will learn patience and strategy. Older Bomb Monkeys will sharpen their wits. And, every Bomb Monkey will have a blast! <br><br> Several variations on the classic “Endless” Blok Bombing sport have emerged over the centuries, providing both variety and unique challenges for avid enthusiasts of the sport.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "Bomb Monkey": {
@@ -784,7 +791,14 @@
 					"console": "3DS",
 					"icon_index": 250,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon251.png",
+					"screenshots": 
+		            [{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cave%20Story/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cave%20Story/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cave%20Story/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cave%20Story/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "A young hero with amnesia discovers a hidden land and vows to protect the defenseless creatures that live there!",
+					"longdescription": "Cave Story takes you into a rare world where a curious race of innocent rabbit-like creatures, called Mimiga, run free. <br><br> You wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. While uncovering the Mimiga Village, you discover that the once-carefree Mimiga are in danger at the hands of a maniacal scientist. <br><br> Their only hope rests squarely on the shoulders of a quiet, amnesiac boy who can't remember his own name. Take control and learn the origins of this world’s power, stop the delusional villain and save the Mimiga!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "Cave Story": {
@@ -806,7 +820,7 @@
 					"size": "22,88 MiB"}
 },
 {"info": {
-					"title": "Cocoto - Alien Brick Breaker",
+					"title": "Cocoto Alien Brick Breaker",
 					"version": "EUR",
 					"author": "Bigben Interactive",
 					"category": "Games",
@@ -814,28 +828,30 @@
 					"icon_index": 251,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon252.png",
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Cocoto%20Alien%20Brick%20Breaker/art.png",
-		            			"description": "Art"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cocoto%20Alien%20Brick%20Breaker/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cocoto%20Alien%20Brick%20Breaker/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cocoto%20Alien%20Brick%20Breaker/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Cocoto%20Alien%20Brick%20Breaker/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "A revolutionary new version of the classic game!\nTravel through the 5 planets of Cocoto's world to protect them from alien fire by bouncing back the missiles with your magic shield. Take on a host of enemies with hilarious weapons and unlock new powers for your shield.",
+					"longdescription": "Cocoto renews an arcade game classic! <br><br> The devilish Cocoto is back in an incredibly addictive game, brilliantly renewing the great brick breaker classic! Travel through the 5 planets of Cocoto’s universe to protect them from alien fire by firing back their projectiles with your magic shield. Progress through the game confronting waves of more and more enemies with increasingly amusing weapons, and unlock new powers for your shield. <br><br> Story, Arcade and Classic modes<br> 50 levels<br> 13 ultra-powerful shields!<br> A myriad of enemies with increasingly amazing powers",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
-"Cocoto - Alien Brick Breaker": {
+"Cocoto Alien Brick Breaker": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/EUR/C/Cocoto%20-%20Alien%20Brick%20Breaker%20%28EUR%29.cia",
-				   "output": "sdmc:/Cocoto - Alien Brick Breaker (EUR).cia",
+				   "output": "sdmc:/Cocoto Alien Brick Breaker (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
 {
 				   "type": "installCia",
-				   "file": "/Cocoto - Alien Brick Breaker (EUR).cia",
+				   "file": "/Cocoto Alien Brick Breaker (EUR).cia",
 				   "message": "Installing your game in progress..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Cocoto - Alien Brick Breaker (EUR).cia",
+				   "file": "sdmc:/Cocoto Alien Brick Breaker (EUR).cia",
 				   "message": "Cleaning..."}],
 					"size": "88,42 MiB"}
 },
@@ -847,7 +863,14 @@
 					"console": "3DS",
 					"icon_index": 252,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon253.png",
+					"screenshots": 
+		            [{"url": "https://cdn.ghosteshop.com/db/3ds/US/Colors%203d/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Colors%203d/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Colors%203d/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Colors%203d/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "Colors! 3D is a simple yet robust painting application that combines ease of use with the power of painting tools. Based on modern painting techniques developed for professional drawing tablets, Colors! 3D is suitable for touchscreen devices, and is for everyone from professional artists to Sunday doodles.",
+					"longdescription": "Colors! 3D is a simple yet robust painting application that combines ease of use and powerful painting tools. Based on modern painting techniques originally developed for professional drawing tablets, Colors! 3D is tailored for the Nintendo 3DS system and caters to everyone from serious artists to aimless doodlers. Whether you are looking to sketch, paint, or draw up your next plans for world domination, Colors! 3D is the perfect digital sketchbook. <br><br> Create and view your own 3D paintings for the very first time<br> Connect to the online Colors! 3D gallery to share and celebrate your works with the world<br> Paint with a friend on a shared canvas using Nintendo 3DS Local Play<br> For those who like to stay within the lines, Colors! 3D comes with an assortment of coloring pages<br> <br> Update Includes:<br> Follow your favorite artists in the gallery to make sure you don’t miss any of their paintings<br> Customize your Nintendo 3DS button setup to streamline your painting flow<br> Use the new search-bar to easily find paintings of your favorite topics<br> Filter paintings in the gallery based on if they used a reference photo not – only want to see original works? No problem<br> See what tools you and others used to create a painting – and find out who spent over 30 hours on a single work!<br> Get news directly in Colors! 3D about everything from gallery improvements to painting contests<br> Make your own gallery page more individual by customizing it with a message and a profile picture<br> Tag your paintings with the new #tags system for other users to easily find them<br> And tons (and tons) of other additions and bug-fixes<br> ",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "Colors! 3D": {
@@ -869,14 +892,21 @@
 					"size": "26,42 MiB"}
 },
 {"info": {
-					"title": "Crashmo",
+					"title": "Crashmo™",
 					"version": "USA",
 					"author": "Nintendo",
 					"category": "eShop",
 					"console": "3DS",
 					"icon_index": 253,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon254.png",
+					"screenshots": 
+		            [{"url": "https://cdn.ghosteshop.com/db/3ds/US/Crashmo/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Crashmo/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Crashmo/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Crashmo/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "Welcome to Crashmo! Embrace the laws of gravity, and challenge yourself with a whole new kind of action-puzzle play in this exciting sequel to the critically acclaimed Pushmo™ game. New gravity mechanics and gadgets like floating blocks, doors, and move switches await.",
+					"longdescription": "Welcome to Crashmo! Embrace the laws of gravity, and challenge yourself with a whole new kind of action-puzzle play in this exciting sequel to the critically acclaimed Pushmo™ game. New gravity mechanics and gadgets like floating blocks, doors, and move switches await. Push, pull, and slide each puzzle's colorful blocks in order to climb to the top—just be careful where those blocks go. Unsupported blocks will come crashing down! The Crashmo game contains plenty of puzzles to test your skills, and enhanced puzzle-creation and puzzle-sharing features mean that even when all the puzzles are cleared, the fun never has to stop!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "Crashmo": {
@@ -898,7 +928,7 @@
 					"size": "20,36 MiB"}
 },
 {"info": {
-					"title": "Donkey Kong Country Returns 3D",
+					"title": "Donkey Kong Country™ Returns 3D",
 					"version": "USA, JPN",
 					"author": "Nintendo",
 					"category": "Games",
@@ -906,11 +936,14 @@
 					"icon_index": 254,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon255.png",
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Donkey%20Kong%20Country%20Returns%203D/boxart.png",
-		            			"description": "Cover-Art"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Donkey%20Kong%20Country%20Returns%203D/boxart.png","description": "Boxart"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Donkey%20Kong%20Country%20Returns%203d/banner.png","description": "Banner"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Donkey%20Kong%20Country%20Returns%203d/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Donkey%20Kong%20Country%20Returns%203d/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Donkey%20Kong%20Country%20Returns%203d/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "Prepare for monkey business with the king of the jungle! Donkey Kong and his primate helper Diddy Kong are back for even more action-packed platforming roles in Donkey Kong Country Returns 3D, an enhanced version of the Wii adventure Donkey Kong Country Returns, only for Nintendo 3Ds and Nintendo 3DS XL!",
+					"longdescription": "Donkey Kong™, along with his trusted side-kick Diddy Kong™, makes his triumphant debut on the Nintendo 3DS™ system in this barrel-blasting, rail-riding, ground-pounding adventure. The original Donkey Kong Country Returns has been re-mastered and updated for portable play! Run, jump, climb and defeat enemies through over 65+ levels spanning 8 worlds on Donkey Kong Island. <br><br> Unlock an all-new 9th world with 8 brand new levels. Select the Original Mode to play the game with the same rules and settings as the Wii version, or try the New Mode that gives you an additional heart, as well as new items to help on your quest to recover Donkey Kong’s stolen banana hoard!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "Donkey Kong Country Returns 3D (USA)": {
@@ -949,7 +982,7 @@
 					"size": "2,15 GiB"}
 },
 {"info": {
-					"title": "Dragon Quest VIII - Journey of the Cursed King",
+					"title": "Dragon Quest® VIII: Journey of the Cursed King",
 					"version": "USA",
 					"author": "Nintendo",
 					"category": "Games",
@@ -957,17 +990,17 @@
 					"icon_index": 255,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon256.png",
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VIII%20Journey%20of%20the%20Cursed%20King/boxart.png",
-		            			"description": "Cover-Art"
-		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VIII%20Journey%20of%20the%20Cursed%20King/screenshots/starting-sequence.png",
-		            			"description": "Starting Sequence"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Dragon%20Quest%20VIII%20Journey%20of%20the%20Cursed%20King/boxart.png","description": "Boxart"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Dragon%20Quest%20Viii%20Journey%20Of%20The%20Cursed%20King/banner.png","description": "Banner"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Dragon%20Quest%20Viii%20Journey%20Of%20The%20Cursed%20King/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Dragon%20Quest%20Viii%20Journey%20Of%20The%20Cursed%20King/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Dragon%20Quest%20Viii%20Journey%20Of%20The%20Cursed%20King/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "No new Dragon Quest has been released for many years, but after five years the world can get started with a new adventure. Before that, however, we can first get started with the Nintendo 3DS remake of Dragon Quest VIII: Journey of the Cursed King.",
+					"longdescription": "Uncover the story of the Cursed King as you save the world from a twisted magician in this genre-defining role-playing game. Across the vast world you’ll wage turn-based battles against more than 250 monsters designed by artist Akira Toriyama. This updated classic also includes new dungeons, bosses, items, quests, scenes, and a new possible ending! <br><br> There’s a rhythm to fighting, earning items, using them to craft something better in the alchemy pot, and returning to battle, stronger than ever. As you level up, upgrade your warriors’ skills to learn mighty attacks. For the first time, Red the bandit and Monster Arena owner Morrie join your party as playable characters! There are also new outfits that change each hero’s look, which makes for some perfect in-game photo ops. You can share the pictures you take via StreetPass™ encounters. Plus, you can form and battle teams of monsters to earn rewards in the Monster Arena. Now the must-play version of this classic game is exclusive to the Nintendo 3DS™ family of systems.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
-"Dragon Quest VIII - Journey of the Cursed King": {
+"Dragon Quest® VIII: Journey of the Cursed King": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/D/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20%28USA%29.cia",
@@ -994,11 +1027,14 @@
 					"icon_index": 256,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon257.png",
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Driver%20Renegade%203D/boxart.png",
-		            			"description": "Cover-Art"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Driver%20Renegade%203D/boxart.png","description": "Boxart"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Driver%20Renegade/banner.png","description": "Banner"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Driver%20Renegade/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Driver%20Renegade/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Driver%20Renegade/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "The game includes over 80 missions and up to 50 cars that can be tuned in the garage. Tanner's abilities include a Rage bar to take down enemy vehicles. It also includes 7 Challenge Modes including Time Attack, Elimination Mode and Road War.",
+					"longdescription": "Driver Renegade is the first and exclusive action driving game on Nintendo 3DS that lets you experience the intensity and brutality of urban car chases in 3D. Drive recklessly, perform jumps to fill your Rage bar and unleash devastating takedowns on your enemy cars! <br><br> After years of undercover work on the Force, John Tanner wants to take matters of crime in his own hands, regardless of what the Law dictates. In a corrupt New York City run by criminal mobs, Tanner saves Senator Ballard’s life. He needs help in leading a crusade against Crime. Tanner accepts to clean the city off the record, against the Senator’s protection. <br><br> Tanner becomes a renegade and must take out five kingpins: a drug dealer, a human-organs trafficker, a pimp, an arms dealer and an over-greedy trader. Helped by his few friends, with no badge to hold him back, Tanner wages his war against crime with his weapon of choice: his car!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "Driver: Renegade (USA)": {
@@ -1044,7 +1080,14 @@
 					"console": "3DS",
 					"icon_index": 257,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon258.png",
+					"screenshots": 
+		            [{"url": "https://cdn.ghosteshop.com/db/3ds/JP/Edge/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/JP/Edge/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/JP/Edge/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/JP/Edge/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "In EDGE, the award winning retro inspired platformer, players take direct control of the cube and roll their way around the game's dozens of levels. Search for all the prisms, find the shortcuts to improve your times.",
+					"longdescription": "シンプル操作で、キューブをゴールまで転がそう。100以上のステージには「移動」、「落下」するブロックなど、数多くの仕掛けとトラップが待ち受ける。プリズムを集め、短時間でステージをクリアするのがポイント。キューブの端でバランスをとることでボーナスタイムを獲得する!",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "Edge": {
@@ -1066,7 +1109,7 @@
 					"size": "75,12 MiB"}
 },
 {"info": {
-					"title": "Face Racers Photo Finish",
+					"title": "Face Racers: Photo Finish",
 					"version": "USA",
 					"author": "Majesco Entertainment",
 					"category": "Games",
@@ -1074,14 +1117,16 @@
 					"icon_index": 258,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon259.png",
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Face%20Racers%20Photo%20Finish/art.png",
-		            			"description": "Art"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/db/3ds/US/Face%20Racers%20Photo%20Finish/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Face%20Racers%20Photo%20Finish/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Face%20Racers%20Photo%20Finish/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Face%20Racers%20Photo%20Finish/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "Start your turbo-charged engines and blast into the outrageous arcade racing game, Face Racers: Photo Finish, with photo customizable 3D racers that put YOU in the game!",
+					"longdescription": "Start your turbo-charged engines and blast into the outrageous arcade racing game, Face Racers: Photo Finish, with photo customizable 3D racers that put YOU in the game! Available on the Nintendo 3DS system, Face Racers delivers unique, in-your-face gameplay, with dangerous obstacles that come to life in 3D right before your eyes! Take photos with your Nintendo 3DS camera and place them on the face of your custom 3D racer, billboards and power-ups. Personalize photos with 100 choices ranging from hairstyles, clothing, eyewear and more! Take on friends in multiplayer mode for a true photo finish in Face Racers! Tilt your Nintendo 3DS like a steering wheel to race your customizable car with ease and precision. The unique tilt-steering control system is made easy for everyone to turn, accelerate, break, and reverse.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
-"Face Racers Photo Finish": {
+"Face Racers: Photo Finish": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/F/Face%20Racers%20Photo%20Finish%20%28USA%29.cia",
@@ -1108,10 +1153,12 @@
 					"icon_index": 259,
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon260.png",
 					"screenshots": 
-		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Farming%20Simulator%2018/boxart.png",
-		            			"description": "Cover-Art"
-		            		}],
+		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/Farming%20Simulator%2018/boxart.png","description": "Boxart"
+		            },{"url": "https://cdn.ghosteshop.com/db/3ds/US/Farming%20Simulator%2018/banner.png","description": "Banner"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Farming%20Simulator%2018/screenshots/screenshot_1.png","description": "Screen 1/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Farming%20Simulator%2018/screenshots/screenshot_2.png","description": "Screen 2/3"
+					},{"url": "https://cdn.ghosteshop.com/db/3ds/US/Farming%20Simulator%2018/screenshots/screenshot_3.png","description": "Screen 3/3"
+		            }],
 					"description": "Become a modern farmer in Farming Simulator 18! Plant, harvest and trade crops, including sunflowers for the first time. Spread your activities with animal husbandry and forestry.",
 					"last_updated": "2020-10-03 at 15:09 (UTC)"
 },
@@ -47932,7 +47979,7 @@
 },
 {"info": {
 		            "title": "PKSM",
-		            "version": "v9.2.0",
+		            "version": "v10.0.0",
 		            "author": "FlagBrew",
 		            "category": "Homebrew",
 		            "console": "3DS",
@@ -47942,7 +47989,7 @@
 		            "screenshots": 
 		            [{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_1.png","description": "Screen 1"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_2.png","description": "Screen 2"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_3.png","description": "Screen 3"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_4.png","description": "Screen 4"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_5.png","description": "Screen 5"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_6.png","description": "Screen 6"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_7.png","description": "Screen 7"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_8.png","description": "Screen 8"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_9.png","description": "Screen 9"},{"url": "https://cdn.ghosteshop.com/Images/3ds/PKSM/screenshots/screen_10.png","description": "Screen 10"}],
 		            "description": "Multipurpose and portable Pokemon save manager and editor for generations III to VIII, programmed in C++",
-		            "last_updated": "2023-02-15 at 08:30 (UTC)"
+		            "last_updated": "2023-03-26 at 08:30 (UTC)"
 },
 "PKSM.cia": {
 	"script": [{
@@ -47960,14 +48007,14 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/PKSM.cia",
 				   "message": "Cleaning..."}],
-				   "size": "5,83 MiB"},
+				   "size": "5,56 MiB"},
 "PKSM.3dsx": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Homebrew/PKSM/PKSM.3dsx",
 				   "output": "sdmc:/3ds/PKSM.3dsx",
 				   "message": "Downloading PKSM.3dsx..."}],
-					"size": "6,99 MiB"}
+					"size": "6,80 MiB"}
 },
 {"info": {
 		            "title": "Otosan: Nintendo 3DS Edition",
