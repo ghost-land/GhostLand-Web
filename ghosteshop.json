@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 174
+"revision": 175
 },
 "storeContent": [
 {"info": {
@@ -48104,4 +48104,53 @@
 				   "file": "sdmc:/Silver Falls Gaiden DDD (USA).cia",
 				   "message": "Cleaning..."}],
 				   "size": "121,35 MiB"}
+},
+{"info": {
+		            "title": "GTA Vice City for New 3DS",
+				   	"version": "2.0.0",
+				   	"author": "AJM",
+				   	"category": "Homebrew",
+		            "console": "New 3DS",
+					"icon_index": 40,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1298.png",
+		            "description": "Porting of GTA Vice City for New 3DS\n\nVERY IMPORTANT: DON'T FORGET TO DOWNLOAD 'Important Files' AND EXTRACT IT TO THE SD CARD ROTARY, OR 'GTAVC.cia' WILL NOT WORK",
+		            "last_updated": "2023-10-10 at 22:58 (UTC)"
+},
+"GTAVC.cia": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Port%20GTA%20Vice%20City%20for%20New%203DS/GTAVC.cia",
+				   "output": "sdmc:/GTAVC.cia",
+				   "message": "Downloading GTAVC.cia"
+}, 
+{
+		           "type": "installCia",
+				   "file": "/GTAVC.cia",
+				   "message": "Installing GTAVC.cia..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/GTAVC.cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,15 MiB"},
+"Important Files": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Port%20GTA%20Vice%20City%20for%20New%203DS/extract_directly_at_the_root_of_the_sd.zip",
+				   "output": "sdmc:/3ds/miami.zip",
+				   "message": "Downloading miami.zip..."
+}, 
+{
+				   "type": "extractFile",
+				   "file": "/3ds/miami.zip",
+				   "input": "3ds/miami/",
+				   "output": "/3ds/miami/",
+				   "message": "Extracting miami folder..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "/3ds/miami.zip",
+				   "message": "Deleting miami.zip..."}],
+					"size": "1,30 GiB"}
 }]}
