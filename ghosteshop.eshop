@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 175
+"revision": 176
 },
 "storeContent": [
 {"info": {
@@ -48153,4 +48153,34 @@
 				   "file": "/3ds/miami.zip",
 				   "message": "Deleting miami.zip..."}],
 					"size": "1,30 GiB"}
+},
+{"info": {
+		            "title": "Geometry Dash 3DS",
+		            "version": "v0.0.0",
+		            "author": "(C)",
+		            "category": "Homebrew",
+		            "console": "3DS",
+		            "icon_index": 41,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1299.png",
+		            "description": "",
+		            "last_updated": "2023-10-15 at 14:00 (UTC)"
+},
+"Geometry Dash 3DS": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Geometry%20Dash%203DS/GeometryDash3DS.cia",
+				   "output": "sdmc:/GeometryDash3DS.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/GeometryDash3DS.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/GeometryDash3DS.cia",
+				   "message": "Cleaning..."}],
+				   "size": "33,73 MiB"}
 }]}
