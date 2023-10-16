@@ -2595,7 +2595,7 @@
 },
 {"info": {
 					"title": "Anno 1701 - Dawn of Discovery",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Ubisoft",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2608,9 +2608,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Anno 1701 - Dawn of Discovery": {
+"Anno 1701 - Dawn of Discovery (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Anno%201701%20-%20Dawn%20of%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -2622,11 +2622,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Anno%201701%20-%20Dawn%20of%20Discovery/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Anno 1701 - Dawn of Discovery (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"Anno 1701 - Dawn of Discovery (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Anno%201701%20-%20Dawn%20of%20Discovery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Anno 1701 - Dawn of Discovery (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Anno%201701%20-%20Dawn%20of%20Discovery/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Anno 1701 - Dawn of Discovery (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Ant Nation",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Konami Digital Entertainment",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2639,9 +2652,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Ant Nation": {
+"Ant Nation (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Ant%20Nation%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -2653,11 +2666,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Ant%20Nation/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ant Nation (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"Ant Nation (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Ant%20Nation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Ant Nation (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Ant%20Nation/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ant Nation (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Apollo Justice - Ace Attorney",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Capcom",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2670,9 +2696,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Apollo Justice - Ace Attorney": {
+"Apollo Justice - Ace Attorney (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28USA%29.nds",
@@ -2684,11 +2710,50 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Apollo Justice - Ace Attorney (Europe) (Es,It)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28Europe%29%20%28Es%2CIt%29.nds",
+				   "output": "%NDS%/Apollo Justice - Ace Attorney (Europe) (Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (Europe) (Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Apollo Justice - Ace Attorney (Europe) (Fr,De)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28Europe%29%20%28Fr%2CDe%29.nds",
+				   "output": "%NDS%/Apollo Justice - Ace Attorney (Europe) (Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (Europe) (Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Apollo Justice - Ace Attorney (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28Europe%29.nds",
+				   "output": "%NDS%/Apollo Justice - Ace Attorney (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Aqua Panic!",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "XS Games",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2701,9 +2766,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Aqua Panic!": {
+"Aqua Panic! (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aqua%20Panic%21%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -2714,6 +2779,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Aqua%20Panic%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aqua Panic! (USA) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"Aqua Panic! (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Aqua%20Panic%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.nds",
+				   "output": "%NDS%/Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Aqua%20Panic%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
