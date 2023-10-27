@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 15
+"revision": 16
 },
 "storeContent": [
 {"info": {
@@ -328,7 +328,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "http://-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/1234567890/101%20in%201%20Sports%20Megamix/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/101 in 1 Sports Megamix (Europe) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
@@ -2595,7 +2595,7 @@
 },
 {"info": {
 					"title": "Anno 1701 - Dawn of Discovery",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Ubisoft",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2608,9 +2608,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Anno 1701 - Dawn of Discovery": {
+"Anno 1701 - Dawn of Discovery (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Anno%201701%20-%20Dawn%20of%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -2622,11 +2622,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Anno%201701%20-%20Dawn%20of%20Discovery/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Anno 1701 - Dawn of Discovery (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"Anno 1701 - Dawn of Discovery (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Anno%201701%20-%20Dawn%20of%20Discovery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Anno 1701 - Dawn of Discovery (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Anno%201701%20-%20Dawn%20of%20Discovery/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Anno 1701 - Dawn of Discovery (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Ant Nation",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Konami Digital Entertainment",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2639,9 +2652,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Ant Nation": {
+"Ant Nation (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Ant%20Nation%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -2653,11 +2666,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Ant%20Nation/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ant Nation (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"Ant Nation (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Ant%20Nation%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Ant Nation (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Ant%20Nation/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ant Nation (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Apollo Justice - Ace Attorney",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Capcom",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2670,9 +2696,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Apollo Justice - Ace Attorney": {
+"Apollo Justice - Ace Attorney (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28USA%29.nds",
@@ -2684,11 +2710,50 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Apollo Justice - Ace Attorney (Europe) (Es,It)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28Europe%29%20%28Es%2CIt%29.nds",
+				   "output": "%NDS%/Apollo Justice - Ace Attorney (Europe) (Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (Europe) (Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Apollo Justice - Ace Attorney (Europe) (Fr,De)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28Europe%29%20%28Fr%2CDe%29.nds",
+				   "output": "%NDS%/Apollo Justice - Ace Attorney (Europe) (Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (Europe) (Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Apollo Justice - Ace Attorney (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Apollo%20Justice%20-%20Ace%20Attorney%20%28Europe%29.nds",
+				   "output": "%NDS%/Apollo Justice - Ace Attorney (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Apollo%20Justice%20-%20Ace%20Attorney/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Apollo Justice - Ace Attorney (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Aqua Panic!",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "XS Games",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2701,9 +2766,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-07-31 at 10:05 (UTC)"
 },
-"Aqua Panic!": {
+"Aqua Panic! (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aqua%20Panic%21%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -2715,11 +2780,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Aqua%20Panic%21/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aqua Panic! (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"Aqua Panic! (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Aqua%20Panic%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29.nds",
+				   "output": "%NDS%/Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Aqua%20Panic%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aqua Panic! (Europe) (En,Fr,De,Es,It,Nl,Pt).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "16,00 MiB"}
 },
 {"info": {
 					"title": "Aquarium by DS",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Destineer",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2732,9 +2810,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-26 at 21:41 (UTC)"
 },
-"Aquarium by DS": {
+"Aquarium by DS (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Aquarium%20by%20DS%20%28USA%29.nds",
@@ -2745,6 +2823,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Aquarium%20by%20DS/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aquarium by DS (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"},
+"Aquarium by DS (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Aquarium%20by%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Aquarium by DS (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Aquarium%20by%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Aquarium by DS (Europe) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,00 MiB"}
 },
@@ -2918,7 +3009,7 @@
 },
 {"info": {
 					"title": "Army Men - Soldiers of Misfortune",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Destination Software, KSS",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -2931,9 +3022,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-26 at 22:23 (UTC)"
 },
-"Army Men - Soldiers of Misfortune": {
+"Army Men - Soldiers of Misfortune (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Army%20Men%20-%20Soldiers%20of%20Misfortune%20%28USA%29.nds",
@@ -2944,6 +3035,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Army%20Men%20-%20Soldiers%20of%20Misfortune/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Army Men - Soldiers of Misfortune (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Army Men - Soldiers of Misfortune (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Army%20Men%20-%20Soldiers%20of%20Misfortune%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Army Men - Soldiers of Misfortune (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Army%20Men%20-%20Soldiers%20of%20Misfortune/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Army Men - Soldiers of Misfortune (Europe) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -3000,7 +3104,7 @@
 },
 {"info": {
 					"title": "Asphalt - Urban GT",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Gameloft",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3013,9 +3117,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-27 at 04:05 (UTC)"
 },
-"Asphalt - Urban GT": {
+"Asphalt - Urban GT (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Asphalt%20-%20Urban%20GT%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -3027,11 +3131,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Asphalt%20-%20Urban%20GT/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asphalt - Urban GT (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Asphalt - Urban GT (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Asphalt%20-%20Urban%20GT%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Asphalt - Urban GT (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Asphalt%20-%20Urban%20GT/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asphalt - Urban GT (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Assassin's Creed - Altair's Chronicles",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Ubisoft",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3044,9 +3161,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-27 at 06:55 (UTC)"
 },
-"Assassin's Creed - Altair's Chronicles": {
+"Assassin's Creed - Altair's Chronicles (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -3058,11 +3175,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Assassin's Creed - Altair's Chronicles (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Assassin's Creed - Altair's Chronicles (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Assassin's Creed - Altair's Chronicles (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20-%20Altair%27s%20Chronicles/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Assassin's Creed - Altair's Chronicles (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Assassin's Creed II - Discovery",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Ubisoft",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3075,9 +3205,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-27 at 07:00 (UTC)"
 },
-"Assassin's Creed II - Discovery": {
+"Assassin's Creed II - Discovery (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Assassin%27s%20Creed%20II%20-%20Discovery%20%28USA%29%20%28En%2CFr%2CEs%29%20%28NDSi%20Enhanced%29.nds",
@@ -3089,11 +3219,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20II%20-%20Discovery/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Assassin's Creed II - Discovery (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Assassin%27s%20Creed%20II%20-%20Discovery%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Assassin's Creed II - Discovery (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Assassin%27s%20Creed%20II%20-%20Discovery/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Assassin's Creed II - Discovery (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Astro Boy - The Video Game",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "D3 Publisher",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3106,9 +3249,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-27 at 07:07 (UTC)"
 },
-"Astro Boy - The Video Game": {
+"Astro Boy - The Video Game (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Astro%20Boy%20-%20The%20Video%20Game%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
@@ -3119,6 +3262,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Astro%20Boy%20-%20The%20Video%20Game/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Astro Boy - The Video Game (USA) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Astro Boy - The Video Game (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Astro%20Boy%20-%20The%20Video%20Game%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Astro Boy - The Video Game (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Astro%20Boy%20-%20The%20Video%20Game/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Astro Boy - The Video Game (Europe) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -3186,7 +3342,7 @@
 },
 {"info": {
 					"title": "Atari Greatest Hits - Volume 1",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Infogrames",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3199,9 +3355,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-27 at 07:12 (UTC)"
 },
-"Atari Greatest Hits - Volume 1": {
+"Atari Greatest Hits - Volume 1 (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Atari%20Greatest%20Hits%20-%20Volume%201%20%28USA%29.nds",
@@ -3212,6 +3368,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%201/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Atari Greatest Hits - Volume 1 (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Atari Greatest Hits - Volume 1 (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Atari%20Greatest%20Hits%20-%20Volume%201%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/Atari Greatest Hits - Volume 1 (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Atari%20Greatest%20Hits%20-%20Volume%201/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Atari Greatest Hits - Volume 1 (Europe) (En,Fr,De).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -3279,7 +3448,7 @@
 },
 {"info": {
 					"title": "Avalon Code",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Rising Star Games",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3292,9 +3461,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-27 at 07:18 (UTC)"
 },
-"Avalon Code": {
+"Avalon Code (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Avalon%20Code%20%28USA%29.nds",
@@ -3305,6 +3474,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Avalon%20Code/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Avalon Code (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"},
+"Avalon Code (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Avalon%20Code%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/Avalon Code (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Avalon%20Code/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Avalon Code (Europe) (En,Fr,De).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "128,00 MiB"}
 },
@@ -3354,9 +3536,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-10-27 at 07:36 (UTC)"
 },
-"Away - Shuffle Dungeon": {
+"Away - Shuffle Dungeon (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Away%20-%20Shuffle%20Dungeon%20%28USA%29.nds",
@@ -3367,6 +3549,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Away%20-%20Shuffle%20Dungeon/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Away - Shuffle Dungeon (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Away - Shuffle Dungeon (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Away%20-%20Shuffle%20Dungeon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Away - Shuffle Dungeon (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Away%20-%20Shuffle%20Dungeon/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Away - Shuffle Dungeon (Europe) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
@@ -13189,7 +13384,7 @@
 {"info": {
 					"title": "Drawn to Life - SpongeBob SquarePants Edition",
 					"version": "USA",
-					"author": "https://cdn.ghosteshop.com/Images/ds/D/Drawn%20to%20Life%20-%20SpongeBob%20SquarePants%20Edition/boxart.png",
+					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
 					"icon_index": 400,
@@ -13933,7 +14128,7 @@
 {"info": {
 					"title": "Easy Piano",
 					"version": "USA",
-					"author": "https://cdn.ghosteshop.com/Images/ds/E/Easy%20Piano/boxart.png",
+					"author": "",
 					"category": ["Games"],
 					"console": ["DS"],
 					"icon_index": 424,
