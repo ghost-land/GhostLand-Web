@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 16
+"revision": 17
 },
 "storeContent": [
 {"info": {
@@ -1231,7 +1231,7 @@
 },
 {"info": {
 					"title": "Advance Wars - Dual Strike",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Nintendo",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -1244,9 +1244,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-04 at 10:05 (UTC)"
+					"last_updated": "2023-11-03 at 18:05 (UTC)"
 },
-"Advance Wars - Dual Strike": {
+"Advance Wars - Dual Strike (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/A/Advance%20Wars%20-%20Dual%20Strike%20%28USA%29.nds",
@@ -1257,6 +1257,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Dual%20Strike/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Advance Wars - Dual Strike (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Advance Wars - Dual Strike (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Advance%20Wars%20-%20Dual%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Dual%20Strike/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -3523,7 +3536,7 @@
 },
 {"info": {
 					"title": "Away - Shuffle Dungeon",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Majesco Entertainment",
 					"category": ["Games"],
 					"console": ["DS"],
