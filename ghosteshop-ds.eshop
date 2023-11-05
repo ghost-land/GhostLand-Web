@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 17
+"revision": 18
 },
 "storeContent": [
 {"info": {
@@ -55500,4 +55500,1259 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "512,00 MiB"}
+},
+{"info": {
+					"title": "Actionloop",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 750,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1750.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Actionloop/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Actionloop": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Actionloop%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Actionloop (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Actionloop/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Actionloop (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Active Health with Carol Vorderman",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 751,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1751.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Active%20Health%20with%20Carol%20Vorderman/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Active Health with Carol Vorderman": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Active%20Health%20with%20Carol%20Vorderman%20%28Europe%29.nds",
+				   "output": "%NDS%/Active Health with Carol Vorderman (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Active%20Health%20with%20Carol%20Vorderman/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Active Health with Carol Vorderman (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Actua Pool",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 752,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1752.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Actua%20Pool/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Actua Pool": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Actua%20Pool%20%28Europe%29%20%28En%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Actua Pool (Europe) (En,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Actua%20Pool/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Actua Pool (Europe) (En,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Addy - Do You Speak English",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 753,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1753.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Addy%20-%20Do%20You%20Speak%20English/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Addy - Do You Speak English": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Addy%20-%20Do%20You%20Speak%20English%20%28Europe%29%20%28Fr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Addy - Do You Speak English (Europe) (Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Addy%20-%20Do%20You%20Speak%20English/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Addy - Do You Speak English (Europe) (Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Advance Wars - Dark Conflict",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 754,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1754.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Dark%20Conflict/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Advance Wars - Dark Conflict": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Advance%20Wars%20-%20Dark%20Conflict%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Advance Wars - Dark Conflict (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Advance%20Wars%20-%20Dark%20Conflict/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Advance Wars - Dark Conflict (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Adventures of Pinocchio",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 755,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1755.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Adventures%20of%20Pinocchio/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Adventures of Pinocchio": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Adventures%20of%20Pinocchio%20%28Europe%29.nds",
+				   "output": "%NDS%/Adventures of Pinocchio (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Adventures%20of%20Pinocchio/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Adventures of Pinocchio (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "All Star Cheerleader",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 756,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1756.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/All%20Star%20Cheerleader/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"All Star Cheerleader (Europe) (En,De,Es)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/All%20Star%20Cheerleader%20%28Europe%29%20%28En%2CDe%2CEs%29.nds",
+				   "output": "%NDS%/All Star Cheerleader (Europe) (En,De,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/All%20Star%20Cheerleader/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/All Star Cheerleader (Europe) (En,De,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"All Star Cheerleader (Europe) (Sv,No,Da,Fi)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/All%20Star%20Cheerleader%20%28Europe%29%20%28Sv%2CNo%2CDa%2CFi%29.nds",
+				   "output": "%NDS%/All Star Cheerleader (Europe) (Sv,No,Da,Fi).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/All%20Star%20Cheerleader/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/All Star Cheerleader (Europe) (Sv,No,Da,Fi).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Allied Ace Pilots",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 757,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1757.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Allied%20Ace%20Pilots/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Allied Ace Pilots": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Allied%20Ace%20Pilots%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Allied Ace Pilots (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Allied%20Ace%20Pilots/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Allied Ace Pilots (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "American Dragon - Jake Long",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 758,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1758.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/American%20Dragon%20-%20Jake%20Long/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"American Dragon - Jake Long": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/American%20Dragon%20-%20Jake%20Long%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/American Dragon - Jake Long (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/American%20Dragon%20-%20Jake%20Long/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/American Dragon - Jake Long (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Ancient Spirits - Columbus' Legacy",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 759,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1759.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Ancient%20Spirits%20-%20Columbus%27%20Legacy/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Ancient Spirits - Columbus' Legacy": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Ancient%20Spirits%20-%20Columbus%27%20Legacy%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.nds",
+				   "output": "%NDS%/Ancient Spirits - Columbus' Legacy (Europe) (En,Fr,De,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Ancient%20Spirits%20-%20Columbus%27%20Legacy/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ancient Spirits - Columbus' Legacy (Europe) (En,Fr,De,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Angel Cat Sugar",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 760,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1760.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Angel%20Cat%20Sugar/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Angel Cat Sugar": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Angel%20Cat%20Sugar%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Angel Cat Sugar (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Angel%20Cat%20Sugar/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Angel Cat Sugar (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Animal Kororo",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 761,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1761.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Kororo/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal Kororo": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20Kororo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Animal Kororo (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20Kororo/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Kororo (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal Life - Africa",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 762,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1762.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Africa/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal Life - Africa": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20Life%20-%20Africa%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Animal Life - Africa (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Africa/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Life - Africa (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal Life - Australia",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 763,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1763.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Australia/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal Life - Australia": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20Life%20-%20Australia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Animal Life - Australia (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Australia/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Life - Australia (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal Life - Dinosaurs",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 764,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1764.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Dinosaurs/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal Life - Dinosaurs": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20Life%20-%20Dinosaurs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Animal Life - Dinosaurs (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Dinosaurs/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Life - Dinosaurs (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal Life - Eurasia",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 765,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1765.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Eurasia/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal Life - Eurasia": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20Life%20-%20Eurasia%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Animal Life - Eurasia (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20Eurasia/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Life - Eurasia (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal Life - North America",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 766,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1766.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20North%20America/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal Life - North America": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20Life%20-%20North%20America%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Animal Life - North America (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20Life%20-%20North%20America/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal Life - North America (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal World - Big Cats",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 767,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1767.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20World%20-%20Big%20Cats/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal World - Big Cats": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20World%20-%20Big%20Cats%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Animal World - Big Cats (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20World%20-%20Big%20Cats/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal World - Big Cats (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animal World - Dinosaurs",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 768,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1768.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animal%20World%20-%20Dinosaurs/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animal World - Dinosaurs": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animal%20World%20-%20Dinosaurs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Animal World - Dinosaurs (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animal%20World%20-%20Dinosaurs/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animal World - Dinosaurs (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Animaniacs - Lights, Camera, Action!",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 769,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1769.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Animaniacs%20-%20Lights%2C%20Camera%2C%20Action%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Animaniacs - Lights, Camera, Action!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Animaniacs%20-%20Lights%2C%20Camera%2C%20Action%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Animaniacs%20-%20Lights%2C%20Camera%2C%20Action%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Ankh - Curse of the Scarab King",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 770,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1770.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Ankh%20-%20Curse%20of%20the%20Scarab%20King/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Ankh - Curse of the Scarab King": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Ankh%20-%20Curse%20of%20the%20Scarab%20King%20%28Europe%29%20%28En%2CEs%2CIt%2CNl%2CPl%2CRu%29.nds",
+				   "output": "%NDS%/Ankh - Curse of the Scarab King (Europe) (En,Es,It,Nl,Pl,Ru).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Ankh%20-%20Curse%20of%20the%20Scarab%20King/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Ankh - Curse of the Scarab King (Europe) (En,Es,It,Nl,Pl,Ru).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"}
+},
+{"info": {
+					"title": "Anky's Ruiterschool",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 771,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1771.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Anky%27s%20Ruiterschool/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Anky's Ruiterschool": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Anky%27s%20Ruiterschool%20%28Europe%29%20%28Fr%2CNl%29.nds",
+				   "output": "%NDS%/Anky's Ruiterschool (Europe) (Fr,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Anky%27s%20Ruiterschool/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Anky's Ruiterschool (Europe) (Fr,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Anno - Create a New World",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 772,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1772.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Anno%20-%20Create%20a%20New%20World/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Anno - Create a New World": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Anno%20-%20Create%20a%20New%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Anno - Create a New World (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Anno%20-%20Create%20a%20New%20World/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Anno - Create a New World (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Another Code - Two Memories",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 773,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1773.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Another%20Code%20-%20Two%20Memories/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-07-31 at 20:55 (UTC)"
+},
+"Another Code - Two Memories": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Another%20Code%20-%20Two%20Memories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Another Code - Two Memories (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Another%20Code%20-%20Two%20Memories/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Another Code - Two Memories (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Arceus Distribution 2010",
+					"version": "EUR",
+					"author": "",
+					"category": ["Save Data", "Kiosk"],
+					"console": ["DS"],
+					"icon_index": 774,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1774.png",
+					"description": "",
+					"last_updated": "2023-10-26 at 21:46 (UTC)"
+},
+"Arceus Distribution 2010": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Arceus%20Distribution%202010%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Wi-Fi%20Kiosk%29%20%28Save%20Data%29.nds",
+				   "output": "%NDS%/Arceus Distribution 2010 (Europe) (En,Fr,De,Es,It) (Wi-Fi Kiosk) (Save Data).nds",
+				   "message": "Download your .nds file..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Are You Smarter than a 10 Year Old - The Official Nintendo DS Game",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 775,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1775.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%2010%20Year%20Old%20-%20The%20Official%20Nintendo%20DS%20Game/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Are You Smarter than a 10 Year Old - The Official Nintendo DS Game": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Are%20You%20Smarter%20than%20a%2010%20Year%20Old%20-%20The%20Official%20Nintendo%20DS%20Game%20%28Europe%29.nds",
+				   "output": "%NDS%/Are You Smarter than a 10 Year Old - The Official Nintendo DS Game (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Are%20You%20Smarter%20than%20a%2010%20Year%20Old%20-%20The%20Official%20Nintendo%20DS%20Game/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Are You Smarter than a 10 Year Old - The Official Nintendo DS Game (Europe).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Arkanoid DS",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 776,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1776.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Arkanoid%20DS/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Arkanoid DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Arkanoid%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Arkanoid DS (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Arkanoid%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Arkanoid DS (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Around the World in 80 Days",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 777,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1777.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Around%20the%20World%20in%2080%20Days/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Around the World in 80 Days (En,Fr,De)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Around%20the%20World%20in%2080%20Days%20%28Europe%29%20%28En%2CFr%2CDe%29.nds",
+				   "output": "%NDS%/Around the World in 80 Days (Europe) (En,Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Around%20the%20World%20in%2080%20Days/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Around the World in 80 Days (Europe) (En,Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"},
+"Around the World in 80 Days (En,Fr,Nl) (Rev 1)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Around%20the%20World%20in%2080%20Days%20%28Europe%29%20%28En%2CFr%2CNl%29%20%28Rev%201%29.nds",
+				   "output": "%NDS%/Around the World in 80 Days (Europe) (En,Fr,Nl) (Rev 1).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Around%20the%20World%20in%2080%20Days/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Around the World in 80 Days (Europe) (En,Fr,Nl) (Rev 1).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Art - Das Kunstmagazin Puzzle - Echter Puzzlespass fuer Unterwegs",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 778,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1778.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Art%20-%20Das%20Kunstmagazin%20Puzzle%20-%20Echter%20Puzzlespass%20fuer%20Unterwegs/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Art - Das Kunstmagazin Puzzle - Echter Puzzlespass fuer Unterwegs": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Art%20-%20Das%20Kunstmagazin%20Puzzle%20-%20Echter%20Puzzlespass%20fuer%20Unterwegs%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Art - Das Kunstmagazin Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Art%20-%20Das%20Kunstmagazin%20Puzzle%20-%20Echter%20Puzzlespass%20fuer%20Unterwegs/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Art - Das Kunstmagazin Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Art of Murder - FBI Top Secret",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 779,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1779.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Art%20of%20Murder%20-%20FBI%20Top%20Secret/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Art of Murder - FBI Top Secret": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Art%20of%20Murder%20-%20FBI%20Top%20Secret%20%28Europe%29%20%28Fr%2CDe%29%20%28NDSi%20Enhanced%29.nds",
+				   "output": "%NDS%/Art of Murder - FBI Top Secret (Europe) (Fr,De) (NDSi Enhanced).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Art%20of%20Murder%20-%20FBI%20Top%20Secret/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Art of Murder - FBI Top Secret (Europe) (Fr,De) (NDSi Enhanced).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Arthur and the Minimoys",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 780,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1780.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Arthur%20and%20the%20Minimoys/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Arthur and the Minimoys": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Arthur%20and%20the%20Minimoys%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Arthur%20and%20the%20Minimoys/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Arthur and the Revenge of Maltazard",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 781,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1781.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Arthur%20and%20the%20Revenge%20of%20Maltazard/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Arthur and the Revenge of Maltazard": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Arthur%20and%20the%20Revenge%20of%20Maltazard%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Arthur and the Revenge of Maltazard (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Arthur%20and%20the%20Revenge%20of%20Maltazard/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Arthur and the Revenge of Maltazard (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Asphalt - Urban GT 2",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 782,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1782.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Asphalt%20-%20Urban%20GT%202/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Asphalt - Urban GT 2": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Asphalt%20-%20Urban%20GT%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Asphalt - Urban GT 2 (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Asphalt%20-%20Urban%20GT%202/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asphalt - Urban GT 2 (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Asterix & Obelix XXL 2 - Mission Wifix",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 783,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1783.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Asterix%20%26%20Obelix%20XXL%202%20-%20Mission%20Wifix/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Asterix & Obelix XXL 2 - Mission Wifix": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Asterix%20%26%20Obelix%20XXL%202%20-%20Mission%20Wifix%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Asterix & Obelix XXL 2 - Mission Wifix (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Asterix%20%26%20Obelix%20XXL%202%20-%20Mission%20Wifix/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asterix & Obelix XXL 2 - Mission Wifix (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Asterix - Brain Trainer",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 784,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1784.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Asterix%20-%20Brain%20Trainer/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Asterix - Brain Trainer": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Asterix%20-%20Brain%20Trainer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Asterix - Brain Trainer (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Asterix%20-%20Brain%20Trainer/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asterix - Brain Trainer (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"}
+},
+{"info": {
+					"title": "Asterix - These Romans Are Crazy!",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 785,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1785.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Asterix%20-%20These%20Romans%20Are%20Crazy%21/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Asterix - These Romans Are Crazy!": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Asterix%20-%20These%20Romans%20Are%20Crazy%21%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Asterix%20-%20These%20Romans%20Are%20Crazy%21/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Asterix at the Olympic Games",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 786,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1786.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Asterix%20at%20the%20Olympic%20Games/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Asterix at the Olympic Games": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Asterix%20at%20the%20Olympic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Asterix%20at%20the%20Olympic%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Astrology",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 787,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1787.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Astrology/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Astrology": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Astrology%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Astrology (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Astrology/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Astrology (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
+},
+{"info": {
+					"title": "Atlantic Quest",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 788,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1788.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Atlantic%20Quest/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Atlantic Quest": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Atlantic%20Quest%20%28Europe%29%20%28Fr%2CDe%29.nds",
+				   "output": "%NDS%/Atlantic Quest (Europe) (Fr,De).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Atlantic%20Quest/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Atlantic Quest (Europe) (Fr,De).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"}
+},
+{"info": {
+					"title": "Avatar - The Legend of Aang",
+					"version": "EUR",
+					"author": "",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 789,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1789.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/A/Avatar%20-%20The%20Legend%20of%20Aang/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2023-10-26 at 21:47 (UTC)"
+},
+"Avatar - The Legend of Aang": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/A/Avatar%20-%20The%20Legend%20of%20Aang%20%28Europe%29%20%28En%2CFr%2CDe%2CNl%29.nds",
+				   "output": "%NDS%/Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/A/Avatar%20-%20The%20Legend%20of%20Aang/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"}
 }]}
