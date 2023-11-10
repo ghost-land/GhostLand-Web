@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 18
+"revision": 19
 },
 "storeContent": [
 {"info": {
@@ -3580,7 +3580,7 @@
 },
 {"info": {
 					"title": "B-17 - Fortress in the Sky",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Destination Software, KSS",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3593,9 +3593,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-06 at 13:05 (UTC)"
 },
-"B-17 - Fortress in the Sky": {
+"B-17 - Fortress in the Sky (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/B-17%20-%20Fortress%20in%20the%20Sky%20%28USA%29.nds",
@@ -3606,6 +3606,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/B-17%20-%20Fortress%20in%20the%20Sky/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/B-17 - Fortress in the Sky (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"},
+"B-17 - Fortress in the Sky (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/B-17%20-%20Fortress%20in%20the%20Sky%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/B-17 - Fortress in the Sky (Europe) (En,Fr,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/B-17%20-%20Fortress%20in%20the%20Sky/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/B-17 - Fortress in the Sky (Europe) (En,Fr,Es,It).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "8,00 MiB"}
 },
@@ -3642,7 +3655,7 @@
 },
 {"info": {
 					"title": "Baby Life",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Ubisoft",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3655,9 +3668,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-06 at 13:05 (UTC)"
 },
-"Baby Life": {
+"Baby Life (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Baby%20Life%20%28USA%29%20%28En%2CFr%2CEs%29.nds",
@@ -3669,11 +3682,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Baby%20Life/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Baby Life (USA) (En,Fr,Es).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Baby Life (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Baby%20Life%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Baby Life (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Baby%20Life/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Baby Life (Europe) (En,Fr,De,Es,It,Nl).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Baby Pals",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Crave Entertainment",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3686,9 +3712,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-06 at 13:05 (UTC)"
 },
-"Baby Pals": {
+"Baby Pals (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Baby%20Pals%20%28USA%29.nds",
@@ -3700,11 +3726,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Baby%20Pals/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Baby Pals (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Baby Pals (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Baby%20Pals%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				   "output": "%NDS%/Baby Pals (Europe) (En,Fr,De,Es,It).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Baby%20Pals/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Baby Pals (Europe) (En,Fr,De,Es,It).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Babysitting Mania",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Majesco Entertainment",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3717,9 +3756,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-10 at 00:25 (UTC)"
 },
-"Babysitting Mania": {
+"Babysitting Mania (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Babysitting%20Mania%20%28USA%29.nds",
@@ -3730,6 +3769,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Babysitting%20Mania/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Babysitting Mania (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Babysitting Mania (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Babysitting%20Mania%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds",
+				   "output": "%NDS%/Babysitting Mania (Europe) (En,Fr,De,Es,It,Nl).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Babysitting%20Mania/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Babysitting Mania (Europe) (En,Fr,De,Es,It,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -3766,7 +3818,7 @@
 },
 {"info": {
 					"title": "Back at the Barnyard - Slop Bucket Games",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "THQ",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -3779,9 +3831,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-10 at 01:00 (UTC)"
 },
-"Back at the Barnyard - Slop Bucket Games": {
+"Back at the Barnyard - Slop Bucket Games (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Back%20at%20the%20Barnyard%20-%20Slop%20Bucket%20Games%20%28USA%29.nds",
@@ -3792,6 +3844,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Back%20at%20the%20Barnyard%20-%20Slop%20Bucket%20Games/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Back at the Barnyard - Slop Bucket Games (USA).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Back at the Barnyard - Barnyard Games (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Back%20at%20the%20Barnyard%20-%20Barnyard%20Games%20%28Europe%29.nds",
+				   "output": "%NDS%/Back at the Barnyard - Barnyard Games (Europe).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Back%20at%20the%20Barnyard%20-%20Slop%20Bucket%20Games/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Back at the Barnyard - Barnyard Games (Europe).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
@@ -4014,7 +4079,7 @@
 },
 {"info": {
 					"title": "Backyardigans, The",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "ROCKSTAR GAMES™, Take 2 Interactive (before it was GameTek)",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -4027,9 +4092,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-10 at 01:01 (UTC)"
 },
-"Backyardigans, The": {
+"Backyardigans, The (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Backyardigans%2C%20The%20%28USA%29.nds",
@@ -4041,11 +4106,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Backyardigans%2C%20The/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyardigans, The (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "8,00 MiB"},
+"Backyardigans, The (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Backyardigans%2C%20The%20%28Europe%29%20%5Bb%5D.nds",
+				   "output": "%NDS%/Backyardigans, The (Europe) [b].nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Backyardigans%2C%20The/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Backyardigans, The (Europe) [b].nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "8,00 MiB"}
 },
 {"info": {
 					"title": "Bakugan - Battle Brawlers",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Activision",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -4058,9 +4136,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-10 at 01:+°2 (UTC)"
 },
-"Bakugan - Battle Brawlers": {
+"Bakugan - Battle Brawlers (USA) (Toys'R'Us)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Battle%20Brawlers%20%28USA%29%20%28En%2CFr%29%20%28Toys%27R%27Us%29.nds",
@@ -4072,11 +4150,37 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Battle Brawlers (USA) (En,Fr) (Toys'R'Us).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"},
+"Bakugan - Battle Brawlers (Europe) (B6RP)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Bakugan%20-%20Battle%20Brawlers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28B6RP%29.nds",
+				   "output": "%NDS%/Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv) (B6RP).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv) (B6RP).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "128,00 MiB"},
+"Bakugan - Battle Brawlers (Europe) (Toys'R'Us)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Bakugan%20-%20Battle%20Brawlers%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29%20%28Toys%27R%27Us%29.nds",
+				   "output": "%NDS%/Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv) (Toys'R'Us).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv) (Toys'R'Us).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "128,00 MiB"}
 },
 {"info": {
 					"title": "Bakugan - Battle Brawlers - Battle Trainer",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Activision",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -4089,9 +4193,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-10 at 01:09 (UTC)"
 },
-"Bakugan - Battle Brawlers - Battle Trainer": {
+"Bakugan - Battle Brawlers - Battle Trainer (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Battle%20Brawlers%20-%20Battle%20Trainer%20%28USA%29.nds",
@@ -4103,11 +4207,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers%20-%20Battle%20Trainer/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Battle Brawlers - Battle Trainer (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Bakugan - Battle Brawlers - Battle Trainer (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Bakugan%20-%20Battle%20Brawlers%20-%20Battle%20Trainer%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.nds",
+				   "output": "%NDS%/Bakugan - Battle Brawlers - Battle Trainer (Europe) (En,Fr,De,Es,It,Nl,Sv).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Battle%20Brawlers%20-%20Battle%20Trainer/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Battle Brawlers - Battle Trainer (Europe) (En,Fr,De,Es,It,Nl,Sv).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
 {"info": {
 					"title": "Bakugan - Defenders of the Core",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Activision",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -4120,9 +4237,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-10 at 01:12 (UTC)"
 },
-"Bakugan - Defenders of the Core": {
+"Bakugan - Defenders of the Core (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Defenders%20of%20the%20Core%20%28USA%29%20%28En%2CFr%29.nds",
@@ -4134,11 +4251,24 @@
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Defenders%20of%20the%20Core/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Defenders of the Core (USA) (En,Fr).nds.png",
 				   "message": "Boxart Recovery..."}],
+				   "size": "64,00 MiB"},
+"Bakugan - Defenders of the Core (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Bakugan%20-%20Defenders%20of%20the%20Core%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.nds",
+				   "output": "%NDS%/Bakugan - Defenders of the Core (Europe) (En,Fr,De,Es,It,Nl,Sv).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Defenders%20of%20the%20Core/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Defenders of the Core (Europe) (En,Fr,De,Es,It,Nl,Sv).nds.png",
+				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
 },
 {"info": {
 					"title": "Bakugan - Rise of the Resistance",
-					"version": "USA",
+					"version": "USA, EUR",
 					"author": "Activision",
 					"category": ["Games"],
 					"console": ["DS"],
@@ -4151,9 +4281,9 @@
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
-					"last_updated": "2022-08-09 at 13:05 (UTC)"
+					"last_updated": "2023-11-10 at 01:15 (UTC)"
 },
-"Bakugan - Rise of the Resistance": {
+"Bakugan - Rise of the Resistance (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28USA%29%20%28En%2CFr%29.nds",
@@ -4164,6 +4294,19 @@
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Rise%20of%20the%20Resistance/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Rise of the Resistance (USA) (En,Fr).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "32,00 MiB"},
+"Bakugan - Rise of the Resistance (Europe)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/B/Bakugan%20-%20Rise%20of%20the%20Resistance%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.nds",
+				   "output": "%NDS%/Bakugan - Rise of the Resistance (Europe) (En,Fr,De,Es,It,Nl,Sv).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Bakugan%20-%20Rise%20of%20the%20Resistance/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Bakugan - Rise of the Resistance (Europe) (En,Fr,De,Es,It,Nl,Sv).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
 },
