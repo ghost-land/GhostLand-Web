@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 20
+"revision": 21
 },
 "storeContent": [
 {"info": {
@@ -4402,7 +4402,7 @@
 					"description": "",
 					"last_updated": "2023-11-10 at 03:32 (UTC)"
 },
-"Band Hero": {
+"Band Hero (USA)": {
 	"script": [{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/B/Band%20Hero%20%28USA%29%20%28En%2CFr%29.nds",
@@ -56991,4 +56991,53 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "64,00 MiB"}
+},
+{"info": {
+					"title": "Breaking Bad DS",
+					"version": "v1.0.5",
+					"author": "William278",
+					"category": ["Homebrew"],
+					"console": ["DS"],
+					"icon_index": 790,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1790.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/boxart.png",
+		            			"description": "Boxart"
+		            		},{
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/screenshots/screenshot_1.png",
+								"description": "Title Screen"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/screenshots/screenshot_2.png",
+								"description": "Story mode"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/screenshots/screenshot_3.png",
+								"description": "In the lab"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/screenshots/screenshot_4.png",
+								"description": "Minigame"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/screenshots/screenshot_5.png",
+								"description": "Multiplayer vs"
+							},{
+								"url": "https://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/screenshots/screenshot_6.png",
+								"description": "Hank"
+		            		}],
+					"description": "Breaking Bad, as a Nintendo DS game, complete with 3D graphics and models. Master the art of the cook on your Nintendo DS system and prepare the perfect batch—lest you meet the wrong end of Gus. Hone your cook in both Singleplayer and Local Multiplayer Vs.",
+					"last_updated": "2023-11-14 at 00:30 (UTC)"
+},
+"Breaking Bad DS": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Homebrew/B/Breaking%20Bad%20DS.nds",
+				   "output": "%NDS%/Breaking Bad DS.nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/B/Breaking%20Bad%20DS/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Breaking Bad DS.nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "5,04 MiB"}
 }]}
