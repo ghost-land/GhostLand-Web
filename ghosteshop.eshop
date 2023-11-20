@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 176
+"revision": 177
 },
 "storeContent": [
 {"info": {
@@ -48183,4 +48183,99 @@
 				   "file": "sdmc:/GeometryDash3DS.cia",
 				   "message": "Cleaning..."}],
 				   "size": "33,73 MiB"}
+},
+{"info": {
+		            "title": "Line for 3DS",
+		            "version": "v1.7.2",
+		            "author": "Core-2-Extreme",
+		            "category": "Homebrew",
+		            "console": "3DS",
+		            "icon_index": 42,
+		            "sheet_index": 3,
+		            "icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator/gfx/sprites/icon1300.png",
+		            "screenshots": 
+		            [{"url": "https://cdn.ghosteshop.com/db/homebrew/3ds/Line%20for%203DS/banner.png","description": "Banner"
+		            },{"url": "https://cdn.ghosteshop.com/db/homebrew/3ds/Line%20for%203DS/screenshots/screenshot_1.png","description": "screenshot | 1/2"
+		            },{"url": "https://cdn.ghosteshop.com/db/homebrew/3ds/Line%20for%203DS/screenshots/screenshot_2.png","description": "screenshot | 2/2"
+		            }],
+		            "videos": 
+		            [{"url": "https://cdn.ghosteshop.com/db/videos/homebrew/Line%20for%203DS/Line%20for%203DS.webm","description": "Line for 3DS"}],
+		            "description": "Line for 3DS is a LINE client for the 3DS. Developed by LINE, it is an instant messaging, voice and video call application. It allows you to exchange text messages and make calls free of charge by transmitting information in the form of data.",
+		            "last_updated": "2023-11-20 at 16:23 (UTC)"
+},
+"Line for 3DS (64mb/cia)": {
+	"script": [{
+		           "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Line_for_3DS/Line_for_3DS_64mb.cia",
+				   "output": "sdmc:/Line_for_3DS_64mb.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Line_for_3DS_64mb.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Line_for_3DS_64mb.cia",
+				   "message": "Cleaning..."}],
+				   "size": "4,93 MiB"},
+"Line for 3DS (80mb/cia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Line_for_3DS/Line_for_3DS_80mb.cia",
+				   "output": "sdmc:/Line_for_3DS_80mb.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Line_for_3DS_80mb.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Line_for_3DS_80mb.cia",
+				   "message": "Cleaning..."}],
+					"size": "4,93 MiB"},
+"Line for 3DS (124mb/cia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Line_for_3DS/Line_for_3DS_124mb.cia",
+				   "output": "sdmc:/Line_for_3DS_124mb.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Line_for_3DS_124mb.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Line_for_3DS_124mb.cia",
+				   "message": "Cleaning..."}],
+					"size": "4,93 MiB"},
+"Line for 3DS (178mb/cia)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Line_for_3DS/Line_for_3DS_178mb.cia",
+				   "output": "sdmc:/Line_for_3DS_178mb.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Line_for_3DS_178mb.cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Line_for_3DS_178mb.cia",
+				   "message": "Cleaning..."}],
+					"size": "4,93 MiB"},
+"Line for 3DS (3dsx)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Homebrew/Line_for_3DS/Line_for_3DS.3dsx",
+				   "output": "sdmc:/3ds/Line_for_3DS.3dsx",
+				   "message": "Downloading Line_for_3DS.3dsx..."}],
+					"size": "5,78 MiB"}
 }]}
