@@ -7,116 +7,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ghost Land | .io</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            font-family: 'Roboto', sans-serif;
-        }
+        /* Existing styles */
 
-        .theme-light {
-            background-color: #f2f2f2;
-            color: #333;
-        }
-
-        .theme-dark {
-            background-color: #333;
-            color: #f2f2f2;
-        }
-
-        .theme-system {
-            background-color: #f2f2f2;
-            color: #333;
-        }
-
-        @media (prefers-color-scheme: dark) {
-            .theme-system {
-                background-color: #333;
-                color: #f2f2f2;
-            }
-        }
-
-        #content {
-            margin: auto;
-            margin-top: 25px;
-            width: 100%;
+        .game {
+            display: inline-block;
+            margin: 10px;
             text-align: center;
-            position: relative;
-            padding-bottom: 50px;
         }
 
-        img {
-            height: 150px;
+        .game img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
         }
 
-        h1 {
-            margin-top: 20px;
-            font-size: 24px;
-        }
-
-        button {
-            cursor: pointer;
-            margin: 5px;
-            font-size: 1.3em;
-            padding: 7px 14px;
-            border: none;
-            background-color: #FF8300;
-            color: white;
-            transition: background-color 0.3s ease;
-        }
-
-        button:hover {
-            background-color: #FFA500;
-        }
-
-        @keyframes move {
-            0% {
-                transform: translateX(-50px);
-            }
-            50% {
-                transform: translateX(50px);
-            }
-            100% {
-                transform: translateX(-50px);
-            }
-        }
-
-        .moving-element {
-            animation: move 3s infinite;
-        }
-
-        @media (max-width: 600px) {
-            img {
-                height: 100px;
-            }
-
-            h1 {
-                font-size: 20px;
-            }
-
-            button {
-                font-size: 1em;
-                padding: 5px 10px;
-            }
-        }
-
-        select {
-            position: absolute;
-            bottom: 0;
-            left: 50%;
-            transform: translateX(-50%);
+        .game h3 {
+            margin-top: 5px;
+            font-size: 16px;
         }
     </style>
 </head>
 
 <body class="theme-light">
     <div id="content">
-        <img draggable="false" class="moving-element" src="gland.png" /><br>
-        <h1 class="moving-element">API and other things...</h1><br>
-        <a href="ghosteshop.json"><button class="moving-element">ghosteshop.json</button></a><br>
-        <a href="https://ghosteshop.com/feed/news.xml"><button class="moving-element">ghosteshop.rss</button></a><br>
-        <a href="ghosteshop-ds.json"><button class="moving-element">ghosteshop-ds.json</button></a><br>
-        <a href="ghosteshop.eshop"><button class="moving-element">ghosteshop.eshop</button></a><br>
-        <a href="ghosteshop-ds.eshop"><button class="moving-element">ghosteshop-ds.eshop</button></a><br>
+        <!-- Existing content -->
+
+        <a href="https://ghosteshop.com" class="category">Ghost eShop</a>
+
+        <div id="latest-games"></div>
+
+        <!-- Existing content -->
+
         <select onchange="changeTheme(this.value)">
             <option value="light">Light Theme</option>
             <option value="dark">Dark Theme</option>
@@ -125,15 +46,30 @@
     </div>
 
     <script>
-        function changeTheme(theme) {
-            if (theme === 'system' && window.matchMedia('(prefers-color-scheme)').media !== 'not all') {
-                document.body.classList.remove('theme-light', 'theme-dark');
-                document.body.classList.add('theme-system');
-            } else {
-                document.body.classList.remove('theme-light', 'theme-dark', 'theme-system');
-                document.body.classList.add(`theme-${theme}`);
-            }
-        }
+        /* Existing JavaScript */
+
+        const latestGamesContainer = document.getElementById('latest-games');
+
+        fetch('fetch_games.php')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(game => {
+                    const gameElement = document.createElement('div');
+                    gameElement.classList.add('game');
+
+                    const imageElement = document.createElement('img');
+                    imageElement.src = game.image;
+                    imageElement.alt = game.title;
+
+                    const titleElement = document.createElement('h3');
+                    titleElement.textContent = game.title;
+
+                    gameElement.appendChild(imageElement);
+                    gameElement.appendChild(titleElement);
+
+                    latestGamesContainer.appendChild(gameElement);
+                });
+            });
     </script>
 </body>
 
