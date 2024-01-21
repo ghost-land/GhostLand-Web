@@ -13,8 +13,14 @@
             font-family: 'Roboto', sans-serif;
         }
 
-        body {
+        .theme-light {
             background-color: #f2f2f2;
+            color: #333;
+        }
+
+        .theme-dark {
+            background-color: #333;
+            color: #f2f2f2;
         }
 
         #content {
@@ -31,7 +37,6 @@
         h1 {
             margin-top: 20px;
             font-size: 24px;
-            color: #333;
         }
 
         button {
@@ -82,8 +87,12 @@
     </style>
 </head>
 
-<body>
+<body class="theme-light">
     <div id="content">
+        <select onchange="changeTheme(this.value)">
+            <option value="light">Light Theme</option>
+            <option value="dark">Dark Theme</option>
+        </select>
         <img draggable="false" class="moving-element" src="gland.png" /><br>
         <h1 class="moving-element">API and other things...</h1><br>
         <a href="ghosteshop.json"><button class="moving-element">ghosteshop.json</button></a><br>
@@ -92,6 +101,13 @@
         <a href="ghosteshop.eshop"><button class="moving-element">ghosteshop.eshop</button></a><br>
         <a href="ghosteshop-ds.eshop"><button class="moving-element">ghosteshop-ds.eshop</button></a><br>
     </div>
+
+    <script>
+        function changeTheme(theme) {
+            document.body.classList.remove('theme-light', 'theme-dark');
+            document.body.classList.add(`theme-${theme}`);
+        }
+    </script>
 </body>
 
 </html>
