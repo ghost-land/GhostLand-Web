@@ -7,54 +7,103 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ghost Land | .io</title>
     <style>
-        /* Existing styles */
-
-        /* New styles */
-        .category {
-            margin-bottom: 20px;
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
         }
 
-        .category h2 {
-            font-size: 24px;
-            margin-bottom: 10px;
+        .theme-light {
+            background-color: #f2f2f2;
+            color: #333;
         }
 
-        .category p {
-            margin-bottom: 10px;
+        .theme-dark {
+            background-color: #333;
+            color: #f2f2f2;
         }
 
-        .category a {
-            color: #FF8300;
+        .theme-system {
+            background-color: #f2f2f2;
+            color: #333;
         }
 
-        .latest-games {
-            margin-bottom: 20px;
+        @media (prefers-color-scheme: dark) {
+            .theme-system {
+                background-color: #333;
+                color: #f2f2f2;
+            }
         }
 
-        .latest-games h2 {
-            font-size: 24px;
-            margin-bottom: 10px;
+        #content {
+            margin: auto;
+            margin-top: 25px;
+            width: 100%;
+            text-align: center;
+            position: relative;
+            padding-bottom: 50px;
         }
 
-        .game {
-            margin-bottom: 20px;
-        }
-
-        .game h3 {
-            font-size: 20px;
-            margin-bottom: 5px;
-        }
-
-        .game p {
-            margin-bottom: 5px;
-        }
-
-        .game a {
-            color: #FF8300;
-        }
-
-        .game img {
+        img {
             height: 150px;
+        }
+
+        h1 {
+            margin-top: 20px;
+            font-size: 24px;
+        }
+
+        button {
+            cursor: pointer;
+            margin: 5px;
+            font-size: 1.3em;
+            padding: 7px 14px;
+            border: none;
+            background-color: #FF8300;
+            color: white;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #FFA500;
+        }
+
+        @keyframes move {
+            0% {
+                transform: translateX(-50px);
+            }
+            50% {
+                transform: translateX(50px);
+            }
+            100% {
+                transform: translateX(-50px);
+            }
+        }
+
+        .moving-element {
+            animation: move 3s infinite;
+        }
+
+        @media (max-width: 600px) {
+            img {
+                height: 100px;
+            }
+
+            h1 {
+                font-size: 20px;
+            }
+
+            button {
+                font-size: 1em;
+                padding: 5px 10px;
+            }
+        }
+
+        select {
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
         }
     </style>
 </head>
@@ -73,56 +122,18 @@
             <option value="dark">Dark Theme</option>
             <option value="system">System Theme</option>
         </select>
-
-        <div class="category">
-            <h2>Ghost eShop</h2>
-            <p>Welcome to Ghost eShop! Explore our wide range of games and enjoy the best gaming experience.</p>
-            <a href="https://ghosteshop.com">Visit Ghost eShop</a>
-        </div>
-
-        <div class="latest-games">
-            <h2>Last Games</h2>
-            <div id="games-container"></div>
-        </div>
     </div>
 
     <script>
-        /* Existing JavaScript code */
-
-        /* New JavaScript code */
-        fetch('fetch_games.php')
-            .then(response => response.json())
-            .then(games => {
-                const gamesContainer = document.getElementById('games-container');
-                games.forEach(game => {
-                    const gameElement = document.createElement('div');
-                    gameElement.classList.add('game');
-
-                    const titleElement = document.createElement('h3');
-                    titleElement.textContent = game.title;
-                    gameElement.appendChild(titleElement);
-
-                    const pubDateElement = document.createElement('p');
-                    pubDateElement.textContent = game.pubDate;
-                    gameElement.appendChild(pubDateElement);
-
-                    const descriptionElement = document.createElement('p');
-                    descriptionElement.textContent = game.description;
-                    gameElement.appendChild(descriptionElement);
-
-                    const linkElement = document.createElement('a');
-                    linkElement.href = game.link;
-                    linkElement.textContent = 'Read More';
-                    gameElement.appendChild(linkElement);
-
-                    const imageElement = document.createElement('img');
-                    imageElement.src = game.image;
-                    gameElement.appendChild(imageElement);
-
-                    gamesContainer.appendChild(gameElement);
-                });
-            })
-            .catch(error => console.error(error));
+        function changeTheme(theme) {
+            if (theme === 'system' && window.matchMedia('(prefers-color-scheme)').media !== 'not all') {
+                document.body.classList.remove('theme-light', 'theme-dark');
+                document.body.classList.add('theme-system');
+            } else {
+                document.body.classList.remove('theme-light', 'theme-dark', 'theme-system');
+                document.body.classList.add(`theme-${theme}`);
+            }
+        }
     </script>
 </body>
 
