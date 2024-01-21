@@ -9,67 +9,120 @@
     <style>
         /* Existing styles */
 
-        .game {
-            display: inline-block;
-            margin: 10px;
-            text-align: center;
+        /* New styles */
+        .category {
+            margin-bottom: 20px;
         }
 
-        .game img {
-            width: 200px;
-            height: 200px;
-            object-fit: cover;
+        .category h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .category p {
+            margin-bottom: 10px;
+        }
+
+        .category a {
+            color: #FF8300;
+        }
+
+        .latest-games {
+            margin-bottom: 20px;
+        }
+
+        .latest-games h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .game {
+            margin-bottom: 20px;
         }
 
         .game h3 {
-            margin-top: 5px;
-            font-size: 16px;
+            font-size: 20px;
+            margin-bottom: 5px;
+        }
+
+        .game p {
+            margin-bottom: 5px;
+        }
+
+        .game a {
+            color: #FF8300;
+        }
+
+        .game img {
+            height: 150px;
         }
     </style>
 </head>
 
 <body class="theme-light">
     <div id="content">
-        <!-- Existing content -->
-
-        <a href="https://ghosteshop.com" class="category">Ghost eShop</a>
-
-        <div id="latest-games"></div>
-
-        <!-- Existing content -->
-
+        <img draggable="false" class="moving-element" src="gland.png" /><br>
+        <h1 class="moving-element">API and other things...</h1><br>
+        <a href="ghosteshop.json"><button class="moving-element">ghosteshop.json</button></a><br>
+        <a href="https://ghosteshop.com/feed/news.xml"><button class="moving-element">ghosteshop.rss</button></a><br>
+        <a href="ghosteshop-ds.json"><button class="moving-element">ghosteshop-ds.json</button></a><br>
+        <a href="ghosteshop.eshop"><button class="moving-element">ghosteshop.eshop</button></a><br>
+        <a href="ghosteshop-ds.eshop"><button class="moving-element">ghosteshop-ds.eshop</button></a><br>
         <select onchange="changeTheme(this.value)">
             <option value="light">Light Theme</option>
             <option value="dark">Dark Theme</option>
             <option value="system">System Theme</option>
         </select>
+
+        <div class="category">
+            <h2>Ghost eShop</h2>
+            <p>Welcome to Ghost eShop! Explore our wide range of games and enjoy the best gaming experience.</p>
+            <a href="https://ghosteshop.com">Visit Ghost eShop</a>
+        </div>
+
+        <div class="latest-games">
+            <h2>Last Games</h2>
+            <div id="games-container"></div>
+        </div>
     </div>
 
     <script>
-        /* Existing JavaScript */
+        /* Existing JavaScript code */
 
-        const latestGamesContainer = document.getElementById('latest-games');
-
+        /* New JavaScript code */
         fetch('fetch_games.php')
             .then(response => response.json())
-            .then(data => {
-                data.forEach(game => {
+            .then(games => {
+                const gamesContainer = document.getElementById('games-container');
+                games.forEach(game => {
                     const gameElement = document.createElement('div');
                     gameElement.classList.add('game');
 
-                    const imageElement = document.createElement('img');
-                    imageElement.src = game.image;
-                    imageElement.alt = game.title;
-
                     const titleElement = document.createElement('h3');
                     titleElement.textContent = game.title;
-
-                    gameElement.appendChild(imageElement);
                     gameElement.appendChild(titleElement);
 
-                    latestGamesContainer.appendChild(gameElement);
+                    const pubDateElement = document.createElement('p');
+                    pubDateElement.textContent = game.pubDate;
+                    gameElement.appendChild(pubDateElement);
+
+                    const descriptionElement = document.createElement('p');
+                    descriptionElement.textContent = game.description;
+                    gameElement.appendChild(descriptionElement);
+
+                    const linkElement = document.createElement('a');
+                    linkElement.href = game.link;
+                    linkElement.textContent = 'Read More';
+                    gameElement.appendChild(linkElement);
+
+                    const imageElement = document.createElement('img');
+                    imageElement.src = game.image;
+                    gameElement.appendChild(imageElement);
+
+                    gamesContainer.appendChild(gameElement);
                 });
-            });
+            })
+            .catch(error => console.error(error));
     </script>
 </body>
 
