@@ -125,16 +125,22 @@
     </div>
 
     <script>
-        function changeTheme(theme) {
-            if (theme === 'system' && window.matchMedia('(prefers-color-scheme)').media !== 'not all') {
-                document.body.classList.remove('theme-light', 'theme-dark');
-                document.body.classList.add('theme-system');
-            } else {
-                document.body.classList.remove('theme-light', 'theme-dark', 'theme-system');
-                document.body.classList.add(`theme-${theme}`);
-            }
+    function changeTheme(theme) {
+        if (theme === 'system' && window.matchMedia('(prefers-color-scheme)').media !== 'not all') {
+            document.body.classList.remove('theme-light', 'theme-dark');
+            document.body.classList.add('theme-system');
+        } else {
+            document.body.classList.remove('theme-light', 'theme-dark', 'theme-system');
+            document.body.classList.add(`theme-${theme}`);
         }
-    </script>
+    }
+
+    // Set the default theme to "system" on page load
+    window.addEventListener('DOMContentLoaded', function() {
+        changeTheme('system');
+    });
+</script>
+
 </body>
 
 </html>
