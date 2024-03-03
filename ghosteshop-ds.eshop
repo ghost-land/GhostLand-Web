@@ -11,7 +11,7 @@
 "bg_index": 1,
 "bg_sheet": 0,
 "version": 3,
-"revision": 21
+"revision": 22
 },
 "storeContent": [
 {"info": {
@@ -34417,7 +34417,7 @@
 					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1068.png",
 					"screenshots": 
 		            [{
-		            			"url": "https://cdn.ghosteshop.com/Images/ds/N/New%20Super%20Mario%20Bros./boxart.png",
+		            			"url": "https://cdn.ghosteshop.com/Images/ds/N/New%20Super%20Mario%20Bros/boxart.png",
 		            			"description": "Boxart"
 		            		}],
 					"description": "",
@@ -34432,7 +34432,7 @@
 }, 
 {
 				   "type": "downloadFile",
-				   "file": "http://cdn.ghosteshop.com/Images/ds/N/New%20Super%20Mario%20Bros./boxart-twl.png",
+				   "file": "http://cdn.ghosteshop.com/Images/ds/N/New%20Super%20Mario%20Bros/boxart-twl.png",
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/New Super Mario Bros. (USA).nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "32,00 MiB"}
@@ -57048,4 +57048,35 @@
 				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Breaking Bad DS.nds.png",
 				   "message": "Boxart Recovery..."}],
 				   "size": "5,04 MiB"}
+},
+{"info": {
+					"title": "Tootuff's World",
+					"version": "EUR",
+					"author": "Atari SA",
+					"category": ["Games"],
+					"console": ["DS"],
+					"icon_index": 791,
+					"sheet_index": 2,
+					"icon_url": "https://cdn.ghosteshop.com/Sprite_Generator/Sprite_Generator-ds/gfx/sprites/icon1791.png",
+					"screenshots": 
+		            [{
+		            			"url": "https://cdn.ghosteshop.com/db/ds/titles/T/Tootuff%27s%20World/boxart.png",
+		            			"description": "Boxart"
+		            		}],
+					"description": "",
+					"last_updated": "2024-03-03 at 18:00 (UTC)"
+},
+"Tootuff's World": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/Europe/T/Tootuff%27s%20World%20%28Europe%29%20%28En%2CFr%2CEs%29.nds",
+				   "output": "%NDS%/Tootuff's World (Europe) (En,Fr,Es).nds",
+				   "message": "Download your .nds file..."
+}, 
+{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/db/ds/titles/T/Tootuff%27s%20World/boxart-twl.png",
+				   "output": "sdmc:/_nds/TWiLightMenu/boxart/Tootuff's World (Europe) (En,Fr,Es).nds.png",
+				   "message": "Boxart Recovery..."}],
+				   "size": "16,00 MiB"}
 }]}
