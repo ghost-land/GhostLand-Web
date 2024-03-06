@@ -44,11 +44,6 @@
 },
 "007 - Blood Stone (USA)": {
 	"script": [{
-				   "type": "promptMsg",
-				   "message": "Do you have Twilight Menu++ installed?\n(Because this game can't work without TWL Menu++)",
-				   "count": 6
-},
-{
 				   "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%20DS/USA/1234567890/007%20-%20Blood%20Stone%20%28USA%29.nds",
 				   "output": "%NDS%/007 - Blood Stone (USA).nds",
