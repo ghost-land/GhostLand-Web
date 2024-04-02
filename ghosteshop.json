@@ -11,7 +11,7 @@
 "bg_index": 382,
 "bg_sheet": 0,
 "version": 3,
-"revision": 179
+"revision": 180
 },
 "storeContent": [
 {"info": {
@@ -26309,7 +26309,7 @@
 },
 {"info": {
 		            "title": "Poochy & Yoshi's Woolly World",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "Nintendo",
 		            "category": "Games",
 		            "console": "3DS",
@@ -26321,8 +26321,8 @@
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/boxart.png",
 		            			"description": "Cover-Art"
 		            		},{
-		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/screenshots/Title.png",
-		            			"description": "Title"
+		            			"url": "https://cdn.ghosteshop.com/db/3ds/titles/country/GB/Poochy%20Yoshis%20Woolly%20World/banner.jpg",
+		            			"description": "Banner"
 							},{
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/screenshots/citra-qt_2017-12-22_17-00-45.png",
 		            			"description": "GamePlay | 1/2"
@@ -26330,10 +26330,10 @@
 		            			"url": "https://cdn.ghosteshop.com/Images/3ds/Poochy%20and%20Yoshis%20Woolly%20World/screenshots/Gameplay.png",
 		            			"description": "GamePlay | 2/2"
 		            		}],
-		            "description": "",
-		            "last_updated": "2020-12-22 at 01:50 (UTC)"
+		            "description": "Poochy & Yoshi’s Woolly World is an adventure game set in a world of yarn. <br> <br>This game contains some new features, as well as every stage available in the Wii U version of Yoshi's Woolly World.",
+		            "last_updated": "2024-04-02 at 01:50 (UTC)"
 },
-"Poochy & Yoshi's Woolly World": {
+"Poochy & Yoshi's Woolly World (USA)": {
 	"script": [{
 		           "type": "downloadFile",
 				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/USA/P/Poochy%20%26%20Yoshi%E2%80%99s%20Woolly%20World%20%28USA%29.cia",
@@ -26349,7 +26349,24 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Poochy & Yoshis Woolly World (USA).cia",
 				   "message": "Cleaning..."}],
-					"size": "971,0 MiB"}
+					"size": "971,0 MiB"},
+"Poochy & Yoshi's Woolly World (EUR)": {
+	"script": [{
+				   "type": "downloadFile",
+				   "file": "http://cdn.ghosteshop.com/Nintendo%203DS/EUR/P/Poochy%20%26%20Yoshis%20Woolly%20World%20%28CTR-P-AJNP%29%20%28v0.0.0%29%20%28W%29%2000040000001A4200.cia",
+				   "output": "sdmc:/Poochy & Yoshi's Woolly World (EUR).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+				   "type": "installCia",
+				   "file": "/Poochy & Yoshi's Woolly World (EUR).cia",
+				   "message": "Installing your game in progress..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Poochy & Yoshi's Woolly World (EUR).cia",
+				   "message": "Cleaning..."}],
+					"size": "977,0 MiB"}
 },
 {"info": {
 		            "title": "Poptropica: Forgotten Islands",
