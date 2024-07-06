@@ -113,7 +113,7 @@
         <a href="ghosteshop-ds.json"><button>ghosteshop-ds.json</button></a><br>
         <a href="ghosteshop.eshop"><button>ghosteshop.eshop</button></a><br>
         <a href="ghosteshop-ds.eshop"><button>ghosteshop-ds.eshop</button></a><br>
-        <select onchange="changeTheme(this.value)">
+        <select onchange="changeTheme(this.value)" id="theme-selector">
             <option value="light">Light Theme</option>
             <option value="dark">Dark Theme</option>
             <option value="system">System Theme</option>
@@ -134,6 +134,8 @@
     // Set the default theme to "system" on page load
     window.addEventListener('DOMContentLoaded', function() {
         changeTheme('system');
+        const themeSelector = document.getElementById('theme-selector');
+        themeSelector.value = 'system';
     });
 </script>
 
