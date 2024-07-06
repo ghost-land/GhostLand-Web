@@ -2,7 +2,7 @@ import os
 import secrets
 from flask import Flask
 
-from .routes import home_bp, APIs_bp
+from .routes import home_bp, misc_bp, APIs_bp
 
 from run import settings
 
@@ -17,6 +17,7 @@ def create_app():
         os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1' # oauth ssl if needed
     
     app.register_blueprint(home_bp)
+    app.register_blueprint(misc_bp)
     app.register_blueprint(APIs_bp)
     
     return app

@@ -4,6 +4,9 @@
     "port": 80,
     "app-secret-key": "93edb4c7329455e5aeff7e43f837e6be",
     "site": {
+        "settings": {
+            "discord-url": "https://discord.gg/"
+        },
         "index": {
             "title": "Ghost Land | at",
             "socials": {
