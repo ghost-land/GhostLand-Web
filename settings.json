@@ -3,6 +3,14 @@
     "debug": false,
     "port": 80,
     "app-secret-key": "93edb4c7329455e5aeff7e43f837e6be",
+    "api": {
+        "data-files": [
+            "ghosteshop-ds.eshop",
+            "ghosteshop-ds.json",
+            "ghosteshop.eshop",
+            "ghosteshop.json"
+        ]
+    },
     "site": {
         "settings": {
             "discord-url": "https://discord.gg/"
