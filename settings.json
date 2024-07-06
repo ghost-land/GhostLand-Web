@@ -1,0 +1,41 @@
+{
+    "production": true,
+    "debug": false,
+    "port": 80,
+    "app-secret-key": "93edb4c7329455e5aeff7e43f837e6be",
+    "site": {
+        "index": {
+            "title": "Ghost Land | at",
+            "socials": {
+                "twitter": "https://x.com/",
+                "discord": "https://ghostland.at/discord",
+                "telegram": "https://"
+            },
+            "our-projects": [
+                {
+                    "title": "Ghost eShop",
+                    "image": "",
+                    "description": "A revolutionary platform offering over 13,000 game files for various  Nintendo consoles. Supporting Tinfoil and DBi on the Switch, Ghost eShop  is changing the game distribution landscape.",
+                    "button": {
+                        "text": "Explore Ghost eShop",
+                        "url": "https://ghosteshop.com/"
+                    }
+                },
+                {
+                    "title": "Lorem ipsum",
+                    "image": "",
+                    "description": "Lorem ipsum",
+                    "button": {
+                        "text": "Lorem",
+                        "url": ""
+                    }
+                },
+                {
+                    "title": "Lorem ipsum",
+                    "image": "",
+                    "description": "Lorem ipsum"
+                }
+            ]
+        }
+    }
+}
