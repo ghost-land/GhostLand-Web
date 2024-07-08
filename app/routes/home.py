@@ -1,6 +1,7 @@
 from flask import Blueprint, render_template
 from datetime import datetime
 from run import settings
+from app.utils.languages import text
 
 home_bp = Blueprint('home', __name__)
 
@@ -11,5 +12,6 @@ def index():
         'index.jinja',
         settings=settings['site']['index'],
         year=datetime.now().year,
-        open=open
+        open=open,
+        text=text
     )
