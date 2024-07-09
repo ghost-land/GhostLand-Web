@@ -1,3 +1,3 @@
 <footer>
-  <p>© 2020-{{year}} Ghost Land. All rights reserved.</p>
+  <p>{{ text('copyright', lang) | replace('%year%', year) | safe }}</p>
 </footer>

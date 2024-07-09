@@ -1,13 +1,13 @@
 <header>
   <a href="/" class="title">
-    Ghost Land
+    {{ text('title', lang) }}
   </a>
   <nav>
     <ul>
-      <li><a href="/announcements">Announcements</a></li>
-      <li><a href="/about">About</a></li>
-      <li><a href="/projects">Projects</a></li>
-      <li><a href="/contact">Contact</a></li>
+      <li><a href="/announcements">{{ text('Announcements', lang) }}</a></li>
+      <li><a href="/about">{{ text('About', lang) }}</a></li>
+      <li><a href="/projects">{{ text('Projects', lang) }}</a></li>
+      <li><a href="/contact">{{ text('Contact', lang) }}</a></li>
     </ul>
   </nav>
 </header>

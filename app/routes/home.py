@@ -9,7 +9,7 @@ home_bp = Blueprint('home', __name__)
 @home_bp.route('/')
 def index():
     return render_template(
-        'index.jinja',
+        'index.jinja', lang='en',
         settings=settings['site']['index'],
         year=datetime.now().year,
         open=open,
