@@ -20,8 +20,9 @@ def load_lang_file(lang) -> dict:
                 try:
                     key, value = line.strip().split("=")
                     lang_dictionary[key] = value.strip()
-                except:
-                    print(line)
+                except Exception as e:
+                    line = line.replace("\n", "")
+                    print(f'\nLANG FILE ERROR:\nLine: {line}\nError: {e}\n')
     return lang_dictionary
 
 def load_all_lang_files() -> dict:
