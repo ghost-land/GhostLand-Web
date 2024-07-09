@@ -51,7 +51,7 @@ def text(text=None, lang='en') -> str:
     return lang_files[lang][text]
 
 # Testing
-if __name__ == '__name__':
+if __name__ == '__main__':
     while True:
         user_input = input("Enter text to translate (or 'exit' to quit): ")
         if user_input.lower() == 'exit':
