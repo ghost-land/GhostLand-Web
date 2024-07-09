@@ -1,7 +1,7 @@
-from flask import Blueprint, render_template
+from flask import Blueprint, abort, render_template
 from datetime import datetime
 from run import settings
-from app.utils.languages import text
+from app.utils.languages import text, language_exists
 
 home_bp = Blueprint('home', __name__)
 
@@ -9,7 +9,21 @@ home_bp = Blueprint('home', __name__)
 @home_bp.route('/')
 def index():
     return render_template(
-        'index.jinja', lang='en',
+        'index.jinja', lang='fr',
+        settings=settings['site']['index'],
+        year=datetime.now().year,
+        open=open,
+        text=text
+    )
+    
+@home_bp.route('/<language>')
+@home_bp.route('/<language>/')
+def index_lang(language):
+    if not language_exists(language):
+        abort(404)
+        
+    return render_template(
+        'index.jinja', lang=language,
         settings=settings['site']['index'],
         year=datetime.now().year,
         open=open,

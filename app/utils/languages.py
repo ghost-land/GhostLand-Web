@@ -37,6 +37,10 @@ def load_all_lang_files() -> dict:
 lang_files = load_all_lang_files()
 print(lang_files.keys())
 
+def language_exists(lang='en') -> str:
+    lang = next((l for l in lang_files if l.lower().startswith(lang.lower())), 'en')
+    return lang in lang_files
+
 def text(text=None, lang='en') -> str:
     if text is None:
         return ""
