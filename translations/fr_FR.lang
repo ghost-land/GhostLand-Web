@@ -1,6 +1,12 @@
 # fr_FR.lang file written by Lenoch, feel free to make a PR for any mistakes
 # https://github.com/ghost-land/GhostLand-Web/pulls
 
+# TRANSLATION INSTRUCTIONS: 
+# Don't translate lines starting with '#' as they are comments
+# Don't translate keys (the text before '=' on each line)
+# Don't change variable syntax like '%year%'
+# Don't edit HTML tags like '<span class="red">...</span>', but translate the CONTENT of HTML tags if needed
+
 
 # ====  Header  ====
 
