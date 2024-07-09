@@ -18,7 +18,7 @@ def load_lang_file(lang) -> dict:
                 and not line.startswith("#")
             ):
                 try:
-                    key, value = line.strip().split("=")
+                    key, value = line.strip().replace("\n", "").split("=", 1)
                     lang_dictionary[key] = value.strip()
                 except Exception as e:
                     line = line.replace("\n", "")
