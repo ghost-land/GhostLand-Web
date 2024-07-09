@@ -5,7 +5,7 @@
 # Don't translate lines starting with '#' as they are comments
 # Don't translate keys (the text before '=' on each line)
 # Don't change variable syntax like '%year%'
-# Don't edit HTML tags like '<span class="red">...</span>', but translate the CONTENT of HTML tags if needed
+# Don't edit HTML tags like '<span class="red">...</span>' or '<br>', but translate the CONTENT of HTML tags if needed
 
 
 # ====  Header  ====
@@ -41,3 +41,7 @@ Follow our journey=Suivez notre <span class="red">Parcours<span>
 Twitter=Twitter
 Discord=Discord
 Telegram=Telegram
+
+
+# ====  About Page  ====
+about_page_title=Ghost Land | About

@@ -5,7 +5,7 @@
 # Don't translate lines starting with '#' as they are comments
 # Don't translate keys (the text before '=' on each line)
 # Don't change variable syntax like '%year%'
-# Don't edit HTML tags like '<span class="red">...</span>', but translate the CONTENT of HTML tags if needed
+# Don't edit HTML tags like '<span class="red">...</span>' or '<br>', but translate the CONTENT of HTML tags if needed
 
 
 # ====  Header  ====
@@ -41,3 +41,26 @@ Follow our journey=Follow our <span class="red">Journey<span>
 Twitter=Twitter
 Discord=Discord
 Telegram=Telegram
+
+
+# ====  About Page  ====
+about_page_title=Ghost Land | About
+
+NX DOMAIN=NX DOMAIN
+nx_domain_description=This domain is the property of Ghost Land Team: %url%
+
+Our Mission=Our Mission
+our_mission_description=At Ghost Land Team, we are dedicated to providing a safe, secure, and  innovative digital space for all our users. <br> Our team is committed to  upholding the highest standards of integrity and trust in all our  services.
+
+Core Values=Core Values
+corevalue_innovation=Innovation: We strive to be at the forefront of technological advancements.
+corevalue_security=Security: Ensuring the safety of our users is our top priority.
+corevalue_integrity=Integrity: We conduct our business with the utmost honesty and transparency.
+corevalue_community=Community: We believe in fostering a supportive and inclusive community.
+corevalue_excellence=Excellence: We are committed to delivering the highest quality services.
+
+Contact Information=Contact Information
+any_questions=If you have any questions or concerns, feel free to reach out to us at: %email%
+
+Authorities=Authorities
+authorities_contact=Authorities can contact Ghost Land in case of abuse at: %email%
