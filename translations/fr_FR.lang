@@ -1,3 +1,37 @@
-# en_US.lang file written by Lenoch, feel free to make a PR for any mistakes
+# fr_FR.lang file written by Lenoch, feel free to make a PR for any mistakes
 # https://github.com/ghost-land/GhostLand-Web/pulls
 
+
+# ====  Header  ====
+
+title=Ghost Land
+
+Announcements=Annonces
+About=À propos
+Projects=Projets
+Contact=Contact
+
+
+# ====  Footer  ====
+
+copyright=© 2020-%year% Ghost Land. Tous droits réservés.
+
+
+# ====  Index Page  ====
+main_page_title=Ghost Land | .at
+
+Latest Announcements=Dernières annonces
+
+Innovating since=Innovant depuis...
+ghost_land_description=Ghost Land est à l'avant-garde de l'innovation technologique, créant des solutions qui transforment la façon dont les utilisateurs interagissent avec les jeux et l'information. Notre équipe dévouée d'experts est déterminée à repousser les limites et à livrer des projets de pointe.
+
+Our Projects=Nos projets
+Coming soon=À venir...
+
+contact_title=Nous <span class="red">Contacter.<span>
+contact_description=Donnez vie à votre projet ou explorez les opportunités de collaboration.
+
+Follow our journey=Suivez notre <span class="red">Parcours<span>
+Twitter=Twitter
+Discord=Discord
+Telegram=Telegram
