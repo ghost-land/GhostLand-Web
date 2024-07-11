@@ -37,6 +37,10 @@ def load_all_lang_files() -> dict:
 lang_files = load_all_lang_files()
 print(lang_files.keys())
 
+def reload_all_lang_files():
+    global lang_files
+    lang_files = load_all_lang_files()
+    
 def language_exists(lang='en') -> bool:
     lang = next((l for l in lang_files if l.lower().startswith(lang.lower())), 'en')
     return lang in lang_files
