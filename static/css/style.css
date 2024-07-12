@@ -1,7 +1,16 @@
+html {
+  height: 100%;
+}
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
   color: #fff;
+  min-height: 100%;
+
+  /* Separate Header, Main and Footer */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 /* === HEADER === */
