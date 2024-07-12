@@ -2,7 +2,7 @@ import os
 import secrets
 from flask import Flask
 
-from .routes import home_bp, about_bp, misc_bp, APIs_bp
+from .routes import home_bp, about_bp, posts_bp, misc_bp, APIs_bp
 
 from run import settings
 
@@ -21,6 +21,7 @@ def create_app():
     
     app.register_blueprint(home_bp)
     app.register_blueprint(about_bp)
+    app.register_blueprint(posts_bp)
     app.register_blueprint(misc_bp)
     app.register_blueprint(APIs_bp)
     

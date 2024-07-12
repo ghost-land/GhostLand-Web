@@ -64,3 +64,8 @@ any_questions=Si vous avez des questions ou des préoccupations, n'hésitez pas 
 
 Authorities=Autorités
 authorities_contact=Les autorités peuvent contacter Ghost Land en cas d'abus à l'adresse suivante : %email%
+
+
+# ====  Announcements Page  ====
+Latest News=Dernières Nouvelles
+news_description=Consultez et restez à l'écoute de nos mises à jour

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/news.css') }}">
+    <title></title>
+</head>
+<body>
+    <main>
+        <div id="container">
+
+            <h1>{{ text('Latest News', lang) }}</h1>
+            <p>{{ text('news_description', lang) | replace('%url%', '<a href="https://github.com/ghost-land" target="_blank">https://github.com/ghost-land</a>') }}</p>
+            
+            <div class="post">
+                <h2>{{ text('Our Mission', lang) }}</h2>
+                <p>{{ text('our_mission_description', lang) | safe }}</p>
+
+                <div class="stats">
+                    <div class="date">
+                        {{ open('static/images/clock.svg').read() }}
+                        <p>14/07/24</p>
+                    </div>
+                    <div class="comments">
+                        {{ open('static/images/comment.svg').read() }}
+                        <p>3</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post">
+                <h2>{{ text('Our Mission', lang) }}</h2>
+                <p>{{ text('our_mission_description', lang) | safe }}</p>
+
+                <div class="stats">
+                    <div class="date">
+                        {{ open('static/images/clock.svg').read() }}
+                        <p>14/07/24</p>
+                    </div>
+                    <div class="comments">
+                        {{ open('static/images/comment.svg').read() }}
+                        <p>3</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+    {% include 'components/footer.jinja' %}
+</body>
+</html>
