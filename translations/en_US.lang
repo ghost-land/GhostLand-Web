@@ -6,6 +6,7 @@
 # Don't translate keys (the text before '=' on each line)
 # Don't change variable syntax like '%year%'
 # Don't edit HTML tags like '<span class="red">...</span>' or '<br>', but translate the CONTENT of HTML tags if needed
+# Note: The `%br%` tag is used to create line breaks for responsive purposes.
 
 
 # ====  Header  ====
@@ -34,10 +35,10 @@ ghost_land_description=Ghost Land is at the forefront of technological innovatio
 Our Projects=Our Projects
 Coming soon=Coming soon...
 
-contact_title=You like us? <span class="red">Connect with us.<span>
+contact_title=You like us? %br%<span class="red">Connect with us.<span>
 contact_description=Bring your project to life or explore collaboration opportunities.
 
-Follow our journey=Follow our <span class="red">Journey<span>
+Follow our journey=Follow our %br%<span class="red">Journey<span>
 Twitter=Twitter
 Discord=Discord
 Telegram=Telegram

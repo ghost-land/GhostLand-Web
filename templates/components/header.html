@@ -2,12 +2,23 @@
   <a href="/" class="title">
     {{ text('title', lang) }}
   </a>
-  <nav>
-    <ul>
-      <li><a href="/announcements">{{ text('Announcements', lang) }}</a></li>
-      <li><a href="/about">{{ text('About', lang) }}</a></li>
-      <li><a href="/projects">{{ text('Projects', lang) }}</a></li>
-      <li><a href="/contact">{{ text('Contact', lang) }}</a></li>
-    </ul>
-  </nav>
+
+  <div>
+    <div id="menu">
+      <div id="menu-bar" onclick="menuOnClick()">
+        <div id="bar1" class="bar"></div>
+        <div id="bar2" class="bar"></div>
+        <div id="bar3" class="bar"></div>
+      </div>
+      <nav class="nav" id="nav">
+        <ul>
+        <li><a href="/announcements">{{ text('Announcements', lang) }}</a></li>
+        <li><a href="/about">{{ text('About', lang) }}</a></li>
+        <li><a href="/projects">{{ text('Projects', lang) }}</a></li>
+        <li><a href="/contact">{{ text('Contact', lang) }}</a></li>
+      </ul>
+      </nav> 
+    </div>
+    <div class="menu-bg" id="menu-bg"></div>
+  </div>
 </header>

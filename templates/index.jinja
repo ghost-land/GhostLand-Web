@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="{{ url_for('static', filename='js/header.js') }}"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
     <title>{{ text('main_page_title', lang) }}</title>
@@ -58,8 +60,10 @@
         </div>
 
         <div class="contact category">
-            <h1 class="contact">
-                {{ text('contact_title', lang) }}
+            <h1 class="dynamic-title contact">
+                {% for t in text('contact_title', lang).split('%br%') %}
+                    <span>{{t}}</span>
+                {% endfor %}
             </h1>
             <p>{{ text('contact_description', lang) | safe }}</p>
             <a href="mailto:pro@ghostland.at">
@@ -69,8 +73,10 @@
         </div>
 
         <div class="follow-us category">
-            <h1 class="follow-us">
-                {{ text('Follow our journey', lang) | safe }}
+            <h1 class="dynamic-title follow-us">
+                {% for t in text('Follow our journey', lang) .split('%br%') %}
+                    <span>{{t | safe}}</span>
+                {% endfor %}
             </h1>
             <div class="socials">
                 <a title="{{ text('Twitter', lang) }}" href="{{settings['socials'].get('twitter')}}" target="_blank" class="circle">{{ open('static/images/twitter.svg').read() }}</a>
