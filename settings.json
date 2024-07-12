@@ -3,6 +3,10 @@
     "debug": false,
     "port": 80,
     "app-secret-key": "93edb4c7329455e5aeff7e43f837e6be",
+    "github-oauth": {
+        "public": "",
+        "secret": ""
+    },
     "api": {
         "data-files": [
             "ghosteshop-ds.eshop",

@@ -17,6 +17,22 @@ def create_app():
     if not settings.get('production', True):
         os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1' # oauth ssl if needed
     
+    app.config['OAUTH2_PROVIDERS'] = {
+        # GitHub OAuth 2.0 documentation:
+        # https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps
+        'github': {
+            'client_id': settings["github-oauth"]["public"],
+            'client_secret': settings["github-oauth"]["secret"],
+            'authorize_url': 'https://github.com/login/oauth/authorize',
+            'token_url': 'https://github.com/login/oauth/access_token',
+            'userinfo': {
+                'url': 'https://api.github.com/user/emails',
+                'email': lambda json: json[0]['email'],
+            },
+            'scopes': ['user:email'],
+        },
+    }
+    
     app.jinja_env.add_extension('jinja2.ext.do')
     
     app.register_blueprint(home_bp)
