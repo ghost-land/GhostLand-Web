@@ -33,6 +33,8 @@ def index_lang(language):
         text=text
     )
     
+@about_bp.route('/contact')
+@about_bp.route('/contact/')
 @about_bp.route('/about/')
 def redirect_about():
     return redirect('/about')
