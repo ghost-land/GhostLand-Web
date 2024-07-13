@@ -17,7 +17,12 @@
     },
     "site": {
         "settings": {
-            "discord-url": "https://discord.gg/"
+            "discord-url": "https://discord.gg/",
+            "emails": {
+                "pro": "pro@ghostland.at",
+                "info": "info@ghostland.at",
+                "abuse": "abuse@ghostland.at"
+            }
         },
         "index": {
             "title": "Ghost Land | at",
