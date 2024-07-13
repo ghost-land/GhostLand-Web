@@ -31,6 +31,10 @@ header a {
   color: #fff;
   text-decoration: none;
 }
+header a:hover {
+  text-decoration: none;
+}
+
 header a.title {
   font-size: x-large;
   white-space: nowrap;
