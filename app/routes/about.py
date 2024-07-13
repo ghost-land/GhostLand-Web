@@ -11,10 +11,8 @@ about_bp = Blueprint('about', __name__)
 def about():
     return render_template(
         'about.jinja', lang='en',
-        settings=settings['site']['index'],
         emails=settings['site']['settings']['emails'],
         year=datetime.now().year,
-        open=open,
         text=text
     )
 
@@ -26,10 +24,8 @@ def index_lang(language):
         
     return render_template(
         'about.jinja', lang=language,
-        settings=settings['site']['index'],
         emails=settings['site']['settings']['emails'],
         year=datetime.now().year,
-        open=open,
         text=text
     )
     
