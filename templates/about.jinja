@@ -28,10 +28,11 @@
                 </div>
 
                 <h1>{{ text('Contact Information', lang) }}</h1>
-                <p>{{ text('any_questions', lang) | replace('%email%', '<a href="mailto:info@ghostland.at">info@ghostland.at</a>') }}</p>
-                
+                {% set info_email = emails.get("info", "info@ghostland.at") %}
+                <p>{{ text('any_questions', lang) | replace('%email%', '<a href="mailto:' ~ info_email ~ '">' ~ info_email ~ '</a>') }}</p>                
                 <h1>{{ text('Authorities', lang) }}</h1>
-                <p>{{ text('authorities_contact', lang) | replace('%email%','<a href="mailto:abuse@ghostland.at">abuse@ghostland.at</a>') }}</p>
+                {% set abuse_email = emails.get("abuse", "abuse@ghostland.at") %}
+                <p>{{ text('authorities_contact', lang) | replace('%email%', '<a href="mailto:' ~ abuse_email ~ '">' ~ abuse_email ~ '</a>') }}</p> 
                 
 
                 <p id="copyright">

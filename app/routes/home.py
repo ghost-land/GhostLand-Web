@@ -11,6 +11,7 @@ def index():
     return render_template(
         'index.jinja', lang='en',
         settings=settings['site']['index'],
+        emails=settings['site']['settings']['emails'],
         year=datetime.now().year,
         open=open,
         text=text
@@ -25,6 +26,7 @@ def index_lang(language):
     return render_template(
         'index.jinja', lang=language,
         settings=settings['site']['index'],
+        emails=settings['site']['settings']['emails'],
         year=datetime.now().year,
         open=open,
         text=text

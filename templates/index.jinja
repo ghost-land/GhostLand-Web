@@ -66,9 +66,9 @@
                 {% endfor %}
             </h1>
             <p>{{ text('contact_description', lang) | safe }}</p>
-            <a href="mailto:pro@ghostland.at">
+            <a href="mailto:{{emails.get('pro', 'pro@ghostland.at')}}">
                 {{ open('static/images/mail.svg').read() }}
-                pro@ghostland.at
+                {{ emails.get('pro', 'pro@ghostland.at') }}
             </a>
         </div>
 
