@@ -3,11 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="{{ url_for('static', filename='js/header.js') }}"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/news.css') }}">
     <title></title>
 </head>
 <body>
+    {% include 'components/header.html' %}
+
     <main>
         <div id="container">
 
