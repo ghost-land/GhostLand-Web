@@ -35,6 +35,11 @@ header a.title {
   font-size: x-large;
   white-space: nowrap;
   overflow: hidden;
+  text-decoration: none;
+}
+
+header a.title:hover {
+  text-decoration: none;
 }
 
 header ul {
