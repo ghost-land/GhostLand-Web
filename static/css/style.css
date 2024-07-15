@@ -28,6 +28,30 @@ header, footer {
   text-align: center;
 }
 
+#language-selector {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#language-selector select {
+  height: 120%;
+  background-color: rgb(26, 4, 7);
+  color: rgb(255 255 255 / 1);
+  border: none;
+}
+
+#language-selector::before {
+  content: '';
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url('../../static/images/world.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 5px;
+}
+
 header a {
   color: #fff;
   text-decoration: none;

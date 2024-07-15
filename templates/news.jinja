@@ -10,7 +10,7 @@
     <title></title>
 </head>
 <body>
-    {% include 'components/header.html' %}
+    {% include 'components/header.jinja' %}
 
     <main>
         <div id="container">
@@ -21,7 +21,7 @@
             <div class="post">
                 <h2>{{ text('Our Mission', lang) }}</h2>
                 <p>{{ text('our_mission_description', lang) | safe }}</p>
-
+                
                 <div class="stats">
                     <div class="date">
                         {{ open('static/images/clock.svg').read() }}
