@@ -26,6 +26,38 @@ a:hover {
   text-decoration: underline;
 }
 
+
+#core-values {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#core-values svg {
+  width: 22px;
+  height: 22px;
+  fill: #ffffff;
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#core-values svg > path {
+  fill: #ffffff;
+}
+
+#core-values .value {
+  background: #101010;
+  border-radius: 5px;
+  width: 90%;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
+}
+
+
 p#copyright {
   margin-top: 85px;
 }
