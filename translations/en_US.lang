@@ -9,6 +9,10 @@
 # Note: The `%br%` tag is used to create line breaks for responsive purposes.
 
 
+lang_name=English
+lang_code=en
+credits=Lenoch
+
 # ====  Header  ====
 
 title=Ghost Land

@@ -1,5 +1,9 @@
 import os
 
+lang_files = []
+languages_info = []
+
+
 def load_lang_file(lang) -> dict:
     lang_dictionary = {}
     lang_path = f"translations/{lang}.lang"
@@ -25,6 +29,10 @@ def load_lang_file(lang) -> dict:
                     print(f'\nLANG FILE ERROR:\nLine: {line}\nError: {e}\n')
     return lang_dictionary
 
+def language_exists(lang='en') -> bool:
+    lang = next((l for l in lang_files if l.lower().startswith(lang.lower())), 'en')
+    return lang in lang_files
+
 def load_all_lang_files() -> dict:
     lang_files = {}
     for root, dirs, files in os.walk("translations"):
@@ -34,16 +42,33 @@ def load_all_lang_files() -> dict:
                 lang_files[lang] = load_lang_file(lang)
     return lang_files
 
-lang_files = load_all_lang_files()
-print(lang_files.keys())
-
 def reload_all_lang_files():
     global lang_files
     lang_files = load_all_lang_files()
     
-def language_exists(lang='en') -> bool:
-    lang = next((l for l in lang_files if l.lower().startswith(lang.lower())), 'en')
-    return lang in lang_files
+def get_languages_info(lang_files=lang_files) -> list:
+    languages_info = []
+    
+    if len(lang_files) == 0:
+        lang_files = load_all_lang_files()
+    
+    for lang in lang_files:
+        languages_info.append({
+            'name': lang,
+            'code': lang_files[lang]['lang_code'],
+            'native_name': lang_files[lang]['lang_name'],
+            'credits': lang_files[lang]['credits'],
+        })
+        
+    return languages_info
+
+def init():
+    global languages_info
+    
+    reload_all_lang_files()
+    
+    languages_info = get_languages_info()
+    return languages_info
 
 def text(text=None, lang='en') -> str:
     if text is None:

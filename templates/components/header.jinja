@@ -15,8 +15,9 @@
           <div id="language-selector">
 
             <select id="lang-select">
-              <option value="en" selected>English</option>
-              <option value="fr">Français</option>
+              {% for lang in get_languages_info() %}
+                <option value="{{lang['code']}}" {% if lang['code'] == 'en' %} selected {% endif %}>{{ lang['native_name'] }}</option>
+              {% endfor %}
             </select>
 
           </div>

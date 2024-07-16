@@ -2,7 +2,7 @@ from flask import Blueprint, request, render_template, redirect, url_for, sessio
 from flask_dance.contrib.github import make_github_blueprint, github
 from datetime import datetime
 from run import settings
-from app.utils.languages import text, language_exists
+from app.utils.languages import text, language_exists, get_languages_info
 
 posts_bp = Blueprint('posts', __name__)
 
@@ -30,7 +30,7 @@ def posts():
         settings=settings['site']['index'],
         year=datetime.now().year,
         open=open,
-        text=text
+        text=text, get_languages_info=get_languages_info,
     )
 
 
@@ -75,7 +75,7 @@ def write_post():
         'write_post.jinja', lang='en',
         github=github_data, orgs=org,
         year=datetime.now().year,
-        text=text, 
+        text=text, get_languages_info=get_languages_info,
     )
     
 

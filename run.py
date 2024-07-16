@@ -1,7 +1,9 @@
 from json import load
 from flask import render_template
 from datetime import datetime
-from app.utils.languages import text, reload_all_lang_files
+from app.utils.languages import init, text, reload_all_lang_files, get_languages_info
+
+init()
 
 with open("settings.json", encoding="utf-8") as f:
     settings = load(f)
@@ -22,7 +24,7 @@ if __name__ == "__main__":
         return render_template(
             'errorhandler.jinja', lang='en',
             year=datetime.now().year, error_code=error_code, error_info=error_info,
-            text=text
+            text=text, get_languages_info=get_languages_info,
         )
         
     app.run(

@@ -9,6 +9,10 @@
 # Note: The `%br%` tag is used to create line breaks for responsive purposes.
 
 
+lang_name=Français
+lang_code=fr
+credits=Lenoch
+
 # ====  Header  ====
 
 title=Ghost Land
@@ -35,7 +39,7 @@ ghost_land_description=Ghost Land est à l'avant-garde de l'innovation technolog
 Our Projects=Nos projets
 Coming soon=À venir...
 
-contact_title=Nous %br%<span class="red">Contacter.<span>
+contact_title=Nous %br%<span class="red">Contacter<span>
 contact_description=Donnez vie à votre projet ou explorez les opportunités de collaboration.
 
 Follow our journey=Suivez notre %br%<span class="red">Parcours<span>

@@ -1,7 +1,7 @@
 from flask import Blueprint, request, render_template, redirect
 from datetime import datetime
 from run import settings
-from app.utils.languages import text, language_exists
+from app.utils.languages import text, language_exists, get_languages_info
 
 about_bp = Blueprint('about', __name__)
 
@@ -17,7 +17,7 @@ def about():
         'about.jinja', lang=language,
         emails=settings['site']['settings']['emails'],
         year=datetime.now().year,
-        text=text
+        text=text, get_languages_info=get_languages_info,
     )
 
 @about_bp.route('/contact')
