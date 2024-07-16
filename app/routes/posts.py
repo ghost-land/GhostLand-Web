@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template, redirect, url_for, session
+from flask import Blueprint, request, render_template, redirect, url_for, session
 from flask_dance.contrib.github import make_github_blueprint, github
 from datetime import datetime
 from run import settings
@@ -21,19 +21,9 @@ posts_bp.register_blueprint(github_blueprint, url_prefix="/github_login")
 @posts_bp.route('/announcements')
 @posts_bp.route('/announcements/')
 def posts():
-    return render_template(
-        'news.jinja', lang='en',
-        settings=settings['site']['index'],
-        year=datetime.now().year,
-        open=open,
-        text=text
-    )
-
-@posts_bp.route('/<language>/announcements')
-@posts_bp.route('/<language>/announcements/')
-def index_lang(language):
+    language = request.args.get('lang', 'en')
     if not language_exists(language):
-        return redirect('/posts')
+        language = 'en'
         
     return render_template(
         'news.jinja', lang=language,
@@ -51,17 +41,15 @@ def index_lang(language):
 @posts_bp.route('/updates')
 @posts_bp.route('/updates/')
 def redirect_announcements():
-    return redirect('/announcements')
+    language = request.args.get('lang', 'en')
+    if not language_exists(language):
+        language = 'en'
 
-@posts_bp.route('/<language>/news')
-@posts_bp.route('/<language>/news/')
-@posts_bp.route('/<language>/posts')
-@posts_bp.route('/<language>/posts/')
-@posts_bp.route('/<language>/updates')
-@posts_bp.route('/<language>/updates/')
-def redirect_announcements_lang(language):
-    return redirect(f'/{language}/announcements')
-
+    if language == 'en':
+        return redirect('/announcements')
+    else:
+        return redirect(f'/announcements?lang={language}')
+        
 
 
 # Admin side

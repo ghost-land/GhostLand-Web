@@ -8,21 +8,23 @@ function menuOnClick() {
 document.addEventListener('DOMContentLoaded', function() {
     const langSelector = document.getElementById('lang-select')
     if (langSelector) {
-        // Set default value to langSelector using URL
-        const currentPath = window.location.pathname
-        const langCode = currentPath.split('/')[1]
-        if (langCode && langCode.length == 2) {
+        // Set default value to langSelector using URL parameter
+        const urlParams = new URLSearchParams(window.location.search)
+        const langCode = urlParams.get('lang')
+        if (langCode && langCode.length === 2) {
             langSelector.value = langCode
         }
 
         langSelector.addEventListener('change', function() {
             const selectedLang = this.value
             console.log('Selected language:' + selectedLang);
-            if (langCode && langCode.length == 2) {
-                window.location.href = '/' + selectedLang + '/' + window.location.pathname.slice(3)
+            const currentUrl = new URL(window.location.href);
+            if (selectedLang !== 'en') {
+                currentUrl.searchParams.set('lang', selectedLang);
             } else {
-                window.location.href = '/' + selectedLang + '/' + window.location.pathname
+                currentUrl.searchParams.delete('lang');
             }
+            window.location.href = currentUrl.toString();
         })
     }
 })

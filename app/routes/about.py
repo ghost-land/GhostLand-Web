@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template, redirect
+from flask import Blueprint, request, render_template, redirect
 from datetime import datetime
 from run import settings
 from app.utils.languages import text, language_exists
@@ -9,18 +9,9 @@ about_bp = Blueprint('about', __name__)
 @about_bp.route('/about')
 @about_bp.route('/about/')
 def about():
-    return render_template(
-        'about.jinja', lang='en',
-        emails=settings['site']['settings']['emails'],
-        year=datetime.now().year,
-        text=text
-    )
-
-@about_bp.route('/<language>/about')
-@about_bp.route('/<language>/about/')
-def index_lang(language):
+    language = request.args.get('lang', 'en')
     if not language_exists(language):
-        return redirect('/about')
+        language = 'en'
         
     return render_template(
         'about.jinja', lang=language,
@@ -28,9 +19,15 @@ def index_lang(language):
         year=datetime.now().year,
         text=text
     )
-    
+
 @about_bp.route('/contact')
 @about_bp.route('/contact/')
-@about_bp.route('/about/')
 def redirect_about():
-    return redirect('/about')
+    language = request.args.get('lang', 'en')
+    if not language_exists(language):
+        language = 'en'
+
+    if language == 'en':
+        return redirect('/about')
+    else:
+        return redirect(f'/about?lang={language}')

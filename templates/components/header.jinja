@@ -20,11 +20,10 @@
             </select>
 
           </div>
-        <li><a href="/announcements">{{ text('Announcements', lang) }}</a></li>
-        <li><a href="/about">{{ text('About', lang) }}</a></li>
-        <li><a href="/#projects">{{ text('Projects', lang) }}</a></li>
-        <li><a href="/contact">{{ text('Contact', lang) }}</a></li>
-      </ul>
+        <li><a href="{{ '/announcements' if lang == 'en' else '/announcements?lang=' + lang }}">{{ text('Announcements', lang) }}</a></li>
+        <li><a href="{{ '/about' if lang == 'en' else '/about?lang=' + lang }}">{{ text('About', lang) }}</a></li>
+        <li><a href="{{ '/#projects' if lang == 'en' else '/?lang=' + lang + '#projects' }}">{{ text('Projects', lang) }}</a></li>
+        <li><a href="{{ '/contact' if lang == 'en' else '/contact?lang=' + lang }}">{{ text('Contact', lang) }}</a></li></ul>
       </nav> 
     </div>
     <div class="menu-bg" id="menu-bg"></div>
