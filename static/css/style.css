@@ -30,8 +30,8 @@ header, footer {
 
 #language-selector {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: flex-end;
 }
 
 #language-selector select {

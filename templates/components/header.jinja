@@ -12,15 +12,15 @@
       </div>
       <nav class="nav" id="nav">
         <ul>
+        
           <div id="language-selector">
-
             <select id="lang-select">
               {% for lang in get_languages_info() %}
                 <option value="{{lang['code']}}" {% if lang['code'] == 'en' %} selected {% endif %}>{{ lang['native_name'] }}</option>
               {% endfor %}
             </select>
-
           </div>
+
         <li><a href="{{ '/announcements' if lang == 'en' else '/announcements?lang=' + lang }}">{{ text('Announcements', lang) }}</a></li>
         <li><a href="{{ '/about' if lang == 'en' else '/about?lang=' + lang }}">{{ text('About', lang) }}</a></li>
         <li><a href="{{ '/#projects' if lang == 'en' else '/?lang=' + lang + '#projects' }}">{{ text('Projects', lang) }}</a></li>

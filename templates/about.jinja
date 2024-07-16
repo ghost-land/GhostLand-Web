@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="{{ url_for('static', filename='js/header.js') }}"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
     <title></title>
@@ -12,6 +14,14 @@
         <div id="box">
 
             <div id="container">
+                <div id="language-selector">
+                    <select id="lang-select">
+                        {% for lang in get_languages_info() %}
+                            <option value="{{lang['code']}}" {% if lang['code'] == 'en' %} selected {% endif %}>{{ lang['native_name'] }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
                 <h1>{{ text('NX DOMAIN', lang) }}</h1>
                 <p>{{ text('nx_domain_description', lang) | replace('%url%', '<a href="https://github.com/ghost-land" target="_blank">https://github.com/ghost-land</a>') }}</p>
                 
