@@ -1,0 +1,76 @@
+# en_US.lang file written by Lenoch, feel free to make a PR for any mistakes
+# https://github.com/ghost-land/GhostLand-Web/pulls
+
+# TRANSLATION INSTRUCTIONS: 
+# Don't translate lines starting with '#' as they are comments
+# Don't translate keys (the text before '=' on each line)
+# Don't change variable syntax like '%year%'
+# Don't edit HTML tags like '<span class="red">...</span>' or '<br>', but translate the CONTENT of HTML tags if needed
+# Note: The `%br%` tag is used to create line breaks for responsive purposes.
+
+
+lang_name=English
+lang_code=en
+credits=Lenoch
+
+# ====  Header  ====
+
+title=Ghost Land
+
+Announcements=Announcements
+About=About
+Projects=Projects
+Contact=Contact
+
+
+# ====  Footer  ====
+
+copyright=© 2020-%year% Ghost Land. All rights reserved.
+
+
+# ====  Index Page  ====
+main_page_title=Ghost Land | .at
+
+Latest Announcements=Latest Announcements
+
+Innovating since=Innovating since...
+ghost_land_description=Ghost Land is at the forefront of technological innovation, creating  solutions that transform how users interact with games and information.  Our dedicated team of experts is committed to pushing boundaries and  delivering cutting-edge projects.
+
+Our Projects=Our Projects
+Coming soon=Coming soon...
+
+contact_title=You like us? %br%<span class="red">Connect with us.<span>
+contact_description=Bring your project to life or explore collaboration opportunities.
+
+Follow our journey=Follow our %br%<span class="red">Journey<span>
+Twitter=Twitter
+Discord=Discord
+Telegram=Telegram
+
+
+# ====  About Page  ====
+about_page_title=Ghost Land | About
+
+NX DOMAIN=NX DOMAIN
+nx_domain_description=This domain is the property of Ghost Land Team: %url%
+
+Our Mission=Our Mission
+our_mission_description=At Ghost Land Team, we are dedicated to providing a safe, secure, and  innovative digital space for all our users. <br> Our team is committed to  upholding the highest standards of integrity and trust in all our  services.
+
+Core Values=Core Values
+corevalue_innovation=Innovation: We strive to be at the forefront of technological advancements.
+corevalue_security=Security: Ensuring the safety of our users is our top priority.
+corevalue_integrity=Integrity: We conduct our business with the utmost honesty and transparency.
+corevalue_community=Community: We believe in fostering a supportive and inclusive community.
+corevalue_excellence=Excellence: We are committed to delivering the highest quality services.
+
+Contact Information=Contact Information
+any_questions=If you have any questions or concerns, feel free to reach out to us at: %email%
+
+Authorities=Authorities
+authorities_contact=Authorities can contact Ghost Land in case of abuse at: %email%
+
+
+# ====  Announcements Page  ====
+Latest News=Latest News
+news_description=Consult and stay tuned to our latest news

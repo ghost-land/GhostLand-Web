@@ -1,0 +1,76 @@
+# fr_FR.lang file written by Lenoch, feel free to make a PR for any mistakes
+# https://github.com/ghost-land/GhostLand-Web/pulls
+
+# TRANSLATION INSTRUCTIONS: 
+# Don't translate lines starting with '#' as they are comments
+# Don't translate keys (the text before '=' on each line)
+# Don't change variable syntax like '%year%'
+# Don't edit HTML tags like '<span class="red">...</span>' or '<br>', but translate the CONTENT of HTML tags if needed
+# Note: The `%br%` tag is used to create line breaks for responsive purposes.
+
+
+lang_name=Français
+lang_code=fr
+credits=Lenoch
+
+# ====  Header  ====
+
+title=Ghost Land
+
+Announcements=Annonces
+About=À propos
+Projects=Projets
+Contact=Contact
+
+
+# ====  Footer  ====
+
+copyright=© 2020-%year% Ghost Land. Tous droits réservés.
+
+
+# ====  Index Page  ====
+main_page_title=Ghost Land | .at
+
+Latest Announcements=Dernières annonces
+
+Innovating since=Innovant depuis...
+ghost_land_description=Ghost Land est à l'avant-garde de l'innovation technologique, créant des solutions qui transforment la façon dont les utilisateurs interagissent avec les jeux et l'information. Notre équipe dévouée d'experts est déterminée à repousser les limites et à livrer des projets de pointe.
+
+Our Projects=Nos projets
+Coming soon=À venir...
+
+contact_title=Nous %br%<span class="red">Contacter<span>
+contact_description=Donnez vie à votre projet ou explorez les opportunités de collaboration.
+
+Follow our journey=Suivez notre %br%<span class="red">Parcours<span>
+Twitter=Twitter
+Discord=Discord
+Telegram=Telegram
+
+
+# ====  Page À propos  ====
+about_page_title=Ghost Land | À propos
+
+NX DOMAIN=DOMAINE NX
+nx_domain_description=Ce domaine est la propriété de l'équipe Ghost Land : %url%
+
+Our Mission=Notre Mission
+our_mission_description=Au sein de l'équipe Ghost Land, nous nous engageons à fournir un espace numérique sûr, sécurisé et innovant pour tous nos utilisateurs. <br> Notre équipe est déterminée à maintenir les plus hauts standards d'intégrité et de confiance dans tous nos services.
+
+Core Values=Valeurs Fondamentales
+corevalue_innovation=Innovation : Nous nous efforçons d'être à l'avant-garde des progrès technologiques.
+corevalue_security=Sécurité : Assurer la sécurité de nos utilisateurs est notre priorité absolue.
+corevalue_integrity=Intégrité : Nous menons nos activités avec la plus grande honnêteté et transparence.
+corevalue_community=Communauté : Nous croyons en la promotion d'une communauté solidaire et inclusive.
+corevalue_excellence=Excellence : Nous nous engageons à fournir des services de la plus haute qualité.
+
+Contact Information=Informations de Contact
+any_questions=Si vous avez des questions ou des préoccupations, n'hésitez pas à nous contacter à l'adresse suivante : %email%
+
+Authorities=Autorités
+authorities_contact=Les autorités peuvent contacter Ghost Land en cas d'abus à l'adresse suivante : %email%
+
+
+# ====  Announcements Page  ====
+Latest News=Dernières Nouvelles
+news_description=Consultez et restez à l'écoute de nos mises à jour

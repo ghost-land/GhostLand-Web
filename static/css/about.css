@@ -1,0 +1,63 @@
+div#box {
+  background: #000000;
+  width: 85%;
+  height: 85%;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+div#container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+  margin-top: 50px;
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #F34C4C;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
+#core-values {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#core-values svg {
+  width: 22px;
+  height: 22px;
+  fill: #ffffff;
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#core-values svg > path {
+  fill: #ffffff;
+}
+
+#core-values .value {
+  background: #101010;
+  border-radius: 5px;
+  width: 90%;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
+}
+
+
+p#copyright {
+  margin-top: 85px;
+}

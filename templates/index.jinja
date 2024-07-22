@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="{{ url_for('static', filename='js/header.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+    <title>{{ text('main_page_title', lang) }}</title>
+</head>
+<body>
+    {% include 'components/header.jinja' %}
+
+    <main>
+        <div class="latest-announcements">
+            <h2>{{ text('Latest Announcements', lang) }}</h2>
+            <div class="announcements-previews">
+                <!-- TODO: remove examples -->
+                <ul>
+                    <li>
+                        Nlib public release scheduled for Q3 202
+                    </li>
+                    <li>
+                        Ghost eShop now supports over 15,000 game files
+                    </li>
+                    <li>
+                        New partnership program for indie developers coming soon
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="innovating">
+            <p>{{ text('Innovating since', lang) }}</p>
+            <h1 class="year">2020</h1>
+            <p>
+                {{ text('ghost_land_description', lang) }}
+            </p>
+        </div>
+
+        <div class="projects category">
+            <h1 class="our-projects" id="projects">
+                {{ text('Our Projects', lang) }}
+            </h1>
+            <div class="project-cards">
+                {% for project in settings.get('our-projects', []) %}
+                    <div class="project-card">
+                        <img src="{{ project.get('image') }}">
+                        <h3>{{ project.get('title', 'PROJECT_TITLE') }}</h3>
+                        <p>{{ project.get('description', 'PROJECT_DESCRIPTION') }}</p>
+                        <a href="{{ project.get('button', {}).get('url', '#') }}">
+                            <button>
+                                {{ project.get('button', {}).get('text', text('Coming soon', lang)) }}
+                            </button>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="contact category">
+            <h1 class="dynamic-title contact">
+                {% for t in text('contact_title', lang).split('%br%') %}
+                    <span>{{t}}</span>
+                {% endfor %}
+            </h1>
+            <p>{{ text('contact_description', lang) | safe }}</p>
+            <a href="mailto:{{emails.get('pro', 'pro@ghostland.at')}}">
+                {{ open('static/images/mail.svg').read() }}
+                {{ emails.get('pro', 'pro@ghostland.at') }}
+            </a>
+        </div>
+
+        <div class="follow-us category">
+            <h1 class="dynamic-title follow-us">
+                {% for t in text('Follow our journey', lang) .split('%br%') %}
+                    <span>{{t | safe}}</span>
+                {% endfor %}
+            </h1>
+            <div class="socials">
+                <a title="{{ text('Twitter', lang) }}" href="{{settings['socials'].get('twitter')}}" target="_blank" class="circle">{{ open('static/images/twitter.svg').read() }}</a>
+                <a title="{{ text('Discord', lang) }}" href="{{settings['socials'].get('discord')}}" target="_blank" class="circle">{{ open('static/images/discord.svg').read() }}</a>
+                <a title="{{ text('Telegram', lang) }}" href="{{settings['socials'].get('telegram')}}" target="_blank" class="circle">{{ open('static/images/telegram.svg').read() }}</a>
+            </div>
+        </div>
+    </main>
+
+    {% include 'components/footer.jinja' %}
+</body>
+</html>

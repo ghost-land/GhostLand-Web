@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="{{ url_for('static', filename='js/header.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
+    <title></title>
+</head>
+<body>
+    <main>
+        <div id="box">
+
+            <div id="container">
+                <div id="language-selector">
+                    <select id="lang-select">
+                        {% for lang in get_languages_info() %}
+                            <option value="{{lang['code']}}" {% if lang['code'] == 'en' %} selected {% endif %}>{{ lang['native_name'] }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <h1>{{ text('NX DOMAIN', lang) }}</h1>
+                <p>{{ text('nx_domain_description', lang) | replace('%url%', '<a href="https://github.com/ghost-land" target="_blank">https://github.com/ghost-land</a>') }}</p>
+                
+                <h1>{{ text('Our Mission', lang) }}</h1>
+                <p>{{ text('our_mission_description', lang) | safe }}</p>
+                
+                <h1>{{ text('Core Values', lang) }}</h1>
+                <div id="core-values">
+                    <div class="value">
+                        {{ svg['graduation-cap'] }}
+                        <p>{{ text('corevalue_innovation', lang) }}</p>
+                    </div>
+                    <div class="value">
+                        {{ svg['security-shield'] }}
+                        <p>{{ text('corevalue_security', lang) }}</p>
+                    </div>
+                    <div class="value">
+                        {{ svg['check'] }}
+                        <p>{{ text('corevalue_integrity', lang) }}</p>
+                    </div>
+                    <div class="value">
+                        {{ svg['user-group'] }}
+                        <p>{{ text('corevalue_community', lang) }}</p>
+                    </div>
+                    <div class="value">
+                        {{ svg['note'] }}
+                        <p>{{ text('corevalue_excellence', lang) }}</p>
+                    </div>
+                </div>
+
+                <h1>{{ text('Contact Information', lang) }}</h1>
+                {% set info_email = emails.get("info", "info@ghostland.at") %}
+                <p>{{ text('any_questions', lang) | replace('%email%', '<a href="mailto:' ~ info_email ~ '">' ~ info_email ~ '</a>') }}</p>                
+                <h1>{{ text('Authorities', lang) }}</h1>
+                {% set abuse_email = emails.get("abuse", "abuse@ghostland.at") %}
+                <p>{{ text('authorities_contact', lang) | replace('%email%', '<a href="mailto:' ~ abuse_email ~ '">' ~ abuse_email ~ '</a>') }}</p> 
+                
+
+                <p id="copyright">
+                    {{ text('copyright', lang) | replace('%year%', year) }}
+                </p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

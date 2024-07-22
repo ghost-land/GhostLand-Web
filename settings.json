@@ -1,0 +1,61 @@
+{
+    "production": true,
+    "debug": false,
+    "port": 80,
+    "app-secret-key": "93edb4c7329455e5aeff7e43f837e6be",
+    "github-oauth": {
+        "public": "",
+        "secret": ""
+    },
+    "api": {
+        "data-files": [
+            "ghosteshop-ds.eshop",
+            "ghosteshop-ds.json",
+            "ghosteshop.eshop",
+            "ghosteshop.json"
+        ]
+    },
+    "site": {
+        "settings": {
+            "discord-url": "https://discord.gg/",
+            "emails": {
+                "pro": "pro@ghostland.at",
+                "info": "info@ghostland.at",
+                "abuse": "abuse@ghostland.at"
+            }
+        },
+        "index": {
+            "title": "Ghost Land | at",
+            "socials": {
+                "twitter": "https://x.com/GhosteShop",
+                "discord": "/discord",
+                "telegram": "https://"
+            },
+            "our-projects": [
+                {
+                    "title": "Ghost eShop",
+                    "image": "",
+                    "description": "A revolutionary platform offering over 13,000 game files for various  Nintendo consoles. Supporting Tinfoil and DBi on the Switch, Ghost eShop  is changing the game distribution landscape.",
+                    "button": {
+                        "text": "Explore Ghost eShop",
+                        "url": "https://ghosteshop.com/"
+                    }
+                },
+                {
+                    "title": "Lorem ipsum",
+                    "image": "",
+                    "description": "Lorem ipsum",
+                    "button": {
+                        "text": "Lorem",
+                        "url": ""
+                    }
+                },
+                {
+                    "title": "Lorem ipsum",
+                    "image": "",
+                    "description": "Lorem ipsum"
+                }
+            ]
+        }
+    }
+}
