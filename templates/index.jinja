@@ -46,7 +46,7 @@
             <div class="project-cards">
                 {% for project in settings.get('our-projects', []) %}
                     <div class="project-card">
-                        <img src="{{ project.get('image') }}">
+                        <img src="{{ project.get('image') }}" style="width: 100%; height: auto;">
                         <h3>{{ project.get('title', 'PROJECT_TITLE') }}</h3>
                         <p>{{ project.get('description', 'PROJECT_DESCRIPTION') }}</p>
                         <a href="{{ project.get('button', {}).get('url', '#') }}">
