@@ -51,9 +51,13 @@
                     }
                 },
                 {
-                    "title": "Lorem ipsum",
+                    "title": "No Info Available for now",
                     "image": "",
-                    "description": "Lorem ipsum"
+                    "description": "No Info Available for now",
+                    "button": {
+                        "text": "Coming Soon",
+                        "url": ""
+                    }
                 }
             ]
         }
