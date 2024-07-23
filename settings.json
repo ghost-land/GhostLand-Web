@@ -34,7 +34,7 @@
             "our-projects": [
                 {
                     "title": "Ghost eShop",
-                    "image": "",
+                    "image": "https://x.com/GhosteShop/header_photo",
                     "description": "A revolutionary platform offering over 70,000 game files for various  Nintendo consoles. Supporting Tinfoil and DBi on the Switch, Ghost eShop  is changing the game distribution landscape.",
                     "button": {
                         "text": "Explore Ghost eShop",
