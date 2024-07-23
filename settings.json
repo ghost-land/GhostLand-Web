@@ -35,7 +35,7 @@
                 {
                     "title": "Ghost eShop",
                     "image": "",
-                    "description": "A revolutionary platform offering over 70,000 game files for various  Nintendo consoles. Supporting Tinfoil and DBi on the Switch, Ghost eShop  is changing the game distribution landscape.",
+                    "description": "A groundbreaking platform offering over 70,000 game files for a variety of Nintendo consoles 🎮.\n\nFrom the 3DS and DS to the Wii U and Nintendo Switch, Ghost eShop is transforming the game distribution landscape 🚀.\n\nWith robust community support, Ghost eShop now boasts over 150,000 active users.",
                     "button": {
                         "text": "Explore Ghost eShop",
                         "url": "https://ghosteshop.com/"
@@ -44,10 +44,10 @@
                 {
                     "title": "NLib",
                     "image": "",
-                    "description": "An Nintendo Open Source librairy for all Nintendo games.",
+                    "description": "A comprehensive Nintendo Open Source library designed to ensure you have access to all the information you need on every Nintendo game.",
                     "button": {
-                        "text": "Coming Soon",
-                        "url": ""
+                        "text": "Coming Soon"/*,
+                        "url": "https://nlib.cc"*/
                     }
                 },
                 {
