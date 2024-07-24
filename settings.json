@@ -58,6 +58,15 @@
                         "text": "Coming Soon",
                         "url": ""
                     }
+                },
+                {
+                    "title": "WatchMachine",
+                    "image": "https://i.imgur.com/IjIsLTO.png",
+                    "description": "WatchMachine is your ultimate IPTV solution, offering seamless access to a vast array of channels from around the world. Experience crystal-clear HD streaming, an intuitive user interface, and reliable service, all at your fingertips. Stay tuned for more information as we prepare to revolutionize your viewing experience.",
+                    "button": {
+                        "text": "Coming Soon",
+                        "url": ""
+                    }
                 }
             ]
         }
