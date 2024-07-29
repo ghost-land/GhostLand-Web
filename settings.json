@@ -40,7 +40,8 @@
                     "button": {
                         "text": "Explore Ghost eShop",
                         "url": "https://ghosteshop.com/"
-                    }
+                    },
+                    "enabled": true
                 },
                 {
                     "title": "NLib",
@@ -49,7 +50,8 @@
                     "button": {
                         "text": "Coming Soon",
                         "url": "https://nlib.cc"
-                    }
+                    },
+                    "enabled": false
                 },
                 {
                     "title": "Ghost Land Channel",
@@ -58,7 +60,8 @@
                     "button": {
                         "text": "Coming Soon",
                         "url": ""
-                    }
+                    },
+                    "enabled": true
                 },
                 {
                     "title": "WatchMachine",
@@ -67,7 +70,8 @@
                     "button": {
                         "text": "Coming Soon",
                         "url": ""
-                    }
+                    },
+                    "enabled": true
                 }
             ]
         }

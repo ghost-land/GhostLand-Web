@@ -44,17 +44,19 @@
                 {{ text('Our Projects', lang) }}
             </h1>
             <div class="project-cards">
-                {% for project in settings.get('our-projects', []) %}
-                    <div class="project-card">
-                        <img src="{{ project.get('image') }}" style="width: 100%; height: auto;">
-                        <h3>{{ project.get('title', 'PROJECT_TITLE') }}</h3>
-                        <p>{{ project.get('description', 'PROJECT_DESCRIPTION') }}</p>
-                        <a href="{{ project.get('button', {}).get('url', '#') }}">
-                            <button>
-                                {{ project.get('button', {}).get('text', text('Coming soon', lang)) }}
-                            </button>
-                        </a>
-                    </div>
+                {% for project in settings.get('our-projects', []) == True %}
+                    {% if project.get('enabled', True) %}
+                        <div class="project-card">
+                            <img src="{{ project.get('image') }}" style="width: 100%; height: auto;">
+                            <h3>{{ project.get('title', 'PROJECT_TITLE') }}</h3>
+                            <p>{{ project.get('description', 'PROJECT_DESCRIPTION') }}</p>
+                            <a href="{{ project.get('button', {}).get('url', '#') }}">
+                                <button>
+                                    {{ project.get('button', {}).get('text', text('Coming soon', lang)) }}
+                                </button>
+                            </a>
+                        </div>
+                    {% endif %}
                 {% endfor %}
             </div>
         </div>
