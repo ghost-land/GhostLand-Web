@@ -42,7 +42,7 @@
                 },
                 {
                     "name": "Telegram",
-                    "url": "",
+                    "url": "https://t.me/ghosteshop",
                     "icon": "static/images/telegram.svg",
                     "enabled": true
                 }
