@@ -38,7 +38,7 @@
                     "name": "Discord",
                     "url": "/discord",
                     "icon": "static/images/discord.svg",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "name": "Telegram",
