@@ -44,8 +44,8 @@
                 {{ text('Our Projects', lang) }}
             </h1>
             <div class="project-cards">
-                {% for project in settings.get('our-projects', []) == True %}
-                    {% if project.get('enabled', True) %}
+                {% for project in settings.get('our-projects', []) %}
+                    {% if project.get('enabled', True) == True %}
                         <div class="project-card">
                             <img src="{{ project.get('image') }}" style="width: 100%; height: auto;">
                             <h3>{{ project.get('title', 'PROJECT_TITLE') }}</h3>
