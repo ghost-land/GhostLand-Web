@@ -97,6 +97,7 @@ div.project-card .image {
 div.project-card img,
 div.project-card div {
   min-width: 100%;
+  max-width: 100%;
   aspect-ratio: 100 / 47;
 
   border-radius: 10px 10px 0px 0px;
