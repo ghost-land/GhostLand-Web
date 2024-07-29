@@ -27,11 +27,26 @@
         },
         "index": {
             "title": "Ghost Land | at",
-            "socials": {
-                "twitter": "https://x.com/GhosteShop",
-                "discord": "/discord",
-                "telegram": "https://"
-            },
+            "socials": [
+                {
+                    "name": "Twitter",
+                    "url": "https://x.com/GhosteShop",
+                    "icon": "static/images/twitter.svg",
+                    "enabled": true
+                },
+                {
+                    "name": "Discord",
+                    "url": "/discord",
+                    "icon": "static/images/discord.svg",
+                    "enabled": true
+                },
+                {
+                    "name": "Telegram",
+                    "url": "",
+                    "icon": "static/images/telegram.svg",
+                    "enabled": true
+                }
+            ],
             "our-projects": [
                 {
                     "title": "Ghost eShop",

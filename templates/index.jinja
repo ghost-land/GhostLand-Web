@@ -87,9 +87,15 @@
                 {% endfor %}
             </h1>
             <div class="socials">
-                <a title="{{ text('Twitter', lang) }}" href="{{settings['socials'].get('twitter')}}" target="_blank" class="circle">{{ open('static/images/twitter.svg').read() }}</a>
-                <a title="{{ text('Discord', lang) }}" href="{{settings['socials'].get('discord')}}" target="_blank" class="circle">{{ open('static/images/discord.svg').read() }}</a>
-                <a title="{{ text('Telegram', lang) }}" href="{{settings['socials'].get('telegram')}}" target="_blank" class="circle">{{ open('static/images/telegram.svg').read() }}</a>
+                {% for social in settings.get('socials', []) %}
+                    {% if social.get('enabled', True) == True %}
+                        <a title="{{ text(social.get('name', 'WEBSITE_NAME'), lang) }}"
+                        href="{{social.get('url', '')}}"
+                        target="_blank" class="circle">
+                            {{ open(social.get('icon', '')).read() }}
+                        </a>
+                    {% endif %}
+                {% endfor %}
             </div>
         </div>
     </main>
