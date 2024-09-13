@@ -21,17 +21,19 @@ posts_bp.register_blueprint(github_blueprint, url_prefix="/github_login")
 @posts_bp.route('/announcements')
 @posts_bp.route('/announcements/')
 def posts():
-    language = request.args.get('lang', 'en')
-    if not language_exists(language):
-        language = 'en'
+    return redirect('https://t.me/ghosteshop')
+
+    # language = request.args.get('lang', 'en')
+    # if not language_exists(language):
+    #     language = 'en'
         
-    return render_template(
-        'news.jinja', lang=language,
-        settings=settings['site']['index'],
-        year=datetime.now().year,
-        open=open,
-        text=text, get_languages_info=get_languages_info,
-    )
+    # return render_template(
+    #     'news.jinja', lang=language,
+    #     settings=settings['site']['index'],
+    #     year=datetime.now().year,
+    #     open=open,
+    #     text=text, get_languages_info=get_languages_info,
+    # )
 
 
 @posts_bp.route('/news')
