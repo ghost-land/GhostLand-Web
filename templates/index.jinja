@@ -8,6 +8,14 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
     <title>{{ text('main_page_title', lang) }}</title>
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ request.url }}">
+    <meta property="og:title" content="{{ text('main_page_title', lang) }}">
+    <meta property="og:description" content="{{ text('ghost_land_description', lang) }}">
+    <meta property="og:image" content="{{ url_for('static', filename='images/og-image.png', _external=True) }}">
+
+    <meta name="theme-color" content="#ff8800">
 </head>
 <body>
     {% include 'components/header.jinja' %}
